@@ -87,3 +87,10 @@ You need to give the files permission to run first:
 3. `LaunchReader.command` (Mac) または `LaunchReader.sh` (Linux) ファイルをターミナルウィンドウにドラッグ＆ドロップします。以下のように表示されます：
    `chmod +x /ファイルの/パス/LaunchReader.command`
 4. *Enter* キーを押します。
+
+
+## Credits & Licenses
+
+- **Counterside Story Reader**: Created by [Your Name/Handle].
+- **Game Content**: All assets and data are property of Studiobside.
+- **Web Server**: This distribution includes [miniserve](https://github.com/svenstaro/miniserve), licensed under the MIT License. See `licenses/MINISERVE-LICENSE.txt` for details.
