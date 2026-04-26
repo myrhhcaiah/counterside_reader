@@ -1,11 +1,17 @@
 ![Reader Preview](preview.jpg)
 
 # Counter:Side Story Reader
-This is a reader for the game Counter:Side. It runs in the web-browser, but because there's so many huge files, you need a webserver.
-**Disclaimer:** Scripts are available in all supported languages. But, story displaynames have not been translated yet.
-**공지:** 스크립트는 지원되는 모든 언어로 제공되지만, 스토리 표시 이름(Displayname)은 아직 번역되지 않았습니다.
-**聲明：** 劇情文本已支援所有語言，但劇情顯示名稱（Displayname）目前尚未翻譯。
-**免責事項:** シナリオのテキストはすべての対応言語で利用可能ですが、ストーリーの表示名（Displayname）はまだ翻訳されていません。
+This is a reader for the game Counter:Side. It runs in the web-browser, but because there's so many huge files, you need a webserver.  
+
+**공지:** 스크립트는 지원되는 모든 언어로 제공되지만, 스토리 표시 이름(Displayname)은 아직 번역되지 않았습니다.  
+**聲明：** 劇情文本已支援所有語言，但劇情顯示名稱（Displayname）目前尚未翻譯。  
+**免責事項:** シナリオのテキストはすべての対応言語で利用可能ですが、ストーリーの表示名（Displayname）はまだ翻訳されていません。  
+
+First, download the folder by clicking **"Code"** -> **"Download ZIP"**.  
+먼저 **"Code"** -> **"Download ZIP"**을 클릭하여 폴더를 다운로드하세요.  
+首先，點擊 **"Code"** -> **"Download ZIP"** 下載資料夾。  
+まず、**"Code"** -> **"Download ZIP"** をクリックしてフォルダをダウンロードしてください。
+![Download the zip](download.png)
 
 On Windows, you can just:
 1. Double-click the `LaunchReader.bat` file.
@@ -14,7 +20,7 @@ On Windows, you can just:
 Note: Keep the command prompt window open while you are using the reader. Closing it will stop the server.
 
 On macOS & Linux, you can similarly click LaunchReaderMacOS.command or LaunchReaderLinux.sh,
-BUTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT
+BUTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTTT  
 You need to give the files permission to run first:
 1. Open Terminal
 2. Type `chmod +x ` (make sure there is a space at the end).
