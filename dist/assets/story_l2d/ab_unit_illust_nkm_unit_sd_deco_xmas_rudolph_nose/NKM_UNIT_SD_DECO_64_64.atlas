@@ -1,0 +1,13 @@
+
+NKM_UNIT_SD_DECO_64_64.png
+size: 64,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+image
+  rotate: false
+  xy: 0, 0
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1

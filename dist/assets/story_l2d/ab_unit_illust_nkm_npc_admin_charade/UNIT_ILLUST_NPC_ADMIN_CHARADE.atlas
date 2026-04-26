@@ -1,0 +1,69 @@
+
+UNIT_ILLUST_NPC_ADMIN_CHARADE.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 1, 1
+  size: 438, 948
+  orig: 438, 948
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 440, 82
+  size: 446, 867
+  orig: 446, 867
+  offset: 0, 0
+  index: -1
+BASE_FACE
+  rotate: false
+  xy: 887, 662
+  size: 84, 94
+  orig: 84, 94
+  offset: 0, 0
+  index: -1
+DESPAIR
+  rotate: false
+  xy: 887, 567
+  size: 85, 94
+  orig: 85, 94
+  offset: 0, 0
+  index: -1
+HATE
+  rotate: false
+  xy: 887, 472
+  size: 86, 94
+  orig: 86, 94
+  offset: 0, 0
+  index: -1
+LAUGH
+  rotate: false
+  xy: 887, 282
+  size: 84, 94
+  orig: 84, 94
+  offset: 0, 0
+  index: -1
+PIRDE
+  rotate: false
+  xy: 887, 855
+  size: 90, 94
+  orig: 90, 94
+  offset: 0, 0
+  index: -1
+SERIOUS
+  rotate: false
+  xy: 887, 757
+  size: 84, 97
+  orig: 84, 97
+  offset: 0, 0
+  index: -1
+SURPRISE
+  rotate: false
+  xy: 887, 377
+  size: 85, 94
+  orig: 85, 94
+  offset: 0, 0
+  index: -1

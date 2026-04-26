@@ -1,0 +1,160 @@
+
+UNIT_ILLUST_NKM_NPC_MIB_FINLEY.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EMOTION_DESPAIR
+  rotate: false
+  xy: 321, 29
+  size: 115, 116
+  orig: 115, 116
+  offset: 0, 0
+  index: -1
+EMOTION_HATE
+  rotate: false
+  xy: 203, 10
+  size: 116, 135
+  orig: 116, 135
+  offset: 0, 0
+  index: -1
+EMOTION_LAUGH
+  rotate: true
+  xy: 438, 28
+  size: 117, 108
+  orig: 117, 108
+  offset: 0, 0
+  index: -1
+EMOTION_PRIDE
+  rotate: false
+  xy: 548, 72
+  size: 115, 108
+  orig: 115, 108
+  offset: 0, 0
+  index: -1
+EMOTION_SERIOUS
+  rotate: false
+  xy: 665, 74
+  size: 115, 106
+  orig: 115, 106
+  offset: 0, 0
+  index: -1
+EMOTION_SURPRISE
+  rotate: false
+  xy: 830, 201
+  size: 115, 115
+  orig: 115, 115
+  offset: 0, 0
+  index: -1
+EMOTION_TOUCH
+  rotate: false
+  xy: 782, 74
+  size: 115, 106
+  orig: 115, 106
+  offset: 0, 0
+  index: -1
+ob_1
+  rotate: true
+  xy: 985, 899
+  size: 122, 35
+  orig: 122, 35
+  offset: 0, 0
+  index: -1
+ob_10
+  rotate: false
+  xy: 498, 182
+  size: 330, 240
+  orig: 330, 240
+  offset: 0, 0
+  index: -1
+ob_11
+  rotate: true
+  xy: 2, 147
+  size: 100, 485
+  orig: 100, 485
+  offset: 0, 0
+  index: -1
+ob_12
+  rotate: true
+  xy: 548, 8
+  size: 62, 82
+  orig: 62, 82
+  offset: 0, 0
+  index: -1
+ob_13
+  rotate: false
+  xy: 771, 451
+  size: 34, 61
+  orig: 34, 61
+  offset: 0, 0
+  index: -1
+ob_2
+  rotate: false
+  xy: 2, 2
+  size: 199, 143
+  orig: 199, 143
+  offset: 0, 0
+  index: -1
+ob_2_1
+  rotate: false
+  xy: 947, 201
+  size: 16, 35
+  orig: 16, 35
+  offset: 0, 0
+  index: -1
+ob_2_2
+  rotate: true
+  xy: 947, 238
+  size: 78, 65
+  orig: 78, 65
+  offset: 0, 0
+  index: -1
+ob_3
+  rotate: false
+  xy: 830, 318
+  size: 156, 194
+  orig: 156, 194
+  offset: 0, 0
+  index: -1
+ob_4
+  rotate: true
+  xy: 2, 249
+  size: 229, 494
+  orig: 229, 494
+  offset: 0, 0
+  index: -1
+ob_4_1
+  rotate: false
+  xy: 543, 424
+  size: 226, 597
+  orig: 226, 597
+  offset: 0, 0
+  index: -1
+ob_6
+  rotate: false
+  xy: 771, 514
+  size: 186, 507
+  orig: 186, 507
+  offset: 0, 0
+  index: -1
+ob_6_1
+  rotate: false
+  xy: 959, 875
+  size: 24, 146
+  orig: 24, 146
+  offset: 0, 0
+  index: -1
+ob_7
+  rotate: false
+  xy: 2, 480
+  size: 539, 541
+  orig: 539, 541
+  offset: 0, 0
+  index: -1
+ob_7_1
+  rotate: false
+  xy: 899, 87
+  size: 94, 112
+  orig: 94, 112
+  offset: 0, 0
+  index: -1

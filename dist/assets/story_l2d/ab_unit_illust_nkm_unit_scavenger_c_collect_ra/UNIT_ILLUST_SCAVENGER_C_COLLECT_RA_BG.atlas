@@ -1,0 +1,55 @@
+
+UNIT_ILLUST_SCAVENGER_C_COLLECT_RA_BG.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg0
+  rotate: false
+  xy: 2, 252
+  size: 705, 722
+  orig: 705, 722
+  offset: 0, 0
+  index: -1
+bg1
+  rotate: false
+  xy: 467, 172
+  size: 84, 78
+  orig: 84, 78
+  offset: 0, 0
+  index: -1
+bg2
+  rotate: false
+  xy: 797, 487
+  size: 80, 68
+  orig: 80, 68
+  offset: 0, 0
+  index: -1
+bg3
+  rotate: true
+  xy: 709, 375
+  size: 87, 71
+  orig: 87, 71
+  offset: 0, 0
+  index: -1
+bg4
+  rotate: true
+  xy: 2, 2
+  size: 248, 463
+  orig: 248, 463
+  offset: 0, 0
+  index: -1
+bg5
+  rotate: true
+  xy: 709, 557
+  size: 417, 304
+  orig: 417, 304
+  offset: 0, 0
+  index: -1
+bg6
+  rotate: false
+  xy: 709, 464
+  size: 86, 91
+  orig: 86, 91
+  offset: 0, 0
+  index: -1

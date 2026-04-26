@@ -1,0 +1,272 @@
+
+UNIT_ILLUST_NKM_UNIT_CORRUPTED_CA_MINISTRA.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX
+  rotate: false
+  xy: 1403, 216
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+arm_01
+  rotate: true
+  xy: 1816, 216
+  size: 201, 145
+  orig: 201, 145
+  offset: 0, 0
+  index: -1
+arm_01_01
+  rotate: false
+  xy: 1776, 1565
+  size: 101, 73
+  orig: 101, 73
+  offset: 0, 0
+  index: -1
+arm_02
+  rotate: false
+  xy: 1403, 345
+  size: 245, 92
+  orig: 245, 92
+  offset: 0, 0
+  index: -1
+arm_02_02
+  rotate: false
+  xy: 1816, 168
+  size: 123, 46
+  orig: 123, 46
+  offset: 0, 0
+  index: -1
+arm_03
+  rotate: true
+  xy: 514, 92
+  size: 32, 138
+  orig: 32, 138
+  offset: 0, 0
+  index: -1
+arm_03_03
+  rotate: false
+  xy: 1957, 562
+  size: 16, 69
+  orig: 16, 69
+  offset: 0, 0
+  index: -1
+arm_04
+  rotate: true
+  xy: 204, 53
+  size: 29, 100
+  orig: 29, 100
+  offset: 0, 0
+  index: -1
+arm_05
+  rotate: false
+  xy: 306, 63
+  size: 13, 19
+  orig: 13, 19
+  offset: 0, 0
+  index: -1
+body_01
+  rotate: true
+  xy: 616, 1511
+  size: 524, 1158
+  orig: 524, 1158
+  offset: 0, 0
+  index: -1
+body_01_01
+  rotate: false
+  xy: 1816, 633
+  size: 157, 347
+  orig: 157, 347
+  offset: 0, 0
+  index: -1
+body_04
+  rotate: false
+  xy: 2, 84
+  size: 510, 866
+  orig: 510, 866
+  offset: 0, 0
+  index: -1
+body_08
+  rotate: false
+  xy: 656, 423
+  size: 708, 569
+  orig: 708, 569
+  offset: 0, 0
+  index: -1
+body_11
+  rotate: false
+  xy: 514, 126
+  size: 140, 824
+  orig: 140, 824
+  offset: 0, 0
+  index: -1
+body_11_11
+  rotate: false
+  xy: 1674, 156
+  size: 140, 824
+  orig: 140, 824
+  offset: 0, 0
+  index: -1
+body_13
+  rotate: false
+  xy: 616, 994
+  size: 781, 515
+  orig: 781, 515
+  offset: 0, 0
+  index: -1
+body_14
+  rotate: true
+  xy: 1816, 419
+  size: 212, 139
+  orig: 212, 139
+  offset: 0, 0
+  index: -1
+body_15
+  rotate: false
+  xy: 1776, 1640
+  size: 229, 126
+  orig: 229, 126
+  offset: 0, 0
+  index: -1
+body_16
+  rotate: true
+  xy: 656, 91
+  size: 330, 745
+  orig: 330, 745
+  offset: 0, 0
+  index: -1
+body_cubic
+  rotate: false
+  xy: 1937, 1624
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+despair_1
+  rotate: false
+  xy: 616, 980
+  size: 37, 12
+  orig: 37, 12
+  offset: 0, 0
+  index: -1
+despair_2
+  rotate: true
+  xy: 1650, 361
+  size: 76, 22
+  orig: 76, 22
+  offset: 0, 0
+  index: -1
+despair_3
+  rotate: false
+  xy: 2, 2
+  size: 63, 15
+  orig: 63, 15
+  offset: 0, 0
+  index: -1
+fride
+  rotate: false
+  xy: 1403, 275
+  size: 82, 68
+  orig: 82, 68
+  offset: 0, 0
+  index: -1
+hate
+  rotate: true
+  xy: 2022, 1969
+  size: 66, 23
+  orig: 66, 23
+  offset: 0, 0
+  index: -1
+head_01
+  rotate: false
+  xy: 1776, 1768
+  size: 244, 267
+  orig: 244, 267
+  offset: 0, 0
+  index: -1
+head_03
+  rotate: false
+  xy: 1776, 1519
+  size: 33, 44
+  orig: 33, 44
+  offset: 0, 0
+  index: -1
+head_04
+  rotate: true
+  xy: 204, 20
+  size: 31, 42
+  orig: 31, 42
+  offset: 0, 0
+  index: -1
+head_05
+  rotate: false
+  xy: 1399, 982
+  size: 603, 527
+  orig: 603, 527
+  offset: 0, 0
+  index: -1
+head_06
+  rotate: false
+  xy: 1366, 423
+  size: 27, 14
+  orig: 27, 14
+  offset: 0, 0
+  index: -1
+head_07
+  rotate: true
+  xy: 2007, 1702
+  size: 64, 10
+  orig: 64, 10
+  offset: 0, 0
+  index: -1
+head_08
+  rotate: true
+  xy: 1975, 904
+  size: 76, 11
+  orig: 76, 11
+  offset: 0, 0
+  index: -1
+head_09
+  rotate: true
+  xy: 2, 19
+  size: 63, 200
+  orig: 63, 200
+  offset: 0, 0
+  index: -1
+head_10
+  rotate: true
+  xy: 1941, 187
+  size: 27, 14
+  orig: 27, 14
+  offset: 0, 0
+  index: -1
+serious
+  rotate: false
+  xy: 1879, 1572
+  size: 56, 66
+  orig: 56, 66
+  offset: 0, 0
+  index: -1
+surprise
+  rotate: true
+  xy: 1650, 318
+  size: 41, 22
+  orig: 41, 22
+  offset: 0, 0
+  index: -1
+weapon_01
+  rotate: false
+  xy: 2, 952
+  size: 612, 1083
+  orig: 612, 1083
+  offset: 0, 0
+  index: -1
+weapon_01_01
+  rotate: false
+  xy: 1366, 439
+  size: 306, 541
+  orig: 306, 541
+  offset: 0, 0
+  index: -1

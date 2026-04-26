@@ -1,0 +1,90 @@
+
+UNIT_ILLUST_KNIGHT_C_STRATEGY.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 1, 149
+  size: 578, 861
+  orig: 578, 861
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 580, 213
+  size: 174, 264
+  orig: 174, 264
+  offset: 0, 0
+  index: -1
+3_FIX
+  rotate: false
+  xy: 580, 388
+  size: 301, 622
+  orig: 301, 622
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 1, 1
+  size: 147, 263
+  orig: 147, 263
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 882, 732
+  size: 141, 278
+  orig: 141, 278
+  offset: 0, 0
+  index: -1
+BASE
+  rotate: false
+  xy: 265, 94
+  size: 79, 54
+  orig: 79, 54
+  offset: 0, 0
+  index: -1
+despair
+  rotate: true
+  xy: 882, 592
+  size: 79, 54
+  orig: 79, 54
+  offset: 0, 0
+  index: -1
+hate
+  rotate: false
+  xy: 660, 158
+  size: 78, 54
+  orig: 78, 54
+  offset: 0, 0
+  index: -1
+laugh
+  rotate: false
+  xy: 265, 38
+  size: 76, 55
+  orig: 76, 55
+  offset: 0, 0
+  index: -1
+pride
+  rotate: false
+  xy: 345, 94
+  size: 77, 54
+  orig: 77, 54
+  offset: 0, 0
+  index: -1
+serious
+  rotate: false
+  xy: 882, 672
+  size: 78, 59
+  orig: 78, 59
+  offset: 0, 0
+  index: -1
+surpise
+  rotate: false
+  xy: 580, 157
+  size: 79, 55
+  orig: 79, 55
+  offset: 0, 0
+  index: -1

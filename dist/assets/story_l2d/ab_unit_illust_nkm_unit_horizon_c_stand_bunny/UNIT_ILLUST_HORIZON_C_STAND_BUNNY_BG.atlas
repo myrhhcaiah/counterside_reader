@@ -1,0 +1,13 @@
+
+UNIT_ILLUST_HORIZON_C_STAND_BUNNY_BG.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 2, 2
+  size: 924, 978
+  orig: 924, 978
+  offset: 0, 0
+  index: -1

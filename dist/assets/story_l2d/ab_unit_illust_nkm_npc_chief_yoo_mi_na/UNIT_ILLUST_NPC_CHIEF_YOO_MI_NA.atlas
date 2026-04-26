@@ -1,0 +1,76 @@
+
+UNIT_ILLUST_NPC_CHIEF_YOO_MI_NA.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_1
+  rotate: false
+  xy: 2, 90
+  size: 658, 876
+  orig: 658, 876
+  offset: 0, 0
+  index: -1
+body_2
+  rotate: false
+  xy: 662, 210
+  size: 308, 756
+  orig: 308, 756
+  offset: 0, 0
+  index: -1
+despair
+  rotate: false
+  xy: 889, 11
+  size: 123, 70
+  orig: 123, 70
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 662, 32
+  size: 225, 176
+  orig: 225, 176
+  offset: 0, 0
+  index: -1
+hate
+  rotate: false
+  xy: 510, 16
+  size: 125, 72
+  orig: 125, 72
+  offset: 0, 0
+  index: -1
+idle
+  rotate: false
+  xy: 129, 14
+  size: 125, 74
+  orig: 125, 74
+  offset: 0, 0
+  index: -1
+laugh
+  rotate: false
+  xy: 256, 14
+  size: 125, 74
+  orig: 125, 74
+  offset: 0, 0
+  index: -1
+pride
+  rotate: false
+  xy: 383, 14
+  size: 125, 74
+  orig: 125, 74
+  offset: 0, 0
+  index: -1
+serious
+  rotate: false
+  xy: 2, 2
+  size: 125, 86
+  orig: 125, 86
+  offset: 0, 0
+  index: -1
+surprise
+  rotate: true
+  xy: 889, 83
+  size: 125, 76
+  orig: 125, 76
+  offset: 0, 0
+  index: -1

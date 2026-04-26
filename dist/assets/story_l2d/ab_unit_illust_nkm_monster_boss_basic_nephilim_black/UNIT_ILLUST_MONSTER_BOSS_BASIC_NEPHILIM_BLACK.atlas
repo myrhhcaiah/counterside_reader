@@ -1,0 +1,258 @@
+
+UNIT_ILLUST_MONSTER_BOSS_BASIC_NEPHILIM_BLACK.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_spear_a
+  rotate: true
+  xy: 724, 489
+  size: 93, 203
+  orig: 93, 203
+  offset: 0, 0
+  index: -1
+body_spear_b
+  rotate: true
+  xy: 139, 413
+  size: 159, 300
+  orig: 159, 300
+  offset: 0, 0
+  index: -1
+front_big_tail
+  rotate: false
+  xy: 2, 364
+  size: 135, 658
+  orig: 135, 658
+  offset: 0, 0
+  index: -1
+front_body_01
+  rotate: false
+  xy: 441, 484
+  size: 157, 158
+  orig: 157, 158
+  offset: 0, 0
+  index: -1
+front_body_fx_01
+  rotate: false
+  xy: 481, 28
+  size: 157, 158
+  orig: 157, 158
+  offset: 0, 0
+  index: -1
+front_body_rib
+  rotate: false
+  xy: 831, 264
+  size: 57, 56
+  orig: 57, 56
+  offset: 0, 0
+  index: -1
+front_hair_1
+  rotate: true
+  xy: 819, 322
+  size: 165, 75
+  orig: 165, 75
+  offset: 0, 0
+  index: -1
+front_hair_10
+  rotate: true
+  xy: 905, 597
+  size: 134, 101
+  orig: 134, 101
+  offset: 0, 0
+  index: -1
+front_hair_4
+  rotate: true
+  xy: 322, 50
+  size: 361, 157
+  orig: 361, 157
+  offset: 0, 0
+  index: -1
+front_hair_5
+  rotate: true
+  xy: 725, 584
+  size: 438, 178
+  orig: 438, 178
+  offset: 0, 0
+  index: -1
+front_hair_8
+  rotate: true
+  xy: 640, 261
+  size: 224, 73
+  orig: 224, 73
+  offset: 0, 0
+  index: -1
+front_hair_9
+  rotate: true
+  xy: 640, 51
+  size: 208, 77
+  orig: 208, 77
+  offset: 0, 0
+  index: -1
+front_head
+  rotate: false
+  xy: 929, 485
+  size: 78, 110
+  orig: 78, 110
+  offset: 0, 0
+  index: -1
+front_head_fx_01
+  rotate: true
+  xy: 896, 290
+  size: 78, 110
+  orig: 78, 110
+  offset: 0, 0
+  index: -1
+front_head_hornlow
+  rotate: true
+  xy: 715, 313
+  size: 172, 102
+  orig: 172, 102
+  offset: 0, 0
+  index: -1
+front_head_hornup
+  rotate: true
+  xy: 600, 487
+  size: 155, 122
+  orig: 155, 122
+  offset: 0, 0
+  index: -1
+front_left_arm_1
+  rotate: false
+  xy: 719, 184
+  size: 100, 87
+  orig: 100, 87
+  offset: 0, 0
+  index: -1
+front_left_arm_2
+  rotate: true
+  xy: 139, 374
+  size: 37, 168
+  orig: 37, 168
+  offset: 0, 0
+  index: -1
+front_left_big_wing_1
+  rotate: true
+  xy: 481, 188
+  size: 294, 157
+  orig: 294, 157
+  offset: 0, 0
+  index: -1
+front_left_big_wing_2
+  rotate: false
+  xy: 139, 574
+  size: 263, 448
+  orig: 263, 448
+  offset: 0, 0
+  index: -1
+front_left_big_wing_2_b
+  rotate: false
+  xy: 404, 644
+  size: 319, 378
+  orig: 319, 378
+  offset: 0, 0
+  index: -1
+front_left_hand
+  rotate: true
+  xy: 640, 2
+  size: 47, 65
+  orig: 47, 65
+  offset: 0, 0
+  index: -1
+front_left_leg_1
+  rotate: true
+  xy: 715, 273
+  size: 38, 114
+  orig: 38, 114
+  offset: 0, 0
+  index: -1
+front_left_leg_2
+  rotate: true
+  xy: 782, 12
+  size: 89, 77
+  orig: 89, 77
+  offset: 0, 0
+  index: -1
+front_left_leg_3
+  rotate: true
+  xy: 322, 14
+  size: 34, 132
+  orig: 34, 132
+  offset: 0, 0
+  index: -1
+front_left_leg_4
+  rotate: true
+  xy: 863, 209
+  size: 53, 42
+  orig: 53, 42
+  offset: 0, 0
+  index: -1
+front_right_arm_1
+  rotate: false
+  xy: 962, 783
+  size: 50, 122
+  orig: 50, 122
+  offset: 0, 0
+  index: -1
+front_right_arm_2
+  rotate: false
+  xy: 896, 370
+  size: 110, 113
+  orig: 110, 113
+  offset: 0, 0
+  index: -1
+front_right_big_wing_1_b
+  rotate: false
+  xy: 2, 9
+  size: 318, 353
+  orig: 318, 353
+  offset: 0, 0
+  index: -1
+front_right_hand_a1
+  rotate: false
+  xy: 821, 204
+  size: 40, 58
+  orig: 40, 58
+  offset: 0, 0
+  index: -1
+front_right_hand_a2
+  rotate: false
+  xy: 456, 6
+  size: 23, 42
+  orig: 23, 42
+  offset: 0, 0
+  index: -1
+front_right_leg_1
+  rotate: false
+  xy: 719, 103
+  size: 97, 79
+  orig: 97, 79
+  offset: 0, 0
+  index: -1
+front_right_leg_2
+  rotate: false
+  xy: 719, 2
+  size: 61, 99
+  orig: 61, 99
+  offset: 0, 0
+  index: -1
+front_right_leg_3
+  rotate: false
+  xy: 962, 907
+  size: 60, 115
+  orig: 60, 115
+  offset: 0, 0
+  index: -1
+front_right_leg_4
+  rotate: false
+  xy: 962, 741
+  size: 60, 40
+  orig: 60, 40
+  offset: 0, 0
+  index: -1
+front_small_tail
+  rotate: false
+  xy: 905, 733
+  size: 55, 289
+  orig: 55, 289
+  offset: 0, 0
+  index: -1

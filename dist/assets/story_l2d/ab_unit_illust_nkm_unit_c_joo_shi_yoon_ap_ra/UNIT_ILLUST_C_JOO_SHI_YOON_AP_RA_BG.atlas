@@ -1,0 +1,55 @@
+
+UNIT_ILLUST_C_JOO_SHI_YOON_AP_RA_BG.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_1
+  rotate: true
+  xy: 2, 2
+  size: 980, 925
+  orig: 980, 925
+  offset: 0, 0
+  index: -1
+bg_fx_1
+  rotate: false
+  xy: 2, 984
+  size: 1967, 1053
+  orig: 1967, 1053
+  offset: 0, 0
+  index: -1
+bg_fx_11
+  rotate: false
+  xy: 1339, 123
+  size: 364, 458
+  orig: 364, 458
+  offset: 0, 0
+  index: -1
+bg_fx_12
+  rotate: true
+  xy: 929, 41
+  size: 252, 322
+  orig: 252, 322
+  offset: 0, 0
+  index: -1
+bg_fx_2
+  rotate: false
+  xy: 929, 295
+  size: 408, 687
+  orig: 408, 687
+  offset: 0, 0
+  index: -1
+bg_fx_3
+  rotate: true
+  xy: 1339, 583
+  size: 399, 664
+  orig: 399, 664
+  offset: 0, 0
+  index: -1
+fx_b
+  rotate: false
+  xy: 1253, 155
+  size: 82, 138
+  orig: 82, 138
+  offset: 0, 0
+  index: -1

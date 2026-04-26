@@ -1,0 +1,223 @@
+
+UNIT_ILLUST_SD_CLB_003_3_SSR_C.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b_hair
+  rotate: false
+  xy: 2, 146
+  size: 252, 364
+  orig: 252, 364
+  offset: 0, 0
+  index: -1
+bag_back
+  rotate: true
+  xy: 981, 444
+  size: 66, 41
+  orig: 66, 41
+  offset: 0, 0
+  index: -1
+bag_cookie
+  rotate: true
+  xy: 944, 344
+  size: 53, 50
+  orig: 53, 50
+  offset: 0, 0
+  index: -1
+bag_front
+  rotate: false
+  xy: 391, 36
+  size: 103, 104
+  orig: 103, 104
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 256, 142
+  size: 195, 217
+  orig: 195, 217
+  offset: 0, 0
+  index: -1
+f_hair
+  rotate: false
+  xy: 2, 2
+  size: 227, 142
+  orig: 227, 142
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 256, 339
+  size: 269, 171
+  orig: 269, 171
+  offset: 0, 0
+  index: -1
+face_a
+  rotate: false
+  xy: 231, 46
+  size: 158, 94
+  orig: 158, 94
+  offset: 0, 0
+  index: -1
+face_b
+  rotate: true
+  xy: 697, 194
+  size: 152, 94
+  orig: 152, 94
+  offset: 0, 0
+  index: -1
+face_c
+  rotate: false
+  xy: 788, 399
+  size: 191, 111
+  orig: 191, 111
+  offset: 0, 0
+  index: -1
+face_e
+  rotate: false
+  xy: 793, 294
+  size: 149, 103
+  orig: 149, 103
+  offset: 0, 0
+  index: -1
+hair_ac
+  rotate: false
+  xy: 496, 2
+  size: 85, 80
+  orig: 85, 80
+  offset: 0, 0
+  index: -1
+hairband
+  rotate: false
+  xy: 782, 88
+  size: 142, 46
+  orig: 142, 46
+  offset: 0, 0
+  index: -1
+l_arm
+  rotate: true
+  xy: 554, 84
+  size: 110, 135
+  orig: 110, 135
+  offset: 0, 0
+  index: -1
+l_clothes
+  rotate: false
+  xy: 475, 168
+  size: 77, 169
+  orig: 77, 169
+  offset: 0, 0
+  index: -1
+l_hair_01
+  rotate: true
+  xy: 527, 348
+  size: 71, 219
+  orig: 71, 219
+  offset: 0, 0
+  index: -1
+l_hair_02
+  rotate: false
+  xy: 673, 2
+  size: 43, 75
+  orig: 43, 75
+  offset: 0, 0
+  index: -1
+l_hair_point
+  rotate: true
+  xy: 807, 3
+  size: 83, 87
+  orig: 83, 87
+  offset: 0, 0
+  index: -1
+l_leg
+  rotate: true
+  xy: 583, 2
+  size: 75, 88
+  orig: 75, 88
+  offset: 0, 0
+  index: -1
+r_arm_a
+  rotate: true
+  xy: 793, 191
+  size: 101, 151
+  orig: 101, 151
+  offset: 0, 0
+  index: -1
+r_arm_b
+  rotate: false
+  xy: 554, 196
+  size: 141, 150
+  orig: 141, 150
+  offset: 0, 0
+  index: -1
+r_clothes
+  rotate: true
+  xy: 782, 136
+  size: 53, 168
+  orig: 53, 168
+  offset: 0, 0
+  index: -1
+r_ear
+  rotate: false
+  xy: 926, 88
+  size: 55, 46
+  orig: 55, 46
+  offset: 0, 0
+  index: -1
+r_hair_01
+  rotate: true
+  xy: 527, 421
+  size: 89, 259
+  orig: 89, 259
+  offset: 0, 0
+  index: -1
+r_hair_02
+  rotate: true
+  xy: 231, 2
+  size: 42, 78
+  orig: 42, 78
+  offset: 0, 0
+  index: -1
+r_hair_point
+  rotate: true
+  xy: 896, 4
+  size: 82, 87
+  orig: 82, 87
+  offset: 0, 0
+  index: -1
+r_leg
+  rotate: true
+  xy: 718, 3
+  size: 74, 87
+  orig: 74, 87
+  offset: 0, 0
+  index: -1
+tako_body
+  rotate: true
+  xy: 691, 79
+  size: 113, 89
+  orig: 113, 89
+  offset: 0, 0
+  index: -1
+tako_face
+  rotate: false
+  xy: 311, 30
+  size: 56, 14
+  orig: 56, 14
+  offset: 0, 0
+  index: -1
+tako_mouth
+  rotate: false
+  xy: 475, 148
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+tako_ring
+  rotate: true
+  xy: 748, 372
+  size: 47, 25
+  orig: 47, 25
+  offset: 0, 0
+  index: -1

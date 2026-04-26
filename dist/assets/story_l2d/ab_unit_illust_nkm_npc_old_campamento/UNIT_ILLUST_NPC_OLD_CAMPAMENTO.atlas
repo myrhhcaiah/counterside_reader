@@ -1,0 +1,62 @@
+
+UNIT_ILLUST_NPC_OLD_CAMPAMENTO.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 2
+  size: 790, 1012
+  orig: 790, 1012
+  offset: 0, 0
+  index: -1
+despair
+  rotate: false
+  xy: 794, 661
+  size: 136, 115
+  orig: 136, 115
+  offset: 0, 0
+  index: -1
+hate
+  rotate: false
+  xy: 794, 545
+  size: 136, 114
+  orig: 136, 114
+  offset: 0, 0
+  index: -1
+idle
+  rotate: false
+  xy: 794, 429
+  size: 136, 114
+  orig: 136, 114
+  offset: 0, 0
+  index: -1
+laugh
+  rotate: false
+  xy: 794, 897
+  size: 136, 117
+  orig: 136, 117
+  offset: 0, 0
+  index: -1
+pride
+  rotate: false
+  xy: 794, 314
+  size: 136, 113
+  orig: 136, 113
+  offset: 0, 0
+  index: -1
+serious
+  rotate: false
+  xy: 794, 199
+  size: 136, 113
+  orig: 136, 113
+  offset: 0, 0
+  index: -1
+surprise
+  rotate: false
+  xy: 794, 778
+  size: 136, 117
+  orig: 136, 117
+  offset: 0, 0
+  index: -1

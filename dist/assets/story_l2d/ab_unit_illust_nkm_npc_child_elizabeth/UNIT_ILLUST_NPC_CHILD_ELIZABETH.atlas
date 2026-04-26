@@ -1,0 +1,90 @@
+
+UNIT_ILLUST_NPC_CHILD_ELIZABETH.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: true
+  xy: 552, 395
+  size: 270, 453
+  orig: 270, 453
+  offset: 0, 0
+  index: -1
+1
+  rotate: false
+  xy: 766, 667
+  size: 249, 343
+  orig: 249, 343
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 552, 779
+  size: 231, 169
+  orig: 231, 169
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 811, 2
+  size: 175, 152
+  orig: 175, 152
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 2, 373
+  size: 548, 637
+  orig: 548, 637
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 766, 156
+  size: 248, 237
+  orig: 248, 237
+  offset: 0, 0
+  index: -1
+7
+  rotate: true
+  xy: 2, 126
+  size: 245, 762
+  orig: 245, 762
+  offset: 0, 0
+  index: -1
+BASE_FACE
+  rotate: false
+  xy: 489, 37
+  size: 161, 87
+  orig: 161, 87
+  offset: 0, 0
+  index: -1
+EMOTION_DESPAIR
+  rotate: false
+  xy: 652, 42
+  size: 157, 82
+  orig: 157, 82
+  offset: 0, 0
+  index: -1
+EMOTION_LAUGH
+  rotate: false
+  xy: 326, 36
+  size: 161, 88
+  orig: 161, 88
+  offset: 0, 0
+  index: -1
+EMOTION_SERIOUS
+  rotate: false
+  xy: 164, 35
+  size: 160, 89
+  orig: 160, 89
+  offset: 0, 0
+  index: -1
+EMOTION_SURPRISE
+  rotate: false
+  xy: 2, 30
+  size: 160, 94
+  orig: 160, 94
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,1 @@
+{"skeleton":{"hash":"H/CbtDveR95GGT9rbGnJ6q92w7o","spine":"3.7.93","width":3988,"height":3838},"bones":[{"name":"root"},{"name":"bone212","parent":"root","x":443.21,"y":-3139.21}],"slots":[{"name":"bg","bone":"bone212","attachment":"bg"}],"skins":{"default":{"bg":{"bg":{"x":-101.66,"y":2018.94,"width":3988,"height":3838}}}},"animations":{"IDLE":{}}}

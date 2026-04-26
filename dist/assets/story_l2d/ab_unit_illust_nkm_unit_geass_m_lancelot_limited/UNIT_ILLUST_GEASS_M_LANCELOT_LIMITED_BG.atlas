@@ -1,0 +1,13 @@
+
+UNIT_ILLUST_GEASS_M_LANCELOT_LIMITED_BG.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG_MAIN
+  rotate: false
+  xy: 2, 2
+  size: 974, 729
+  orig: 974, 729
+  offset: 0, 0
+  index: -1

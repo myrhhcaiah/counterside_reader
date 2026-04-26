@@ -1,0 +1,118 @@
+
+UNIT_ILLUST_NPC_CHARADE_MC.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bady
+  rotate: true
+  xy: 2, 26
+  size: 973, 1676
+  orig: 973, 1676
+  offset: 0, 0
+  index: -1
+face_a
+  rotate: false
+  xy: 1875, 864
+  size: 150, 135
+  orig: 150, 135
+  offset: 0, 0
+  index: -1
+face_aa
+  rotate: true
+  xy: 1680, 2
+  size: 133, 107
+  orig: 133, 107
+  offset: 0, 0
+  index: -1
+face_b
+  rotate: false
+  xy: 1680, 535
+  size: 157, 146
+  orig: 157, 146
+  offset: 0, 0
+  index: -1
+face_bb
+  rotate: false
+  xy: 1875, 641
+  size: 141, 104
+  orig: 141, 104
+  offset: 0, 0
+  index: -1
+face_c
+  rotate: true
+  xy: 1878, 183
+  size: 133, 108
+  orig: 133, 108
+  offset: 0, 0
+  index: -1
+face_cc
+  rotate: false
+  xy: 1875, 747
+  size: 137, 115
+  orig: 137, 115
+  offset: 0, 0
+  index: -1
+face_d
+  rotate: false
+  xy: 1680, 289
+  size: 127, 124
+  orig: 127, 124
+  offset: 0, 0
+  index: -1
+face_dd
+  rotate: true
+  xy: 1780, 152
+  size: 135, 96
+  orig: 135, 96
+  offset: 0, 0
+  index: -1
+face_e
+  rotate: false
+  xy: 1826, 318
+  size: 134, 101
+  orig: 134, 101
+  offset: 0, 0
+  index: -1
+face_ee
+  rotate: false
+  xy: 1826, 421
+  size: 135, 107
+  orig: 135, 107
+  offset: 0, 0
+  index: -1
+face_f
+  rotate: true
+  xy: 1680, 137
+  size: 150, 98
+  orig: 150, 98
+  offset: 0, 0
+  index: -1
+face_ff
+  rotate: false
+  xy: 1839, 530
+  size: 136, 109
+  orig: 136, 109
+  offset: 0, 0
+  index: -1
+face_g
+  rotate: false
+  xy: 1680, 415
+  size: 144, 118
+  orig: 144, 118
+  offset: 0, 0
+  index: -1
+face_gg
+  rotate: true
+  xy: 1789, 15
+  size: 135, 104
+  orig: 135, 104
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 1680, 683
+  size: 193, 316
+  orig: 193, 316
+  offset: 0, 0
+  index: -1

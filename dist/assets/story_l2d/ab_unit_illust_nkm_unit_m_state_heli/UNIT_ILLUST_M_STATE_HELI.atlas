@@ -1,0 +1,97 @@
+
+UNIT_ILLUST_M_STATE_HELI.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_01
+  rotate: false
+  xy: 2, 309
+  size: 589, 713
+  orig: 589, 713
+  offset: 0, 0
+  index: -1
+body_02
+  rotate: true
+  xy: 593, 468
+  size: 554, 385
+  orig: 554, 385
+  offset: 0, 0
+  index: -1
+cartridge_01
+  rotate: true
+  xy: 319, 203
+  size: 39, 113
+  orig: 39, 113
+  offset: 0, 0
+  index: -1
+cartridge_02
+  rotate: true
+  xy: 980, 891
+  size: 65, 36
+  orig: 65, 36
+  offset: 0, 0
+  index: -1
+door
+  rotate: true
+  xy: 729, 357
+  size: 109, 151
+  orig: 109, 151
+  offset: 0, 0
+  index: -1
+gun
+  rotate: false
+  xy: 319, 244
+  size: 118, 63
+  orig: 118, 63
+  offset: 0, 0
+  index: -1
+h21_2
+  rotate: true
+  xy: 882, 363
+  size: 103, 63
+  orig: 103, 63
+  offset: 0, 0
+  index: -1
+thing_01
+  rotate: false
+  xy: 2, 2
+  size: 197, 305
+  orig: 197, 305
+  offset: 0, 0
+  index: -1
+thing_02
+  rotate: false
+  xy: 593, 325
+  size: 134, 141
+  orig: 134, 141
+  offset: 0, 0
+  index: -1
+wheel_01
+  rotate: false
+  xy: 201, 148
+  size: 116, 159
+  orig: 116, 159
+  offset: 0, 0
+  index: -1
+wheel_02
+  rotate: false
+  xy: 201, 9
+  size: 100, 137
+  orig: 100, 137
+  offset: 0, 0
+  index: -1
+wheel_03
+  rotate: false
+  xy: 980, 958
+  size: 42, 64
+  orig: 42, 64
+  offset: 0, 0
+  index: -1
+wheel_04
+  rotate: true
+  xy: 439, 262
+  size: 45, 66
+  orig: 45, 66
+  offset: 0, 0
+  index: -1

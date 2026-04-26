@@ -1,0 +1,76 @@
+
+UNIT_ILLUST_NPC_GEASS_SHIRLEY.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 542, 111
+  size: 335, 875
+  orig: 335, 875
+  offset: 0, 0
+  index: -1
+1
+  rotate: false
+  xy: 1, 184
+  size: 540, 802
+  orig: 540, 802
+  offset: 0, 0
+  index: -1
+BASE
+  rotate: true
+  xy: 878, 641
+  size: 115, 91
+  orig: 115, 91
+  offset: 0, 0
+  index: -1
+DESPAIR
+  rotate: true
+  xy: 453, 68
+  size: 115, 88
+  orig: 115, 88
+  offset: 0, 0
+  index: -1
+HAIR
+  rotate: false
+  xy: 1, 1
+  size: 217, 182
+  orig: 217, 182
+  offset: 0, 0
+  index: -1
+HATE
+  rotate: true
+  xy: 878, 757
+  size: 117, 97
+  orig: 117, 97
+  offset: 0, 0
+  index: -1
+LAUGH
+  rotate: false
+  xy: 337, 85
+  size: 115, 98
+  orig: 115, 98
+  offset: 0, 0
+  index: -1
+PRIDE
+  rotate: true
+  xy: 878, 524
+  size: 116, 89
+  orig: 116, 89
+  offset: 0, 0
+  index: -1
+SERIOUS
+  rotate: false
+  xy: 878, 875
+  size: 116, 111
+  orig: 116, 111
+  offset: 0, 0
+  index: -1
+SURPRISE
+  rotate: false
+  xy: 219, 85
+  size: 117, 98
+  orig: 117, 98
+  offset: 0, 0
+  index: -1

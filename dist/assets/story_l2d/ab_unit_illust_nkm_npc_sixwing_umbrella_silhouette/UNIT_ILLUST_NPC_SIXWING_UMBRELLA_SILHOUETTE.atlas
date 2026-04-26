@@ -1,0 +1,20 @@
+
+UNIT_ILLUST_NPC_SIXWING_UMBRELLA_SILHOUETTE.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_10
+  rotate: false
+  xy: 0, 0
+  size: 811, 928
+  orig: 811, 928
+  offset: 0, 0
+  index: -1
+body_2
+  rotate: false
+  xy: 811, 410
+  size: 140, 518
+  orig: 140, 518
+  offset: 0, 0
+  index: -1

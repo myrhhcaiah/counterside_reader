@@ -1,0 +1,139 @@
+
+UNIT_ILLUST_SD_CLB_003_4_SR.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 225, 270
+  size: 152, 140
+  orig: 153, 142
+  offset: 0, 2
+  index: -1
+body_ac
+  rotate: false
+  xy: 2, 216
+  size: 162, 86
+  orig: 162, 86
+  offset: 0, 0
+  index: -1
+body_back_ac
+  rotate: false
+  xy: 2, 136
+  size: 158, 78
+  orig: 158, 78
+  offset: 0, 0
+  index: -1
+body_left_arm
+  rotate: true
+  xy: 246, 7
+  size: 63, 92
+  orig: 63, 93
+  offset: 0, 1
+  index: -1
+body_left_arm_b
+  rotate: false
+  xy: 367, 164
+  size: 118, 75
+  orig: 118, 75
+  offset: 0, 0
+  index: -1
+body_left_leg
+  rotate: false
+  xy: 166, 199
+  size: 56, 103
+  orig: 57, 103
+  offset: 0, 0
+  index: -1
+body_right_arm
+  rotate: true
+  xy: 335, 75
+  size: 63, 92
+  orig: 63, 93
+  offset: 0, 1
+  index: -1
+body_right_leg
+  rotate: true
+  xy: 142, 2
+  size: 54, 102
+  orig: 54, 102
+  offset: 0, 0
+  index: -1
+face_a
+  rotate: true
+  xy: 2, 20
+  size: 114, 68
+  orig: 114, 69
+  offset: 0, 1
+  index: -1
+face_b
+  rotate: true
+  xy: 72, 20
+  size: 114, 68
+  orig: 114, 69
+  offset: 0, 1
+  index: -1
+face_f
+  rotate: false
+  xy: 223, 72
+  size: 110, 66
+  orig: 110, 66
+  offset: 0, 0
+  index: -1
+hair_back_b
+  rotate: false
+  xy: 2, 304
+  size: 221, 202
+  orig: 222, 202
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: true
+  xy: 162, 58
+  size: 139, 59
+  orig: 139, 59
+  offset: 0, 0
+  index: -1
+hair_left_a
+  rotate: true
+  xy: 224, 140
+  size: 60, 139
+  orig: 60, 139
+  offset: 0, 0
+  index: -1
+hair_left_b
+  rotate: true
+  xy: 340, 23
+  size: 50, 78
+  orig: 50, 78
+  offset: 0, 0
+  index: -1
+hair_right_a
+  rotate: true
+  xy: 224, 202
+  size: 66, 141
+  orig: 66, 142
+  offset: 0, 1
+  index: -1
+hair_right_b
+  rotate: true
+  xy: 420, 23
+  size: 50, 78
+  orig: 50, 78
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 379, 241
+  size: 169, 120
+  orig: 169, 120
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: true
+  xy: 225, 412
+  size: 94, 278
+  orig: 94, 278
+  offset: 0, 0
+  index: -1

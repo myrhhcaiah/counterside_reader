@@ -1,0 +1,62 @@
+
+UNIT_ILLUST_NPC_PRYDWEN_GRAILA.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_1
+  rotate: false
+  xy: 2, 2
+  size: 348, 1009
+  orig: 348, 1009
+  offset: 0, 0
+  index: -1
+despair
+  rotate: true
+  xy: 352, 350
+  size: 103, 68
+  orig: 103, 68
+  offset: 0, 0
+  index: -1
+hate
+  rotate: false
+  xy: 352, 780
+  size: 105, 74
+  orig: 105, 74
+  offset: 0, 0
+  index: -1
+idle
+  rotate: true
+  xy: 352, 671
+  size: 107, 72
+  orig: 107, 72
+  offset: 0, 0
+  index: -1
+laugh
+  rotate: false
+  xy: 352, 856
+  size: 107, 75
+  orig: 107, 75
+  offset: 0, 0
+  index: -1
+pride
+  rotate: true
+  xy: 352, 562
+  size: 107, 72
+  orig: 107, 72
+  offset: 0, 0
+  index: -1
+serious
+  rotate: true
+  xy: 352, 455
+  size: 105, 73
+  orig: 105, 73
+  offset: 0, 0
+  index: -1
+surprise
+  rotate: false
+  xy: 352, 933
+  size: 107, 78
+  orig: 107, 78
+  offset: 0, 0
+  index: -1

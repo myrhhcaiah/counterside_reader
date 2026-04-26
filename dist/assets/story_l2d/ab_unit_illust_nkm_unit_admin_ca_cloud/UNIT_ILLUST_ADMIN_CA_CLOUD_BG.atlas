@@ -1,0 +1,13 @@
+
+UNIT_ILLUST_ADMIN_CA_CLOUD_BG.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+UNIT_ILLUST_ADMIN_CA_CLOUD_BG
+  rotate: false
+  xy: 0, 0
+  size: 2027, 960
+  orig: 2048, 1024
+  offset: 1, 64
+  index: -1

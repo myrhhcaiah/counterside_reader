@@ -1,0 +1,272 @@
+
+UNIT_ILLUST_C_ALPHA_CHOI.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EMOITON_DESPAIR
+  rotate: true
+  xy: 844, 123
+  size: 132, 77
+  orig: 132, 77
+  offset: 0, 0
+  index: -1
+EMOITON_HATE
+  rotate: true
+  xy: 789, 257
+  size: 139, 100
+  orig: 139, 100
+  offset: 0, 0
+  index: -1
+EMOITON_LAUGH
+  rotate: true
+  xy: 923, 133
+  size: 132, 78
+  orig: 132, 78
+  offset: 0, 0
+  index: -1
+EMOITON_PRIDE
+  rotate: true
+  xy: 923, 2
+  size: 129, 76
+  orig: 129, 76
+  offset: 0, 0
+  index: -1
+EMOITON_SERIOUS
+  rotate: false
+  xy: 882, 398
+  size: 129, 75
+  orig: 129, 75
+  offset: 0, 0
+  index: -1
+EMOITON_SURPRISE
+  rotate: false
+  xy: 771, 11
+  size: 132, 84
+  orig: 132, 84
+  offset: 0, 0
+  index: -1
+EMOITON_TOUCH
+  rotate: true
+  xy: 891, 267
+  size: 129, 88
+  orig: 129, 88
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 507, 639
+  size: 266, 383
+  orig: 266, 383
+  offset: 0, 0
+  index: -1
+body_2_2
+  rotate: false
+  xy: 507, 255
+  size: 280, 112
+  orig: 280, 112
+  offset: 0, 0
+  index: -1
+close_eye
+  rotate: true
+  xy: 981, 352
+  size: 44, 11
+  orig: 44, 11
+  offset: 0, 0
+  index: -1
+f_hair
+  rotate: false
+  xy: 2, 31
+  size: 156, 223
+  orig: 156, 223
+  offset: 0, 0
+  index: -1
+glass
+  rotate: false
+  xy: 723, 398
+  size: 157, 82
+  orig: 157, 82
+  offset: 0, 0
+  index: -1
+hair_b
+  rotate: true
+  xy: 507, 369
+  size: 268, 214
+  orig: 268, 214
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: false
+  xy: 617, 97
+  size: 180, 66
+  orig: 180, 66
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 248, 29
+  size: 162, 205
+  orig: 162, 205
+  offset: 0, 0
+  index: -1
+l_arm
+  rotate: false
+  xy: 882, 619
+  size: 103, 403
+  orig: 103, 403
+  offset: 0, 0
+  index: -1
+l_eye
+  rotate: false
+  xy: 386, 236
+  size: 49, 36
+  orig: 49, 36
+  offset: 0, 0
+  index: -1
+l_eye_brow
+  rotate: true
+  xy: 723, 578
+  size: 59, 28
+  orig: 59, 28
+  offset: 0, 0
+  index: -1
+l_eye_d
+  rotate: true
+  xy: 1001, 93
+  size: 38, 21
+  orig: 38, 21
+  offset: 0, 0
+  index: -1
+l_hand
+  rotate: false
+  xy: 617, 23
+  size: 152, 72
+  orig: 152, 72
+  offset: 0, 0
+  index: -1
+l_hand_f
+  rotate: false
+  xy: 386, 274
+  size: 78, 23
+  orig: 78, 23
+  offset: 0, 0
+  index: -1
+l_s_hair
+  rotate: false
+  xy: 160, 30
+  size: 86, 224
+  orig: 86, 224
+  offset: 0, 0
+  index: -1
+left_leg
+  rotate: false
+  xy: 250, 193
+  size: 134, 829
+  orig: 134, 829
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: true
+  xy: 777, 385
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+nose
+  rotate: true
+  xy: 891, 258
+  size: 7, 11
+  orig: 7, 11
+  offset: 0, 0
+  index: -1
+r_acc_b
+  rotate: true
+  xy: 93, 16
+  size: 13, 30
+  orig: 13, 30
+  offset: 0, 0
+  index: -1
+r_acc_d
+  rotate: true
+  xy: 455, 74
+  size: 89, 160
+  orig: 89, 160
+  offset: 0, 0
+  index: -1
+r_acc_f
+  rotate: false
+  xy: 987, 940
+  size: 35, 82
+  orig: 35, 82
+  offset: 0, 0
+  index: -1
+r_eye
+  rotate: true
+  xy: 987, 884
+  size: 54, 32
+  orig: 54, 32
+  offset: 0, 0
+  index: -1
+r_eye_brow
+  rotate: false
+  xy: 723, 374
+  size: 52, 22
+  orig: 52, 22
+  offset: 0, 0
+  index: -1
+r_eye_d
+  rotate: false
+  xy: 987, 868
+  size: 35, 14
+  orig: 35, 14
+  offset: 0, 0
+  index: -1
+r_hand
+  rotate: false
+  xy: 455, 19
+  size: 154, 53
+  orig: 154, 53
+  offset: 0, 0
+  index: -1
+r_hand_f
+  rotate: false
+  xy: 2, 6
+  size: 89, 23
+  orig: 89, 23
+  offset: 0, 0
+  index: -1
+r_leg_d
+  rotate: false
+  xy: 775, 482
+  size: 105, 540
+  orig: 105, 540
+  offset: 0, 0
+  index: -1
+r_leg_u
+  rotate: true
+  xy: 882, 475
+  size: 142, 101
+  orig: 142, 101
+  offset: 0, 0
+  index: -1
+right_arm
+  rotate: true
+  xy: 455, 165
+  size: 88, 387
+  orig: 88, 387
+  offset: 0, 0
+  index: -1
+weapon_1
+  rotate: false
+  xy: 2, 256
+  size: 246, 766
+  orig: 246, 766
+  offset: 0, 0
+  index: -1
+weapon_2
+  rotate: false
+  xy: 386, 299
+  size: 119, 723
+  orig: 119, 723
+  offset: 0, 0
+  index: -1

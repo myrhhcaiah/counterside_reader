@@ -1,0 +1,118 @@
+
+UNIT_ILLUST_ALPHA_CA_JIA_SPECIAL_BG.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_1
+  rotate: true
+  xy: 671, 139
+  size: 298, 527
+  orig: 298, 527
+  offset: 0, 0
+  index: -1
+bg_10
+  rotate: true
+  xy: 2, 232
+  size: 205, 667
+  orig: 205, 667
+  offset: 0, 0
+  index: -1
+bg_11
+  rotate: false
+  xy: 1200, 99
+  size: 200, 338
+  orig: 200, 338
+  offset: 0, 0
+  index: -1
+bg_12
+  rotate: true
+  xy: 2, 2
+  size: 228, 378
+  orig: 228, 378
+  offset: 0, 0
+  index: -1
+bg_13
+  rotate: false
+  xy: 1552, 429
+  size: 249, 310
+  orig: 249, 310
+  offset: 0, 0
+  index: -1
+bg_14
+  rotate: false
+  xy: 2, 866
+  size: 1562, 1180
+  orig: 1562, 1180
+  offset: 0, 0
+  index: -1
+bg_15
+  rotate: false
+  xy: 2, 439
+  size: 1400, 425
+  orig: 1400, 425
+  offset: 0, 0
+  index: -1
+bg_2
+  rotate: true
+  xy: 382, 50
+  size: 180, 273
+  orig: 180, 273
+  offset: 0, 0
+  index: -1
+bg_3
+  rotate: false
+  xy: 1566, 1248
+  size: 382, 798
+  orig: 382, 798
+  offset: 0, 0
+  index: -1
+bg_4
+  rotate: false
+  xy: 1950, 1952
+  size: 13, 94
+  orig: 13, 94
+  offset: 0, 0
+  index: -1
+bg_5
+  rotate: false
+  xy: 1817, 704
+  size: 188, 542
+  orig: 188, 542
+  offset: 0, 0
+  index: -1
+bg_6
+  rotate: false
+  xy: 1803, 513
+  size: 123, 189
+  orig: 123, 189
+  offset: 0, 0
+  index: -1
+bg_7
+  rotate: false
+  xy: 1402, 123
+  size: 123, 238
+  orig: 123, 238
+  offset: 0, 0
+  index: -1
+bg_8
+  rotate: false
+  xy: 1566, 741
+  size: 249, 505
+  orig: 249, 505
+  offset: 0, 0
+  index: -1
+bg_9
+  rotate: false
+  xy: 1404, 363
+  size: 146, 501
+  orig: 146, 501
+  offset: 0, 0
+  index: -1
+bg_light_1
+  rotate: false
+  xy: 1803, 405
+  size: 106, 106
+  orig: 106, 106
+  offset: 0, 0
+  index: -1

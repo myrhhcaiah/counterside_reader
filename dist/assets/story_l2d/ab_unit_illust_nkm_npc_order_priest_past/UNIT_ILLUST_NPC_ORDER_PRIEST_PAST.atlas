@@ -1,0 +1,83 @@
+
+UNIT_ILLUST_NPC_ORDER_PRIEST_PAST.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: true
+  xy: 2, 151
+  size: 823, 1471
+  orig: 824, 1471
+  offset: 0, 0
+  index: -1
+1
+  rotate: false
+  xy: 1475, 506
+  size: 555, 468
+  orig: 555, 468
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 2, 94
+  size: 55, 914
+  orig: 55, 914
+  offset: 0, 0
+  index: -1
+BASE_FACE
+  rotate: false
+  xy: 1592, 429
+  size: 116, 75
+  orig: 117, 76
+  offset: 0, 1
+  index: -1
+DESPAIR
+  rotate: false
+  xy: 118, 17
+  size: 115, 75
+  orig: 116, 75
+  offset: 0, 0
+  index: -1
+HATE
+  rotate: false
+  xy: 1475, 405
+  size: 115, 99
+  orig: 116, 99
+  offset: 0, 0
+  index: -1
+LAUTH
+  rotate: false
+  xy: 1710, 430
+  size: 114, 74
+  orig: 114, 75
+  offset: 0, 1
+  index: -1
+PRIDE
+  rotate: false
+  xy: 2, 2
+  size: 114, 90
+  orig: 114, 90
+  offset: 0, 0
+  index: -1
+SERIOUS
+  rotate: true
+  xy: 1475, 168
+  size: 114, 76
+  orig: 115, 76
+  offset: 0, 0
+  index: -1
+SERIOUS2
+  rotate: false
+  xy: 235, 22
+  size: 114, 70
+  orig: 114, 70
+  offset: 0, 0
+  index: -1
+SURPRISE
+  rotate: true
+  xy: 1475, 284
+  size: 119, 84
+  orig: 120, 84
+  offset: 0, 0
+  index: -1

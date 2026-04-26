@@ -1,0 +1,167 @@
+
+UNIT_ILLUST_C_STREGA_EVELYN_ALWAYS.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EFFECT_1
+  rotate: false
+  xy: 1121, 36
+  size: 205, 311
+  orig: 205, 311
+  offset: 0, 0
+  index: -1
+EYE_L_DESPAIR
+  rotate: false
+  xy: 1545, 879
+  size: 59, 36
+  orig: 59, 36
+  offset: 0, 0
+  index: -1
+EYE_L_HATE
+  rotate: false
+  xy: 1121, 2
+  size: 58, 32
+  orig: 58, 32
+  offset: 0, 0
+  index: -1
+EYE_L_LAUGH
+  rotate: false
+  xy: 1328, 265
+  size: 55, 37
+  orig: 55, 37
+  offset: 0, 0
+  index: -1
+EYE_L_PRIDE
+  rotate: false
+  xy: 1328, 304
+  size: 58, 43
+  orig: 58, 43
+  offset: 0, 0
+  index: -1
+EYE_L_SERIOUS
+  rotate: false
+  xy: 1630, 981
+  size: 59, 41
+  orig: 59, 41
+  offset: 0, 0
+  index: -1
+EYE_L_SURPRISE
+  rotate: false
+  xy: 1406, 710
+  size: 56, 42
+  orig: 56, 42
+  offset: 0, 0
+  index: -1
+EYE_R_DESPAIR
+  rotate: false
+  xy: 1406, 675
+  size: 44, 33
+  orig: 44, 33
+  offset: 0, 0
+  index: -1
+EYE_R_HATE
+  rotate: false
+  xy: 1464, 726
+  size: 43, 26
+  orig: 43, 26
+  offset: 0, 0
+  index: -1
+EYE_R_LAUGH
+  rotate: false
+  xy: 1691, 989
+  size: 48, 33
+  orig: 48, 33
+  offset: 0, 0
+  index: -1
+EYE_R_PRIDE
+  rotate: false
+  xy: 1226, 5
+  size: 44, 29
+  orig: 44, 29
+  offset: 0, 0
+  index: -1
+EYE_R_SERIOUS
+  rotate: false
+  xy: 1181, 2
+  size: 43, 32
+  orig: 43, 32
+  offset: 0, 0
+  index: -1
+EYE_R_SURPRISE
+  rotate: false
+  xy: 1630, 940
+  size: 44, 39
+  orig: 44, 39
+  offset: 0, 0
+  index: -1
+MESH
+  rotate: true
+  xy: 2, 9
+  size: 1013, 1117
+  orig: 1013, 1117
+  offset: 0, 0
+  index: -1
+MESH_2
+  rotate: false
+  xy: 1121, 349
+  size: 283, 673
+  orig: 283, 673
+  offset: 0, 0
+  index: -1
+MESH_3
+  rotate: false
+  xy: 1406, 754
+  size: 137, 161
+  orig: 137, 161
+  offset: 0, 0
+  index: -1
+MESH_4
+  rotate: false
+  xy: 1406, 917
+  size: 222, 105
+  orig: 222, 105
+  offset: 0, 0
+  index: -1
+MOUTH_DESPAIR
+  rotate: true
+  xy: 1676, 959
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1
+MOUTH_HATE
+  rotate: false
+  xy: 1328, 254
+  size: 22, 9
+  orig: 22, 9
+  offset: 0, 0
+  index: -1
+MOUTH_LAUGH
+  rotate: false
+  xy: 1545, 862
+  size: 33, 15
+  orig: 33, 15
+  offset: 0, 0
+  index: -1
+MOUTH_PRIDE
+  rotate: true
+  xy: 1388, 308
+  size: 39, 15
+  orig: 39, 15
+  offset: 0, 0
+  index: -1
+MOUTH_SERIOUS
+  rotate: false
+  xy: 1606, 898
+  size: 18, 17
+  orig: 18, 17
+  offset: 0, 0
+  index: -1
+MOUTH_SURPRISE
+  rotate: false
+  xy: 1630, 924
+  size: 17, 14
+  orig: 17, 14
+  offset: 0, 0
+  index: -1

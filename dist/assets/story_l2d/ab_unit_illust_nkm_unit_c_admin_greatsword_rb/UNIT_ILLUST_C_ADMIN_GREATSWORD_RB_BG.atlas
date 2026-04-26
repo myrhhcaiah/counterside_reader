@@ -1,0 +1,13 @@
+
+UNIT_ILLUST_C_ADMIN_GREATSWORD_RB_BG.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back
+  rotate: false
+  xy: 2, 2
+  size: 990, 985
+  orig: 990, 985
+  offset: 0, 0
+  index: -1

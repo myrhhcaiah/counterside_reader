@@ -1,0 +1,188 @@
+
+UNIT_ILLUST_SD_CLB_003_5_MC.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 318
+  size: 206, 186
+  orig: 206, 186
+  offset: 0, 0
+  index: -1
+ear_1
+  rotate: false
+  xy: 219, 208
+  size: 93, 143
+  orig: 93, 143
+  offset: 0, 0
+  index: -1
+ear_2
+  rotate: false
+  xy: 117, 166
+  size: 100, 150
+  orig: 100, 150
+  offset: 0, 0
+  index: -1
+eye_1
+  rotate: false
+  xy: 204, 71
+  size: 27, 14
+  orig: 27, 14
+  offset: 0, 0
+  index: -1
+eye_2
+  rotate: false
+  xy: 2, 2
+  size: 28, 13
+  orig: 28, 13
+  offset: 0, 0
+  index: -1
+eye_4
+  rotate: true
+  xy: 466, 122
+  size: 40, 41
+  orig: 40, 41
+  offset: 0, 0
+  index: -1
+fx_1
+  rotate: true
+  xy: 392, 69
+  size: 53, 37
+  orig: 53, 37
+  offset: 0, 0
+  index: -1
+fx_2
+  rotate: true
+  xy: 379, 124
+  size: 46, 38
+  orig: 46, 38
+  offset: 0, 0
+  index: -1
+fx_3
+  rotate: false
+  xy: 465, 90
+  size: 36, 30
+  orig: 36, 30
+  offset: 0, 0
+  index: -1
+hat_1
+  rotate: true
+  xy: 380, 172
+  size: 179, 49
+  orig: 179, 49
+  offset: 0, 0
+  index: -1
+hat_2
+  rotate: true
+  xy: 2, 66
+  size: 250, 113
+  orig: 250, 113
+  offset: 0, 0
+  index: -1
+hat_3
+  rotate: false
+  xy: 2, 17
+  size: 85, 47
+  orig: 85, 47
+  offset: 0, 0
+  index: -1
+hat_4
+  rotate: false
+  xy: 117, 44
+  size: 85, 41
+  orig: 85, 41
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 210, 353
+  size: 212, 151
+  orig: 212, 151
+  offset: 0, 0
+  index: -1
+leg_1
+  rotate: false
+  xy: 424, 372
+  size: 79, 132
+  orig: 79, 132
+  offset: 0, 0
+  index: -1
+leg_2
+  rotate: false
+  xy: 431, 164
+  size: 78, 124
+  orig: 78, 124
+  offset: 0, 0
+  index: -1
+leg_3
+  rotate: true
+  xy: 233, 119
+  size: 87, 70
+  orig: 87, 70
+  offset: 0, 0
+  index: -1
+leg_4
+  rotate: false
+  xy: 233, 46
+  size: 75, 71
+  orig: 75, 71
+  offset: 0, 0
+  index: -1
+leg_5
+  rotate: false
+  xy: 305, 124
+  size: 72, 80
+  orig: 72, 80
+  offset: 0, 0
+  index: -1
+mouth_1
+  rotate: false
+  xy: 431, 290
+  size: 79, 80
+  orig: 79, 80
+  offset: 0, 0
+  index: -1
+mouth_2
+  rotate: false
+  xy: 310, 42
+  size: 80, 80
+  orig: 80, 80
+  offset: 0, 0
+  index: -1
+nose
+  rotate: true
+  xy: 89, 20
+  size: 44, 26
+  orig: 44, 26
+  offset: 0, 0
+  index: -1
+red_1
+  rotate: false
+  xy: 419, 127
+  size: 45, 35
+  orig: 45, 35
+  offset: 0, 0
+  index: -1
+red_2
+  rotate: true
+  xy: 431, 84
+  size: 41, 32
+  orig: 41, 32
+  offset: 0, 0
+  index: -1
+snack
+  rotate: true
+  xy: 314, 206
+  size: 145, 64
+  orig: 145, 64
+  offset: 0, 0
+  index: -1
+tail
+  rotate: true
+  xy: 117, 87
+  size: 77, 114
+  orig: 77, 114
+  offset: 0, 0
+  index: -1

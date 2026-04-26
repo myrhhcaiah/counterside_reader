@@ -1,0 +1,139 @@
+
+UNIT_ILLUST_C_HB_MIYA_RA_BG.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back
+  rotate: false
+  xy: 2, 56
+  size: 826, 959
+  orig: 826, 959
+  offset: 0, 0
+  index: -1
+chat_1
+  rotate: true
+  xy: 857, 241
+  size: 169, 25
+  orig: 169, 25
+  offset: 0, 0
+  index: -1
+chat_11
+  rotate: false
+  xy: 2, 2
+  size: 286, 25
+  orig: 286, 25
+  offset: 0, 0
+  index: -1
+chat_12
+  rotate: false
+  xy: 540, 2
+  size: 219, 25
+  orig: 219, 25
+  offset: 0, 0
+  index: -1
+chat_13
+  rotate: false
+  xy: 2, 29
+  size: 306, 25
+  orig: 306, 25
+  offset: 0, 0
+  index: -1
+chat_14
+  rotate: true
+  xy: 884, 267
+  size: 163, 25
+  orig: 163, 25
+  offset: 0, 0
+  index: -1
+chat_15
+  rotate: false
+  xy: 310, 29
+  size: 284, 25
+  orig: 284, 25
+  offset: 0, 0
+  index: -1
+chat_16
+  rotate: true
+  xy: 938, 450
+  size: 191, 25
+  orig: 191, 25
+  offset: 0, 0
+  index: -1
+chat_17
+  rotate: true
+  xy: 830, 224
+  size: 269, 25
+  orig: 269, 25
+  offset: 0, 0
+  index: -1
+chat_2
+  rotate: true
+  xy: 857, 412
+  size: 229, 25
+  orig: 229, 25
+  offset: 0, 0
+  index: -1
+chat_3
+  rotate: true
+  xy: 884, 432
+  size: 209, 25
+  orig: 209, 25
+  offset: 0, 0
+  index: -1
+chat_4
+  rotate: true
+  xy: 911, 286
+  size: 162, 25
+  orig: 162, 25
+  offset: 0, 0
+  index: -1
+chat_5
+  rotate: true
+  xy: 911, 450
+  size: 191, 25
+  orig: 191, 25
+  offset: 0, 0
+  index: -1
+chat_6
+  rotate: false
+  xy: 596, 29
+  size: 230, 25
+  orig: 230, 25
+  offset: 0, 0
+  index: -1
+chat_7
+  rotate: false
+  xy: 290, 2
+  size: 248, 25
+  orig: 248, 25
+  offset: 0, 0
+  index: -1
+chat_8
+  rotate: true
+  xy: 830, 59
+  size: 163, 25
+  orig: 163, 25
+  offset: 0, 0
+  index: -1
+chat_9
+  rotate: true
+  xy: 830, 495
+  size: 289, 25
+  orig: 289, 25
+  offset: 0, 0
+  index: -1
+on_air
+  rotate: false
+  xy: 857, 643
+  size: 133, 141
+  orig: 133, 141
+  offset: 0, 0
+  index: -1
+plant
+  rotate: false
+  xy: 830, 786
+  size: 172, 229
+  orig: 172, 229
+  offset: 0, 0
+  index: -1

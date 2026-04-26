@@ -1,0 +1,209 @@
+
+UNIT_ILLUST_NPC_HORIZON_DRONE.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blue
+  rotate: false
+  xy: 852, 821
+  size: 86, 192
+  orig: 86, 192
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 378, 812
+  size: 472, 201
+  orig: 472, 201
+  offset: 0, 0
+  index: -1
+bomb1
+  rotate: false
+  xy: 940, 746
+  size: 80, 267
+  orig: 80, 267
+  offset: 0, 0
+  index: -1
+bomb2
+  rotate: true
+  xy: 650, 76
+  size: 73, 265
+  orig: 73, 265
+  offset: 0, 0
+  index: -1
+box1
+  rotate: false
+  xy: 852, 475
+  size: 81, 28
+  orig: 81, 28
+  offset: 0, 0
+  index: -1
+box2
+  rotate: false
+  xy: 770, 424
+  size: 80, 94
+  orig: 80, 94
+  offset: 0, 0
+  index: -1
+box3
+  rotate: false
+  xy: 2, 684
+  size: 374, 329
+  orig: 374, 329
+  offset: 0, 0
+  index: -1
+l1
+  rotate: true
+  xy: 2, 36
+  size: 124, 283
+  orig: 124, 283
+  offset: 0, 0
+  index: -1
+l2
+  rotate: true
+  xy: 639, 236
+  size: 117, 278
+  orig: 117, 278
+  offset: 0, 0
+  index: -1
+mid
+  rotate: true
+  xy: 332, 409
+  size: 109, 436
+  orig: 109, 436
+  offset: 0, 0
+  index: -1
+pole1
+  rotate: true
+  xy: 919, 255
+  size: 217, 88
+  orig: 217, 88
+  offset: 0, 0
+  index: -1
+pole2
+  rotate: false
+  xy: 611, 47
+  size: 23, 89
+  orig: 23, 89
+  offset: 0, 0
+  index: -1
+r1
+  rotate: true
+  xy: 332, 230
+  size: 123, 305
+  orig: 123, 305
+  offset: 0, 0
+  index: -1
+r2
+  rotate: true
+  xy: 287, 14
+  size: 122, 303
+  orig: 122, 303
+  offset: 0, 0
+  index: -1
+red
+  rotate: false
+  xy: 919, 61
+  size: 86, 192
+  orig: 86, 192
+  offset: 0, 0
+  index: -1
+red_line
+  rotate: false
+  xy: 592, 20
+  size: 17, 116
+  orig: 17, 116
+  offset: 0, 0
+  index: -1
+stick1
+  rotate: true
+  xy: 159, 162
+  size: 16, 66
+  orig: 16, 66
+  offset: 0, 0
+  index: -1
+stick2
+  rotate: false
+  xy: 133, 14
+  size: 102, 20
+  orig: 102, 20
+  offset: 0, 0
+  index: -1
+stick3
+  rotate: false
+  xy: 2, 2
+  size: 129, 32
+  orig: 129, 32
+  offset: 0, 0
+  index: -1
+stick4
+  rotate: false
+  xy: 159, 180
+  size: 147, 23
+  orig: 147, 23
+  offset: 0, 0
+  index: -1
+w1
+  rotate: true
+  xy: 2, 162
+  size: 520, 155
+  orig: 520, 155
+  offset: 0, 0
+  index: -1
+w2
+  rotate: false
+  xy: 378, 649
+  size: 482, 161
+  orig: 482, 161
+  offset: 0, 0
+  index: -1
+w3
+  rotate: false
+  xy: 332, 520
+  size: 518, 127
+  orig: 518, 127
+  offset: 0, 0
+  index: -1
+w4
+  rotate: true
+  xy: 159, 205
+  size: 477, 171
+  orig: 477, 171
+  offset: 0, 0
+  index: -1
+w5
+  rotate: false
+  xy: 332, 138
+  size: 316, 90
+  orig: 316, 90
+  offset: 0, 0
+  index: -1
+w6
+  rotate: true
+  xy: 938, 474
+  size: 270, 83
+  orig: 270, 83
+  offset: 0, 0
+  index: -1
+w7
+  rotate: true
+  xy: 862, 505
+  size: 314, 74
+  orig: 314, 74
+  offset: 0, 0
+  index: -1
+w8
+  rotate: false
+  xy: 650, 151
+  size: 260, 83
+  orig: 260, 83
+  offset: 0, 0
+  index: -1
+wing
+  rotate: true
+  xy: 332, 355
+  size: 52, 420
+  orig: 52, 420
+  offset: 0, 0
+  index: -1

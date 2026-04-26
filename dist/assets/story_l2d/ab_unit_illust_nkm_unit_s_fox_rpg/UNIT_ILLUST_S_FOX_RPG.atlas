@@ -1,0 +1,258 @@
+
+UNIT_ILLUST_S_FOX_RPG.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_arm
+  rotate: true
+  xy: 0, 146
+  size: 203, 199
+  orig: 203, 199
+  offset: 0, 0
+  index: -1
+L_back
+  rotate: false
+  xy: 652, 91
+  size: 27, 24
+  orig: 27, 24
+  offset: 0, 0
+  index: -1
+L_c_eye
+  rotate: true
+  xy: 1014, 435
+  size: 31, 10
+  orig: 31, 10
+  offset: 0, 0
+  index: -1
+L_eye
+  rotate: false
+  xy: 849, 552
+  size: 19, 23
+  orig: 19, 23
+  offset: 0, 0
+  index: -1
+L_eyeblow
+  rotate: true
+  xy: 801, 173
+  size: 29, 6
+  orig: 29, 6
+  offset: 0, 0
+  index: -1
+L_eyelashes
+  rotate: false
+  xy: 258, 191
+  size: 37, 27
+  orig: 37, 27
+  offset: 0, 0
+  index: -1
+L_leg
+  rotate: false
+  xy: 191, 363
+  size: 141, 656
+  orig: 141, 656
+  offset: 0, 0
+  index: -1
+L_leg2
+  rotate: false
+  xy: 539, 115
+  size: 162, 87
+  orig: 162, 87
+  offset: 0, 0
+  index: -1
+R_arm
+  rotate: false
+  xy: 581, 202
+  size: 226, 373
+  orig: 226, 373
+  offset: 0, 0
+  index: -1
+R_arm2
+  rotate: false
+  xy: 974, 319
+  size: 37, 24
+  orig: 37, 24
+  offset: 0, 0
+  index: -1
+R_back
+  rotate: true
+  xy: 303, 326
+  size: 37, 25
+  orig: 37, 25
+  offset: 0, 0
+  index: -1
+R_c_eye
+  rotate: true
+  xy: 1011, 300
+  size: 43, 13
+  orig: 43, 13
+  offset: 0, 0
+  index: -1
+R_eye
+  rotate: false
+  xy: 807, 494
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+R_eyeblow
+  rotate: false
+  xy: 539, 64
+  size: 40, 15
+  orig: 40, 15
+  offset: 0, 0
+  index: -1
+R_eyelashes
+  rotate: false
+  xy: 167, 3
+  size: 53, 27
+  orig: 53, 27
+  offset: 0, 0
+  index: -1
+R_leg
+  rotate: false
+  xy: 639, 575
+  size: 265, 444
+  orig: 265, 444
+  offset: 0, 0
+  index: -1
+R_leg2
+  rotate: false
+  xy: 904, 466
+  size: 113, 553
+  orig: 113, 553
+  offset: 0, 0
+  index: -1
+body1
+  rotate: false
+  xy: 332, 593
+  size: 307, 426
+  orig: 307, 426
+  offset: 0, 0
+  index: -1
+body_ac1
+  rotate: false
+  xy: 199, 157
+  size: 59, 206
+  orig: 59, 206
+  offset: 0, 0
+  index: -1
+body_ac2
+  rotate: false
+  xy: 428, 64
+  size: 111, 139
+  orig: 111, 139
+  offset: 0, 0
+  index: -1
+body_ac3
+  rotate: false
+  xy: 701, 72
+  size: 100, 130
+  orig: 100, 130
+  offset: 0, 0
+  index: -1
+body_ac4
+  rotate: false
+  xy: 258, 218
+  size: 45, 145
+  orig: 45, 145
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 807, 256
+  size: 167, 210
+  orig: 167, 210
+  offset: 0, 0
+  index: -1
+face_ac1
+  rotate: true
+  xy: 0, 0
+  size: 30, 167
+  orig: 30, 167
+  offset: 0, 0
+  index: -1
+face_ac2
+  rotate: false
+  xy: 974, 343
+  size: 40, 123
+  orig: 40, 123
+  offset: 0, 0
+  index: -1
+hair1
+  rotate: true
+  xy: 807, 94
+  size: 162, 210
+  orig: 162, 210
+  offset: 0, 0
+  index: -1
+hair2
+  rotate: true
+  xy: 539, 79
+  size: 36, 113
+  orig: 36, 113
+  offset: 0, 0
+  index: -1
+hair3
+  rotate: false
+  xy: 0, 349
+  size: 191, 670
+  orig: 191, 670
+  offset: 0, 0
+  index: -1
+hair4
+  rotate: true
+  xy: 428, 30
+  size: 34, 112
+  orig: 34, 112
+  offset: 0, 0
+  index: -1
+hair_shadow
+  rotate: false
+  xy: 807, 521
+  size: 42, 54
+  orig: 42, 54
+  offset: 0, 0
+  index: -1
+hair_shadow2
+  rotate: false
+  xy: 220, 6
+  size: 17, 24
+  orig: 17, 24
+  offset: 0, 0
+  index: -1
+hair_shadow3
+  rotate: false
+  xy: 199, 148
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 581, 580
+  size: 33, 13
+  orig: 33, 13
+  offset: 0, 0
+  index: -1
+nose
+  rotate: false
+  xy: 258, 167
+  size: 14, 24
+  orig: 14, 24
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: true
+  xy: 332, 203
+  size: 390, 249
+  orig: 390, 249
+  offset: 0, 0
+  index: -1
+weapon2
+  rotate: false
+  xy: 0, 30
+  size: 428, 116
+  orig: 428, 116
+  offset: 0, 0
+  index: -1

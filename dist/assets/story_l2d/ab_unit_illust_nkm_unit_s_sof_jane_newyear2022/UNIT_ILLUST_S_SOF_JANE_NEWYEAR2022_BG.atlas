@@ -1,0 +1,62 @@
+
+UNIT_ILLUST_S_SOF_JANE_NEWYEAR2022_BG.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_fx_01
+  rotate: false
+  xy: 1006, 987
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+bg_fx_02_00
+  rotate: false
+  xy: 502, 2
+  size: 304, 265
+  orig: 304, 265
+  offset: 0, 0
+  index: -1
+bg_fx_02_01
+  rotate: true
+  xy: 779, 442
+  size: 253, 170
+  orig: 253, 170
+  offset: 0, 0
+  index: -1
+bg_obj_02_00
+  rotate: false
+  xy: 502, 269
+  size: 275, 426
+  orig: 275, 426
+  offset: 0, 0
+  index: -1
+bg_obj_02_00_01
+  rotate: false
+  xy: 779, 281
+  size: 142, 159
+  orig: 142, 159
+  offset: 0, 0
+  index: -1
+bg_obj_02_01
+  rotate: false
+  xy: 808, 43
+  size: 86, 236
+  orig: 86, 236
+  offset: 0, 0
+  index: -1
+bg_obj_03
+  rotate: false
+  xy: 2, 4
+  size: 498, 998
+  orig: 498, 998
+  offset: 0, 0
+  index: -1
+bg_obj_04
+  rotate: false
+  xy: 502, 697
+  size: 502, 305
+  orig: 502, 305
+  offset: 0, 0
+  index: -1

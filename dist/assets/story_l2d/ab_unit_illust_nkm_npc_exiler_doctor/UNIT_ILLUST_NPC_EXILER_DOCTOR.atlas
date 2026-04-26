@@ -1,0 +1,125 @@
+
+UNIT_ILLUST_NPC_EXILER_DOCTOR.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 473, 1
+  size: 324, 1022
+  orig: 324, 1022
+  offset: 0, 0
+  index: -1
+1
+  rotate: false
+  xy: 1, 48
+  size: 471, 975
+  orig: 471, 975
+  offset: 0, 0
+  index: -1
+BASE
+  rotate: true
+  xy: 798, 498
+  size: 121, 83
+  orig: 121, 83
+  offset: 0, 0
+  index: -1
+BASE_EYEBOW
+  rotate: true
+  xy: 882, 487
+  size: 132, 16
+  orig: 132, 16
+  offset: 0, 0
+  index: -1
+DESAPIR_EYEBOW
+  rotate: false
+  xy: 127, 32
+  size: 129, 15
+  orig: 129, 15
+  offset: 0, 0
+  index: -1
+DESPAIR
+  rotate: true
+  xy: 798, 376
+  size: 121, 83
+  orig: 121, 83
+  offset: 0, 0
+  index: -1
+HATE
+  rotate: true
+  xy: 798, 11
+  size: 121, 79
+  orig: 121, 79
+  offset: 0, 0
+  index: -1
+HATE_EYEBOW
+  rotate: false
+  xy: 1, 15
+  size: 125, 32
+  orig: 125, 32
+  offset: 0, 0
+  index: -1
+LAUGH
+  rotate: true
+  xy: 798, 254
+  size: 121, 82
+  orig: 121, 82
+  offset: 0, 0
+  index: -1
+LAUGH_EYEBOW
+  rotate: true
+  xy: 937, 665
+  size: 128, 16
+  orig: 128, 16
+  offset: 0, 0
+  index: -1
+PRIDE
+  rotate: false
+  xy: 798, 707
+  size: 120, 86
+  orig: 120, 86
+  offset: 0, 0
+  index: -1
+PRIDE_EYEBOW
+  rotate: true
+  xy: 989, 898
+  size: 125, 31
+  orig: 125, 31
+  offset: 0, 0
+  index: -1
+SERIOUS_EYEBOW
+  rotate: true
+  xy: 989, 898
+  size: 125, 31
+  orig: 125, 31
+  offset: 0, 0
+  index: -1
+SERIOUS
+  rotate: false
+  xy: 798, 620
+  size: 120, 86
+  orig: 120, 86
+  offset: 0, 0
+  index: -1
+SURPRISE
+  rotate: true
+  xy: 798, 133
+  size: 120, 81
+  orig: 120, 81
+  offset: 0, 0
+  index: -1
+SURPRISE_EYEBOW
+  rotate: true
+  xy: 919, 661
+  size: 132, 17
+  orig: 132, 17
+  offset: 0, 0
+  index: -1
+hair1
+  rotate: true
+  xy: 798, 794
+  size: 229, 190
+  orig: 229, 190
+  offset: 0, 0
+  index: -1

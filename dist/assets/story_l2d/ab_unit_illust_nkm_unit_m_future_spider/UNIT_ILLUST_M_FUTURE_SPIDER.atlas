@@ -1,0 +1,279 @@
+
+UNIT_ILLUST_M_FUTURE_SPIDER.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1st-Leg
+  rotate: false
+  xy: 91, 455
+  size: 219, 300
+  orig: 219, 300
+  offset: 0, 0
+  index: -1
+1st-Leg-(Low Armor)
+  rotate: true
+  xy: 510, 161
+  size: 60, 116
+  orig: 60, 116
+  offset: 0, 0
+  index: -1
+1st-Leg-Armor
+  rotate: false
+  xy: 245, 172
+  size: 138, 275
+  orig: 138, 275
+  offset: 0, 0
+  index: -1
+1st-Leg-Foot
+  rotate: false
+  xy: 778, 209
+  size: 141, 125
+  orig: 141, 125
+  offset: 0, 0
+  index: -1
+1str-Leg (Frame)
+  rotate: true
+  xy: 245, 0
+  size: 172, 124
+  orig: 172, 124
+  offset: 0, 0
+  index: -1
+1str-Leg (Joint)
+  rotate: false
+  xy: 511, 78
+  size: 83, 83
+  orig: 83, 83
+  offset: 0, 0
+  index: -1
+1str-Leg (Parts)
+  rotate: true
+  xy: 973, 670
+  size: 86, 42
+  orig: 86, 42
+  offset: 0, 0
+  index: -1
+1str-Leg (Parts-2)
+  rotate: true
+  xy: 446, 22
+  size: 95, 65
+  orig: 95, 65
+  offset: 0, 0
+  index: -1
+2nd-Leg (Armor
+  rotate: false
+  xy: 383, 202
+  size: 127, 245
+  orig: 127, 245
+  offset: 0, 0
+  index: -1
+2nd-Leg (parts)
+  rotate: true
+  xy: 536, 758
+  size: 266, 303
+  orig: 266, 303
+  offset: 0, 0
+  index: -1
+2nd-Leg (parts-2)
+  rotate: false
+  xy: 626, 159
+  size: 152, 114
+  orig: 152, 114
+  offset: 0, 0
+  index: -1
+2nd-Leg (parts-3)
+  rotate: false
+  xy: 465, 447
+  size: 94, 90
+  orig: 94, 90
+  offset: 0, 0
+  index: -1
+2nd-Leg (parts-4)
+  rotate: false
+  xy: 996, 525
+  size: 28, 35
+  orig: 28, 35
+  offset: 0, 0
+  index: -1
+2nd-Leg (parts-5)
+  rotate: false
+  xy: 919, 225
+  size: 85, 109
+  orig: 85, 109
+  offset: 0, 0
+  index: -1
+2nd-Leg (parts-6)
+  rotate: true
+  xy: 839, 756
+  size: 268, 172
+  orig: 268, 172
+  offset: 0, 0
+  index: -1
+2nd-Leg (parts-7)
+  rotate: false
+  xy: 369, 24
+  size: 77, 93
+  orig: 77, 93
+  offset: 0, 0
+  index: -1
+2nd-Leg (parts-8)
+  rotate: false
+  xy: 511, 14
+  size: 90, 64
+  orig: 90, 64
+  offset: 0, 0
+  index: -1
+3rd Leg (Parts - 1)
+  rotate: false
+  xy: 797, 576
+  size: 176, 180
+  orig: 176, 180
+  offset: 0, 0
+  index: -1
+3rd Leg (Parts - 2)
+  rotate: false
+  xy: 169, 23
+  size: 68, 100
+  orig: 68, 100
+  offset: 0, 0
+  index: -1
+3rd Leg (Parts - 3)
+  rotate: false
+  xy: 510, 221
+  size: 116, 203
+  orig: 116, 203
+  offset: 0, 0
+  index: -1
+3rd Leg (Parts - 4)
+  rotate: true
+  xy: 594, 85
+  size: 74, 84
+  orig: 74, 84
+  offset: 0, 0
+  index: -1
+3rd Leg (Parts - 5)
+  rotate: false
+  xy: 778, 102
+  size: 124, 107
+  orig: 124, 107
+  offset: 0, 0
+  index: -1
+3rd Leg (Parts - 6)
+  rotate: false
+  xy: 591, 565
+  size: 206, 193
+  orig: 206, 193
+  offset: 0, 0
+  index: -1
+4th-Leg (parts- 1)
+  rotate: true
+  xy: 591, 424
+  size: 141, 210
+  orig: 141, 210
+  offset: 0, 0
+  index: -1
+4th-Leg (parts- 2)
+  rotate: true
+  xy: 801, 428
+  size: 148, 195
+  orig: 148, 195
+  offset: 0, 0
+  index: -1
+4th-Leg (parts- 3)
+  rotate: false
+  xy: 973, 617
+  size: 49, 53
+  orig: 49, 53
+  offset: 0, 0
+  index: -1
+4th-Leg (parts- 4)
+  rotate: true
+  xy: 383, 117
+  size: 85, 98
+  orig: 85, 98
+  offset: 0, 0
+  index: -1
+4th-Leg (parts- 5)
+  rotate: true
+  xy: 801, 334
+  size: 94, 180
+  orig: 94, 180
+  offset: 0, 0
+  index: -1
+Ammo
+  rotate: true
+  xy: 678, 93
+  size: 66, 87
+  orig: 66, 87
+  offset: 0, 0
+  index: -1
+Armor-A
+  rotate: true
+  xy: 465, 537
+  size: 218, 126
+  orig: 218, 126
+  offset: 0, 0
+  index: -1
+Armor-B
+  rotate: true
+  xy: 0, 2
+  size: 121, 169
+  orig: 121, 169
+  offset: 0, 0
+  index: -1
+Cable
+  rotate: false
+  xy: 626, 273
+  size: 149, 151
+  orig: 149, 151
+  offset: 0, 0
+  index: -1
+Core Parts
+  rotate: true
+  xy: 91, 123
+  size: 332, 154
+  orig: 332, 154
+  offset: 0, 0
+  index: -1
+GUN
+  rotate: true
+  xy: 0, 144
+  size: 611, 91
+  orig: 611, 91
+  offset: 0, 0
+  index: -1
+Gun-Parts
+  rotate: true
+  xy: 996, 560
+  size: 57, 28
+  orig: 57, 28
+  offset: 0, 0
+  index: -1
+Low Parts
+  rotate: true
+  xy: 310, 447
+  size: 308, 155
+  orig: 308, 155
+  offset: 0, 0
+  index: -1
+Main Body
+  rotate: false
+  xy: 0, 755
+  size: 536, 269
+  orig: 536, 269
+  offset: 0, 0
+  index: -1
+antena-01
+  rotate: false
+  xy: 902, 108
+  size: 4, 101
+  orig: 4, 101
+  offset: 0, 0
+  index: -1
+antena-02
+  rotate: false
+  xy: 1011, 870
+  size: 6, 154
+  orig: 6, 154
+  offset: 0, 0
+  index: -1

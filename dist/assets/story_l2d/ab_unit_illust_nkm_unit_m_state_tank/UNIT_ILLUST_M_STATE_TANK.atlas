@@ -1,0 +1,181 @@
+
+UNIT_ILLUST_M_STATE_TANK.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 795
+  size: 885, 227
+  orig: 885, 227
+  offset: 0, 0
+  index: -1
+canon_01
+  rotate: false
+  xy: 324, 14
+  size: 114, 78
+  orig: 114, 78
+  offset: 0, 0
+  index: -1
+canon_02
+  rotate: true
+  xy: 889, 858
+  size: 164, 106
+  orig: 164, 106
+  offset: 0, 0
+  index: -1
+canon_03
+  rotate: false
+  xy: 452, 193
+  size: 299, 160
+  orig: 299, 160
+  offset: 0, 0
+  index: -1
+canon_back_01
+  rotate: false
+  xy: 889, 803
+  size: 51, 53
+  orig: 51, 53
+  offset: 0, 0
+  index: -1
+canon_back_02
+  rotate: true
+  xy: 440, 2
+  size: 41, 45
+  orig: 41, 45
+  offset: 0, 0
+  index: -1
+canon_left
+  rotate: true
+  xy: 753, 282
+  size: 71, 69
+  orig: 71, 69
+  offset: 0, 0
+  index: -1
+canon_right
+  rotate: true
+  xy: 624, 46
+  size: 145, 124
+  orig: 145, 124
+  offset: 0, 0
+  index: -1
+cover_01
+  rotate: false
+  xy: 494, 355
+  size: 321, 154
+  orig: 321, 154
+  offset: 0, 0
+  index: -1
+cover_02
+  rotate: false
+  xy: 2, 94
+  size: 437, 132
+  orig: 437, 132
+  offset: 0, 0
+  index: -1
+cover_03
+  rotate: false
+  xy: 177, 13
+  size: 145, 79
+  orig: 145, 79
+  offset: 0, 0
+  index: -1
+front_cover_left
+  rotate: false
+  xy: 523, 511
+  size: 358, 120
+  orig: 358, 120
+  offset: 0, 0
+  index: -1
+front_cover_right
+  rotate: false
+  xy: 2, 4
+  size: 173, 88
+  orig: 173, 88
+  offset: 0, 0
+  index: -1
+head_left
+  rotate: false
+  xy: 523, 633
+  size: 403, 160
+  orig: 403, 160
+  offset: 0, 0
+  index: -1
+right_head
+  rotate: false
+  xy: 2, 410
+  size: 490, 188
+  orig: 490, 188
+  offset: 0, 0
+  index: -1
+thing_01
+  rotate: false
+  xy: 441, 45
+  size: 181, 146
+  orig: 181, 146
+  offset: 0, 0
+  index: -1
+thing_02
+  rotate: true
+  xy: 817, 366
+  size: 143, 37
+  orig: 143, 37
+  offset: 0, 0
+  index: -1
+thing_03
+  rotate: false
+  xy: 494, 561
+  size: 12, 37
+  orig: 12, 37
+  offset: 0, 0
+  index: -1
+thing_04
+  rotate: false
+  xy: 753, 262
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: -1
+thing_05
+  rotate: true
+  xy: 452, 386
+  size: 22, 40
+  orig: 22, 40
+  offset: 0, 0
+  index: -1
+thing_06
+  rotate: false
+  xy: 997, 978
+  size: 25, 44
+  orig: 25, 44
+  offset: 0, 0
+  index: -1
+thing_07
+  rotate: false
+  xy: 856, 489
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+thing_08
+  rotate: false
+  xy: 883, 589
+  size: 17, 42
+  orig: 17, 42
+  offset: 0, 0
+  index: -1
+wheel_01
+  rotate: false
+  xy: 2, 600
+  size: 519, 193
+  orig: 519, 193
+  offset: 0, 0
+  index: -1
+wheel_02
+  rotate: false
+  xy: 2, 228
+  size: 448, 180
+  orig: 448, 180
+  offset: 0, 0
+  index: -1

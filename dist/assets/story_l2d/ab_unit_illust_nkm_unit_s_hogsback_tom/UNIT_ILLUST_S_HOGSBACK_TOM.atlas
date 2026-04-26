@@ -1,0 +1,132 @@
+
+UNIT_ILLUST_S_HOGSBACK_TOM.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ob_1
+  rotate: false
+  xy: 762, 384
+  size: 240, 236
+  orig: 240, 236
+  offset: 0, 0
+  index: -1
+ob_10
+  rotate: false
+  xy: 212, 3
+  size: 65, 48
+  orig: 65, 48
+  offset: 0, 0
+  index: -1
+ob_11
+  rotate: true
+  xy: 536, 68
+  size: 127, 198
+  orig: 127, 198
+  offset: 0, 0
+  index: -1
+ob_12
+  rotate: true
+  xy: 736, 265
+  size: 117, 238
+  orig: 117, 238
+  offset: 0, 0
+  index: -1
+ob_13
+  rotate: true
+  xy: 167, 2
+  size: 49, 43
+  orig: 49, 43
+  offset: 0, 0
+  index: -1
+ob_14
+  rotate: true
+  xy: 736, 166
+  size: 97, 202
+  orig: 97, 202
+  offset: 0, 0
+  index: -1
+ob_15
+  rotate: true
+  xy: 884, 93
+  size: 71, 138
+  orig: 71, 138
+  offset: 0, 0
+  index: -1
+ob_16
+  rotate: false
+  xy: 736, 65
+  size: 146, 99
+  orig: 146, 99
+  offset: 0, 0
+  index: -1
+ob_17
+  rotate: false
+  xy: 541, 197
+  size: 193, 227
+  orig: 193, 227
+  offset: 0, 0
+  index: -1
+ob_18
+  rotate: true
+  xy: 167, 53
+  size: 184, 267
+  orig: 184, 267
+  offset: 0, 0
+  index: -1
+ob_2
+  rotate: true
+  xy: 436, 35
+  size: 202, 98
+  orig: 202, 98
+  offset: 0, 0
+  index: -1
+ob_3
+  rotate: false
+  xy: 762, 746
+  size: 243, 276
+  orig: 243, 276
+  offset: 0, 0
+  index: -1
+ob_4
+  rotate: false
+  xy: 2, 2
+  size: 163, 235
+  orig: 163, 235
+  offset: 0, 0
+  index: -1
+ob_5
+  rotate: false
+  xy: 279, 9
+  size: 33, 42
+  orig: 33, 42
+  offset: 0, 0
+  index: -1
+ob_6
+  rotate: false
+  xy: 541, 426
+  size: 219, 596
+  orig: 219, 596
+  offset: 0, 0
+  index: -1
+ob_7
+  rotate: false
+  xy: 940, 179
+  size: 62, 84
+  orig: 62, 84
+  offset: 0, 0
+  index: -1
+ob_8
+  rotate: false
+  xy: 2, 239
+  size: 537, 783
+  orig: 537, 783
+  offset: 0, 0
+  index: -1
+ob_9
+  rotate: true
+  xy: 762, 622
+  size: 122, 260
+  orig: 122, 260
+  offset: 0, 0
+  index: -1

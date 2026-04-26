@@ -1,0 +1,48 @@
+
+UNIT_ILLUST_NPC_CLEANER_CLEAN.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 2, 51
+  size: 631, 949
+  orig: 631, 949
+  offset: 0, 0
+  index: -1
+BASE_FACE
+  rotate: false
+  xy: 635, 913
+  size: 78, 40
+  orig: 78, 40
+  offset: 0, 0
+  index: -1
+EMOTION_1
+  rotate: false
+  xy: 2, 2
+  size: 103, 22
+  orig: 103, 22
+  offset: 0, 0
+  index: -1
+EMOTION_2
+  rotate: false
+  xy: 635, 983
+  size: 114, 17
+  orig: 114, 17
+  offset: 0, 0
+  index: -1
+EMOTION_3
+  rotate: false
+  xy: 2, 26
+  size: 111, 23
+  orig: 111, 23
+  offset: 0, 0
+  index: -1
+EMOTION_4
+  rotate: false
+  xy: 635, 955
+  size: 97, 26
+  orig: 97, 26
+  offset: 0, 0
+  index: -1

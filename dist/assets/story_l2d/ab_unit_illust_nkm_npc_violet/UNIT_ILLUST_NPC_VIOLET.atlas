@@ -1,0 +1,83 @@
+
+UNIT_ILLUST_NPC_VIOLET.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_1
+  rotate: true
+  xy: 2, 354
+  size: 625, 1969
+  orig: 625, 1969
+  offset: 0, 0
+  index: -1
+body_2
+  rotate: true
+  xy: 2, 7
+  size: 345, 902
+  orig: 345, 902
+  offset: 0, 0
+  index: -1
+body_3
+  rotate: false
+  xy: 906, 99
+  size: 323, 253
+  orig: 323, 253
+  offset: 0, 0
+  index: -1
+despair
+  rotate: true
+  xy: 1879, 199
+  size: 153, 89
+  orig: 153, 89
+  offset: 0, 0
+  index: -1
+hate
+  rotate: false
+  xy: 906, 2
+  size: 158, 95
+  orig: 158, 95
+  offset: 0, 0
+  index: -1
+idle
+  rotate: false
+  xy: 1718, 249
+  size: 159, 103
+  orig: 159, 103
+  offset: 0, 0
+  index: -1
+idle2
+  rotate: false
+  xy: 1396, 247
+  size: 159, 105
+  orig: 159, 105
+  offset: 0, 0
+  index: -1
+laugh
+  rotate: false
+  xy: 1557, 248
+  size: 159, 104
+  orig: 159, 104
+  offset: 0, 0
+  index: -1
+pride
+  rotate: false
+  xy: 1066, 5
+  size: 153, 92
+  orig: 153, 92
+  offset: 0, 0
+  index: -1
+serious
+  rotate: false
+  xy: 1231, 242
+  size: 163, 110
+  orig: 163, 110
+  offset: 0, 0
+  index: -1
+surprise
+  rotate: false
+  xy: 1231, 135
+  size: 160, 105
+  orig: 160, 105
+  offset: 0, 0
+  index: -1

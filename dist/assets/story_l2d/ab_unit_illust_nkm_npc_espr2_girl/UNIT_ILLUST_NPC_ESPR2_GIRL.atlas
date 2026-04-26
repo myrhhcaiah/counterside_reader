@@ -1,0 +1,69 @@
+
+UNIT_ILLUST_NPC_ESPR2_GIRL.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BASE
+  rotate: true
+  xy: 0, 156
+  size: 308, 996
+  orig: 308, 996
+  offset: 0, 0
+  index: -1
+BASEFACE
+  rotate: false
+  xy: 355, 99
+  size: 96, 57
+  orig: 96, 57
+  offset: 0, 0
+  index: -1
+DESPAIR
+  rotate: false
+  xy: 547, 100
+  size: 96, 56
+  orig: 96, 56
+  offset: 0, 0
+  index: -1
+HATE
+  rotate: false
+  xy: 643, 102
+  size: 96, 54
+  orig: 96, 54
+  offset: 0, 0
+  index: -1
+LAUGH
+  rotate: false
+  xy: 164, 36
+  size: 88, 57
+  orig: 88, 57
+  offset: 0, 0
+  index: -1
+PRIDE
+  rotate: false
+  xy: 451, 99
+  size: 96, 57
+  orig: 96, 57
+  offset: 0, 0
+  index: -1
+SERIOUS
+  rotate: false
+  xy: 259, 96
+  size: 96, 60
+  orig: 96, 60
+  offset: 0, 0
+  index: -1
+SURPRISE
+  rotate: false
+  xy: 164, 93
+  size: 95, 63
+  orig: 95, 63
+  offset: 0, 0
+  index: -1
+UP
+  rotate: false
+  xy: 0, 0
+  size: 164, 156
+  orig: 164, 156
+  offset: 0, 0
+  index: -1

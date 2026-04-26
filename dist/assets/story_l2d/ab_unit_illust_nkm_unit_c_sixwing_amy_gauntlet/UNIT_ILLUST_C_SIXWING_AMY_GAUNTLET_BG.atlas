@@ -1,0 +1,13 @@
+
+UNIT_ILLUST_C_SIXWING_AMY_GAUNTLET_BG.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_1
+  rotate: false
+  xy: 2, 2
+  size: 2011, 1983
+  orig: 2011, 1983
+  offset: 0, 0
+  index: -1

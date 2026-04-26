@@ -1,0 +1,13 @@
+
+UNIT_ILLUST_NPC_CREW_FRONTBAY_SILHOUETTE.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+SILHOUETTE
+  rotate: true
+  xy: 2, 2
+  size: 507, 1003
+  orig: 507, 1003
+  offset: 0, 0
+  index: -1

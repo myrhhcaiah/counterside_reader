@@ -1,0 +1,181 @@
+
+UNIT_ILLUST_SD_CLB_003_1_SSR_A.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 5
+  size: 180, 169
+  orig: 180, 169
+  offset: 0, 0
+  index: -1
+body_ac
+  rotate: false
+  xy: 661, 5
+  size: 78, 78
+  orig: 78, 78
+  offset: 0, 0
+  index: -1
+body_left_arm
+  rotate: true
+  xy: 796, 142
+  size: 103, 113
+  orig: 103, 113
+  offset: 0, 0
+  index: -1
+body_left_hand
+  rotate: true
+  xy: 951, 242
+  size: 100, 67
+  orig: 100, 67
+  offset: 0, 0
+  index: -1
+body_right_arm
+  rotate: false
+  xy: 661, 85
+  size: 88, 83
+  orig: 88, 83
+  offset: 0, 0
+  index: -1
+body_right_arm_b
+  rotate: true
+  xy: 751, 52
+  size: 88, 83
+  orig: 88, 83
+  offset: 0, 0
+  index: -1
+body_right_hand
+  rotate: true
+  xy: 633, 244
+  size: 75, 70
+  orig: 75, 70
+  offset: 0, 0
+  index: -1
+cap
+  rotate: true
+  xy: 219, 236
+  size: 273, 122
+  orig: 273, 122
+  offset: 0, 0
+  index: -1
+face_a
+  rotate: false
+  xy: 797, 414
+  size: 158, 95
+  orig: 158, 95
+  offset: 0, 0
+  index: -1
+face_b
+  rotate: false
+  xy: 796, 247
+  size: 153, 95
+  orig: 153, 95
+  offset: 0, 0
+  index: -1
+face_c
+  rotate: true
+  xy: 695, 351
+  size: 158, 100
+  orig: 158, 100
+  offset: 0, 0
+  index: -1
+face_g
+  rotate: false
+  xy: 184, 15
+  size: 184, 159
+  orig: 184, 159
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: true
+  xy: 343, 242
+  size: 267, 204
+  orig: 267, 204
+  offset: 0, 0
+  index: -1
+hair_back_02
+  rotate: false
+  xy: 2, 176
+  size: 215, 333
+  orig: 215, 333
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: true
+  xy: 370, 2
+  size: 178, 106
+  orig: 178, 106
+  offset: 0, 0
+  index: -1
+hair_left
+  rotate: true
+  xy: 219, 182
+  size: 52, 242
+  orig: 52, 242
+  offset: 0, 0
+  index: -1
+hair_right
+  rotate: false
+  xy: 549, 265
+  size: 82, 244
+  orig: 82, 244
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 478, 7
+  size: 233, 181
+  orig: 233, 181
+  offset: 0, 0
+  index: -1
+l_clothes
+  rotate: false
+  xy: 957, 351
+  size: 61, 158
+  orig: 61, 158
+  offset: 0, 0
+  index: -1
+l_leg_a
+  rotate: false
+  xy: 705, 260
+  size: 89, 89
+  orig: 89, 89
+  offset: 0, 0
+  index: -1
+l_leg_b
+  rotate: false
+  xy: 911, 61
+  size: 105, 94
+  orig: 105, 94
+  offset: 0, 0
+  index: -1
+r_clothes
+  rotate: true
+  xy: 797, 344
+  size: 68, 158
+  orig: 68, 158
+  offset: 0, 0
+  index: -1
+r_leg_a
+  rotate: true
+  xy: 705, 170
+  size: 88, 89
+  orig: 88, 89
+  offset: 0, 0
+  index: -1
+r_leg_b
+  rotate: false
+  xy: 911, 157
+  size: 106, 83
+  orig: 106, 83
+  offset: 0, 0
+  index: -1
+sunglasses
+  rotate: true
+  xy: 633, 321
+  size: 188, 60
+  orig: 188, 60
+  offset: 0, 0
+  index: -1

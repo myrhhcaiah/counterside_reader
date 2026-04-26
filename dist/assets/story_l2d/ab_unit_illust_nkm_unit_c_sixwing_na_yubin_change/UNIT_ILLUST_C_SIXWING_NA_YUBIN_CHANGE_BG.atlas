@@ -1,0 +1,13 @@
+
+UNIT_ILLUST_C_SIXWING_NA_YUBIN_CHANGE_BG.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 2, 2
+  size: 967, 1010
+  orig: 967, 1010
+  offset: 0, 0
+  index: -1

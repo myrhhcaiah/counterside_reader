@@ -1,0 +1,83 @@
+
+UNIT_ILLUST_NPC_HARMONY_WHITE.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 703, 192
+  size: 258, 203
+  orig: 258, 203
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 139
+  size: 699, 871
+  orig: 699, 871
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 703, 452
+  size: 158, 558
+  orig: 158, 558
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 2, 2
+  size: 135, 618
+  orig: 135, 618
+  offset: 0, 0
+  index: -1
+despair
+  rotate: false
+  xy: 701, 41
+  size: 119, 69
+  orig: 119, 69
+  offset: 0, 0
+  index: -1
+hate
+  rotate: true
+  xy: 863, 663
+  size: 124, 81
+  orig: 124, 81
+  offset: 0, 0
+  index: -1
+laugh
+  rotate: true
+  xy: 863, 540
+  size: 121, 81
+  orig: 121, 81
+  offset: 0, 0
+  index: -1
+normal
+  rotate: false
+  xy: 703, 112
+  size: 121, 78
+  orig: 121, 78
+  offset: 0, 0
+  index: -1
+pride
+  rotate: true
+  xy: 622, 14
+  size: 123, 77
+  orig: 123, 77
+  offset: 0, 0
+  index: -1
+serious
+  rotate: false
+  xy: 863, 917
+  size: 121, 93
+  orig: 121, 93
+  offset: 0, 0
+  index: -1
+surprise
+  rotate: true
+  xy: 863, 789
+  size: 126, 84
+  orig: 126, 84
+  offset: 0, 0
+  index: -1

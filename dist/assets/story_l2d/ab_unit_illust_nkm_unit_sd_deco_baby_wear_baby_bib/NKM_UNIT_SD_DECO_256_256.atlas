@@ -1,0 +1,13 @@
+
+NKM_UNIT_SD_DECO_256_256.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+NKM_UNIT_SD_DECO_256_256
+  rotate: false
+  xy: 0, 0
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1

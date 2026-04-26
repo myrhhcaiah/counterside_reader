@@ -1,0 +1,153 @@
+
+UNIT_ILLUST_S_ADMIN_SHIELD.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ob_10
+  rotate: false
+  xy: 793, 176
+  size: 106, 114
+  orig: 106, 114
+  offset: 0, 0
+  index: -1
+ob_11
+  rotate: false
+  xy: 405, 539
+  size: 265, 478
+  orig: 265, 478
+  offset: 0, 0
+  index: -1
+ob_12
+  rotate: true
+  xy: 743, 2
+  size: 58, 90
+  orig: 58, 90
+  offset: 0, 0
+  index: -1
+ob_13
+  rotate: false
+  xy: 207, 41
+  size: 187, 362
+  orig: 187, 362
+  offset: 0, 0
+  index: -1
+ob_14
+  rotate: false
+  xy: 840, 624
+  size: 152, 393
+  orig: 152, 393
+  offset: 0, 0
+  index: -1
+ob_15
+  rotate: false
+  xy: 850, 406
+  size: 70, 92
+  orig: 70, 92
+  offset: 0, 0
+  index: -1
+ob_16
+  rotate: false
+  xy: 672, 622
+  size: 166, 395
+  orig: 166, 395
+  offset: 0, 0
+  index: -1
+ob_17
+  rotate: false
+  xy: 2, 3
+  size: 203, 400
+  orig: 203, 400
+  offset: 0, 0
+  index: -1
+ob_18_1
+  rotate: true
+  xy: 613, 174
+  size: 116, 178
+  orig: 116, 178
+  offset: 0, 0
+  index: -1
+ob_18_2
+  rotate: false
+  xy: 824, 78
+  size: 71, 96
+  orig: 71, 96
+  offset: 0, 0
+  index: -1
+ob_19
+  rotate: true
+  xy: 672, 516
+  size: 104, 227
+  orig: 104, 227
+  offset: 0, 0
+  index: -1
+ob_2
+  rotate: false
+  xy: 2, 405
+  size: 401, 612
+  orig: 401, 612
+  offset: 0, 0
+  index: -1
+ob_20
+  rotate: true
+  xy: 651, 387
+  size: 127, 197
+  orig: 127, 197
+  offset: 0, 0
+  index: -1
+ob_3
+  rotate: false
+  xy: 396, 198
+  size: 215, 158
+  orig: 215, 158
+  offset: 0, 0
+  index: -1
+ob_4_1
+  rotate: false
+  xy: 743, 62
+  size: 79, 110
+  orig: 79, 110
+  offset: 0, 0
+  index: -1
+ob_4_2
+  rotate: true
+  xy: 651, 292
+  size: 93, 221
+  orig: 93, 221
+  offset: 0, 0
+  index: -1
+ob_5
+  rotate: true
+  xy: 405, 358
+  size: 179, 244
+  orig: 179, 244
+  offset: 0, 0
+  index: -1
+ob_6
+  rotate: true
+  xy: 396, 27
+  size: 169, 185
+  orig: 169, 185
+  offset: 0, 0
+  index: -1
+ob_7
+  rotate: false
+  xy: 583, 42
+  size: 158, 130
+  orig: 158, 130
+  offset: 0, 0
+  index: -1
+ob_8
+  rotate: false
+  xy: 901, 500
+  size: 92, 122
+  orig: 92, 122
+  offset: 0, 0
+  index: -1
+ob_9
+  rotate: false
+  xy: 922, 403
+  size: 64, 95
+  orig: 64, 95
+  offset: 0, 0
+  index: -1

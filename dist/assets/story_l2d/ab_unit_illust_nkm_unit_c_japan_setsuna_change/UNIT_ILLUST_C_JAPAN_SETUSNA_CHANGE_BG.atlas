@@ -1,0 +1,20 @@
+
+UNIT_ILLUST_C_JAPAN_SETUSNA_CHANGE_BG.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 2, 183
+  size: 952, 813
+  orig: 952, 813
+  offset: 0, 0
+  index: -1
+FILLTER_2
+  rotate: false
+  xy: 2, 2
+  size: 163, 179
+  orig: 163, 179
+  offset: 0, 0
+  index: -1

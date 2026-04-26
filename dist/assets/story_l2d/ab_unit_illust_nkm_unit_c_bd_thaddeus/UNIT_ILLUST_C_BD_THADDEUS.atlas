@@ -1,0 +1,223 @@
+
+UNIT_ILLUST_C_BD_THADDEUS.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ANGRY
+  rotate: false
+  xy: 618, 212
+  size: 74, 108
+  orig: 74, 108
+  offset: 0, 0
+  index: -1
+DESPAIR
+  rotate: true
+  xy: 694, 212
+  size: 75, 103
+  orig: 75, 103
+  offset: 0, 0
+  index: -1
+HATE
+  rotate: false
+  xy: 310, 66
+  size: 107, 107
+  orig: 107, 107
+  offset: 0, 0
+  index: -1
+LAUGH
+  rotate: true
+  xy: 656, 48
+  size: 74, 103
+  orig: 74, 103
+  offset: 0, 0
+  index: -1
+PRIDE
+  rotate: false
+  xy: 761, 20
+  size: 74, 102
+  orig: 74, 102
+  offset: 0, 0
+  index: -1
+SERIOUS
+  rotate: false
+  xy: 811, 154
+  size: 74, 102
+  orig: 74, 102
+  offset: 0, 0
+  index: -1
+SURPRISE
+  rotate: true
+  xy: 498, 3
+  size: 79, 108
+  orig: 79, 108
+  offset: 0, 0
+  index: -1
+TOUCH
+  rotate: true
+  xy: 146, 2
+  size: 72, 104
+  orig: 72, 104
+  offset: 0, 0
+  index: -1
+body_l_d0
+  rotate: false
+  xy: 310, 175
+  size: 129, 339
+  orig: 129, 339
+  offset: 0, 0
+  index: -1
+body_l_d1
+  rotate: false
+  xy: 656, 124
+  size: 96, 86
+  orig: 96, 86
+  offset: 0, 0
+  index: -1
+body_r_d0
+  rotate: false
+  xy: 146, 76
+  size: 162, 399
+  orig: 162, 399
+  offset: 0, 0
+  index: -1
+body_r_d1
+  rotate: false
+  xy: 419, 2
+  size: 77, 80
+  orig: 77, 80
+  offset: 0, 0
+  index: -1
+body_u1
+  rotate: false
+  xy: 2, 477
+  size: 272, 545
+  orig: 272, 545
+  offset: 0, 0
+  index: -1
+body_u2
+  rotate: false
+  xy: 726, 289
+  size: 71, 296
+  orig: 71, 296
+  offset: 0, 0
+  index: -1
+body_u3
+  rotate: false
+  xy: 428, 535
+  size: 162, 487
+  orig: 162, 487
+  offset: 0, 0
+  index: -1
+cloth_acc_0
+  rotate: true
+  xy: 799, 341
+  size: 301, 43
+  orig: 301, 43
+  offset: 0, 0
+  index: -1
+cloth_acc_2
+  rotate: true
+  xy: 963, 723
+  size: 299, 46
+  orig: 299, 46
+  offset: 0, 0
+  index: -1
+cloth_b_0_1
+  rotate: false
+  xy: 2, 6
+  size: 142, 469
+  orig: 142, 469
+  offset: 0, 0
+  index: -1
+cloth_b_0_2
+  rotate: false
+  xy: 613, 322
+  size: 111, 263
+  orig: 111, 263
+  offset: 0, 0
+  index: -1
+cloth_b_1
+  rotate: true
+  xy: 441, 162
+  size: 121, 175
+  orig: 121, 175
+  offset: 0, 0
+  index: -1
+cloth_b_2
+  rotate: false
+  xy: 761, 644
+  size: 200, 378
+  orig: 200, 378
+  offset: 0, 0
+  index: -1
+cloth_b_3
+  rotate: false
+  xy: 441, 285
+  size: 170, 248
+  orig: 170, 248
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 276, 505
+  size: 26, 9
+  orig: 26, 9
+  offset: 0, 0
+  index: -1
+eye_u
+  rotate: true
+  xy: 811, 124
+  size: 28, 9
+  orig: 28, 9
+  offset: 0, 0
+  index: -1
+eyebrow
+  rotate: true
+  xy: 761, 591
+  size: 51, 14
+  orig: 51, 14
+  offset: 0, 0
+  index: -1
+gun
+  rotate: false
+  xy: 276, 516
+  size: 150, 506
+  orig: 150, 506
+  offset: 0, 0
+  index: -1
+hair
+  rotate: true
+  xy: 754, 124
+  size: 86, 55
+  orig: 86, 55
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 844, 258
+  size: 148, 175
+  orig: 148, 175
+  offset: 0, 0
+  index: -1
+left_arm
+  rotate: false
+  xy: 592, 587
+  size: 167, 435
+  orig: 167, 435
+  offset: 0, 0
+  index: -1
+light_arm1
+  rotate: true
+  xy: 419, 84
+  size: 76, 235
+  orig: 76, 235
+  offset: 0, 0
+  index: -1
+light_arm2
+  rotate: false
+  xy: 844, 435
+  size: 105, 207
+  orig: 105, 207
+  offset: 0, 0
+  index: -1

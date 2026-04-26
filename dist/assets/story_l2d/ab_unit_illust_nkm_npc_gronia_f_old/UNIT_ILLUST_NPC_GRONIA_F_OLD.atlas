@@ -1,0 +1,62 @@
+
+UNIT_ILLUST_NPC_GRONIA_F_OLD.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00
+  rotate: false
+  xy: 0, 246
+  size: 1021, 722
+  orig: 1021, 722
+  offset: 0, 0
+  index: -1
+BASE
+  rotate: false
+  xy: 112, 126
+  size: 112, 120
+  orig: 112, 120
+  offset: 0, 0
+  index: -1
+DESPAIR
+  rotate: false
+  xy: 560, 127
+  size: 112, 119
+  orig: 112, 119
+  offset: 0, 0
+  index: -1
+HATE
+  rotate: false
+  xy: 0, 0
+  size: 111, 123
+  orig: 111, 123
+  offset: 0, 0
+  index: -1
+LAUGH
+  rotate: false
+  xy: 0, 123
+  size: 112, 123
+  orig: 112, 123
+  offset: 0, 0
+  index: -1
+PRIDE
+  rotate: false
+  xy: 224, 126
+  size: 112, 120
+  orig: 112, 120
+  offset: 0, 0
+  index: -1
+SERIOUS
+  rotate: false
+  xy: 336, 126
+  size: 112, 120
+  orig: 112, 120
+  offset: 0, 0
+  index: -1
+SURPRISE
+  rotate: false
+  xy: 448, 126
+  size: 112, 120
+  orig: 112, 120
+  offset: 0, 0
+  index: -1

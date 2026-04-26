@@ -1,0 +1,48 @@
+
+UNIT_ILLUST_ESPR_CA_FROZEN_BG.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_1
+  rotate: false
+  xy: 1482, 15
+  size: 435, 986
+  orig: 435, 986
+  offset: 0, 0
+  index: -1
+bg_2
+  rotate: false
+  xy: 2, 173
+  size: 783, 828
+  orig: 783, 828
+  offset: 0, 0
+  index: -1
+bg_3
+  rotate: false
+  xy: 787, 127
+  size: 693, 874
+  orig: 693, 874
+  offset: 0, 0
+  index: -1
+blue_fog_1
+  rotate: false
+  xy: 2, 51
+  size: 245, 120
+  orig: 245, 120
+  offset: 0, 0
+  index: -1
+pin_light_1
+  rotate: false
+  xy: 249, 83
+  size: 88, 88
+  orig: 88, 88
+  offset: 0, 0
+  index: -1
+twinkle_1
+  rotate: false
+  xy: 2, 2
+  size: 138, 47
+  orig: 138, 47
+  offset: 0, 0
+  index: -1

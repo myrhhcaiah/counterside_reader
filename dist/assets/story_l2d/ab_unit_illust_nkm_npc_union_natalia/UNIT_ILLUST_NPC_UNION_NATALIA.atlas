@@ -1,0 +1,13 @@
+
+UNIT_ILLUST_NPC_UNION_NATALIA.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 2, 2
+  size: 485, 1018
+  orig: 485, 1018
+  offset: 0, 0
+  index: -1

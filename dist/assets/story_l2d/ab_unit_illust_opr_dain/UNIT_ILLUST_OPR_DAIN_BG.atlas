@@ -1,0 +1,146 @@
+
+UNIT_ILLUST_OPR_DAIN_BG.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fx_1
+  rotate: false
+  xy: 161, 10
+  size: 26, 77
+  orig: 26, 77
+  offset: 0, 0
+  index: -1
+p_1
+  rotate: true
+  xy: 221, 236
+  size: 109, 153
+  orig: 109, 153
+  offset: 0, 0
+  index: -1
+p_10
+  rotate: false
+  xy: 376, 234
+  size: 100, 71
+  orig: 100, 71
+  offset: 0, 0
+  index: -1
+p_11
+  rotate: true
+  xy: 376, 307
+  size: 72, 134
+  orig: 72, 134
+  offset: 0, 0
+  index: -1
+p_12
+  rotate: false
+  xy: 97, 89
+  size: 90, 192
+  orig: 90, 192
+  offset: 0, 0
+  index: -1
+p_13
+  rotate: true
+  xy: 347, 187
+  size: 45, 121
+  orig: 45, 121
+  offset: 0, 0
+  index: -1
+p_14
+  rotate: false
+  xy: 2, 283
+  size: 217, 227
+  orig: 217, 227
+  offset: 0, 0
+  index: -1
+p_15
+  rotate: true
+  xy: 189, 117
+  size: 117, 156
+  orig: 117, 156
+  offset: 0, 0
+  index: -1
+p_16
+  rotate: true
+  xy: 347, 86
+  size: 39, 101
+  orig: 39, 101
+  offset: 0, 0
+  index: -1
+p_17
+  rotate: false
+  xy: 2, 47
+  size: 93, 234
+  orig: 93, 234
+  offset: 0, 0
+  index: -1
+p_18
+  rotate: true
+  xy: 373, 381
+  size: 129, 137
+  orig: 129, 137
+  offset: 0, 0
+  index: -1
+p_19
+  rotate: true
+  xy: 189, 31
+  size: 84, 152
+  orig: 84, 152
+  offset: 0, 0
+  index: -1
+p_2
+  rotate: true
+  xy: 189, 236
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+p_3
+  rotate: false
+  xy: 478, 287
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+p_4
+  rotate: false
+  xy: 189, 259
+  size: 26, 22
+  orig: 26, 22
+  offset: 0, 0
+  index: -1
+p_5
+  rotate: false
+  xy: 2, 12
+  size: 82, 33
+  orig: 82, 33
+  offset: 0, 0
+  index: -1
+p_6
+  rotate: false
+  xy: 343, 43
+  size: 49, 41
+  orig: 49, 41
+  offset: 0, 0
+  index: -1
+p_7
+  rotate: false
+  xy: 347, 127
+  size: 97, 58
+  orig: 97, 58
+  offset: 0, 0
+  index: -1
+p_8
+  rotate: true
+  xy: 97, 2
+  size: 85, 62
+  orig: 85, 62
+  offset: 0, 0
+  index: -1
+p_9
+  rotate: false
+  xy: 221, 347
+  size: 150, 163
+  orig: 150, 163
+  offset: 0, 0
+  index: -1

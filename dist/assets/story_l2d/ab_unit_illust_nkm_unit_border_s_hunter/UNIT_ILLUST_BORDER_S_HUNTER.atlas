@@ -1,0 +1,209 @@
+
+UNIT_ILLUST_BORDER_S_HUNTER.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back_body
+  rotate: false
+  xy: 676, 350
+  size: 153, 236
+  orig: 153, 236
+  offset: 0, 0
+  index: -1
+body_1
+  rotate: false
+  xy: 2, 64
+  size: 316, 475
+  orig: 316, 475
+  offset: 0, 0
+  index: -1
+body_2
+  rotate: true
+  xy: 661, 833
+  size: 87, 311
+  orig: 87, 311
+  offset: 0, 0
+  index: -1
+body_3
+  rotate: false
+  xy: 376, 228
+  size: 190, 312
+  orig: 190, 312
+  offset: 0, 0
+  index: -1
+cloth_1
+  rotate: true
+  xy: 376, 2
+  size: 68, 105
+  orig: 68, 105
+  offset: 0, 0
+  index: -1
+elite_1
+  rotate: true
+  xy: 568, 66
+  size: 108, 213
+  orig: 108, 213
+  offset: 0, 0
+  index: -1
+elite_2
+  rotate: false
+  xy: 676, 177
+  size: 110, 171
+  orig: 110, 171
+  offset: 0, 0
+  index: -1
+elite_3
+  rotate: false
+  xy: 923, 163
+  size: 76, 160
+  orig: 76, 160
+  offset: 0, 0
+  index: -1
+elite_5
+  rotate: false
+  xy: 831, 325
+  size: 109, 261
+  orig: 109, 261
+  offset: 0, 0
+  index: -1
+head_1
+  rotate: false
+  xy: 788, 187
+  size: 133, 136
+  orig: 133, 136
+  offset: 0, 0
+  index: -1
+head_2
+  rotate: true
+  xy: 376, 72
+  size: 154, 190
+  orig: 154, 190
+  offset: 0, 0
+  index: -1
+l_arm_1
+  rotate: false
+  xy: 483, 2
+  size: 42, 62
+  orig: 42, 62
+  offset: 0, 0
+  index: -1
+l_arm_2
+  rotate: true
+  xy: 661, 922
+  size: 100, 361
+  orig: 100, 361
+  offset: 0, 0
+  index: -1
+l_leg_1
+  rotate: true
+  xy: 618, 588
+  size: 144, 261
+  orig: 144, 261
+  offset: 0, 0
+  index: -1
+leg_1
+  rotate: false
+  xy: 353, 798
+  size: 306, 224
+  orig: 306, 224
+  offset: 0, 0
+  index: -1
+mouth_1
+  rotate: false
+  xy: 618, 568
+  size: 35, 18
+  orig: 35, 18
+  offset: 0, 0
+  index: -1
+mouth_2_hate
+  rotate: false
+  xy: 926, 815
+  size: 29, 16
+  orig: 29, 16
+  offset: 0, 0
+  index: -1
+mouth_3_surprise
+  rotate: false
+  xy: 618, 776
+  size: 36, 20
+  orig: 36, 20
+  offset: 0, 0
+  index: -1
+mouth_4_pride
+  rotate: false
+  xy: 881, 595
+  size: 29, 16
+  orig: 29, 16
+  offset: 0, 0
+  index: -1
+mouth_5_serious
+  rotate: false
+  xy: 974, 906
+  size: 29, 14
+  orig: 29, 14
+  offset: 0, 0
+  index: -1
+mouth_6_despair
+  rotate: false
+  xy: 98, 47
+  size: 25, 15
+  orig: 25, 15
+  offset: 0, 0
+  index: -1
+mouth_7_laugh
+  rotate: false
+  xy: 788, 331
+  size: 30, 17
+  orig: 30, 17
+  offset: 0, 0
+  index: -1
+r_arm_1
+  rotate: false
+  xy: 2, 8
+  size: 94, 54
+  orig: 94, 54
+  offset: 0, 0
+  index: -1
+r_arm_2
+  rotate: false
+  xy: 881, 613
+  size: 77, 119
+  orig: 77, 119
+  offset: 0, 0
+  index: -1
+r_arm_3
+  rotate: true
+  xy: 661, 734
+  size: 97, 263
+  orig: 97, 263
+  offset: 0, 0
+  index: -1
+r_leg_1
+  rotate: true
+  xy: 353, 542
+  size: 254, 263
+  orig: 254, 263
+  offset: 0, 0
+  index: -1
+shield_1
+  rotate: false
+  xy: 2, 541
+  size: 349, 481
+  orig: 349, 481
+  offset: 0, 0
+  index: -1
+weapon_1
+  rotate: false
+  xy: 568, 176
+  size: 106, 364
+  orig: 106, 364
+  offset: 0, 0
+  index: -1
+weapon_2
+  rotate: false
+  xy: 320, 65
+  size: 54, 474
+  orig: 54, 474
+  offset: 0, 0
+  index: -1

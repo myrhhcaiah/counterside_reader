@@ -1,0 +1,132 @@
+
+UNIT_ILLUST_S_SL_SHIELD.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ob_1
+  rotate: true
+  xy: 647, 76
+  size: 158, 155
+  orig: 158, 155
+  offset: 0, 0
+  index: -1
+ob_10
+  rotate: false
+  xy: 304, 2
+  size: 106, 78
+  orig: 106, 78
+  offset: 0, 0
+  index: -1
+ob_11
+  rotate: true
+  xy: 695, 814
+  size: 207, 324
+  orig: 207, 324
+  offset: 0, 0
+  index: -1
+ob_12
+  rotate: false
+  xy: 503, 632
+  size: 190, 389
+  orig: 190, 389
+  offset: 0, 0
+  index: -1
+ob_13
+  rotate: false
+  xy: 412, 10
+  size: 81, 70
+  orig: 81, 70
+  offset: 0, 0
+  index: -1
+ob_14
+  rotate: true
+  xy: 668, 282
+  size: 158, 330
+  orig: 158, 330
+  offset: 0, 0
+  index: -1
+ob_15
+  rotate: true
+  xy: 357, 509
+  size: 116, 226
+  orig: 116, 226
+  offset: 0, 0
+  index: -1
+ob_16
+  rotate: true
+  xy: 504, 236
+  size: 238, 162
+  orig: 238, 162
+  offset: 0, 0
+  index: -1
+ob_17
+  rotate: false
+  xy: 695, 442
+  size: 315, 370
+  orig: 315, 370
+  offset: 0, 0
+  index: -1
+ob_18
+  rotate: false
+  xy: 2, 70
+  size: 300, 436
+  orig: 300, 436
+  offset: 0, 0
+  index: -1
+ob_2
+  rotate: false
+  xy: 2, 2
+  size: 134, 66
+  orig: 134, 66
+  offset: 0, 0
+  index: -1
+ob_3
+  rotate: false
+  xy: 504, 75
+  size: 141, 159
+  orig: 141, 159
+  offset: 0, 0
+  index: -1
+ob_4
+  rotate: false
+  xy: 585, 476
+  size: 108, 154
+  orig: 108, 154
+  offset: 0, 0
+  index: -1
+ob_5
+  rotate: true
+  xy: 138, 14
+  size: 54, 69
+  orig: 54, 69
+  offset: 0, 0
+  index: -1
+ob_6
+  rotate: false
+  xy: 357, 627
+  size: 144, 394
+  orig: 144, 394
+  offset: 0, 0
+  index: -1
+ob_7
+  rotate: true
+  xy: 804, 178
+  size: 102, 137
+  orig: 102, 137
+  offset: 0, 0
+  index: -1
+ob_8
+  rotate: false
+  xy: 2, 508
+  size: 353, 513
+  orig: 353, 513
+  offset: 0, 0
+  index: -1
+ob_9
+  rotate: false
+  xy: 304, 82
+  size: 198, 424
+  orig: 198, 424
+  offset: 0, 0
+  index: -1

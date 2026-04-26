@@ -1,0 +1,69 @@
+
+UNIT_ILLUST_C_SIXWING_AMY_FOOLSDAY.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 1016, 220
+  size: 1026, 1741
+  orig: 1026, 1741
+  offset: 0, 0
+  index: -1
+BASE
+  rotate: false
+  xy: 177, 5
+  size: 152, 114
+  orig: 152, 114
+  offset: 0, 0
+  index: -1
+BG
+  rotate: false
+  xy: 2, 121
+  size: 1012, 1840
+  orig: 1012, 1840
+  offset: 0, 0
+  index: -1
+DESPAIR
+  rotate: false
+  xy: 331, 5
+  size: 151, 114
+  orig: 151, 114
+  offset: 0, 0
+  index: -1
+HATE
+  rotate: false
+  xy: 634, 14
+  size: 149, 105
+  orig: 149, 105
+  offset: 0, 0
+  index: -1
+LAUGH
+  rotate: false
+  xy: 2, 2
+  size: 173, 117
+  orig: 173, 117
+  offset: 0, 0
+  index: -1
+PRIDE
+  rotate: false
+  xy: 1016, 108
+  size: 144, 110
+  orig: 144, 110
+  offset: 0, 0
+  index: -1
+SERIOUS
+  rotate: false
+  xy: 785, 15
+  size: 149, 104
+  orig: 149, 104
+  offset: 0, 0
+  index: -1
+SURPRISE
+  rotate: false
+  xy: 484, 9
+  size: 148, 110
+  orig: 148, 110
+  offset: 0, 0
+  index: -1

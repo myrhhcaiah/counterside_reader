@@ -1,0 +1,34 @@
+
+UNIT_ILLUST_BORDER_C_BOWGUN_BUNNY_BG.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG_BOX
+  rotate: false
+  xy: 696, 201
+  size: 241, 307
+  orig: 241, 307
+  offset: 0, 0
+  index: -1
+BG_Q
+  rotate: false
+  xy: 2, 2
+  size: 363, 989
+  orig: 363, 989
+  offset: 0, 0
+  index: -1
+BG_VIVI_1
+  rotate: false
+  xy: 367, 87
+  size: 327, 421
+  orig: 327, 421
+  offset: 0, 0
+  index: -1
+BG_VIVI_2
+  rotate: false
+  xy: 367, 510
+  size: 426, 481
+  orig: 426, 481
+  offset: 0, 0
+  index: -1

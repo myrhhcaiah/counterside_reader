@@ -1,0 +1,13 @@
+
+UNIT_ILLUST_NKM_NPC_WIND_SHADOW.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 0, 0
+  size: 479, 959
+  orig: 479, 959
+  offset: 0, 0
+  index: -1

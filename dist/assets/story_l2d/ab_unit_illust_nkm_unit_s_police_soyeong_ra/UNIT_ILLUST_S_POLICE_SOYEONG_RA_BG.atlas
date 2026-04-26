@@ -1,0 +1,160 @@
+
+UNIT_ILLUST_S_POLICE_SOYEONG_RA_BG.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_1
+  rotate: true
+  xy: 686, 302
+  size: 296, 266
+  orig: 296, 266
+  offset: 0, 0
+  index: -1
+bg_10
+  rotate: false
+  xy: 2, 2
+  size: 166, 25
+  orig: 166, 25
+  offset: 0, 0
+  index: -1
+bg_2
+  rotate: false
+  xy: 2, 558
+  size: 673, 445
+  orig: 673, 445
+  offset: 0, 0
+  index: -1
+bg_3
+  rotate: false
+  xy: 357, 31
+  size: 124, 49
+  orig: 124, 49
+  offset: 0, 0
+  index: -1
+bg_4
+  rotate: false
+  xy: 2, 199
+  size: 357, 357
+  orig: 357, 357
+  offset: 0, 0
+  index: -1
+bg_5
+  rotate: false
+  xy: 980, 592
+  size: 28, 72
+  orig: 28, 72
+  offset: 0, 0
+  index: -1
+bg_6
+  rotate: false
+  xy: 2, 29
+  size: 165, 27
+  orig: 165, 27
+  offset: 0, 0
+  index: -1
+bg_7
+  rotate: true
+  xy: 980, 834
+  size: 169, 25
+  orig: 169, 25
+  offset: 0, 0
+  index: -1
+bg_8
+  rotate: true
+  xy: 361, 175
+  size: 53, 257
+  orig: 53, 257
+  offset: 0, 0
+  index: -1
+bg_9
+  rotate: true
+  xy: 980, 666
+  size: 166, 25
+  orig: 166, 25
+  offset: 0, 0
+  index: -1
+car_light_1
+  rotate: true
+  xy: 963, 556
+  size: 447, 15
+  orig: 447, 15
+  offset: 0, 0
+  index: -1
+car_light_2
+  rotate: false
+  xy: 954, 508
+  size: 68, 46
+  orig: 68, 46
+  offset: 0, 0
+  index: -1
+car_light_3
+  rotate: true
+  xy: 954, 346
+  size: 74, 46
+  orig: 74, 46
+  offset: 0, 0
+  index: -1
+dust_1
+  rotate: false
+  xy: 2, 58
+  size: 213, 139
+  orig: 213, 139
+  offset: 0, 0
+  index: -1
+fx_1
+  rotate: true
+  xy: 361, 230
+  size: 326, 323
+  orig: 326, 323
+  offset: 0, 0
+  index: -1
+fx_2
+  rotate: true
+  xy: 954, 422
+  size: 84, 52
+  orig: 84, 52
+  offset: 0, 0
+  index: -1
+fx_3
+  rotate: false
+  xy: 522, 104
+  size: 107, 69
+  orig: 107, 69
+  offset: 0, 0
+  index: -1
+fx_4
+  rotate: false
+  xy: 357, 82
+  size: 163, 91
+  orig: 163, 91
+  offset: 0, 0
+  index: -1
+fx_5
+  rotate: false
+  xy: 686, 44
+  size: 300, 256
+  orig: 300, 256
+  offset: 0, 0
+  index: -1
+fx_6
+  rotate: true
+  xy: 677, 600
+  size: 403, 284
+  orig: 403, 284
+  offset: 0, 0
+  index: -1
+pin_light_1
+  rotate: false
+  xy: 620, 199
+  size: 29, 29
+  orig: 29, 29
+  offset: 0, 0
+  index: -1
+stone_1
+  rotate: false
+  xy: 217, 43
+  size: 138, 154
+  orig: 138, 154
+  offset: 0, 0
+  index: -1

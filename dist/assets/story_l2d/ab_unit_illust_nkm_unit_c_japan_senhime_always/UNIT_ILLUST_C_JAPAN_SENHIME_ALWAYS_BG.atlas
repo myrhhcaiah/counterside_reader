@@ -1,0 +1,97 @@
+
+UNIT_ILLUST_C_JAPAN_SENHIME_ALWAYS_BG.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_1
+  rotate: false
+  xy: 739, 778
+  size: 234, 227
+  orig: 234, 227
+  offset: 0, 0
+  index: -1
+bg_10
+  rotate: true
+  xy: 790, 533
+  size: 243, 79
+  orig: 243, 79
+  offset: 0, 0
+  index: -1
+bg_11
+  rotate: true
+  xy: 372, 262
+  size: 488, 416
+  orig: 488, 416
+  offset: 0, 0
+  index: -1
+bg_12
+  rotate: false
+  xy: 2, 196
+  size: 368, 554
+  orig: 368, 554
+  offset: 0, 0
+  index: -1
+bg_2
+  rotate: false
+  xy: 2, 2
+  size: 306, 192
+  orig: 306, 192
+  offset: 0, 0
+  index: -1
+bg_3
+  rotate: true
+  xy: 790, 341
+  size: 190, 113
+  orig: 190, 113
+  offset: 0, 0
+  index: -1
+bg_4
+  rotate: true
+  xy: 675, 2
+  size: 258, 104
+  orig: 258, 104
+  offset: 0, 0
+  index: -1
+bg_5
+  rotate: false
+  xy: 781, 165
+  size: 123, 61
+  orig: 123, 61
+  offset: 0, 0
+  index: -1
+bg_6
+  rotate: true
+  xy: 790, 228
+  size: 111, 163
+  orig: 111, 163
+  offset: 0, 0
+  index: -1
+bg_7
+  rotate: false
+  xy: 2, 752
+  size: 735, 253
+  orig: 735, 253
+  offset: 0, 0
+  index: -1
+bg_8
+  rotate: true
+  xy: 871, 583
+  size: 193, 108
+  orig: 193, 108
+  offset: 0, 0
+  index: -1
+bg_9
+  rotate: false
+  xy: 372, 21
+  size: 301, 239
+  orig: 301, 239
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 310, 17
+  size: 177, 59
+  orig: 177, 59
+  offset: 0, 0
+  index: -1

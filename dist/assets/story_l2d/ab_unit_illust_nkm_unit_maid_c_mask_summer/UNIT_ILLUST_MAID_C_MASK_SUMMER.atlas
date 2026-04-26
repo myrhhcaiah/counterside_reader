@@ -1,0 +1,153 @@
+
+UNIT_ILLUST_MAID_C_MASK_SUMMER.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EYE_L_CLOSE
+  rotate: true
+  xy: 1950, 817
+  size: 36, 14
+  orig: 36, 14
+  offset: 0, 0
+  index: -1
+EYE_L_DESPAIR
+  rotate: false
+  xy: 2000, 944
+  size: 39, 38
+  orig: 39, 38
+  offset: 0, 0
+  index: -1
+EYE_L_HATE
+  rotate: false
+  xy: 2, 2
+  size: 41, 30
+  orig: 41, 30
+  offset: 0, 0
+  index: -1
+EYE_L_LAUGH
+  rotate: true
+  xy: 1950, 855
+  size: 42, 35
+  orig: 42, 35
+  offset: 0, 0
+  index: -1
+EYE_L_PRIDE
+  rotate: false
+  xy: 2000, 984
+  size: 45, 38
+  orig: 45, 38
+  offset: 0, 0
+  index: -1
+EYE_L_SERIOUS
+  rotate: false
+  xy: 53, 2
+  size: 41, 33
+  orig: 41, 33
+  offset: 0, 0
+  index: -1
+EYE_L_SURPRISE
+  rotate: false
+  xy: 1950, 899
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+EYE_R_CLOSE
+  rotate: false
+  xy: 205, 63
+  size: 41, 12
+  orig: 41, 12
+  offset: 0, 0
+  index: -1
+EYE_R_DESPAIR
+  rotate: false
+  xy: 155, 44
+  size: 48, 31
+  orig: 48, 31
+  offset: 0, 0
+  index: -1
+EYE_R_HATE
+  rotate: false
+  xy: 53, 37
+  size: 49, 38
+  orig: 49, 38
+  offset: 0, 0
+  index: -1
+EYE_R_LAUGH
+  rotate: false
+  xy: 104, 41
+  size: 49, 34
+  orig: 49, 34
+  offset: 0, 0
+  index: -1
+EYE_R_PRIDE
+  rotate: false
+  xy: 1950, 942
+  size: 48, 38
+  orig: 48, 38
+  offset: 0, 0
+  index: -1
+EYE_R_SERIOUS
+  rotate: false
+  xy: 2, 34
+  size: 49, 41
+  orig: 49, 41
+  offset: 0, 0
+  index: -1
+EYE_R_SURPRISE
+  rotate: false
+  xy: 1950, 982
+  size: 48, 40
+  orig: 48, 40
+  offset: 0, 0
+  index: -1
+MESH
+  rotate: false
+  xy: 2, 77
+  size: 1946, 945
+  orig: 1946, 945
+  offset: 0, 0
+  index: -1
+MOUTH_DESPAIR
+  rotate: true
+  xy: 45, 13
+  size: 19, 6
+  orig: 19, 6
+  offset: 0, 0
+  index: -1
+MOUTH_HATE
+  rotate: true
+  xy: 96, 19
+  size: 16, 4
+  orig: 16, 4
+  offset: 0, 0
+  index: -1
+MOUTH_LAUGH
+  rotate: false
+  xy: 205, 53
+  size: 23, 8
+  orig: 23, 8
+  offset: 0, 0
+  index: -1
+MOUTH_PRIDE
+  rotate: false
+  xy: 248, 67
+  size: 23, 8
+  orig: 23, 8
+  offset: 0, 0
+  index: -1
+MOUTH_SERIOUS
+  rotate: true
+  xy: 1950, 798
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+MOUTH_SURPRISE
+  rotate: false
+  xy: 1966, 847
+  size: 10, 6
+  orig: 10, 6
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,356 @@
+
+UNIT_ILLUST_C_SIXWING_LEE_JISOO.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EMOTION_DISPAIR
+  rotate: false
+  xy: 741, 2
+  size: 46, 30
+  orig: 46, 30
+  offset: 0, 0
+  index: -1
+EMOTION_HATE
+  rotate: false
+  xy: 965, 377
+  size: 34, 27
+  orig: 34, 27
+  offset: 0, 0
+  index: -1
+EMOTION_LAUTH
+  rotate: false
+  xy: 135, 349
+  size: 45, 34
+  orig: 45, 34
+  offset: 0, 0
+  index: -1
+EMOTION_NORMAL
+  rotate: false
+  xy: 805, 37
+  size: 65, 50
+  orig: 65, 50
+  offset: 0, 0
+  index: -1
+EMOTION_NORMAL_1
+  rotate: false
+  xy: 929, 817
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+EMOTION_NORMAL_2
+  rotate: false
+  xy: 823, 331
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+EMOTION_PRIDE
+  rotate: true
+  xy: 2, 340
+  size: 43, 34
+  orig: 43, 34
+  offset: 0, 0
+  index: -1
+EMOTION_SERIOUS
+  rotate: true
+  xy: 38, 340
+  size: 43, 31
+  orig: 43, 31
+  offset: 0, 0
+  index: -1
+EMOTION_SURPRISE
+  rotate: false
+  xy: 872, 53
+  size: 45, 34
+  orig: 45, 34
+  offset: 0, 0
+  index: -1
+body_0
+  rotate: false
+  xy: 2, 385
+  size: 277, 637
+  orig: 277, 637
+  offset: 0, 0
+  index: -1
+effect
+  rotate: false
+  xy: 741, 34
+  size: 62, 63
+  orig: 62, 63
+  offset: 0, 0
+  index: -1
+eye_brow_DISPAIR
+  rotate: false
+  xy: 789, 2
+  size: 44, 30
+  orig: 44, 30
+  offset: 0, 0
+  index: -1
+eye_brow_HATE
+  rotate: false
+  xy: 228, 349
+  size: 41, 34
+  orig: 41, 34
+  offset: 0, 0
+  index: -1
+eye_brow_LAUTH
+  rotate: true
+  xy: 996, 406
+  size: 42, 26
+  orig: 42, 26
+  offset: 0, 0
+  index: -1
+eye_brow_NORMAL
+  rotate: true
+  xy: 965, 406
+  size: 42, 29
+  orig: 42, 29
+  offset: 0, 0
+  index: -1
+eye_brow_PRIDE
+  rotate: true
+  xy: 965, 450
+  size: 42, 30
+  orig: 42, 30
+  offset: 0, 0
+  index: -1
+eye_brow_SERIOUS
+  rotate: false
+  xy: 182, 349
+  size: 44, 34
+  orig: 44, 34
+  offset: 0, 0
+  index: -1
+eye_brow_SURPRISE
+  rotate: false
+  xy: 835, 3
+  size: 41, 32
+  orig: 41, 32
+  offset: 0, 0
+  index: -1
+eye_close
+  rotate: false
+  xy: 951, 494
+  size: 44, 38
+  orig: 44, 38
+  offset: 0, 0
+  index: -1
+hair_0
+  rotate: false
+  xy: 667, 184
+  size: 154, 154
+  orig: 154, 154
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: true
+  xy: 841, 496
+  size: 46, 40
+  orig: 46, 40
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: true
+  xy: 667, 99
+  size: 83, 165
+  orig: 83, 165
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: false
+  xy: 841, 331
+  size: 122, 151
+  orig: 122, 151
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: true
+  xy: 834, 154
+  size: 58, 176
+  orig: 58, 176
+  offset: 0, 0
+  index: -1
+hair_5
+  rotate: false
+  xy: 929, 839
+  size: 73, 183
+  orig: 73, 183
+  offset: 0, 0
+  index: -1
+hair_r25_65_7
+  rotate: true
+  xy: 281, 532
+  size: 273, 495
+  orig: 273, 495
+  offset: 0, 0
+  index: -1
+hair_r50_65_6
+  rotate: false
+  xy: 2, 102
+  size: 468, 236
+  orig: 468, 236
+  offset: 0, 0
+  index: -1
+head_0
+  rotate: false
+  xy: 472, 114
+  size: 193, 224
+  orig: 193, 224
+  offset: 0, 0
+  index: -1
+jacket_0
+  rotate: true
+  xy: 71, 348
+  size: 35, 62
+  orig: 35, 62
+  offset: 0, 0
+  index: -1
+jacket_2
+  rotate: false
+  xy: 940, 72
+  size: 73, 80
+  orig: 73, 80
+  offset: 0, 0
+  index: -1
+jacket_r75_1
+  rotate: true
+  xy: 778, 544
+  size: 261, 103
+  orig: 261, 103
+  offset: 0, 0
+  index: -1
+l_arm_r15_0
+  rotate: false
+  xy: 883, 484
+  size: 66, 321
+  orig: 66, 321
+  offset: 0, 0
+  index: -1
+l_arm_r35_1
+  rotate: true
+  xy: 2, 14
+  size: 86, 540
+  orig: 86, 540
+  offset: 0, 0
+  index: -1
+l_arm_r35_1_NOWEAPON
+  rotate: true
+  xy: 649, 24
+  size: 73, 90
+  orig: 73, 90
+  offset: 0, 0
+  index: -1
+l_leg_0065_0
+  rotate: true
+  xy: 281, 807
+  size: 215, 646
+  orig: 215, 646
+  offset: 0, 0
+  index: -1
+mouth_DISPAIR_0
+  rotate: false
+  xy: 472, 107
+  size: 19, 5
+  orig: 19, 5
+  offset: 0, 0
+  index: -1
+mouth_DISPAIR_1
+  rotate: true
+  xy: 649, 101
+  size: 11, 16
+  orig: 11, 16
+  offset: 0, 0
+  index: -1
+mouth_HATE
+  rotate: false
+  xy: 544, 16
+  size: 76, 32
+  orig: 76, 32
+  offset: 0, 0
+  index: -1
+mouth_LAUTH
+  rotate: true
+  xy: 919, 64
+  size: 23, 13
+  orig: 23, 13
+  offset: 0, 0
+  index: -1
+mouth_NORMAL
+  rotate: false
+  xy: 805, 89
+  size: 16, 8
+  orig: 16, 8
+  offset: 0, 0
+  index: -1
+mouth_PRIDE
+  rotate: true
+  xy: 1004, 991
+  size: 31, 16
+  orig: 31, 16
+  offset: 0, 0
+  index: -1
+mouth_SERIOUS
+  rotate: false
+  xy: 622, 25
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+mouth_SURPRISE
+  rotate: false
+  xy: 778, 533
+  size: 12, 9
+  orig: 12, 9
+  offset: 0, 0
+  index: -1
+nose_0
+  rotate: false
+  xy: 823, 195
+  size: 9, 17
+  orig: 9, 17
+  offset: 0, 0
+  index: -1
+pouch_0
+  rotate: true
+  xy: 834, 89
+  size: 63, 104
+  orig: 63, 104
+  offset: 0, 0
+  index: -1
+pouch_1
+  rotate: true
+  xy: 544, 50
+  size: 62, 103
+  orig: 62, 103
+  offset: 0, 0
+  index: -1
+r_arm_0
+  rotate: false
+  xy: 823, 214
+  size: 153, 115
+  orig: 153, 115
+  offset: 0, 0
+  index: -1
+r_arm_r65_1
+  rotate: true
+  xy: 951, 651
+  size: 186, 59
+  orig: 186, 59
+  offset: 0, 0
+  index: -1
+r_hand_0
+  rotate: true
+  xy: 951, 534
+  size: 115, 50
+  orig: 115, 50
+  offset: 0, 0
+  index: -1
+r_leg_0065_0
+  rotate: true
+  xy: 281, 340
+  size: 190, 558
+  orig: 190, 558
+  offset: 0, 0
+  index: -1

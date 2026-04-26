@@ -1,0 +1,48 @@
+
+UNIT_ILLUST_S_POLICE_SOYEONG_SUMMER_BG.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG_CRAB
+  rotate: true
+  xy: 1798, 61
+  size: 536, 227
+  orig: 536, 227
+  offset: 0, 0
+  index: -1
+BG_FLOOR
+  rotate: false
+  xy: 916, 599
+  size: 903, 422
+  orig: 903, 422
+  offset: 0, 0
+  index: -1
+BG_WATER
+  rotate: false
+  xy: 2, 455
+  size: 912, 566
+  orig: 912, 566
+  offset: 0, 0
+  index: -1
+BG_WAVE_A
+  rotate: false
+  xy: 916, 219
+  size: 880, 378
+  orig: 880, 378
+  offset: 0, 0
+  index: -1
+BG_WAVE_B
+  rotate: false
+  xy: 2, 2
+  size: 897, 451
+  orig: 897, 451
+  offset: 0, 0
+  index: -1
+EFFECT_LIGHT_1
+  rotate: false
+  xy: 1821, 959
+  size: 58, 62
+  orig: 58, 62
+  offset: 0, 0
+  index: -1

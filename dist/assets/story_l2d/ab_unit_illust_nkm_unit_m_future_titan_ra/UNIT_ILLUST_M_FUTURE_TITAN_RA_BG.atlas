@@ -1,0 +1,41 @@
+
+UNIT_ILLUST_M_FUTURE_TITAN_RA_BG.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_1
+  rotate: false
+  xy: 2, 430
+  size: 964, 494
+  orig: 964, 494
+  offset: 0, 0
+  index: -1
+bg_2
+  rotate: false
+  xy: 518, 88
+  size: 192, 340
+  orig: 192, 340
+  offset: 0, 0
+  index: -1
+bg_3
+  rotate: false
+  xy: 2, 2
+  size: 305, 426
+  orig: 305, 426
+  offset: 0, 0
+  index: -1
+bg_4
+  rotate: false
+  xy: 309, 49
+  size: 207, 379
+  orig: 207, 379
+  offset: 0, 0
+  index: -1
+bg_5
+  rotate: false
+  xy: 712, 208
+  size: 121, 220
+  orig: 121, 220
+  offset: 0, 0
+  index: -1

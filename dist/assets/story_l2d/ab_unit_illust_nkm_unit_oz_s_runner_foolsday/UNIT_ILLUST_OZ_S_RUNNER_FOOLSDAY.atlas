@@ -1,0 +1,62 @@
+
+UNIT_ILLUST_OZ_S_RUNNER_FOOLSDAY.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 2, 2
+  size: 1009, 1424
+  orig: 1009, 1424
+  offset: 0, 0
+  index: -1
+BASE
+  rotate: true
+  xy: 1428, 383
+  size: 158, 122
+  orig: 158, 122
+  offset: 0, 0
+  index: -1
+DESPAIR
+  rotate: true
+  xy: 1428, 224
+  size: 157, 121
+  orig: 157, 121
+  offset: 0, 0
+  index: -1
+HATE
+  rotate: false
+  xy: 1428, 680
+  size: 156, 162
+  orig: 156, 162
+  offset: 0, 0
+  index: -1
+LAUGH
+  rotate: false
+  xy: 1588, 874
+  size: 157, 137
+  orig: 157, 137
+  offset: 0, 0
+  index: -1
+PRIDE
+  rotate: false
+  xy: 1428, 844
+  size: 158, 167
+  orig: 158, 167
+  offset: 0, 0
+  index: -1
+SERIOUS
+  rotate: false
+  xy: 1428, 543
+  size: 148, 135
+  orig: 148, 135
+  offset: 0, 0
+  index: -1
+SURPRISE
+  rotate: false
+  xy: 1747, 889
+  size: 159, 122
+  orig: 159, 122
+  offset: 0, 0
+  index: -1

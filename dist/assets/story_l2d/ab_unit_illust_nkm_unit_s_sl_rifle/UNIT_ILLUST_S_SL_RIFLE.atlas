@@ -1,0 +1,83 @@
+
+UNIT_ILLUST_S_SL_RIFLE.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00
+  rotate: false
+  xy: 697, 609
+  size: 145, 179
+  orig: 145, 179
+  offset: 0, 0
+  index: -1
+01
+  rotate: true
+  xy: 697, 412
+  size: 195, 121
+  orig: 195, 121
+  offset: 0, 0
+  index: -1
+02
+  rotate: true
+  xy: 457, 212
+  size: 125, 79
+  orig: 125, 79
+  offset: 0, 0
+  index: -1
+03
+  rotate: false
+  xy: 457, 129
+  size: 62, 81
+  orig: 62, 81
+  offset: 0, 0
+  index: -1
+04
+  rotate: false
+  xy: 322, 339
+  size: 216, 634
+  orig: 216, 634
+  offset: 0, 0
+  index: -1
+05
+  rotate: false
+  xy: 322, 29
+  size: 133, 308
+  orig: 133, 308
+  offset: 0, 0
+  index: -1
+06
+  rotate: false
+  xy: 851, 827
+  size: 85, 146
+  orig: 85, 146
+  offset: 0, 0
+  index: -1
+07
+  rotate: false
+  xy: 540, 380
+  size: 155, 593
+  orig: 155, 593
+  offset: 0, 0
+  index: -1
+08
+  rotate: false
+  xy: 2, 2
+  size: 318, 971
+  orig: 318, 971
+  offset: 0, 0
+  index: -1
+09
+  rotate: false
+  xy: 938, 832
+  size: 84, 141
+  orig: 84, 141
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 697, 790
+  size: 152, 183
+  orig: 152, 183
+  offset: 0, 0
+  index: -1

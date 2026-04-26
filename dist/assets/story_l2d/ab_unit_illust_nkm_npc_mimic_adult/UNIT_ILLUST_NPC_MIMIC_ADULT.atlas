@@ -1,0 +1,69 @@
+
+UNIT_ILLUST_NPC_MIMIC_ADULT.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DESPAIR
+  rotate: false
+  xy: 307, 113
+  size: 99, 69
+  orig: 99, 69
+  offset: 0, 0
+  index: -1
+HATE
+  rotate: false
+  xy: 2, 76
+  size: 99, 106
+  orig: 99, 106
+  offset: 0, 0
+  index: -1
+IDLE
+  rotate: false
+  xy: 205, 113
+  size: 100, 69
+  orig: 100, 69
+  offset: 0, 0
+  index: -1
+LAUGH
+  rotate: false
+  xy: 103, 36
+  size: 100, 70
+  orig: 100, 70
+  offset: 0, 0
+  index: -1
+PRIDE
+  rotate: false
+  xy: 205, 42
+  size: 100, 69
+  orig: 100, 69
+  offset: 0, 0
+  index: -1
+SERIOUS
+  rotate: false
+  xy: 2, 2
+  size: 99, 72
+  orig: 99, 72
+  offset: 0, 0
+  index: -1
+SERIOUS2
+  rotate: false
+  xy: 103, 108
+  size: 100, 74
+  orig: 100, 74
+  offset: 0, 0
+  index: -1
+SURPRISE
+  rotate: false
+  xy: 408, 114
+  size: 100, 68
+  orig: 100, 68
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 184
+  size: 1006, 828
+  orig: 1006, 828
+  offset: 0, 0
+  index: -1

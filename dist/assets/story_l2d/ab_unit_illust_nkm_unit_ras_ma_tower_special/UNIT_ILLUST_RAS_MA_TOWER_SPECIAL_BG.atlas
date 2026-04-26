@@ -1,0 +1,125 @@
+
+UNIT_ILLUST_RAS_MA_TOWER_SPECIAL_BG.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_1
+  rotate: true
+  xy: 2, 33
+  size: 213, 428
+  orig: 213, 428
+  offset: 0, 0
+  index: -1
+bg_10
+  rotate: true
+  xy: 1099, 105
+  size: 452, 510
+  orig: 452, 510
+  offset: 0, 0
+  index: -1
+bg_11
+  rotate: false
+  xy: 794, 95
+  size: 211, 151
+  orig: 211, 151
+  offset: 0, 0
+  index: -1
+bg_12
+  rotate: false
+  xy: 1868, 1224
+  size: 119, 179
+  orig: 119, 179
+  offset: 0, 0
+  index: -1
+bg_13
+  rotate: true
+  xy: 1611, 139
+  size: 4, 106
+  orig: 4, 106
+  offset: 0, 0
+  index: -1
+bg_14
+  rotate: true
+  xy: 794, 20
+  size: 73, 98
+  orig: 73, 98
+  offset: 0, 0
+  index: -1
+bg_15
+  rotate: true
+  xy: 1740, 980
+  size: 387, 97
+  orig: 387, 97
+  offset: 0, 0
+  index: -1
+bg_16
+  rotate: true
+  xy: 1740, 1369
+  size: 630, 122
+  orig: 630, 122
+  offset: 0, 0
+  index: -1
+bg_17
+  rotate: false
+  xy: 2, 559
+  size: 1736, 1440
+  orig: 1736, 1440
+  offset: 0, 0
+  index: -1
+bg_2
+  rotate: false
+  xy: 1864, 1551
+  size: 177, 448
+  orig: 177, 448
+  offset: 0, 0
+  index: -1
+bg_3
+  rotate: false
+  xy: 1611, 145
+  size: 153, 412
+  orig: 153, 412
+  offset: 0, 0
+  index: -1
+bg_4
+  rotate: false
+  xy: 1864, 1405
+  size: 173, 144
+  orig: 173, 144
+  offset: 0, 0
+  index: -1
+bg_5
+  rotate: true
+  xy: 432, 17
+  size: 229, 360
+  orig: 229, 360
+  offset: 0, 0
+  index: -1
+bg_6
+  rotate: false
+  xy: 1839, 932
+  size: 27, 435
+  orig: 27, 435
+  offset: 0, 0
+  index: -1
+bg_7
+  rotate: true
+  xy: 2, 2
+  size: 29, 276
+  orig: 29, 276
+  offset: 0, 0
+  index: -1
+bg_8
+  rotate: false
+  xy: 1740, 719
+  size: 29, 259
+  orig: 29, 259
+  offset: 0, 0
+  index: -1
+bg_9
+  rotate: true
+  xy: 2, 248
+  size: 309, 1095
+  orig: 309, 1095
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,174 @@
+
+UNIT_ILLUST_CANARY_S_SHIELD_HALLOWEEN_BG.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG_CANDLE_LIGHT
+  rotate: false
+  xy: 976, 402
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+BG_CANDLE_LIGHT_1
+  rotate: false
+  xy: 634, 2
+  size: 22, 57
+  orig: 22, 57
+  offset: 0, 0
+  index: -1
+BG_CANDLE_LIGHT_2
+  rotate: false
+  xy: 1004, 569
+  size: 18, 38
+  orig: 18, 38
+  offset: 0, 0
+  index: -1
+BG_CANDLE_LIGHT_3
+  rotate: false
+  xy: 847, 360
+  size: 11, 24
+  orig: 11, 24
+  offset: 0, 0
+  index: -1
+BG_CANDLE_LIGHT_4
+  rotate: true
+  xy: 864, 387
+  size: 16, 44
+  orig: 16, 44
+  offset: 0, 0
+  index: -1
+BG_CHAIR
+  rotate: false
+  xy: 2, 484
+  size: 598, 538
+  orig: 598, 538
+  offset: 0, 0
+  index: -1
+BG_DOG_ARM_L
+  rotate: false
+  xy: 548, 158
+  size: 89, 226
+  orig: 89, 226
+  offset: 0, 0
+  index: -1
+BG_DOG_BODY
+  rotate: false
+  xy: 602, 609
+  size: 403, 413
+  orig: 403, 413
+  offset: 0, 0
+  index: -1
+BG_DOG_EAR_L
+  rotate: false
+  xy: 976, 463
+  size: 40, 61
+  orig: 40, 61
+  offset: 0, 0
+  index: -1
+BG_DOG_EAR_R
+  rotate: false
+  xy: 976, 526
+  size: 26, 81
+  orig: 26, 81
+  offset: 0, 0
+  index: -1
+BG_DOG_EYE_R_BALL
+  rotate: true
+  xy: 548, 386
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+BG_DOG_EYE_R_INNER
+  rotate: false
+  xy: 548, 398
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+BG_DOG_HAT_1
+  rotate: false
+  xy: 548, 4
+  size: 84, 55
+  orig: 84, 55
+  offset: 0, 0
+  index: -1
+BG_DOG_HAT_2
+  rotate: false
+  xy: 976, 441
+  size: 46, 20
+  orig: 46, 20
+  offset: 0, 0
+  index: -1
+BG_DOG_HEAD
+  rotate: false
+  xy: 705, 205
+  size: 95, 75
+  orig: 95, 75
+  offset: 0, 0
+  index: -1
+BG_DOG_LEG_L
+  rotate: false
+  xy: 639, 174
+  size: 64, 210
+  orig: 64, 210
+  offset: 0, 0
+  index: -1
+BG_DOG_MOUTH_1
+  rotate: true
+  xy: 548, 416
+  size: 66, 36
+  orig: 66, 36
+  offset: 0, 0
+  index: -1
+BG_DOG_MOUTH_2
+  rotate: true
+  xy: 802, 204
+  size: 76, 53
+  orig: 76, 53
+  offset: 0, 0
+  index: -1
+BG_DOG_MOUTH_3
+  rotate: false
+  xy: 705, 167
+  size: 66, 36
+  orig: 66, 36
+  offset: 0, 0
+  index: -1
+BG_DOG_TAIL
+  rotate: true
+  xy: 548, 61
+  size: 95, 86
+  orig: 95, 86
+  offset: 0, 0
+  index: -1
+BG_FIRE
+  rotate: false
+  xy: 705, 282
+  size: 140, 102
+  orig: 140, 102
+  offset: 0, 0
+  index: -1
+BG_FIRE_WALL
+  rotate: true
+  xy: 864, 405
+  size: 202, 110
+  orig: 202, 110
+  offset: 0, 0
+  index: -1
+BG_LIGHT
+  rotate: true
+  xy: 602, 386
+  size: 221, 260
+  orig: 221, 260
+  offset: 0, 0
+  index: -1
+BG_MAIN
+  rotate: false
+  xy: 2, 12
+  size: 544, 470
+  orig: 544, 470
+  offset: 0, 0
+  index: -1

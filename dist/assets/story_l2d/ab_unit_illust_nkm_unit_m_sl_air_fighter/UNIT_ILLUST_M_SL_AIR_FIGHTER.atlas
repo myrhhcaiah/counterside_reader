@@ -1,0 +1,153 @@
+
+UNIT_ILLUST_M_SL_AIR_FIGHTER.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm1_1
+  rotate: false
+  xy: 2, 308
+  size: 576, 179
+  orig: 576, 179
+  offset: 0, 0
+  index: -1
+arm1_2
+  rotate: false
+  xy: 590, 546
+  size: 432, 123
+  orig: 432, 123
+  offset: 0, 0
+  index: -1
+arm2_1
+  rotate: true
+  xy: 492, 65
+  size: 241, 90
+  orig: 241, 90
+  offset: 0, 0
+  index: -1
+arm2_2
+  rotate: true
+  xy: 949, 830
+  size: 180, 61
+  orig: 180, 61
+  offset: 0, 0
+  index: -1
+arm3_1
+  rotate: false
+  xy: 2, 489
+  size: 586, 183
+  orig: 586, 183
+  offset: 0, 0
+  index: -1
+arm3_2
+  rotate: false
+  xy: 580, 346
+  size: 439, 108
+  orig: 439, 108
+  offset: 0, 0
+  index: -1
+arm4
+  rotate: false
+  xy: 584, 61
+  size: 226, 89
+  orig: 226, 89
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 674
+  size: 611, 336
+  orig: 611, 336
+  offset: 0, 0
+  index: -1
+body_red
+  rotate: true
+  xy: 815, 264
+  size: 28, 178
+  orig: 28, 178
+  offset: 0, 0
+  index: -1
+bullet1
+  rotate: false
+  xy: 615, 671
+  size: 333, 88
+  orig: 333, 88
+  offset: 0, 0
+  index: -1
+bullet2
+  rotate: false
+  xy: 584, 242
+  size: 229, 102
+  orig: 229, 102
+  offset: 0, 0
+  index: -1
+light
+  rotate: true
+  xy: 590, 456
+  size: 88, 239
+  orig: 88, 239
+  offset: 0, 0
+  index: -1
+light2
+  rotate: true
+  xy: 584, 152
+  size: 88, 239
+  orig: 88, 239
+  offset: 0, 0
+  index: -1
+link1
+  rotate: false
+  xy: 815, 294
+  size: 164, 50
+  orig: 164, 50
+  offset: 0, 0
+  index: -1
+link2
+  rotate: true
+  xy: 912, 150
+  size: 112, 47
+  orig: 112, 47
+  offset: 0, 0
+  index: -1
+weapon1
+  rotate: true
+  xy: 825, 48
+  size: 214, 85
+  orig: 214, 85
+  offset: 0, 0
+  index: -1
+weapon2
+  rotate: false
+  xy: 2, 49
+  size: 488, 257
+  orig: 488, 257
+  offset: 0, 0
+  index: -1
+weapon3
+  rotate: false
+  xy: 615, 761
+  size: 332, 249
+  orig: 332, 249
+  offset: 0, 0
+  index: -1
+weapon4
+  rotate: true
+  xy: 831, 484
+  size: 60, 159
+  orig: 60, 159
+  offset: 0, 0
+  index: -1
+weapon5
+  rotate: false
+  xy: 371, 12
+  size: 75, 35
+  orig: 75, 35
+  offset: 0, 0
+  index: -1
+wing
+  rotate: true
+  xy: 2, 2
+  size: 45, 367
+  orig: 45, 367
+  offset: 0, 0
+  index: -1

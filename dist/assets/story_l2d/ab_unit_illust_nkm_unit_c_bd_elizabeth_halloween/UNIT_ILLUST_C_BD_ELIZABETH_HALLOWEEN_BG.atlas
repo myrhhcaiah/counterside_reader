@@ -1,0 +1,83 @@
+
+UNIT_ILLUST_C_BD_ELIZABETH_HALLOWEEN_BG.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bat_2
+  rotate: false
+  xy: 558, 71
+  size: 193, 167
+  orig: 193, 167
+  offset: 0, 0
+  index: -1
+bat_3
+  rotate: false
+  xy: 316, 72
+  size: 79, 43
+  orig: 79, 43
+  offset: 0, 0
+  index: -1
+bat_4
+  rotate: false
+  xy: 2, 2
+  size: 152, 51
+  orig: 152, 51
+  offset: 0, 0
+  index: -1
+bat_6
+  rotate: true
+  xy: 1948, 755
+  size: 253, 84
+  orig: 253, 84
+  offset: 0, 0
+  index: -1
+bat_7
+  rotate: false
+  xy: 316, 117
+  size: 240, 121
+  orig: 240, 121
+  offset: 0, 0
+  index: -1
+bat_8
+  rotate: true
+  xy: 1948, 603
+  size: 150, 30
+  orig: 150, 30
+  offset: 0, 0
+  index: -1
+bg_1
+  rotate: false
+  xy: 2, 240
+  size: 1570, 768
+  orig: 1570, 768
+  offset: 0, 0
+  index: -1
+bg_2
+  rotate: false
+  xy: 1574, 49
+  size: 372, 959
+  orig: 372, 959
+  offset: 0, 0
+  index: -1
+crow_1
+  rotate: true
+  xy: 753, 118
+  size: 120, 176
+  orig: 120, 176
+  offset: 0, 0
+  index: -1
+lanturn_1
+  rotate: true
+  xy: 2, 55
+  size: 183, 312
+  orig: 183, 312
+  offset: 0, 0
+  index: -1
+light_2
+  rotate: true
+  xy: 931, 105
+  size: 133, 140
+  orig: 133, 140
+  offset: 0, 0
+  index: -1

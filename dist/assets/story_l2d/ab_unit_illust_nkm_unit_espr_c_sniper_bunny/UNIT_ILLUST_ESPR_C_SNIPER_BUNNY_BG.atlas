@@ -1,0 +1,20 @@
+
+UNIT_ILLUST_ESPR_C_SNIPER_BUNNY_BG.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG_1
+  rotate: false
+  xy: 987, 309
+  size: 863, 675
+  orig: 863, 675
+  offset: 0, 0
+  index: -1
+BG_2
+  rotate: false
+  xy: 2, 2
+  size: 983, 982
+  orig: 983, 982
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,174 @@
+
+UNIT_ILLUST_FENRIR_C_INTERN_SUMMER_BG.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_1
+  rotate: false
+  xy: 1497, 1144
+  size: 485, 902
+  orig: 485, 902
+  offset: 0, 0
+  index: -1
+bg_2
+  rotate: false
+  xy: 1497, 512
+  size: 365, 630
+  orig: 365, 630
+  offset: 0, 0
+  index: -1
+bg_3
+  rotate: false
+  xy: 2, 240
+  size: 1399, 286
+  orig: 1399, 286
+  offset: 0, 0
+  index: -1
+bg_4
+  rotate: false
+  xy: 2, 87
+  size: 414, 151
+  orig: 414, 151
+  offset: 0, 0
+  index: -1
+bg_5
+  rotate: true
+  xy: 418, 101
+  size: 137, 406
+  orig: 137, 406
+  offset: 0, 0
+  index: -1
+bg_6
+  rotate: false
+  xy: 2, 528
+  size: 1493, 1518
+  orig: 1493, 1518
+  offset: 0, 0
+  index: -1
+bg_bird_1
+  rotate: true
+  xy: 1864, 568
+  size: 193, 51
+  orig: 193, 51
+  offset: 0, 0
+  index: -1
+bg_bird_2
+  rotate: true
+  xy: 1808, 408
+  size: 102, 17
+  orig: 102, 17
+  offset: 0, 0
+  index: -1
+bg_bird_3
+  rotate: false
+  xy: 1403, 289
+  size: 109, 20
+  orig: 109, 20
+  offset: 0, 0
+  index: -1
+bg_bird_4
+  rotate: false
+  xy: 1403, 240
+  size: 49, 47
+  orig: 49, 47
+  offset: 0, 0
+  index: -1
+bg_bird_5
+  rotate: true
+  xy: 1945, 1016
+  size: 126, 29
+  orig: 126, 29
+  offset: 0, 0
+  index: -1
+bg_shadow_1
+  rotate: false
+  xy: 2, 5
+  size: 312, 80
+  orig: 312, 80
+  offset: 0, 0
+  index: -1
+bg_shadow_3
+  rotate: false
+  xy: 1153, 145
+  size: 276, 93
+  orig: 276, 93
+  offset: 0, 0
+  index: -1
+bird_1
+  rotate: true
+  xy: 826, 152
+  size: 86, 325
+  orig: 86, 325
+  offset: 0, 0
+  index: -1
+bird_10
+  rotate: false
+  xy: 1984, 1368
+  size: 42, 331
+  orig: 42, 331
+  offset: 0, 0
+  index: -1
+bird_11
+  rotate: false
+  xy: 1403, 311
+  size: 221, 199
+  orig: 221, 199
+  offset: 0, 0
+  index: -1
+bird_2
+  rotate: false
+  xy: 1984, 1164
+  size: 39, 202
+  orig: 39, 202
+  offset: 0, 0
+  index: -1
+bird_3
+  rotate: true
+  xy: 563, 28
+  size: 71, 150
+  orig: 71, 150
+  offset: 0, 0
+  index: -1
+bird_4
+  rotate: false
+  xy: 316, 27
+  size: 66, 58
+  orig: 66, 58
+  offset: 0, 0
+  index: -1
+bird_5
+  rotate: true
+  xy: 418, 2
+  size: 97, 143
+  orig: 97, 143
+  offset: 0, 0
+  index: -1
+bird_6
+  rotate: false
+  xy: 826, 102
+  size: 124, 48
+  orig: 124, 48
+  offset: 0, 0
+  index: -1
+bird_7
+  rotate: false
+  xy: 1984, 1701
+  size: 57, 345
+  orig: 57, 345
+  offset: 0, 0
+  index: -1
+bird_8
+  rotate: true
+  xy: 1864, 763
+  size: 379, 79
+  orig: 379, 79
+  offset: 0, 0
+  index: -1
+bird_9
+  rotate: false
+  xy: 1626, 314
+  size: 180, 196
+  orig: 180, 196
+  offset: 0, 0
+  index: -1

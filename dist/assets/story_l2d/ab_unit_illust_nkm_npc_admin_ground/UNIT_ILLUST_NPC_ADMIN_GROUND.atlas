@@ -1,0 +1,76 @@
+
+UNIT_ILLUST_NPC_ADMIN_GROUND.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 2, 226
+  size: 688, 796
+  orig: 688, 796
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 692, 308
+  size: 259, 714
+  orig: 259, 714
+  offset: 0, 0
+  index: -1
+despair
+  rotate: false
+  xy: 831, 220
+  size: 132, 86
+  orig: 132, 86
+  offset: 0, 0
+  index: -1
+hair
+  rotate: true
+  xy: 2, 7
+  size: 217, 320
+  orig: 217, 320
+  offset: 0, 0
+  index: -1
+hate
+  rotate: true
+  xy: 463, 2
+  size: 134, 80
+  orig: 134, 80
+  offset: 0, 0
+  index: -1
+idle
+  rotate: false
+  xy: 692, 220
+  size: 137, 86
+  orig: 137, 86
+  offset: 0, 0
+  index: -1
+laugh
+  rotate: false
+  xy: 324, 129
+  size: 137, 95
+  orig: 137, 95
+  offset: 0, 0
+  index: -1
+pride
+  rotate: true
+  xy: 603, 88
+  size: 136, 79
+  orig: 136, 79
+  offset: 0, 0
+  index: -1
+serious
+  rotate: false
+  xy: 324, 34
+  size: 136, 93
+  orig: 136, 93
+  offset: 0, 0
+  index: -1
+surprise
+  rotate: false
+  xy: 463, 138
+  size: 138, 86
+  orig: 138, 86
+  offset: 0, 0
+  index: -1

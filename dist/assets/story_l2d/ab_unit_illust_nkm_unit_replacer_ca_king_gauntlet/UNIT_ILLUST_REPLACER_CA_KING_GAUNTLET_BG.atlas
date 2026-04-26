@@ -1,0 +1,34 @@
+
+UNIT_ILLUST_REPLACER_CA_KING_GAUNTLET_BG.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_1
+  rotate: false
+  xy: 2, 222
+  size: 988, 664
+  orig: 988, 664
+  offset: 0, 0
+  index: -1
+bg_2
+  rotate: false
+  xy: 2, 38
+  size: 736, 182
+  orig: 736, 182
+  offset: 0, 0
+  index: -1
+fx_3
+  rotate: false
+  xy: 992, 635
+  size: 12, 251
+  orig: 12, 251
+  offset: 0, 0
+  index: -1
+fx_4
+  rotate: true
+  xy: 2, 2
+  size: 34, 458
+  orig: 34, 458
+  offset: 0, 0
+  index: -1

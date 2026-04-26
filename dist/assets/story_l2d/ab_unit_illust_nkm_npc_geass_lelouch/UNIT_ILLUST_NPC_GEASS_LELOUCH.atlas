@@ -1,0 +1,83 @@
+
+UNIT_ILLUST_NPC_GEASS_LELOUCH.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 473, 435
+  size: 538, 526
+  orig: 538, 526
+  offset: 0, 0
+  index: -1
+1
+  rotate: false
+  xy: 1, 8
+  size: 471, 953
+  orig: 471, 953
+  offset: 0, 0
+  index: -1
+BASE
+  rotate: false
+  xy: 720, 240
+  size: 124, 96
+  orig: 124, 96
+  offset: 0, 0
+  index: -1
+DESPAIR
+  rotate: false
+  xy: 845, 242
+  size: 124, 95
+  orig: 124, 95
+  offset: 0, 0
+  index: -1
+HAIR
+  rotate: false
+  xy: 473, 193
+  size: 246, 241
+  orig: 246, 241
+  offset: 0, 0
+  index: -1
+HATE
+  rotate: false
+  xy: 845, 338
+  size: 124, 96
+  orig: 124, 96
+  offset: 0, 0
+  index: -1
+LAUGH
+  rotate: false
+  xy: 598, 100
+  size: 125, 92
+  orig: 125, 92
+  offset: 0, 0
+  index: -1
+PRIDE
+  rotate: false
+  xy: 720, 337
+  size: 124, 97
+  orig: 124, 97
+  offset: 0, 0
+  index: -1
+SERIOUS
+  rotate: false
+  xy: 473, 1
+  size: 126, 92
+  orig: 126, 92
+  offset: 0, 0
+  index: -1
+SERIOUS2
+  rotate: false
+  xy: 600, 7
+  size: 126, 92
+  orig: 126, 92
+  offset: 0, 0
+  index: -1
+SURPRISE
+  rotate: false
+  xy: 473, 94
+  size: 124, 98
+  orig: 124, 98
+  offset: 0, 0
+  index: -1

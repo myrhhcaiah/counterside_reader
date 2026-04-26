@@ -1,0 +1,76 @@
+
+UNIT_ILLUST_NPC_CAPTAIN.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back
+  rotate: false
+  xy: 366, 6
+  size: 353, 277
+  orig: 353, 277
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 285
+  size: 746, 736
+  orig: 746, 736
+  offset: 0, 0
+  index: -1
+coat1
+  rotate: false
+  xy: 750, 307
+  size: 87, 356
+  orig: 87, 356
+  offset: 0, 0
+  index: -1
+coat2
+  rotate: false
+  xy: 839, 360
+  size: 98, 303
+  orig: 98, 303
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 845, 71
+  size: 115, 137
+  orig: 115, 137
+  offset: 0, 0
+  index: -1
+glass
+  rotate: true
+  xy: 958, 919
+  size: 102, 53
+  orig: 102, 53
+  offset: 0, 0
+  index: -1
+hair
+  rotate: true
+  xy: 845, 210
+  size: 148, 108
+  orig: 148, 108
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 721, 97
+  size: 122, 186
+  orig: 122, 186
+  offset: 0, 0
+  index: -1
+meffler1
+  rotate: false
+  xy: 750, 665
+  size: 206, 356
+  orig: 206, 356
+  offset: 0, 0
+  index: -1
+meffler2
+  rotate: true
+  xy: 2, 2
+  size: 281, 362
+  orig: 281, 362
+  offset: 0, 0
+  index: -1

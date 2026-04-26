@@ -1,0 +1,111 @@
+
+UNIT_ILLUST_OPR_REPLACER_COMMANDAR.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 838, 158
+  size: 42, 112
+  orig: 42, 112
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 932, 372
+  size: 67, 328
+  orig: 67, 328
+  offset: 0, 0
+  index: -1
+11
+  rotate: true
+  xy: 317, 232
+  size: 214, 370
+  orig: 214, 370
+  offset: 0, 0
+  index: -1
+12
+  rotate: true
+  xy: 308, 8
+  size: 222, 429
+  orig: 222, 429
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 704, 328
+  size: 129, 693
+  orig: 129, 693
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 317, 448
+  size: 385, 573
+  orig: 385, 573
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 835, 702
+  size: 148, 319
+  orig: 148, 319
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 838, 202
+  size: 122, 168
+  orig: 122, 168
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 739, 112
+  size: 97, 214
+  orig: 97, 214
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 835, 386
+  size: 95, 314
+  orig: 95, 314
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 2, 107
+  size: 152, 304
+  orig: 152, 304
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 2, 261
+  size: 313, 760
+  orig: 313, 760
+  offset: 0, 0
+  index: -1
+7
+  rotate: true
+  xy: 2, 2
+  size: 103, 211
+  orig: 103, 211
+  offset: 0, 0
+  index: -1
+8
+  rotate: true
+  xy: 739, 19
+  size: 91, 111
+  orig: 91, 111
+  offset: 0, 0
+  index: -1
+9
+  rotate: true
+  xy: 852, 25
+  size: 131, 127
+  orig: 131, 127
+  offset: 0, 0
+  index: -1

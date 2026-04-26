@@ -1,0 +1,104 @@
+
+UNIT_ILLUST_S_TIDE_GUNSHIELD.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_arm
+  rotate: true
+  xy: 577, 178
+  size: 136, 364
+  orig: 136, 364
+  offset: 0, 0
+  index: -1
+L_leg
+  rotate: true
+  xy: 292, 316
+  size: 243, 573
+  orig: 243, 573
+  offset: 0, 0
+  index: -1
+L_leg_ac_1
+  rotate: false
+  xy: 165, 328
+  size: 46, 62
+  orig: 46, 62
+  offset: 0, 0
+  index: -1
+L_leg_ac_2
+  rotate: false
+  xy: 927, 75
+  size: 89, 101
+  orig: 89, 101
+  offset: 0, 0
+  index: -1
+R_arm
+  rotate: true
+  xy: 292, 561
+  size: 258, 579
+  orig: 258, 579
+  offset: 0, 0
+  index: -1
+R_leg
+  rotate: true
+  xy: 292, 821
+  size: 199, 691
+  orig: 199, 691
+  offset: 0, 0
+  index: -1
+R_leg_ac
+  rotate: false
+  xy: 873, 602
+  size: 73, 217
+  orig: 73, 217
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 165, 2
+  size: 312, 410
+  orig: 312, 410
+  offset: 0, 0
+  index: -1
+body_ac
+  rotate: false
+  xy: 873, 500
+  size: 89, 100
+  orig: 89, 100
+  offset: 0, 0
+  index: -1
+body_back_1
+  rotate: false
+  xy: 948, 651
+  size: 48, 168
+  orig: 48, 168
+  offset: 0, 0
+  index: -1
+body_back_2
+  rotate: true
+  xy: 2, 8
+  size: 382, 161
+  orig: 382, 161
+  offset: 0, 0
+  index: -1
+helmet
+  rotate: true
+  xy: 762, 37
+  size: 139, 163
+  orig: 139, 163
+  offset: 0, 0
+  index: -1
+middleprotector
+  rotate: true
+  xy: 577, 17
+  size: 159, 183
+  orig: 159, 183
+  offset: 0, 0
+  index: -1
+shield
+  rotate: false
+  xy: 2, 392
+  size: 288, 628
+  orig: 288, 628
+  offset: 0, 0
+  index: -1

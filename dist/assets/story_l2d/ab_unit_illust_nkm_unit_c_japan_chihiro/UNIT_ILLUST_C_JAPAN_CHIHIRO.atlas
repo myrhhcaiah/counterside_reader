@@ -1,0 +1,412 @@
+
+UNIT_ILLUST_C_JAPAN_CHIHIRO.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 909, 109
+  size: 164, 207
+  orig: 164, 207
+  offset: 0, 0
+  index: -1
+10
+  rotate: true
+  xy: 1872, 363
+  size: 139, 131
+  orig: 139, 131
+  offset: 0, 0
+  index: -1
+10_1
+  rotate: true
+  xy: 1878, 35
+  size: 63, 130
+  orig: 63, 130
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 1722, 525
+  size: 64, 497
+  orig: 64, 497
+  offset: 0, 0
+  index: -1
+12
+  rotate: true
+  xy: 1390, 10
+  size: 345, 486
+  orig: 345, 486
+  offset: 0, 0
+  index: -1
+13
+  rotate: true
+  xy: 1788, 731
+  size: 291, 206
+  orig: 291, 206
+  offset: 0, 0
+  index: -1
+13_1
+  rotate: true
+  xy: 909, 8
+  size: 99, 126
+  orig: 99, 126
+  offset: 0, 0
+  index: -1
+14
+  rotate: true
+  xy: 1788, 504
+  size: 89, 162
+  orig: 89, 162
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 1996, 734
+  size: 47, 288
+  orig: 47, 288
+  offset: 0, 0
+  index: -1
+17
+  rotate: false
+  xy: 519, 318
+  size: 562, 704
+  orig: 562, 704
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 1788, 595
+  size: 198, 134
+  orig: 198, 134
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 1037, 35
+  size: 72, 24
+  orig: 72, 24
+  offset: 0, 0
+  index: -1
+3_0
+  rotate: false
+  xy: 1390, 357
+  size: 330, 665
+  orig: 330, 665
+  offset: 0, 0
+  index: -1
+3_1
+  rotate: false
+  xy: 1878, 14
+  size: 80, 19
+  orig: 80, 19
+  offset: 0, 0
+  index: -1
+3_2
+  rotate: true
+  xy: 1952, 510
+  size: 83, 20
+  orig: 83, 20
+  offset: 0, 0
+  index: -1
+3_3
+  rotate: false
+  xy: 519, 29
+  size: 169, 42
+  orig: 169, 42
+  offset: 0, 0
+  index: -1
+3_4
+  rotate: false
+  xy: 2, 5
+  size: 44, 13
+  orig: 44, 13
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 2, 144
+  size: 515, 878
+  orig: 515, 878
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 690, 15
+  size: 128, 56
+  orig: 128, 56
+  offset: 0, 0
+  index: -1
+5_1
+  rotate: false
+  xy: 1989, 107
+  size: 54, 113
+  orig: 54, 113
+  offset: 0, 0
+  index: -1
+6
+  rotate: true
+  xy: 2, 20
+  size: 122, 515
+  orig: 122, 515
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 1722, 363
+  size: 148, 139
+  orig: 148, 139
+  offset: 0, 0
+  index: -1
+8
+  rotate: true
+  xy: 519, 73
+  size: 243, 388
+  orig: 243, 388
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 1083, 322
+  size: 305, 700
+  orig: 305, 700
+  offset: 0, 0
+  index: -1
+BASE_FACE
+  rotate: false
+  xy: 1878, 222
+  size: 130, 139
+  orig: 130, 139
+  offset: 0, 0
+  index: -1
+BASE_FACE_EYE_L
+  rotate: false
+  xy: 2034, 381
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+BASE_FACE_EYE_L_BACK
+  rotate: false
+  xy: 2032, 13
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+BASE_FACE_EYE_L_BOW
+  rotate: false
+  xy: 1989, 100
+  size: 18, 5
+  orig: 18, 5
+  offset: 0, 0
+  index: -1
+BASE_FACE_EYE_L_CLOSE
+  rotate: false
+  xy: 1037, 13
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+BASE_FACE_EYE_L_COVER
+  rotate: false
+  xy: 567, 12
+  size: 22, 15
+  orig: 22, 15
+  offset: 0, 0
+  index: -1
+BASE_FACE_EYE_L_LIGHT
+  rotate: false
+  xy: 541, 2
+  size: 4, 3
+  orig: 4, 3
+  offset: 0, 0
+  index: -1
+BASE_FACE_EYE_R
+  rotate: true
+  xy: 48, 2
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+BASE_FACE_EYE_R_BACK
+  rotate: false
+  xy: 1750, 508
+  size: 29, 15
+  orig: 29, 15
+  offset: 0, 0
+  index: -1
+BASE_FACE_EYE_R_BOW
+  rotate: false
+  xy: 1960, 13
+  size: 48, 20
+  orig: 48, 20
+  offset: 0, 0
+  index: -1
+BASE_FACE_EYE_R_CLOSE
+  rotate: true
+  xy: 2023, 628
+  size: 46, 23
+  orig: 46, 23
+  offset: 0, 0
+  index: -1
+BASE_FACE_EYE_R_COVER
+  rotate: true
+  xy: 2005, 449
+  size: 53, 18
+  orig: 53, 18
+  offset: 0, 0
+  index: -1
+BASE_FACE_EYE_R_LIGHT
+  rotate: true
+  xy: 904, 66
+  size: 5, 3
+  orig: 5, 3
+  offset: 0, 0
+  index: -1
+BASE_FACE_MOUTH
+  rotate: true
+  xy: 2040, 24
+  size: 24, 6
+  orig: 24, 6
+  offset: 0, 0
+  index: -1
+BASE_FACE_NOSE
+  rotate: true
+  xy: 1974, 504
+  size: 29, 47
+  orig: 29, 47
+  offset: 0, 0
+  index: -1
+BASE_FACE_SHADOW
+  rotate: false
+  xy: 1878, 100
+  size: 109, 120
+  orig: 109, 120
+  offset: 0, 0
+  index: -1
+emotion_hate_l
+  rotate: false
+  xy: 1722, 504
+  size: 26, 19
+  orig: 26, 19
+  offset: 0, 0
+  index: -1
+emotion_hate_mouth
+  rotate: false
+  xy: 1037, 2
+  size: 29, 9
+  orig: 29, 9
+  offset: 0, 0
+  index: -1
+emotion_hate_r
+  rotate: true
+  xy: 2010, 50
+  size: 55, 33
+  orig: 55, 33
+  offset: 0, 0
+  index: -1
+emotion_pride_l
+  rotate: false
+  xy: 2005, 373
+  size: 27, 20
+  orig: 27, 20
+  offset: 0, 0
+  index: -1
+emotion_pride_mouth
+  rotate: false
+  xy: 67, 4
+  size: 27, 14
+  orig: 27, 14
+  offset: 0, 0
+  index: -1
+emotion_pride_r
+  rotate: true
+  xy: 2005, 395
+  size: 52, 34
+  orig: 52, 34
+  offset: 0, 0
+  index: -1
+emotion_sad_l
+  rotate: true
+  xy: 2010, 2
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+emotion_sad_mouth
+  rotate: false
+  xy: 567, 2
+  size: 24, 8
+  orig: 24, 8
+  offset: 0, 0
+  index: -1
+emotion_sad_r
+  rotate: false
+  xy: 820, 13
+  size: 57, 21
+  orig: 57, 21
+  offset: 0, 0
+  index: -1
+emotion_serious_l
+  rotate: true
+  xy: 519, 2
+  size: 25, 20
+  orig: 25, 20
+  offset: 0, 0
+  index: -1
+emotion_serious_mouth
+  rotate: false
+  xy: 2010, 26
+  size: 28, 22
+  orig: 28, 22
+  offset: 0, 0
+  index: -1
+emotion_serious_r
+  rotate: false
+  xy: 820, 36
+  size: 54, 35
+  orig: 54, 35
+  offset: 0, 0
+  index: -1
+emotion_smile_l
+  rotate: false
+  xy: 541, 7
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+emotion_smile_mouth
+  rotate: false
+  xy: 1878, 2
+  size: 25, 10
+  orig: 25, 10
+  offset: 0, 0
+  index: -1
+emotion_smile_r
+  rotate: true
+  xy: 2023, 676
+  size: 56, 23
+  orig: 56, 23
+  offset: 0, 0
+  index: -1
+emotion_surprise_l
+  rotate: false
+  xy: 876, 47
+  size: 26, 24
+  orig: 26, 24
+  offset: 0, 0
+  index: -1
+emotion_surprise_mouth
+  rotate: false
+  xy: 2005, 363
+  size: 21, 8
+  orig: 21, 8
+  offset: 0, 0
+  index: -1
+emotion_surprise_r
+  rotate: true
+  xy: 1974, 535
+  size: 58, 29
+  orig: 58, 29
+  offset: 0, 0
+  index: -1

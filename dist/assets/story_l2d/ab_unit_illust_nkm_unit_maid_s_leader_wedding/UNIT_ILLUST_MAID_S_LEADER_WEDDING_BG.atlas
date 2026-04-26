@@ -1,0 +1,13 @@
+
+UNIT_ILLUST_MAID_S_LEADER_WEDDING_BG.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+SOFA_1
+  rotate: false
+  xy: 2, 2
+  size: 995, 987
+  orig: 995, 987
+  offset: 0, 0
+  index: -1

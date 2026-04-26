@@ -1,0 +1,76 @@
+
+UNIT_ILLUST_NPC_SCHOOL_GARAM.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 2, 280
+  size: 731, 1724
+  orig: 731, 1724
+  offset: 0, 0
+  index: -1
+despair
+  rotate: false
+  xy: 1004, 172
+  size: 162, 106
+  orig: 162, 106
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: false
+  xy: 365, 12
+  size: 221, 111
+  orig: 221, 111
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: false
+  xy: 2, 2
+  size: 361, 276
+  orig: 361, 276
+  offset: 0, 0
+  index: -1
+hate
+  rotate: false
+  xy: 841, 147
+  size: 161, 131
+  orig: 161, 131
+  offset: 0, 0
+  index: -1
+idle
+  rotate: true
+  xy: 1888, 795
+  size: 216, 140
+  orig: 216, 140
+  offset: 0, 0
+  index: -1
+laugh
+  rotate: false
+  xy: 630, 140
+  size: 209, 138
+  orig: 209, 138
+  offset: 0, 0
+  index: -1
+pride
+  rotate: false
+  xy: 365, 125
+  size: 263, 153
+  orig: 263, 153
+  offset: 0, 0
+  index: -1
+serious
+  rotate: true
+  xy: 1728, 633
+  size: 378, 158
+  orig: 378, 158
+  offset: 0, 0
+  index: -1
+surprise
+  rotate: true
+  xy: 1728, 420
+  size: 211, 153
+  orig: 211, 153
+  offset: 0, 0
+  index: -1

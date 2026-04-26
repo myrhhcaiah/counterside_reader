@@ -1,0 +1,90 @@
+
+UNIT_ILLUST_NPC_HAVEN.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 717, 839
+  size: 211, 174
+  orig: 211, 174
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 2, 526
+  size: 713, 487
+  orig: 713, 487
+  offset: 0, 0
+  index: -1
+11
+  rotate: true
+  xy: 2, 2
+  size: 522, 547
+  orig: 522, 547
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 717, 661
+  size: 165, 176
+  orig: 165, 176
+  offset: 0, 0
+  index: -1
+BASE
+  rotate: false
+  xy: 551, 273
+  size: 109, 80
+  orig: 109, 80
+  offset: 0, 0
+  index: -1
+DESPAIR
+  rotate: true
+  xy: 930, 891
+  size: 122, 92
+  orig: 122, 92
+  offset: 0, 0
+  index: -1
+HATE
+  rotate: true
+  xy: 551, 47
+  size: 108, 78
+  orig: 108, 78
+  offset: 0, 0
+  index: -1
+LAUGH
+  rotate: true
+  xy: 930, 778
+  size: 111, 92
+  orig: 111, 92
+  offset: 0, 0
+  index: -1
+PRIDE
+  rotate: true
+  xy: 551, 157
+  size: 114, 74
+  orig: 114, 74
+  offset: 0, 0
+  index: -1
+SERIOUS
+  rotate: false
+  xy: 717, 568
+  size: 113, 91
+  orig: 113, 91
+  offset: 0, 0
+  index: -1
+SERIOUS2
+  rotate: false
+  xy: 551, 439
+  size: 129, 85
+  orig: 129, 85
+  offset: 0, 0
+  index: -1
+SURPRISE2
+  rotate: false
+  xy: 551, 355
+  size: 110, 82
+  orig: 110, 82
+  offset: 0, 0
+  index: -1

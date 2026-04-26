@@ -1,0 +1,76 @@
+
+UNIT_ILLUST_REPLACER_C_KNIGHT_FOOLSDAY.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: true
+  xy: 1, 228
+  size: 705, 1299
+  orig: 705, 1299
+  offset: 0, 0
+  index: -1
+000
+  rotate: true
+  xy: 1301, 128
+  size: 805, 680
+  orig: 805, 680
+  offset: 0, 0
+  index: -1
+BASE_FACE
+  rotate: false
+  xy: 320, 128
+  size: 100, 99
+  orig: 100, 99
+  offset: 0, 0
+  index: -1
+DESPAIR
+  rotate: false
+  xy: 1, 104
+  size: 98, 123
+  orig: 98, 123
+  offset: 0, 0
+  index: -1
+HATE
+  rotate: true
+  xy: 533, 135
+  size: 92, 105
+  orig: 92, 105
+  offset: 0, 0
+  index: -1
+LAUGH
+  rotate: true
+  xy: 216, 127
+  size: 100, 103
+  orig: 100, 103
+  offset: 0, 0
+  index: -1
+PRIDE
+  rotate: false
+  xy: 1, 1
+  size: 97, 102
+  orig: 97, 102
+  offset: 0, 0
+  index: -1
+SERIOUS
+  rotate: true
+  xy: 639, 135
+  size: 92, 102
+  orig: 92, 102
+  offset: 0, 0
+  index: -1
+SURPRISE
+  rotate: true
+  xy: 421, 139
+  size: 88, 111
+  orig: 88, 111
+  offset: 0, 0
+  index: -1
+fronthair
+  rotate: false
+  xy: 100, 126
+  size: 115, 101
+  orig: 115, 101
+  offset: 0, 0
+  index: -1

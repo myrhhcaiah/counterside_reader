@@ -1,0 +1,13 @@
+
+UNIT_ILLUST_REAPER_SA_COMMANDER_SILHOUETT.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 1, 1
+  size: 1521, 2043
+  orig: 1531, 2044
+  offset: 10, 0
+  index: -1

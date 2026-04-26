@@ -1,0 +1,69 @@
+
+UNIT_ILLUST_C_SIXWING_LEE_JISOO_FOOLSDAY.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 1281, 220
+  size: 582, 1760
+  orig: 582, 1760
+  offset: 0, 0
+  index: -1
+BASE
+  rotate: true
+  xy: 1865, 1586
+  size: 196, 161
+  orig: 196, 161
+  offset: 0, 0
+  index: -1
+BG
+  rotate: false
+  xy: 2, 2
+  size: 1277, 1978
+  orig: 1277, 1978
+  offset: 0, 0
+  index: -1
+DESPAIR
+  rotate: false
+  xy: 1463, 54
+  size: 196, 164
+  orig: 196, 164
+  offset: 0, 0
+  index: -1
+HATE
+  rotate: false
+  xy: 1661, 59
+  size: 196, 159
+  orig: 196, 159
+  offset: 0, 0
+  index: -1
+LAUGH
+  rotate: true
+  xy: 1865, 1784
+  size: 196, 167
+  orig: 196, 167
+  offset: 0, 0
+  index: -1
+PRIDE
+  rotate: false
+  xy: 1865, 1199
+  size: 167, 187
+  orig: 167, 187
+  offset: 0, 0
+  index: -1
+SERIOUS
+  rotate: true
+  xy: 1865, 1388
+  size: 196, 159
+  orig: 196, 159
+  offset: 0, 0
+  index: -1
+SURPRISE
+  rotate: false
+  xy: 1281, 10
+  size: 180, 208
+  orig: 180, 208
+  offset: 0, 0
+  index: -1

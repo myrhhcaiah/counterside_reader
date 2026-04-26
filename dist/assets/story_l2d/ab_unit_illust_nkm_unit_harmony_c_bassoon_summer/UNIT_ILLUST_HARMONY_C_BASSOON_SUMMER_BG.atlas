@@ -1,0 +1,111 @@
+
+UNIT_ILLUST_HARMONY_C_BASSOON_SUMMER_BG.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_1
+  rotate: true
+  xy: 2, 2
+  size: 9, 64
+  orig: 9, 64
+  offset: 0, 0
+  index: -1
+bg_10
+  rotate: true
+  xy: 1758, 1677
+  size: 369, 208
+  orig: 369, 208
+  offset: 0, 0
+  index: -1
+bg_11
+  rotate: false
+  xy: 2, 14
+  size: 336, 107
+  orig: 336, 107
+  offset: 0, 0
+  index: -1
+bg_2
+  rotate: false
+  xy: 1863, 696
+  size: 9, 34
+  orig: 9, 34
+  offset: 0, 0
+  index: -1
+bg_3
+  rotate: false
+  xy: 1968, 1930
+  size: 11, 116
+  orig: 11, 116
+  offset: 0, 0
+  index: -1
+bg_4
+  rotate: false
+  xy: 1675, 671
+  size: 186, 59
+  orig: 186, 59
+  offset: 0, 0
+  index: -1
+bg_5
+  rotate: false
+  xy: 1758, 1581
+  size: 92, 94
+  orig: 92, 94
+  offset: 0, 0
+  index: -1
+bg_6
+  rotate: false
+  xy: 1323, 13
+  size: 544, 436
+  orig: 544, 436
+  offset: 0, 0
+  index: -1
+bg_7
+  rotate: false
+  xy: 1675, 732
+  size: 297, 422
+  orig: 297, 422
+  offset: 0, 0
+  index: -1
+bg_8_1
+  rotate: false
+  xy: 739, 103
+  size: 582, 346
+  orig: 582, 346
+  offset: 0, 0
+  index: -1
+bg_8_2
+  rotate: false
+  xy: 2, 1156
+  size: 1754, 890
+  orig: 1754, 890
+  offset: 0, 0
+  index: -1
+bg_8_4
+  rotate: false
+  xy: 2, 451
+  size: 1671, 703
+  orig: 1671, 703
+  offset: 0, 0
+  index: -1
+bg_9
+  rotate: true
+  xy: 2, 123
+  size: 326, 735
+  orig: 326, 735
+  offset: 0, 0
+  index: -1
+bg_fx_2
+  rotate: false
+  xy: 340, 59
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+bg_fx_3
+  rotate: false
+  xy: 1675, 607
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+UNIT_ILLUST_S_ESPR_PILE_RA_BG.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_1
+  rotate: false
+  xy: 938, 611
+  size: 50, 396
+  orig: 50, 396
+  offset: 0, 0
+  index: -1
+bg_2
+  rotate: true
+  xy: 408, 2
+  size: 379, 500
+  orig: 379, 500
+  offset: 0, 0
+  index: -1
+bg_4
+  rotate: false
+  xy: 2, 161
+  size: 404, 846
+  orig: 404, 846
+  offset: 0, 0
+  index: -1
+bg_6
+  rotate: true
+  xy: 408, 383
+  size: 624, 528
+  orig: 624, 528
+  offset: 0, 0
+  index: -1

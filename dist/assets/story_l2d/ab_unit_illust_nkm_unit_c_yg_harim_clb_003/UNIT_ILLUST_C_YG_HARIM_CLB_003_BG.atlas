@@ -1,0 +1,41 @@
+
+UNIT_ILLUST_C_YG_HARIM_CLB_003_BG.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_1
+  rotate: true
+  xy: 2, 2
+  size: 1016, 866
+  orig: 1016, 866
+  offset: 0, 0
+  index: -1
+bg_2
+  rotate: false
+  xy: 870, 62
+  size: 149, 56
+  orig: 149, 56
+  offset: 0, 0
+  index: -1
+bg_3
+  rotate: false
+  xy: 870, 18
+  size: 107, 42
+  orig: 107, 42
+  offset: 0, 0
+  index: -1
+bg_fx_l_1
+  rotate: false
+  xy: 1496, 263
+  size: 481, 755
+  orig: 481, 755
+  offset: 0, 0
+  index: -1
+bg_fx_r_5
+  rotate: false
+  xy: 870, 120
+  size: 624, 898
+  orig: 624, 898
+  offset: 0, 0
+  index: -1

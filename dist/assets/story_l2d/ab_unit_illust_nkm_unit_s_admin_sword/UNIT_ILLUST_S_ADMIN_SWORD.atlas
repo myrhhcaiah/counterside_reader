@@ -1,0 +1,125 @@
+
+UNIT_ILLUST_S_ADMIN_SWORD.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ob_10
+  rotate: false
+  xy: 599, 62
+  size: 49, 58
+  orig: 49, 58
+  offset: 0, 0
+  index: -1
+ob_11
+  rotate: false
+  xy: 158, 230
+  size: 163, 443
+  orig: 163, 443
+  offset: 0, 0
+  index: -1
+ob_12
+  rotate: true
+  xy: 343, 706
+  size: 118, 488
+  orig: 118, 488
+  offset: 0, 0
+  index: -1
+ob_13
+  rotate: false
+  xy: 323, 254
+  size: 136, 418
+  orig: 136, 418
+  offset: 0, 0
+  index: -1
+ob_14
+  rotate: false
+  xy: 2, 189
+  size: 154, 484
+  orig: 154, 484
+  offset: 0, 0
+  index: -1
+ob_15
+  rotate: false
+  xy: 461, 346
+  size: 215, 326
+  orig: 215, 326
+  offset: 0, 0
+  index: -1
+ob_16
+  rotate: true
+  xy: 343, 826
+  size: 167, 449
+  orig: 167, 449
+  offset: 0, 0
+  index: -1
+ob_17
+  rotate: true
+  xy: 2, 7
+  size: 180, 237
+  orig: 180, 237
+  offset: 0, 0
+  index: -1
+ob_1_1
+  rotate: false
+  xy: 485, 20
+  size: 112, 211
+  orig: 112, 211
+  offset: 0, 0
+  index: -1
+ob_1_2
+  rotate: true
+  xy: 461, 233
+  size: 111, 246
+  orig: 111, 246
+  offset: 0, 0
+  index: -1
+ob_3
+  rotate: false
+  xy: 797, 278
+  size: 26, 426
+  orig: 26, 426
+  offset: 0, 0
+  index: -1
+ob_4
+  rotate: true
+  xy: 343, 674
+  size: 30, 428
+  orig: 30, 428
+  offset: 0, 0
+  index: -1
+ob_5
+  rotate: false
+  xy: 599, 122
+  size: 76, 109
+  orig: 76, 109
+  offset: 0, 0
+  index: -1
+ob_6
+  rotate: false
+  xy: 678, 367
+  size: 117, 305
+  orig: 117, 305
+  offset: 0, 0
+  index: -1
+ob_7
+  rotate: true
+  xy: 794, 837
+  size: 156, 211
+  orig: 156, 211
+  offset: 0, 0
+  index: -1
+ob_8
+  rotate: false
+  xy: 241, 2
+  size: 242, 226
+  orig: 242, 226
+  offset: 0, 0
+  index: -1
+ob_9
+  rotate: false
+  xy: 2, 675
+  size: 339, 318
+  orig: 339, 318
+  offset: 0, 0
+  index: -1

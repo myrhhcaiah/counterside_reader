@@ -1,0 +1,69 @@
+
+UNIT_ILLUST_NPC_NEWCOMER.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BASE
+  rotate: false
+  xy: 889, 851
+  size: 123, 83
+  orig: 123, 83
+  offset: 0, 0
+  index: -1
+BODY
+  rotate: false
+  xy: 0, 0
+  size: 646, 1021
+  orig: 646, 1021
+  offset: 0, 0
+  index: -1
+EMOTION_DESPAIR
+  rotate: false
+  xy: 889, 770
+  size: 123, 81
+  orig: 123, 81
+  offset: 0, 0
+  index: -1
+EMOTION_HATE
+  rotate: true
+  xy: 646, 278
+  size: 123, 78
+  orig: 123, 78
+  offset: 0, 0
+  index: -1
+EMOTION_LAUGH
+  rotate: false
+  xy: 646, 651
+  size: 123, 91
+  orig: 123, 91
+  offset: 0, 0
+  index: -1
+EMOTION_PRIDE
+  rotate: true
+  xy: 646, 524
+  size: 127, 83
+  orig: 127, 83
+  offset: 0, 0
+  index: -1
+EMOTION_SERIOUS
+  rotate: true
+  xy: 646, 401
+  size: 123, 82
+  orig: 123, 82
+  offset: 0, 0
+  index: -1
+EMOTION_SURPRISE
+  rotate: false
+  xy: 889, 934
+  size: 124, 87
+  orig: 124, 87
+  offset: 0, 0
+  index: -1
+HAIR
+  rotate: false
+  xy: 646, 742
+  size: 243, 279
+  orig: 243, 279
+  offset: 0, 0
+  index: -1

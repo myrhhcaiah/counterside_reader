@@ -1,0 +1,153 @@
+
+UNIT_ILLUST_S_FOX_RIFLE.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX_SHOT_1
+  rotate: false
+  xy: 598, 114
+  size: 161, 166
+  orig: 161, 166
+  offset: 0, 0
+  index: -1
+FX_SHOT_2_1
+  rotate: false
+  xy: 761, 187
+  size: 153, 138
+  orig: 153, 138
+  offset: 0, 0
+  index: -1
+FX_SHOT_2_2
+  rotate: true
+  xy: 598, 282
+  size: 255, 148
+  orig: 255, 148
+  offset: 0, 0
+  index: -1
+FX_SHOT_2_4
+  rotate: false
+  xy: 2, 2
+  size: 189, 107
+  orig: 189, 107
+  offset: 0, 0
+  index: -1
+L_arm
+  rotate: false
+  xy: 824, 487
+  size: 169, 530
+  orig: 169, 530
+  offset: 0, 0
+  index: -1
+L_leg
+  rotate: false
+  xy: 613, 539
+  size: 209, 478
+  orig: 209, 478
+  offset: 0, 0
+  index: -1
+R_leg
+  rotate: true
+  xy: 2, 111
+  size: 207, 461
+  orig: 207, 461
+  offset: 0, 0
+  index: -1
+body1
+  rotate: false
+  xy: 255, 548
+  size: 356, 469
+  orig: 356, 469
+  offset: 0, 0
+  index: -1
+body2
+  rotate: true
+  xy: 255, 355
+  size: 65, 103
+  orig: 65, 103
+  offset: 0, 0
+  index: -1
+body3
+  rotate: false
+  xy: 920, 437
+  size: 53, 48
+  orig: 53, 48
+  offset: 0, 0
+  index: -1
+body_ac1
+  rotate: true
+  xy: 255, 422
+  size: 124, 323
+  orig: 124, 323
+  offset: 0, 0
+  index: -1
+body_ac2
+  rotate: false
+  xy: 465, 159
+  size: 131, 261
+  orig: 131, 261
+  offset: 0, 0
+  index: -1
+hair1
+  rotate: false
+  xy: 580, 498
+  size: 11, 48
+  orig: 11, 48
+  offset: 0, 0
+  index: -1
+hair2
+  rotate: false
+  xy: 995, 952
+  size: 17, 65
+  orig: 17, 65
+  offset: 0, 0
+  index: -1
+head1
+  rotate: false
+  xy: 761, 61
+  size: 128, 124
+  orig: 128, 124
+  offset: 0, 0
+  index: -1
+head2
+  rotate: false
+  xy: 748, 327
+  size: 170, 158
+  orig: 170, 158
+  offset: 0, 0
+  index: -1
+head3
+  rotate: true
+  xy: 465, 133
+  size: 24, 52
+  orig: 24, 52
+  offset: 0, 0
+  index: -1
+weapon1
+  rotate: false
+  xy: 2, 320
+  size: 251, 697
+  orig: 251, 697
+  offset: 0, 0
+  index: -1
+weapon2
+  rotate: false
+  xy: 193, 90
+  size: 26, 19
+  orig: 26, 19
+  offset: 0, 0
+  index: -1
+weapon3
+  rotate: false
+  xy: 748, 491
+  size: 18, 46
+  orig: 18, 46
+  offset: 0, 0
+  index: -1
+weapon4
+  rotate: false
+  xy: 580, 473
+  size: 16, 23
+  orig: 16, 23
+  offset: 0, 0
+  index: -1

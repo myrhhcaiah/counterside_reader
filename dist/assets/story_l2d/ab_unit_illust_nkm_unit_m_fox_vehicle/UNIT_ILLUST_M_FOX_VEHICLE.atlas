@@ -1,0 +1,195 @@
+
+UNIT_ILLUST_M_FOX_VEHICLE.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX_SHOT_1
+  rotate: false
+  xy: 773, 306
+  size: 110, 114
+  orig: 110, 114
+  offset: 0, 0
+  index: -1
+FX_SHOT_2_1
+  rotate: true
+  xy: 916, 417
+  size: 105, 94
+  orig: 105, 94
+  offset: 0, 0
+  index: -1
+FX_SHOT_2_2
+  rotate: false
+  xy: 2, 22
+  size: 175, 101
+  orig: 175, 101
+  offset: 0, 0
+  index: -1
+FX_SHOT_2_4
+  rotate: true
+  xy: 916, 524
+  size: 129, 73
+  orig: 129, 73
+  offset: 0, 0
+  index: -1
+anti
+  rotate: true
+  xy: 224, 136
+  size: 7, 138
+  orig: 7, 138
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 655
+  size: 965, 365
+  orig: 965, 365
+  offset: 0, 0
+  index: -1
+body_back
+  rotate: false
+  xy: 2, 422
+  size: 912, 231
+  orig: 912, 231
+  offset: 0, 0
+  index: -1
+gun
+  rotate: false
+  xy: 2, 344
+  size: 371, 76
+  orig: 371, 76
+  offset: 0, 0
+  index: -1
+lighting_01
+  rotate: false
+  xy: 179, 88
+  size: 30, 35
+  orig: 30, 35
+  offset: 0, 0
+  index: -1
+lighting_02
+  rotate: true
+  xy: 984, 383
+  size: 32, 38
+  orig: 32, 38
+  offset: 0, 0
+  index: -1
+lighting_03
+  rotate: true
+  xy: 885, 310
+  size: 9, 35
+  orig: 9, 35
+  offset: 0, 0
+  index: -1
+lighting_04
+  rotate: false
+  xy: 375, 378
+  size: 10, 42
+  orig: 10, 42
+  offset: 0, 0
+  index: -1
+lighting_05
+  rotate: true
+  xy: 2, 2
+  size: 18, 40
+  orig: 18, 40
+  offset: 0, 0
+  index: -1
+lighting_06
+  rotate: false
+  xy: 984, 365
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+lighting_07
+  rotate: false
+  xy: 179, 72
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+line1
+  rotate: false
+  xy: 871, 274
+  size: 11, 30
+  orig: 11, 30
+  offset: 0, 0
+  index: -1
+line2
+  rotate: false
+  xy: 551, 219
+  size: 13, 24
+  orig: 13, 24
+  offset: 0, 0
+  index: -1
+line3
+  rotate: false
+  xy: 969, 655
+  size: 8, 27
+  orig: 8, 27
+  offset: 0, 0
+  index: -1
+shield_01
+  rotate: false
+  xy: 885, 321
+  size: 97, 94
+  orig: 97, 94
+  offset: 0, 0
+  index: -1
+shield_02
+  rotate: true
+  xy: 773, 223
+  size: 81, 96
+  orig: 81, 96
+  offset: 0, 0
+  index: -1
+thing1
+  rotate: true
+  xy: 969, 744
+  size: 276, 53
+  orig: 276, 53
+  offset: 0, 0
+  index: -1
+thing2
+  rotate: false
+  xy: 421, 150
+  size: 128, 93
+  orig: 128, 93
+  offset: 0, 0
+  index: -1
+thing3
+  rotate: false
+  xy: 969, 684
+  size: 50, 58
+  orig: 50, 58
+  offset: 0, 0
+  index: -1
+wheel1
+  rotate: false
+  xy: 2, 125
+  size: 220, 217
+  orig: 220, 217
+  offset: 0, 0
+  index: -1
+wheel2
+  rotate: false
+  xy: 601, 253
+  size: 170, 167
+  orig: 170, 167
+  offset: 0, 0
+  index: -1
+wheel3
+  rotate: true
+  xy: 224, 145
+  size: 197, 195
+  orig: 197, 195
+  offset: 0, 0
+  index: -1
+wheel4
+  rotate: false
+  xy: 421, 245
+  size: 178, 175
+  orig: 178, 175
+  offset: 0, 0
+  index: -1

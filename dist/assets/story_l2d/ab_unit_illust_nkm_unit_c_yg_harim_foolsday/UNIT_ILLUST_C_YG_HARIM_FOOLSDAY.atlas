@@ -1,0 +1,76 @@
+
+UNIT_ILLUST_C_YG_HARIM_FOOLSDAY.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00
+  rotate: true
+  xy: 2, 196
+  size: 796, 1133
+  orig: 796, 1133
+  offset: 0, 0
+  index: -1
+BACK1
+  rotate: true
+  xy: 1137, 480
+  size: 512, 885
+  orig: 512, 885
+  offset: 0, 0
+  index: -1
+BACK2
+  rotate: true
+  xy: 1137, 78
+  size: 400, 488
+  orig: 400, 488
+  offset: 0, 0
+  index: -1
+DESPAIR
+  rotate: false
+  xy: 278, 92
+  size: 128, 102
+  orig: 128, 102
+  offset: 0, 0
+  index: -1
+HATE
+  rotate: false
+  xy: 1627, 353
+  size: 131, 125
+  orig: 131, 125
+  offset: 0, 0
+  index: -1
+IDLE
+  rotate: false
+  xy: 2, 73
+  size: 137, 121
+  orig: 137, 121
+  offset: 0, 0
+  index: -1
+LAUGH
+  rotate: false
+  xy: 141, 81
+  size: 135, 113
+  orig: 135, 113
+  offset: 0, 0
+  index: -1
+PRIDE
+  rotate: false
+  xy: 2, 2
+  size: 70, 69
+  orig: 70, 69
+  offset: 0, 0
+  index: -1
+SERIOUS
+  rotate: true
+  xy: 1627, 219
+  size: 132, 114
+  orig: 132, 114
+  offset: 0, 0
+  index: -1
+SURPRISE
+  rotate: false
+  xy: 1760, 365
+  size: 122, 113
+  orig: 122, 113
+  offset: 0, 0
+  index: -1

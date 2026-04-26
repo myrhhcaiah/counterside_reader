@@ -1,0 +1,13 @@
+
+UNIT_ILLUST_REPLACER_CA_QUEEN_CHUSEOK_BG.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 2, 2
+  size: 964, 854
+  orig: 964, 854
+  offset: 0, 0
+  index: -1

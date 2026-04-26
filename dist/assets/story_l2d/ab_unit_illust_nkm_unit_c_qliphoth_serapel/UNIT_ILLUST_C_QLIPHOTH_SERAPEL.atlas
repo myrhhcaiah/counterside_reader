@@ -1,0 +1,293 @@
+
+UNIT_ILLUST_C_QLIPHOTH_SERAPEL.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DESPAIR
+  rotate: true
+  xy: 1644, 24
+  size: 142, 106
+  orig: 142, 106
+  offset: 0, 0
+  index: -1
+HATE
+  rotate: true
+  xy: 1885, 204
+  size: 141, 102
+  orig: 141, 102
+  offset: 0, 0
+  index: -1
+LAUGH
+  rotate: true
+  xy: 1575, 560
+  size: 143, 138
+  orig: 143, 138
+  offset: 0, 0
+  index: -1
+PRIDE
+  rotate: true
+  xy: 1748, 204
+  size: 142, 135
+  orig: 142, 135
+  offset: 0, 0
+  index: -1
+SERIOUS
+  rotate: true
+  xy: 1622, 713
+  size: 145, 110
+  orig: 145, 110
+  offset: 0, 0
+  index: -1
+SURPRISE
+  rotate: true
+  xy: 1283, 22
+  size: 145, 146
+  orig: 145, 146
+  offset: 0, 0
+  index: -1
+TOUCH
+  rotate: true
+  xy: 1752, 60
+  size: 142, 126
+  orig: 142, 126
+  offset: 0, 0
+  index: -1
+acc
+  rotate: false
+  xy: 1933, 347
+  size: 73, 203
+  orig: 73, 203
+  offset: 0, 0
+  index: -1
+bf_01
+  rotate: false
+  xy: 1880, 82
+  size: 68, 120
+  orig: 68, 120
+  offset: 0, 0
+  index: -1
+bf_01_1
+  rotate: false
+  xy: 1950, 110
+  size: 68, 92
+  orig: 68, 92
+  offset: 0, 0
+  index: -1
+bf_02_1
+  rotate: false
+  xy: 1950, 17
+  size: 68, 91
+  orig: 68, 91
+  offset: 0, 0
+  index: -1
+bf_03_1
+  rotate: false
+  xy: 1950, 606
+  size: 67, 97
+  orig: 67, 97
+  offset: 0, 0
+  index: -1
+breast
+  rotate: true
+  xy: 1213, 339
+  size: 219, 313
+  orig: 219, 313
+  offset: 0, 0
+  index: -1
+chain_01
+  rotate: false
+  xy: 1528, 338
+  size: 117, 220
+  orig: 117, 220
+  offset: 0, 0
+  index: -1
+chain_02
+  rotate: false
+  xy: 1996, 888
+  size: 17, 134
+  orig: 17, 134
+  offset: 0, 0
+  index: -1
+chain_03
+  rotate: true
+  xy: 1431, 21
+  size: 127, 211
+  orig: 127, 211
+  offset: 0, 0
+  index: -1
+eye_pilow
+  rotate: true
+  xy: 1641, 168
+  size: 168, 105
+  orig: 168, 105
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 1220, 169
+  size: 168, 224
+  orig: 168, 224
+  offset: 0, 0
+  index: -1
+front_hair
+  rotate: false
+  xy: 1738, 705
+  size: 256, 317
+  orig: 256, 317
+  offset: 0, 0
+  index: -1
+l_arm
+  rotate: false
+  xy: 781, 130
+  size: 437, 197
+  orig: 437, 197
+  offset: 0, 0
+  index: -1
+l_hair_01
+  rotate: false
+  xy: 2, 157
+  size: 777, 865
+  orig: 777, 865
+  offset: 0, 0
+  index: -1
+l_hair_02
+  rotate: true
+  xy: 2, 19
+  size: 136, 710
+  orig: 136, 710
+  offset: 0, 0
+  index: -1
+l_leg
+  rotate: true
+  xy: 781, 560
+  size: 148, 792
+  orig: 148, 792
+  offset: 0, 0
+  index: -1
+l_nut_01
+  rotate: true
+  xy: 714, 2
+  size: 33, 40
+  orig: 33, 40
+  offset: 0, 0
+  index: -1
+l_nut_02
+  rotate: false
+  xy: 1950, 552
+  size: 47, 52
+  orig: 47, 52
+  offset: 0, 0
+  index: -1
+l_nut_03
+  rotate: true
+  xy: 1999, 559
+  size: 45, 47
+  orig: 45, 47
+  offset: 0, 0
+  index: -1
+l_nut_04
+  rotate: true
+  xy: 756, 5
+  size: 30, 36
+  orig: 30, 36
+  offset: 0, 0
+  index: -1
+l_s_hair
+  rotate: true
+  xy: 781, 860
+  size: 162, 955
+  orig: 162, 955
+  offset: 0, 0
+  index: -1
+l_wing_01
+  rotate: false
+  xy: 1647, 348
+  size: 151, 202
+  orig: 151, 202
+  offset: 0, 0
+  index: -1
+l_wing_02
+  rotate: false
+  xy: 1446, 150
+  size: 193, 186
+  orig: 193, 186
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 1220, 133
+  size: 58, 34
+  orig: 58, 34
+  offset: 0, 0
+  index: -1
+nose
+  rotate: false
+  xy: 1809, 2
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+pelvis
+  rotate: true
+  xy: 1800, 363
+  size: 187, 131
+  orig: 187, 131
+  offset: 0, 0
+  index: -1
+r_arm
+  rotate: false
+  xy: 781, 329
+  size: 430, 229
+  orig: 430, 229
+  offset: 0, 0
+  index: -1
+r_arm_b
+  rotate: true
+  xy: 2020, 518
+  size: 39, 26
+  orig: 39, 26
+  offset: 0, 0
+  index: -1
+r_leg
+  rotate: true
+  xy: 781, 710
+  size: 148, 839
+  orig: 148, 839
+  offset: 0, 0
+  index: -1
+r_nut_01
+  rotate: true
+  xy: 1752, 5
+  size: 53, 55
+  orig: 53, 55
+  offset: 0, 0
+  index: -1
+r_nut_02
+  rotate: false
+  xy: 1809, 22
+  size: 41, 36
+  orig: 41, 36
+  offset: 0, 0
+  index: -1
+r_nut_03
+  rotate: false
+  xy: 2015, 990
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+r_s_hair
+  rotate: true
+  xy: 714, 37
+  size: 91, 567
+  orig: 91, 567
+  offset: 0, 0
+  index: -1
+r_wing
+  rotate: false
+  xy: 1715, 552
+  size: 233, 151
+  orig: 233, 151
+  offset: 0, 0
+  index: -1

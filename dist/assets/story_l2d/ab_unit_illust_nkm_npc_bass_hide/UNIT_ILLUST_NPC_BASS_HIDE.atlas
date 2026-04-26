@@ -1,0 +1,69 @@
+
+UNIT_ILLUST_NPC_BASS_HIDE.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00
+  rotate: false
+  xy: 0, 168
+  size: 935, 813
+  orig: 935, 813
+  offset: 0, 0
+  index: -1
+BASE
+  rotate: true
+  xy: 935, 714
+  size: 133, 81
+  orig: 133, 81
+  offset: 0, 0
+  index: -1
+DESPAIR
+  rotate: true
+  xy: 935, 582
+  size: 132, 79
+  orig: 132, 79
+  offset: 0, 0
+  index: -1
+EFFECT
+  rotate: false
+  xy: 0, 0
+  size: 168, 168
+  orig: 168, 168
+  offset: 0, 0
+  index: -1
+HATE
+  rotate: false
+  xy: 428, 88
+  size: 131, 80
+  orig: 131, 80
+  offset: 0, 0
+  index: -1
+LAUGH
+  rotate: false
+  xy: 296, 86
+  size: 132, 82
+  orig: 132, 82
+  offset: 0, 0
+  index: -1
+PRIDE
+  rotate: true
+  xy: 935, 451
+  size: 131, 78
+  orig: 131, 78
+  offset: 0, 0
+  index: -1
+SERIOUS
+  rotate: false
+  xy: 168, 80
+  size: 128, 88
+  orig: 128, 88
+  offset: 0, 0
+  index: -1
+SURPRISE
+  rotate: true
+  xy: 935, 847
+  size: 134, 85
+  orig: 134, 85
+  offset: 0, 0
+  index: -1

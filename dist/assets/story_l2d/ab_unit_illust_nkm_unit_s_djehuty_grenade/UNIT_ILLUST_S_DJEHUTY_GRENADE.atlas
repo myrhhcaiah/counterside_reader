@@ -1,0 +1,104 @@
+
+UNIT_ILLUST_S_DJEHUTY_GRENADE.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_Kneeprotector
+  rotate: false
+  xy: 250, 99
+  size: 91, 109
+  orig: 91, 109
+  offset: 0, 0
+  index: -1
+L_arm
+  rotate: false
+  xy: 703, 210
+  size: 219, 103
+  orig: 219, 103
+  offset: 0, 0
+  index: -1
+L_finger
+  rotate: true
+  xy: 893, 171
+  size: 37, 28
+  orig: 37, 28
+  offset: 0, 0
+  index: -1
+L_hand
+  rotate: true
+  xy: 926, 440
+  size: 129, 95
+  orig: 129, 95
+  offset: 0, 0
+  index: -1
+L_leg
+  rotate: false
+  xy: 225, 210
+  size: 232, 786
+  orig: 232, 786
+  offset: 0, 0
+  index: -1
+L_light
+  rotate: false
+  xy: 703, 83
+  size: 188, 125
+  orig: 188, 125
+  offset: 0, 0
+  index: -1
+R_Kneeprotector
+  rotate: false
+  xy: 926, 316
+  size: 91, 122
+  orig: 91, 122
+  offset: 0, 0
+  index: -1
+R_arm
+  rotate: true
+  xy: 926, 571
+  size: 198, 93
+  orig: 198, 93
+  offset: 0, 0
+  index: -1
+R_leg
+  rotate: false
+  xy: 2, 190
+  size: 221, 806
+  orig: 221, 806
+  offset: 0, 0
+  index: -1
+R_light
+  rotate: true
+  xy: 459, 91
+  size: 222, 242
+  orig: 222, 242
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 459, 315
+  size: 465, 454
+  orig: 465, 454
+  offset: 0, 0
+  index: -1
+gun
+  rotate: false
+  xy: 459, 771
+  size: 563, 225
+  orig: 563, 225
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 2
+  size: 154, 186
+  orig: 154, 186
+  offset: 0, 0
+  index: -1
+leg_ac
+  rotate: false
+  xy: 158, 58
+  size: 90, 130
+  orig: 90, 130
+  offset: 0, 0
+  index: -1

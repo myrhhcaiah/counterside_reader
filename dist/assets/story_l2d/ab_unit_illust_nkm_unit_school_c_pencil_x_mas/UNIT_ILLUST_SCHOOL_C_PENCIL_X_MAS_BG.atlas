@@ -1,0 +1,13 @@
+
+UNIT_ILLUST_SCHOOL_C_PENCIL_X_MAS_BG.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_fx_1
+  rotate: false
+  xy: 2, 2
+  size: 922, 992
+  orig: 922, 992
+  offset: 0, 0
+  index: -1

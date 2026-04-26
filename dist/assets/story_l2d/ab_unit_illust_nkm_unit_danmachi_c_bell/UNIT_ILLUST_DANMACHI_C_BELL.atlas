@@ -1,0 +1,13 @@
+
+UNIT_ILLUST_DANMACHI_C_BELL.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+UNIT_ILLUST_DANMACHI_C_BELL
+  rotate: false
+  xy: 0, 0
+  size: 2047, 1014
+  orig: 2048, 1024
+  offset: 0, 9
+  index: -1

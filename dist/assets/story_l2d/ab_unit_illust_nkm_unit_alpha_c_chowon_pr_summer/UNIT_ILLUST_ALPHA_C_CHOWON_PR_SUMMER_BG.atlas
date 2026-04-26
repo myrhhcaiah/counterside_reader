@@ -1,0 +1,13 @@
+
+UNIT_ILLUST_ALPHA_C_CHOWON_PR_SUMMER_BG.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_1
+  rotate: true
+  xy: 2, 2
+  size: 1004, 1861
+  orig: 1004, 1861
+  offset: 0, 0
+  index: -1

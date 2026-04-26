@@ -1,0 +1,76 @@
+
+UNIT_ILLUST_NPC_GEASS_TAPIR.png
+size: 2048,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: true
+  xy: 1, 1
+  size: 475, 1603
+  orig: 475, 1603
+  offset: 0, 0
+  index: -1
+BASE
+  rotate: false
+  xy: 1727, 285
+  size: 117, 95
+  orig: 117, 95
+  offset: 0, 0
+  index: -1
+DESPAIR
+  rotate: false
+  xy: 1724, 189
+  size: 117, 95
+  orig: 117, 95
+  offset: 0, 0
+  index: -1
+HATE
+  rotate: false
+  xy: 1605, 285
+  size: 121, 95
+  orig: 121, 95
+  offset: 0, 0
+  index: -1
+LAUGH
+  rotate: false
+  xy: 1848, 381
+  size: 117, 95
+  orig: 117, 95
+  offset: 0, 0
+  index: -1
+PRIDE
+  rotate: false
+  xy: 1729, 381
+  size: 118, 95
+  orig: 118, 95
+  offset: 0, 0
+  index: -1
+SERIOUS
+  rotate: false
+  xy: 1605, 187
+  size: 118, 97
+  orig: 118, 97
+  offset: 0, 0
+  index: -1
+SERIOUS2
+  rotate: false
+  xy: 1605, 381
+  size: 123, 95
+  orig: 123, 95
+  offset: 0, 0
+  index: -1
+SURPRISE
+  rotate: true
+  xy: 1605, 67
+  size: 119, 96
+  orig: 119, 96
+  offset: 0, 0
+  index: -1
+glass
+  rotate: false
+  xy: 1845, 311
+  size: 129, 69
+  orig: 129, 69
+  offset: 0, 0
+  index: -1

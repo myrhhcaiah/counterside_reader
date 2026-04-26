@@ -1,0 +1,237 @@
+
+UNIT_ILLUST_NPC_ORDER_TEACHER.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00
+  rotate: false
+  xy: 817, 514
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+1
+  rotate: false
+  xy: 960, 772
+  size: 55, 244
+  orig: 55, 244
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 539, 292
+  size: 126, 282
+  orig: 126, 282
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 2, 57
+  size: 220, 959
+  orig: 220, 959
+  offset: 0, 0
+  index: -1
+13_FIX
+  rotate: false
+  xy: 847, 508
+  size: 111, 508
+  orig: 111, 508
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 405, 576
+  size: 260, 440
+  orig: 260, 440
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 2, 2
+  size: 92, 53
+  orig: 92, 53
+  offset: 0, 0
+  index: -1
+16_FIX
+  rotate: false
+  xy: 224, 491
+  size: 179, 525
+  orig: 179, 525
+  offset: 0, 0
+  index: -1
+17
+  rotate: false
+  xy: 667, 543
+  size: 178, 473
+  orig: 178, 473
+  offset: 0, 0
+  index: -1
+18
+  rotate: false
+  xy: 224, 161
+  size: 184, 328
+  orig: 184, 328
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 410, 242
+  size: 127, 332
+  orig: 127, 332
+  offset: 0, 0
+  index: -1
+20
+  rotate: true
+  xy: 224, 77
+  size: 82, 277
+  orig: 82, 277
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 667, 325
+  size: 148, 216
+  orig: 148, 216
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 224, 10
+  size: 65, 297
+  orig: 65, 297
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 823, 217
+  size: 117, 114
+  orig: 117, 114
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 823, 101
+  size: 117, 114
+  orig: 117, 114
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 817, 333
+  size: 148, 173
+  orig: 148, 173
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 667, 177
+  size: 154, 146
+  orig: 154, 146
+  offset: 0, 0
+  index: -1
+BASE_FACE
+  rotate: true
+  xy: 539, 166
+  size: 124, 126
+  orig: 124, 126
+  offset: 0, 0
+  index: -1
+BASE_FACE_EYE_1
+  rotate: false
+  xy: 96, 38
+  size: 89, 17
+  orig: 89, 17
+  offset: 0, 0
+  index: -1
+BASE_FACE_EYE_2
+  rotate: false
+  xy: 503, 84
+  size: 88, 15
+  orig: 88, 15
+  offset: 0, 0
+  index: -1
+BASE_FACE_EYE_3
+  rotate: true
+  xy: 1008, 585
+  size: 89, 14
+  orig: 89, 14
+  offset: 0, 0
+  index: -1
+BASE_FACE_EYE_4
+  rotate: false
+  xy: 96, 22
+  size: 85, 14
+  orig: 85, 14
+  offset: 0, 0
+  index: -1
+BASE_FACE_EYE_5
+  rotate: true
+  xy: 978, 588
+  size: 86, 12
+  orig: 86, 12
+  offset: 0, 0
+  index: -1
+BASE_FACE_EYE_BOW
+  rotate: true
+  xy: 960, 583
+  size: 91, 16
+  orig: 91, 16
+  offset: 0, 0
+  index: -1
+BASE_FACE_MOUTH
+  rotate: true
+  xy: 405, 552
+  size: 22, 3
+  orig: 22, 3
+  offset: 0, 0
+  index: -1
+BASE_FACE_NOSE
+  rotate: true
+  xy: 942, 131
+  size: 10, 42
+  orig: 10, 42
+  offset: 0, 0
+  index: -1
+emotion_despair
+  rotate: true
+  xy: 960, 676
+  size: 94, 62
+  orig: 94, 62
+  offset: 0, 0
+  index: -1
+emotion_hate
+  rotate: true
+  xy: 942, 238
+  size: 93, 64
+  orig: 93, 64
+  offset: 0, 0
+  index: -1
+emotion_laugh
+  rotate: false
+  xy: 597, 100
+  size: 90, 64
+  orig: 90, 64
+  offset: 0, 0
+  index: -1
+emotion_pride
+  rotate: false
+  xy: 503, 101
+  size: 92, 63
+  orig: 92, 63
+  offset: 0, 0
+  index: -1
+emotion_serious
+  rotate: false
+  xy: 410, 172
+  size: 93, 68
+  orig: 93, 68
+  offset: 0, 0
+  index: -1
+emotion_surpise
+  rotate: true
+  xy: 942, 143
+  size: 93, 64
+  orig: 93, 64
+  offset: 0, 0
+  index: -1

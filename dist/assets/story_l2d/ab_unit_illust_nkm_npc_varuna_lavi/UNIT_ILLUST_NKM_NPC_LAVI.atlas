@@ -1,0 +1,62 @@
+
+UNIT_ILLUST_NKM_NPC_LAVI.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 2, 23
+  size: 471, 896
+  orig: 471, 896
+  offset: 0, 0
+  index: -1
+despair
+  rotate: false
+  xy: 900, 354
+  size: 67, 68
+  orig: 67, 68
+  offset: 0, 0
+  index: -1
+hate
+  rotate: false
+  xy: 900, 282
+  size: 65, 70
+  orig: 65, 70
+  offset: 0, 0
+  index: -1
+idle
+  rotate: false
+  xy: 900, 141
+  size: 65, 68
+  orig: 65, 68
+  offset: 0, 0
+  index: -1
+laugh
+  rotate: false
+  xy: 900, 2
+  size: 66, 67
+  orig: 66, 67
+  offset: 0, 0
+  index: -1
+pride
+  rotate: false
+  xy: 900, 424
+  size: 67, 70
+  orig: 67, 70
+  offset: 0, 0
+  index: -1
+serious
+  rotate: false
+  xy: 900, 71
+  size: 65, 68
+  orig: 65, 68
+  offset: 0, 0
+  index: -1
+surprise
+  rotate: false
+  xy: 900, 211
+  size: 66, 69
+  orig: 66, 69
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,69 @@
+
+UNIT_ILLUST_NPC_SWANSONG_CHILD.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 358, 58
+  size: 82, 58
+  orig: 82, 58
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 104, 57
+  size: 84, 59
+  orig: 84, 59
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 190, 56
+  size: 82, 60
+  orig: 82, 60
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 274, 56
+  size: 82, 60
+  orig: 82, 60
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 2, 2
+  size: 81, 57
+  orig: 81, 57
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 522, 66
+  size: 81, 50
+  orig: 81, 50
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 442, 60
+  size: 78, 56
+  orig: 78, 56
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 118
+  size: 392, 1000
+  orig: 392, 1000
+  offset: 0, 0
+  index: -1
+shy
+  rotate: false
+  xy: 2, 61
+  size: 100, 55
+  orig: 100, 55
+  offset: 0, 0
+  index: -1

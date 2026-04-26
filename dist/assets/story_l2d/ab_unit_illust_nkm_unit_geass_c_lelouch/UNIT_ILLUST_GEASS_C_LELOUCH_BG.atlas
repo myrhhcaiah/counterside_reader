@@ -1,0 +1,27 @@
+
+UNIT_ILLUST_GEASS_C_LELOUCH_BG.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_1
+  rotate: false
+  xy: 2, 421
+  size: 950, 598
+  orig: 950, 598
+  offset: 0, 0
+  index: -1
+bg_2
+  rotate: true
+  xy: 2, 55
+  size: 364, 978
+  orig: 364, 978
+  offset: 0, 0
+  index: -1
+bg_light
+  rotate: false
+  xy: 2, 2
+  size: 607, 51
+  orig: 607, 51
+  offset: 0, 0
+  index: -1

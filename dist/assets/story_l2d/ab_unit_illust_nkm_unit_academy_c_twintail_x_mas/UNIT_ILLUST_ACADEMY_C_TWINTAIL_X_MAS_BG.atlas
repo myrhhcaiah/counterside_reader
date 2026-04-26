@@ -1,0 +1,20 @@
+
+UNIT_ILLUST_ACADEMY_C_TWINTAIL_X_MAS_BG.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 2, 2
+  size: 962, 981
+  orig: 962, 981
+  offset: 0, 0
+  index: -1
+SWORD_1
+  rotate: false
+  xy: 966, 14
+  size: 298, 969
+  orig: 298, 969
+  offset: 0, 0
+  index: -1

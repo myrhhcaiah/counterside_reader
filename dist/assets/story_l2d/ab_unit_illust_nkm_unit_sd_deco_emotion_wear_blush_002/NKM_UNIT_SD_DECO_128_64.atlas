@@ -1,0 +1,13 @@
+
+NKM_UNIT_SD_DECO_128_64.png
+size: 128,64
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+NKM_UNIT_SD_DECO_FASHION_WEAR_AMULET
+  rotate: true
+  xy: 0, 0
+  size: 64, 128
+  orig: 64, 128
+  offset: 0, 0
+  index: -1

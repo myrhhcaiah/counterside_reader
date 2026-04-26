@@ -1,0 +1,69 @@
+
+UNIT_ILLUST_NPC_GEASS_KALLEN.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 1, 52
+  size: 423, 920
+  orig: 423, 920
+  offset: 0, 0
+  index: -1
+1
+  rotate: false
+  xy: 425, 1
+  size: 297, 971
+  orig: 297, 971
+  offset: 0, 0
+  index: -1
+BASE
+  rotate: false
+  xy: 723, 737
+  size: 134, 116
+  orig: 134, 116
+  offset: 0, 0
+  index: -1
+DESPAIR
+  rotate: false
+  xy: 723, 505
+  size: 134, 114
+  orig: 134, 114
+  offset: 0, 0
+  index: -1
+HATE
+  rotate: false
+  xy: 866, 854
+  size: 132, 118
+  orig: 132, 118
+  offset: 0, 0
+  index: -1
+LUGH
+  rotate: false
+  xy: 723, 620
+  size: 134, 116
+  orig: 134, 116
+  offset: 0, 0
+  index: -1
+PRIDE
+  rotate: false
+  xy: 858, 739
+  size: 136, 114
+  orig: 136, 114
+  offset: 0, 0
+  index: -1
+SERIOUS
+  rotate: false
+  xy: 858, 624
+  size: 134, 114
+  orig: 134, 114
+  offset: 0, 0
+  index: -1
+SURPRISE
+  rotate: false
+  xy: 723, 854
+  size: 142, 118
+  orig: 142, 118
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,27 @@
+
+UNIT_ILLUST_NPC_ADMIN_SOLDIER.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 2, 2
+  size: 218, 694
+  orig: 218, 694
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 542, 281
+  size: 310, 738
+  orig: 310, 738
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 2, 222
+  size: 538, 797
+  orig: 538, 797
+  offset: 0, 0
+  index: -1

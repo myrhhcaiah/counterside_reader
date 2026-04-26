@@ -1,0 +1,41 @@
+
+UNIT_ILLUST_JUNIOR_C_POLEARM_CLB_003_BG.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+fog_1
+  rotate: false
+  xy: 418, 2
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+new_bg_1
+  rotate: true
+  xy: 1447, 102
+  size: 867, 494
+  orig: 867, 494
+  offset: 0, 0
+  index: -1
+new_bg_2
+  rotate: true
+  xy: 2, 144
+  size: 825, 1443
+  orig: 825, 1443
+  offset: 0, 0
+  index: -1
+splash_1
+  rotate: true
+  xy: 2, 12
+  size: 130, 205
+  orig: 130, 205
+  offset: 0, 0
+  index: -1
+splash_2
+  rotate: false
+  xy: 209, 34
+  size: 207, 108
+  orig: 207, 108
+  offset: 0, 0
+  index: -1

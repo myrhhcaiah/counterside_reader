@@ -1,0 +1,160 @@
+
+UNIT_ILLUST_NPC_STREGA_CAT.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_down_1
+  rotate: false
+  xy: 190, 101
+  size: 127, 187
+  orig: 127, 187
+  offset: 0, 0
+  index: -1
+body_leg_L
+  rotate: false
+  xy: 2, 23
+  size: 168, 101
+  orig: 168, 101
+  offset: 0, 0
+  index: -1
+body_leg_R
+  rotate: false
+  xy: 319, 227
+  size: 107, 112
+  orig: 107, 112
+  offset: 0, 0
+  index: -1
+body_up_1
+  rotate: false
+  xy: 418, 427
+  size: 77, 81
+  orig: 77, 81
+  offset: 0, 0
+  index: -1
+cat_arm_left_1
+  rotate: false
+  xy: 428, 271
+  size: 46, 68
+  orig: 46, 68
+  offset: 0, 0
+  index: -1
+cat_ear_1
+  rotate: false
+  xy: 319, 94
+  size: 45, 57
+  orig: 45, 57
+  offset: 0, 0
+  index: -1
+cat_ear_2
+  rotate: false
+  xy: 268, 296
+  size: 42, 43
+  orig: 42, 43
+  offset: 0, 0
+  index: -1
+cat_left_eye_a1
+  rotate: false
+  xy: 476, 307
+  size: 34, 32
+  orig: 34, 32
+  offset: 0, 0
+  index: -1
+cat_left_eye_a2
+  rotate: false
+  xy: 2, 2
+  size: 22, 19
+  orig: 22, 19
+  offset: 0, 0
+  index: -1
+cat_left_eye_a3
+  rotate: false
+  xy: 312, 334
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+cat_left_eye_a4
+  rotate: false
+  xy: 172, 66
+  size: 39, 33
+  orig: 39, 33
+  offset: 0, 0
+  index: -1
+cat_left_eye_a5
+  rotate: false
+  xy: 421, 153
+  size: 50, 28
+  orig: 50, 28
+  offset: 0, 0
+  index: -1
+cat_right_arm_1
+  rotate: false
+  xy: 268, 341
+  size: 148, 167
+  orig: 148, 167
+  offset: 0, 0
+  index: -1
+cat_right_eye_a1
+  rotate: true
+  xy: 428, 224
+  size: 45, 53
+  orig: 45, 53
+  offset: 0, 0
+  index: -1
+cat_right_eye_a2
+  rotate: false
+  xy: 476, 272
+  size: 23, 33
+  orig: 23, 33
+  offset: 0, 0
+  index: -1
+cat_right_eye_a3
+  rotate: true
+  xy: 501, 298
+  size: 7, 9
+  orig: 7, 9
+  offset: 0, 0
+  index: -1
+cat_right_eye_a4
+  rotate: false
+  xy: 371, 167
+  size: 48, 58
+  orig: 48, 58
+  offset: 0, 0
+  index: -1
+cat_right_eye_a5
+  rotate: false
+  xy: 319, 153
+  size: 50, 72
+  orig: 50, 72
+  offset: 0, 0
+  index: -1
+cat_shadow_1
+  rotate: false
+  xy: 421, 183
+  size: 63, 39
+  orig: 63, 39
+  offset: 0, 0
+  index: -1
+cat_tail
+  rotate: false
+  xy: 2, 126
+  size: 186, 162
+  orig: 186, 162
+  offset: 0, 0
+  index: -1
+head_cat_1
+  rotate: false
+  xy: 2, 290
+  size: 264, 218
+  orig: 264, 218
+  offset: 0, 0
+  index: -1
+nec_cat_1
+  rotate: false
+  xy: 418, 341
+  size: 64, 84
+  orig: 64, 84
+  offset: 0, 0
+  index: -1

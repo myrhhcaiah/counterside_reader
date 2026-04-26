@@ -1,0 +1,258 @@
+
+UNIT_ILLUST_MOB_BOSS_MILITIA_CRIMINAL_MATCHMAN.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 922, 963
+  size: 52, 59
+  orig: 52, 59
+  offset: 0, 0
+  index: -1
+1
+  rotate: true
+  xy: 314, 162
+  size: 156, 575
+  orig: 156, 575
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 557, 485
+  size: 363, 537
+  orig: 363, 537
+  offset: 0, 0
+  index: -1
+3_FIX
+  rotate: false
+  xy: 2, 147
+  size: 310, 875
+  orig: 310, 875
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 314, 320
+  size: 241, 702
+  orig: 241, 702
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 2, 25
+  size: 120, 466
+  orig: 120, 466
+  offset: 0, 0
+  index: -1
+BASE_FACE_FACE
+  rotate: true
+  xy: 557, 334
+  size: 149, 185
+  orig: 149, 185
+  offset: 0, 0
+  index: -1
+BASE_FACE_L_EYE_1
+  rotate: false
+  xy: 845, 441
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+BASE_FACE_L_EYE_2
+  rotate: false
+  xy: 557, 320
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+BASE_FACE_L_EYE_BACK
+  rotate: false
+  xy: 2, 9
+  size: 31, 14
+  orig: 31, 14
+  offset: 0, 0
+  index: -1
+BASE_FACE_L_EYE_COVER
+  rotate: false
+  xy: 972, 859
+  size: 47, 38
+  orig: 47, 38
+  offset: 0, 0
+  index: -1
+BASE_FACE_MOUTH
+  rotate: true
+  xy: 922, 646
+  size: 52, 27
+  orig: 52, 27
+  offset: 0, 0
+  index: -1
+BASE_FACE_R_EYE
+  rotate: false
+  xy: 976, 963
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+BASE_FACE_R_EYE_1
+  rotate: false
+  xy: 952, 756
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1
+BASE_FACE_R_EYE_BACK
+  rotate: true
+  xy: 1011, 830
+  size: 27, 11
+  orig: 27, 11
+  offset: 0, 0
+  index: -1
+BASE_FACE_R_EYE_COVER
+  rotate: false
+  xy: 744, 377
+  size: 42, 49
+  orig: 42, 49
+  offset: 0, 0
+  index: -1
+EMOTION_DESPAIR_1
+  rotate: false
+  xy: 470, 113
+  size: 37, 47
+  orig: 37, 47
+  offset: 0, 0
+  index: -1
+EMOTION_DESPAIR_2
+  rotate: false
+  xy: 922, 869
+  size: 48, 42
+  orig: 48, 42
+  offset: 0, 0
+  index: -1
+EMOTION_DESPAIR_3
+  rotate: true
+  xy: 922, 537
+  size: 52, 25
+  orig: 52, 25
+  offset: 0, 0
+  index: -1
+EMOTION_HATE_1
+  rotate: true
+  xy: 845, 446
+  size: 37, 53
+  orig: 37, 53
+  offset: 0, 0
+  index: -1
+EMOTION_HATE_2
+  rotate: false
+  xy: 744, 428
+  size: 49, 55
+  orig: 49, 55
+  offset: 0, 0
+  index: -1
+EMOTION_HATE_3
+  rotate: true
+  xy: 922, 483
+  size: 52, 23
+  orig: 52, 23
+  offset: 0, 0
+  index: -1
+EMOTION_LAUGH_1
+  rotate: false
+  xy: 922, 815
+  size: 38, 52
+  orig: 38, 52
+  offset: 0, 0
+  index: -1
+EMOTION_LAUGH_2
+  rotate: false
+  xy: 795, 440
+  size: 48, 43
+  orig: 48, 43
+  offset: 0, 0
+  index: -1
+EMOTION_LAUGH_3
+  rotate: true
+  xy: 922, 700
+  size: 59, 28
+  orig: 59, 28
+  offset: 0, 0
+  index: -1
+EMOTION_PRIDE_1
+  rotate: false
+  xy: 922, 761
+  size: 37, 52
+  orig: 37, 52
+  offset: 0, 0
+  index: -1
+EMOTION_PRIDE_2
+  rotate: false
+  xy: 744, 333
+  size: 45, 42
+  orig: 45, 42
+  offset: 0, 0
+  index: -1
+EMOTION_PRIDE_3
+  rotate: false
+  xy: 974, 899
+  size: 48, 23
+  orig: 48, 23
+  offset: 0, 0
+  index: -1
+EMOTION_SERIOUS_1
+  rotate: true
+  xy: 974, 924
+  size: 37, 48
+  orig: 37, 48
+  offset: 0, 0
+  index: -1
+EMOTION_SERIOUS_2
+  rotate: false
+  xy: 976, 977
+  size: 46, 45
+  orig: 46, 45
+  offset: 0, 0
+  index: -1
+EMOTION_SERIOUS_3
+  rotate: true
+  xy: 922, 591
+  size: 53, 25
+  orig: 53, 25
+  offset: 0, 0
+  index: -1
+EMOTION_SURPRISE_1
+  rotate: true
+  xy: 962, 819
+  size: 38, 47
+  orig: 38, 47
+  offset: 0, 0
+  index: -1
+EMOTION_SURPRISE_2
+  rotate: false
+  xy: 922, 913
+  size: 50, 48
+  orig: 50, 48
+  offset: 0, 0
+  index: -1
+EMOTION_SURPRISE_3
+  rotate: true
+  xy: 470, 62
+  size: 49, 22
+  orig: 49, 22
+  offset: 0, 0
+  index: -1
+EMOTION_SURPRISE_4
+  rotate: false
+  xy: 795, 431
+  size: 3, 7
+  orig: 3, 7
+  offset: 0, 0
+  index: -1
+EMOTION_SURPRISE_5
+  rotate: true
+  xy: 2, 2
+  size: 5, 13
+  orig: 5, 13
+  offset: 0, 0
+  index: -1

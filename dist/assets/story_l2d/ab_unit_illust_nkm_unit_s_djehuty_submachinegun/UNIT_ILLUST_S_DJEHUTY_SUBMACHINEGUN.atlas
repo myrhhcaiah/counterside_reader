@@ -1,0 +1,258 @@
+
+UNIT_ILLUST_S_DJEHUTY_SUBMACHINEGUN.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+belt_01
+  rotate: false
+  xy: 2, 51
+  size: 287, 93
+  orig: 287, 93
+  offset: 0, 0
+  index: -1
+belt_02
+  rotate: true
+  xy: 888, 316
+  size: 152, 120
+  orig: 152, 120
+  offset: 0, 0
+  index: -1
+belt_03
+  rotate: false
+  xy: 352, 801
+  size: 345, 221
+  orig: 345, 221
+  offset: 0, 0
+  index: -1
+belt_thing_01
+  rotate: false
+  xy: 352, 506
+  size: 33, 46
+  orig: 33, 46
+  offset: 0, 0
+  index: -1
+belt_thing_02
+  rotate: true
+  xy: 871, 51
+  size: 78, 115
+  orig: 78, 115
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 504
+  size: 348, 518
+  orig: 348, 518
+  offset: 0, 0
+  index: -1
+core
+  rotate: true
+  xy: 718, 515
+  size: 159, 189
+  orig: 159, 189
+  offset: 0, 0
+  index: -1
+gun
+  rotate: false
+  xy: 2, 146
+  size: 339, 356
+  orig: 339, 356
+  offset: 0, 0
+  index: -1
+gun_02
+  rotate: false
+  xy: 559, 49
+  size: 68, 137
+  orig: 68, 137
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 546, 595
+  size: 170, 204
+  orig: 170, 204
+  offset: 0, 0
+  index: -1
+head_lighting
+  rotate: false
+  xy: 605, 369
+  size: 108, 44
+  orig: 108, 44
+  offset: 0, 0
+  index: -1
+left_arm_01
+  rotate: false
+  xy: 352, 554
+  size: 192, 245
+  orig: 192, 245
+  offset: 0, 0
+  index: -1
+left_arm_02
+  rotate: false
+  xy: 430, 362
+  size: 173, 177
+  orig: 173, 177
+  offset: 0, 0
+  index: -1
+left_foot
+  rotate: true
+  xy: 291, 2
+  size: 142, 67
+  orig: 142, 67
+  offset: 0, 0
+  index: -1
+left_hand
+  rotate: false
+  xy: 888, 216
+  size: 133, 98
+  orig: 133, 98
+  offset: 0, 0
+  index: -1
+left_knee
+  rotate: true
+  xy: 757, 228
+  size: 126, 129
+  orig: 126, 129
+  offset: 0, 0
+  index: -1
+left_leg_01
+  rotate: true
+  xy: 430, 188
+  size: 172, 174
+  orig: 172, 174
+  offset: 0, 0
+  index: -1
+left_leg_02
+  rotate: true
+  xy: 718, 356
+  size: 157, 168
+  orig: 157, 168
+  offset: 0, 0
+  index: -1
+left_line_01
+  rotate: true
+  xy: 629, 54
+  size: 140, 133
+  orig: 140, 133
+  offset: 0, 0
+  index: -1
+left_line_02
+  rotate: false
+  xy: 195, 24
+  size: 71, 25
+  orig: 71, 25
+  offset: 0, 0
+  index: -1
+left_line_03
+  rotate: true
+  xy: 360, 62
+  size: 124, 197
+  orig: 124, 197
+  offset: 0, 0
+  index: -1
+left_line_04
+  rotate: true
+  xy: 871, 131
+  size: 83, 147
+  orig: 83, 147
+  offset: 0, 0
+  index: -1
+left_line_05
+  rotate: false
+  xy: 971, 875
+  size: 35, 147
+  orig: 35, 147
+  offset: 0, 0
+  index: -1
+right_arm_01
+  rotate: true
+  xy: 699, 865
+  size: 157, 270
+  orig: 157, 270
+  offset: 0, 0
+  index: -1
+right_arm_02
+  rotate: true
+  xy: 903, 681
+  size: 182, 103
+  orig: 182, 103
+  offset: 0, 0
+  index: -1
+right_foot
+  rotate: false
+  xy: 764, 88
+  size: 105, 138
+  orig: 105, 138
+  offset: 0, 0
+  index: -1
+right_hand
+  rotate: false
+  xy: 764, 9
+  size: 89, 77
+  orig: 89, 77
+  offset: 0, 0
+  index: -1
+right_knee
+  rotate: false
+  xy: 605, 415
+  size: 111, 124
+  orig: 111, 124
+  offset: 0, 0
+  index: -1
+right_leg_01
+  rotate: false
+  xy: 718, 676
+  size: 183, 187
+  orig: 183, 187
+  offset: 0, 0
+  index: -1
+right_leg_02
+  rotate: false
+  xy: 606, 196
+  size: 149, 158
+  orig: 149, 158
+  offset: 0, 0
+  index: -1
+right_line_01
+  rotate: false
+  xy: 2, 22
+  size: 191, 27
+  orig: 191, 27
+  offset: 0, 0
+  index: -1
+right_line_02
+  rotate: true
+  xy: 343, 188
+  size: 72, 62
+  orig: 72, 62
+  offset: 0, 0
+  index: -1
+right_line_03
+  rotate: false
+  xy: 909, 470
+  size: 89, 209
+  orig: 89, 209
+  offset: 0, 0
+  index: -1
+right_line_04
+  rotate: false
+  xy: 343, 262
+  size: 85, 240
+  orig: 85, 240
+  offset: 0, 0
+  index: -1
+right_line_05
+  rotate: true
+  xy: 546, 541
+  size: 52, 170
+  orig: 52, 170
+  offset: 0, 0
+  index: -1
+right_line_thing
+  rotate: false
+  xy: 699, 839
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,69 @@
+
+UNIT_ILLUST_NPC_SABOTAGE_SWORD.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 82
+  size: 1863, 920
+  orig: 1863, 920
+  offset: 0, 0
+  index: -1
+despair
+  rotate: false
+  xy: 116, 4
+  size: 111, 76
+  orig: 111, 76
+  offset: 0, 0
+  index: -1
+hair
+  rotate: true
+  xy: 1867, 795
+  size: 207, 179
+  orig: 207, 179
+  offset: 0, 0
+  index: -1
+hate
+  rotate: true
+  xy: 1867, 599
+  size: 112, 74
+  orig: 112, 74
+  offset: 0, 0
+  index: -1
+idle
+  rotate: false
+  xy: 341, 3
+  size: 109, 77
+  orig: 109, 77
+  offset: 0, 0
+  index: -1
+laugh
+  rotate: false
+  xy: 452, 4
+  size: 109, 76
+  orig: 109, 76
+  offset: 0, 0
+  index: -1
+pride
+  rotate: false
+  xy: 229, 4
+  size: 110, 76
+  orig: 110, 76
+  offset: 0, 0
+  index: -1
+serious
+  rotate: false
+  xy: 2, 2
+  size: 112, 78
+  orig: 112, 78
+  offset: 0, 0
+  index: -1
+surprise
+  rotate: false
+  xy: 1867, 713
+  size: 109, 80
+  orig: 109, 80
+  offset: 0, 0
+  index: -1

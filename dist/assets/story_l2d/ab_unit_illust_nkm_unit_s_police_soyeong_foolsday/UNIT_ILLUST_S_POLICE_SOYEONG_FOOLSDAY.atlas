@@ -1,0 +1,69 @@
+
+UNIT_ILLUST_S_POLICE_SOYEONG_FOOLSDAY.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00
+  rotate: false
+  xy: 1110, 2
+  size: 630, 1002
+  orig: 630, 1002
+  offset: 0, 0
+  index: -1
+BACK
+  rotate: false
+  xy: 2, 105
+  size: 1106, 899
+  orig: 1106, 899
+  offset: 0, 0
+  index: -1
+DESPAIR
+  rotate: false
+  xy: 1876, 917
+  size: 129, 87
+  orig: 129, 87
+  offset: 0, 0
+  index: -1
+HATE
+  rotate: false
+  xy: 267, 21
+  size: 126, 82
+  orig: 126, 82
+  offset: 0, 0
+  index: -1
+IDLE
+  rotate: false
+  xy: 2, 8
+  size: 132, 95
+  orig: 132, 95
+  offset: 0, 0
+  index: -1
+LAUGH
+  rotate: false
+  xy: 1742, 911
+  size: 132, 93
+  orig: 132, 93
+  offset: 0, 0
+  index: -1
+PRIDE
+  rotate: false
+  xy: 136, 13
+  size: 129, 90
+  orig: 129, 90
+  offset: 0, 0
+  index: -1
+SERIOUS
+  rotate: false
+  xy: 1742, 819
+  size: 129, 90
+  orig: 129, 90
+  offset: 0, 0
+  index: -1
+SURPRISE
+  rotate: false
+  xy: 1742, 736
+  size: 115, 81
+  orig: 115, 81
+  offset: 0, 0
+  index: -1

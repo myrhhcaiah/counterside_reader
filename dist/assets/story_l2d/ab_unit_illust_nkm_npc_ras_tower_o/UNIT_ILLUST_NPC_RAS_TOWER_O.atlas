@@ -1,0 +1,20 @@
+
+UNIT_ILLUST_NPC_RAS_TOWER_O.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+light_01
+  rotate: true
+  xy: 350, 284
+  size: 716, 92
+  orig: 716, 92
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: false
+  xy: 2, 2
+  size: 346, 998
+  orig: 346, 998
+  offset: 0, 0
+  index: -1

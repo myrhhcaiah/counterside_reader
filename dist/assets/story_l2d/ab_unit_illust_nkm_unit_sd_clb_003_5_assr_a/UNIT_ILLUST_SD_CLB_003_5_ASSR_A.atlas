@@ -1,0 +1,237 @@
+
+UNIT_ILLUST_SD_CLB_003_5_ASSR_A.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+E_ac1
+  rotate: false
+  xy: 119, 2
+  size: 55, 45
+  orig: 55, 45
+  offset: 0, 0
+  index: -1
+E_ac2
+  rotate: false
+  xy: 346, 259
+  size: 101, 68
+  orig: 101, 68
+  offset: 0, 0
+  index: -1
+E_ac3
+  rotate: false
+  xy: 376, 218
+  size: 70, 39
+  orig: 70, 39
+  offset: 0, 0
+  index: -1
+E_ac4
+  rotate: false
+  xy: 376, 150
+  size: 68, 66
+  orig: 68, 66
+  offset: 0, 0
+  index: -1
+E_ac5
+  rotate: false
+  xy: 451, 152
+  size: 57, 51
+  orig: 57, 51
+  offset: 0, 0
+  index: -1
+F_hair
+  rotate: false
+  xy: 2, 200
+  size: 156, 69
+  orig: 156, 69
+  offset: 0, 0
+  index: -1
+Face_c
+  rotate: true
+  xy: 2, 47
+  size: 151, 85
+  orig: 151, 85
+  offset: 0, 0
+  index: -1
+L_hair
+  rotate: true
+  xy: 2, 4
+  size: 41, 115
+  orig: 41, 115
+  offset: 0, 0
+  index: -1
+L_leg
+  rotate: true
+  xy: 451, 269
+  size: 58, 59
+  orig: 58, 59
+  offset: 0, 0
+  index: -1
+R_hair
+  rotate: true
+  xy: 320, 5
+  size: 51, 129
+  orig: 51, 129
+  offset: 0, 0
+  index: -1
+R_leg
+  rotate: false
+  xy: 451, 205
+  size: 57, 62
+  orig: 57, 62
+  offset: 0, 0
+  index: -1
+arm_L_down
+  rotate: false
+  xy: 228, 2
+  size: 55, 54
+  orig: 55, 54
+  offset: 0, 0
+  index: -1
+arm_L_up
+  rotate: true
+  xy: 429, 379
+  size: 63, 76
+  orig: 63, 76
+  offset: 0, 0
+  index: -1
+arm_R
+  rotate: true
+  xy: 211, 200
+  size: 140, 133
+  orig: 140, 133
+  offset: 0, 0
+  index: -1
+back_hair
+  rotate: false
+  xy: 218, 342
+  size: 209, 168
+  orig: 209, 168
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 185, 58
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+bubba_L_ear
+  rotate: true
+  xy: 176, 6
+  size: 41, 50
+  orig: 41, 50
+  offset: 0, 0
+  index: -1
+bubba_L_leg_jump
+  rotate: true
+  xy: 451, 13
+  size: 41, 35
+  orig: 41, 35
+  offset: 0, 0
+  index: -1
+bubba_R_ear
+  rotate: false
+  xy: 285, 3
+  size: 33, 53
+  orig: 33, 53
+  offset: 0, 0
+  index: -1
+bubba_R_leg_jump
+  rotate: false
+  xy: 160, 200
+  size: 35, 37
+  orig: 35, 37
+  offset: 0, 0
+  index: -1
+bubba_body
+  rotate: false
+  xy: 429, 444
+  size: 78, 66
+  orig: 78, 66
+  offset: 0, 0
+  index: -1
+bubba_body2
+  rotate: true
+  xy: 451, 56
+  size: 94, 55
+  orig: 94, 55
+  offset: 0, 0
+  index: -1
+bubba_eye
+  rotate: true
+  xy: 187, 359
+  size: 30, 11
+  orig: 30, 11
+  offset: 0, 0
+  index: -1
+bubba_hat
+  rotate: false
+  xy: 429, 329
+  size: 73, 48
+  orig: 73, 48
+  offset: 0, 0
+  index: -1
+bubba_head
+  rotate: false
+  xy: 376, 86
+  size: 68, 62
+  orig: 68, 62
+  offset: 0, 0
+  index: -1
+bubba_tail
+  rotate: false
+  xy: 160, 239
+  size: 38, 30
+  orig: 38, 30
+  offset: 0, 0
+  index: -1
+cap
+  rotate: false
+  xy: 2, 401
+  size: 214, 109
+  orig: 214, 109
+  offset: 0, 0
+  index: -1
+eye_a
+  rotate: true
+  xy: 327, 74
+  size: 124, 47
+  orig: 124, 47
+  offset: 0, 0
+  index: -1
+eye_b
+  rotate: true
+  xy: 200, 269
+  size: 120, 9
+  orig: 120, 9
+  offset: 0, 0
+  index: -1
+eye_blow
+  rotate: true
+  xy: 187, 295
+  size: 62, 7
+  orig: 62, 7
+  offset: 0, 0
+  index: -1
+face_d
+  rotate: true
+  xy: 89, 49
+  size: 149, 94
+  orig: 149, 94
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 271
+  size: 183, 128
+  orig: 183, 128
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 187, 391
+  size: 21, 8
+  orig: 21, 8
+  offset: 0, 0
+  index: -1

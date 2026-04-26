@@ -1,0 +1,272 @@
+
+UNIT_ILLUST_C_FALLEN_ROSARIA.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Layer 2
+  rotate: false
+  xy: 743, 583
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+eye_close
+  rotate: false
+  xy: 2, 2
+  size: 101, 16
+  orig: 101, 16
+  offset: 0, 0
+  index: -1
+eye_normal
+  rotate: true
+  xy: 965, 323
+  size: 108, 55
+  orig: 108, 55
+  offset: 0, 0
+  index: -1
+eyebrow_hate
+  rotate: false
+  xy: 761, 101
+  size: 99, 21
+  orig: 99, 21
+  offset: 0, 0
+  index: -1
+eyebrow_normal
+  rotate: true
+  xy: 930, 212
+  size: 99, 21
+  orig: 99, 21
+  offset: 0, 0
+  index: -1
+eyebrow_serious
+  rotate: false
+  xy: 753, 78
+  size: 95, 21
+  orig: 95, 21
+  offset: 0, 0
+  index: -1
+face_hate
+  rotate: false
+  xy: 643, 39
+  size: 108, 60
+  orig: 108, 60
+  offset: 0, 0
+  index: -1
+face_pride
+  rotate: false
+  xy: 383, 67
+  size: 126, 116
+  orig: 126, 116
+  offset: 0, 0
+  index: -1
+face_pride2
+  rotate: false
+  xy: 511, 98
+  size: 126, 116
+  orig: 126, 116
+  offset: 0, 0
+  index: -1
+face_serious
+  rotate: true
+  xy: 862, 100
+  size: 108, 64
+  orig: 108, 64
+  offset: 0, 0
+  index: -1
+mouth_normal
+  rotate: false
+  xy: 774, 752
+  size: 37, 22
+  orig: 37, 22
+  offset: 0, 0
+  index: -1
+rosaria_1
+  rotate: false
+  xy: 753, 39
+  size: 71, 37
+  orig: 71, 37
+  offset: 0, 0
+  index: -1
+rosaria_101
+  rotate: true
+  xy: 743, 433
+  size: 132, 258
+  orig: 132, 258
+  offset: 0, 0
+  index: -1
+rosaria_1010
+  rotate: false
+  xy: 832, 749
+  size: 187, 269
+  orig: 187, 269
+  offset: 0, 0
+  index: -1
+rosaria_1011
+  rotate: true
+  xy: 472, 408
+  size: 187, 269
+  orig: 187, 269
+  offset: 0, 0
+  index: -1
+rosaria_1012
+  rotate: true
+  xy: 816, 313
+  size: 118, 147
+  orig: 118, 147
+  offset: 0, 0
+  index: -1
+rosaria_1013
+  rotate: false
+  xy: 472, 627
+  size: 15, 73
+  orig: 15, 73
+  offset: 0, 0
+  index: -1
+rosaria_1014
+  rotate: true
+  xy: 743, 410
+  size: 21, 66
+  orig: 21, 66
+  offset: 0, 0
+  index: -1
+rosaria_1015
+  rotate: false
+  xy: 644, 214
+  size: 150, 143
+  orig: 150, 143
+  offset: 0, 0
+  index: -1
+rosaria_1016
+  rotate: true
+  xy: 171, 97
+  size: 221, 61
+  orig: 221, 61
+  offset: 0, 0
+  index: -1
+rosaria_1017
+  rotate: false
+  xy: 796, 210
+  size: 132, 101
+  orig: 132, 101
+  offset: 0, 0
+  index: -1
+rosaria_101_1
+  rotate: true
+  xy: 511, 42
+  size: 54, 130
+  orig: 54, 130
+  offset: 0, 0
+  index: -1
+rosaria_102
+  rotate: true
+  xy: 234, 87
+  size: 96, 147
+  orig: 96, 147
+  offset: 0, 0
+  index: -1
+rosaria_103
+  rotate: false
+  xy: 2, 20
+  size: 167, 298
+  orig: 167, 298
+  offset: 0, 0
+  index: -1
+rosaria_104
+  rotate: true
+  xy: 236, 379
+  size: 321, 234
+  orig: 321, 234
+  offset: 0, 0
+  index: -1
+rosaria_105
+  rotate: false
+  xy: 492, 776
+  size: 338, 242
+  orig: 338, 242
+  offset: 0, 0
+  index: -1
+rosaria_106
+  rotate: true
+  xy: 774, 567
+  size: 180, 241
+  orig: 180, 241
+  offset: 0, 0
+  index: -1
+rosaria_107
+  rotate: false
+  xy: 639, 101
+  size: 120, 111
+  orig: 120, 111
+  offset: 0, 0
+  index: -1
+rosaria_108
+  rotate: true
+  xy: 451, 216
+  size: 141, 191
+  orig: 141, 191
+  offset: 0, 0
+  index: -1
+rosaria_109
+  rotate: true
+  xy: 171, 20
+  size: 75, 40
+  orig: 75, 40
+  offset: 0, 0
+  index: -1
+rosaria_2
+  rotate: false
+  xy: 761, 124
+  size: 99, 84
+  orig: 99, 84
+  offset: 0, 0
+  index: -1
+rosaria_201
+  rotate: false
+  xy: 953, 245
+  size: 28, 66
+  orig: 28, 66
+  offset: 0, 0
+  index: -1
+rosaria_202
+  rotate: false
+  xy: 983, 262
+  size: 32, 59
+  orig: 32, 59
+  offset: 0, 0
+  index: -1
+rosaria_3
+  rotate: true
+  xy: 236, 185
+  size: 192, 213
+  orig: 192, 213
+  offset: 0, 0
+  index: -1
+rosaria_4
+  rotate: false
+  xy: 2, 320
+  size: 232, 380
+  orig: 232, 380
+  offset: 0, 0
+  index: -1
+rosaria_5
+  rotate: false
+  xy: 492, 597
+  size: 280, 177
+  orig: 280, 177
+  offset: 0, 0
+  index: -1
+rosaria_6
+  rotate: false
+  xy: 2, 702
+  size: 488, 316
+  orig: 488, 316
+  offset: 0, 0
+  index: -1
+rosaria_7
+  rotate: false
+  xy: 472, 359
+  size: 342, 47
+  orig: 342, 47
+  offset: 0, 0
+  index: -1

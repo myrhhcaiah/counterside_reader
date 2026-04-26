@@ -1,0 +1,69 @@
+
+UNIT_ILLUST_C_ZODIAC_CHARLOTTE_FOOLSDAY.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 1313, 16
+  size: 676, 1977
+  orig: 676, 1977
+  offset: 0, 0
+  index: -1
+BASE
+  rotate: false
+  xy: 556, 9
+  size: 179, 115
+  orig: 179, 115
+  offset: 0, 0
+  index: -1
+BG
+  rotate: false
+  xy: 2, 126
+  size: 1309, 1867
+  orig: 1309, 1867
+  offset: 0, 0
+  index: -1
+DESPAIR
+  rotate: false
+  xy: 375, 8
+  size: 179, 116
+  orig: 179, 116
+  offset: 0, 0
+  index: -1
+HATE
+  rotate: false
+  xy: 916, 17
+  size: 154, 107
+  orig: 154, 107
+  offset: 0, 0
+  index: -1
+LAUGH
+  rotate: false
+  xy: 194, 3
+  size: 179, 121
+  orig: 179, 121
+  offset: 0, 0
+  index: -1
+PRIDE
+  rotate: false
+  xy: 737, 14
+  size: 177, 110
+  orig: 177, 110
+  offset: 0, 0
+  index: -1
+SERIOUS
+  rotate: false
+  xy: 1072, 17
+  size: 153, 107
+  orig: 153, 107
+  offset: 0, 0
+  index: -1
+SURPRISE
+  rotate: false
+  xy: 2, 2
+  size: 190, 122
+  orig: 190, 122
+  offset: 0, 0
+  index: -1

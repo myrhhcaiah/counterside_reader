@@ -1,0 +1,146 @@
+
+UNIT_ILLUST_SCAVENGER_C_COLLECT_FOOLSDAY.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00
+  rotate: true
+  xy: 1, 104
+  size: 919, 1196
+  orig: 919, 1196
+  offset: 0, 0
+  index: -1
+01
+  rotate: false
+  xy: 463, 2
+  size: 151, 101
+  orig: 151, 101
+  offset: 0, 0
+  index: -1
+02
+  rotate: false
+  xy: 1198, 149
+  size: 327, 318
+  orig: 327, 318
+  offset: 0, 0
+  index: -1
+03
+  rotate: true
+  xy: 1640, 468
+  size: 67, 95
+  orig: 67, 95
+  offset: 0, 0
+  index: -1
+04
+  rotate: false
+  xy: 1526, 132
+  size: 171, 126
+  orig: 171, 126
+  offset: 0, 0
+  index: -1
+BASE_FACE
+  rotate: false
+  xy: 333, 1
+  size: 129, 102
+  orig: 129, 102
+  offset: 0, 0
+  index: -1
+BG1
+  rotate: true
+  xy: 1640, 536
+  size: 487, 238
+  orig: 487, 238
+  offset: 0, 0
+  index: -1
+BG2
+  rotate: true
+  xy: 1526, 259
+  size: 208, 123
+  orig: 208, 123
+  offset: 0, 0
+  index: -1
+BG3
+  rotate: true
+  xy: 1879, 522
+  size: 501, 133
+  orig: 501, 133
+  offset: 0, 0
+  index: -1
+BG4
+  rotate: false
+  xy: 1, 23
+  size: 331, 80
+  orig: 331, 80
+  offset: 0, 0
+  index: -1
+BG5
+  rotate: false
+  xy: 1650, 259
+  size: 44, 36
+  orig: 44, 36
+  offset: 0, 0
+  index: -1
+BG6
+  rotate: false
+  xy: 1650, 296
+  size: 54, 45
+  orig: 54, 45
+  offset: 0, 0
+  index: -1
+BG7
+  rotate: false
+  xy: 1736, 490
+  size: 51, 45
+  orig: 51, 45
+  offset: 0, 0
+  index: -1
+BG8
+  rotate: false
+  xy: 1198, 468
+  size: 441, 555
+  orig: 441, 555
+  offset: 0, 0
+  index: -1
+DESPAIR
+  rotate: false
+  xy: 1198, 69
+  size: 128, 79
+  orig: 128, 79
+  offset: 0, 0
+  index: -1
+HATE
+  rotate: false
+  xy: 745, 12
+  size: 129, 91
+  orig: 129, 91
+  offset: 0, 0
+  index: -1
+LAUGH
+  rotate: false
+  xy: 875, 14
+  size: 131, 89
+  orig: 131, 89
+  offset: 0, 0
+  index: -1
+PRIDE
+  rotate: false
+  xy: 1007, 13
+  size: 129, 90
+  orig: 129, 90
+  offset: 0, 0
+  index: -1
+SERIOUS
+  rotate: false
+  xy: 615, 6
+  size: 129, 97
+  orig: 129, 97
+  offset: 0, 0
+  index: -1
+SURPRISE
+  rotate: true
+  xy: 1650, 342
+  size: 125, 91
+  orig: 125, 91
+  offset: 0, 0
+  index: -1

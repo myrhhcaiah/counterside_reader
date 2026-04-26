@@ -1,0 +1,20 @@
+
+UNIT_ILLUST_C_ORCA_RA_BG.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_1
+  rotate: false
+  xy: 2, 2
+  size: 972, 449
+  orig: 972, 449
+  offset: 0, 0
+  index: -1
+bg_2
+  rotate: false
+  xy: 2, 453
+  size: 980, 484
+  orig: 980, 484
+  offset: 0, 0
+  index: -1

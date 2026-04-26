@@ -1,0 +1,13 @@
+
+UNIT_ILLUST_CA_ADMIN_LEE_SUYEON_RECITAL_BG.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+images/BG_1
+  rotate: false
+  xy: 2, 2
+  size: 1002, 992
+  orig: 1002, 992
+  offset: 0, 0
+  index: -1

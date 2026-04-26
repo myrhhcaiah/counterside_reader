@@ -1,0 +1,62 @@
+
+UNIT_ILLUST_NPC_DEMON.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_1
+  rotate: true
+  xy: 2, 68
+  size: 414, 1004
+  orig: 414, 1004
+  offset: 0, 0
+  index: -1
+face_a
+  rotate: false
+  xy: 134, 2
+  size: 126, 64
+  orig: 126, 64
+  offset: 0, 0
+  index: -1
+face_b
+  rotate: false
+  xy: 262, 2
+  size: 126, 64
+  orig: 126, 64
+  offset: 0, 0
+  index: -1
+face_d
+  rotate: false
+  xy: 390, 2
+  size: 126, 64
+  orig: 126, 64
+  offset: 0, 0
+  index: -1
+face_e
+  rotate: false
+  xy: 518, 2
+  size: 126, 64
+  orig: 126, 64
+  offset: 0, 0
+  index: -1
+face_f
+  rotate: false
+  xy: 2, 2
+  size: 130, 64
+  orig: 130, 64
+  offset: 0, 0
+  index: -1
+face_g
+  rotate: false
+  xy: 646, 2
+  size: 126, 64
+  orig: 126, 64
+  offset: 0, 0
+  index: -1
+glass
+  rotate: true
+  xy: 774, 24
+  size: 42, 128
+  orig: 42, 128
+  offset: 0, 0
+  index: -1

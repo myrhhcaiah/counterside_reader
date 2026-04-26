@@ -1,0 +1,160 @@
+
+UNIT_ILLUST_FUTURE_MA_LOAN_BG.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+boost_1
+  rotate: true
+  xy: 659, 69
+  size: 115, 200
+  orig: 115, 200
+  offset: 0, 0
+  index: -1
+boost_2
+  rotate: false
+  xy: 659, 186
+  size: 165, 231
+  orig: 165, 231
+  offset: 0, 0
+  index: -1
+l_mech2_1
+  rotate: false
+  xy: 867, 94
+  size: 597, 436
+  orig: 597, 436
+  offset: 0, 0
+  index: -1
+l_mech2_fx_1
+  rotate: false
+  xy: 1466, 213
+  size: 157, 124
+  orig: 157, 124
+  offset: 0, 0
+  index: -1
+l_mech3_1
+  rotate: true
+  xy: 2, 419
+  size: 583, 863
+  orig: 583, 863
+  offset: 0, 0
+  index: -1
+l_mech3_fx_1
+  rotate: true
+  xy: 1982, 94
+  size: 175, 55
+  orig: 175, 55
+  offset: 0, 0
+  index: -1
+l_mech3_fx_2
+  rotate: false
+  xy: 1830, 2
+  size: 157, 90
+  orig: 157, 90
+  offset: 0, 0
+  index: -1
+l_mech3_fx_3
+  rotate: false
+  xy: 1982, 271
+  size: 62, 83
+  orig: 62, 83
+  offset: 0, 0
+  index: -1
+r_mech1_1
+  rotate: false
+  xy: 1466, 12
+  size: 362, 199
+  orig: 362, 199
+  offset: 0, 0
+  index: -1
+r_mech1_2
+  rotate: false
+  xy: 1670, 213
+  size: 310, 319
+  orig: 310, 319
+  offset: 0, 0
+  index: -1
+r_mech1_fx_1
+  rotate: false
+  xy: 1990, 760
+  size: 19, 31
+  orig: 19, 31
+  offset: 0, 0
+  index: -1
+r_mech1_fx_2
+  rotate: true
+  xy: 1990, 641
+  size: 32, 12
+  orig: 32, 12
+  offset: 0, 0
+  index: -1
+r_mech2_1
+  rotate: false
+  xy: 1670, 534
+  size: 318, 468
+  orig: 318, 468
+  offset: 0, 0
+  index: -1
+r_mech2_2
+  rotate: false
+  xy: 861, 12
+  size: 152, 80
+  orig: 152, 80
+  offset: 0, 0
+  index: -1
+r_mech2_fx_1
+  rotate: false
+  xy: 1990, 835
+  size: 35, 94
+  orig: 35, 94
+  offset: 0, 0
+  index: -1
+r_mech3_1
+  rotate: false
+  xy: 867, 532
+  size: 801, 470
+  orig: 801, 470
+  offset: 0, 0
+  index: -1
+r_mech3_2
+  rotate: false
+  xy: 2, 144
+  size: 655, 273
+  orig: 655, 273
+  offset: 0, 0
+  index: -1
+r_mech3_fx_1
+  rotate: true
+  xy: 1982, 356
+  size: 176, 62
+  orig: 176, 62
+  offset: 0, 0
+  index: -1
+r_mech3_fx_2
+  rotate: false
+  xy: 1990, 675
+  size: 13, 83
+  orig: 13, 83
+  offset: 0, 0
+  index: -1
+r_mech3_fx_3
+  rotate: true
+  xy: 1990, 931
+  size: 71, 38
+  orig: 71, 38
+  offset: 0, 0
+  index: -1
+r_mech3_fx_4
+  rotate: true
+  xy: 1990, 793
+  size: 40, 32
+  orig: 40, 32
+  offset: 0, 0
+  index: -1
+ring
+  rotate: false
+  xy: 1466, 339
+  size: 191, 191
+  orig: 191, 191
+  offset: 0, 0
+  index: -1

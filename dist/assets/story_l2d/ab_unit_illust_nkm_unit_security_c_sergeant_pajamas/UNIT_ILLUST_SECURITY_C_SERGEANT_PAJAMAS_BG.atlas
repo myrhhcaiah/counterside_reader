@@ -1,0 +1,13 @@
+
+UNIT_ILLUST_SECURITY_C_SERGEANT_PAJAMAS_BG.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 2, 2
+  size: 1017, 827
+  orig: 1017, 827
+  offset: 0, 0
+  index: -1

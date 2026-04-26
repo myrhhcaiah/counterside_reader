@@ -1,0 +1,279 @@
+
+UNIT_ILLUST_CA_ADMIN_LEE_SUYEON_RECITAL.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ARM_L_C_1
+  rotate: false
+  xy: 1640, 537
+  size: 114, 485
+  orig: 114, 485
+  offset: 0, 0
+  index: -1
+ARM_L_C_UNDER_1
+  rotate: false
+  xy: 1640, 320
+  size: 54, 215
+  orig: 54, 215
+  offset: 0, 0
+  index: -1
+ARM_L_E_FINGER_1
+  rotate: false
+  xy: 1756, 746
+  size: 20, 39
+  orig: 20, 39
+  offset: 0, 0
+  index: -1
+ARM_L_E_FINGER_2
+  rotate: true
+  xy: 1842, 972
+  size: 26, 42
+  orig: 26, 42
+  offset: 0, 0
+  index: -1
+ARM_L_E_FINGER_3
+  rotate: false
+  xy: 1665, 195
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+ARM_L_E_FINGER_4
+  rotate: true
+  xy: 1640, 151
+  size: 42, 19
+  orig: 42, 19
+  offset: 0, 0
+  index: -1
+ARM_L_E_F_HAND
+  rotate: false
+  xy: 1756, 966
+  size: 84, 56
+  orig: 84, 56
+  offset: 0, 0
+  index: -1
+ARM_L_F_FINGER_1
+  rotate: false
+  xy: 1719, 495
+  size: 35, 40
+  orig: 35, 40
+  offset: 0, 0
+  index: -1
+ARM_L_F_FINGER_2
+  rotate: true
+  xy: 1665, 270
+  size: 48, 28
+  orig: 48, 28
+  offset: 0, 0
+  index: -1
+ARM_L_F_FINGER_3
+  rotate: false
+  xy: 1756, 874
+  size: 54, 23
+  orig: 54, 23
+  offset: 0, 0
+  index: -1
+ARM_L_F_FINGER_4
+  rotate: false
+  xy: 1756, 831
+  size: 36, 41
+  orig: 36, 41
+  offset: 0, 0
+  index: -1
+ARM_L_G_FINGER_1
+  rotate: false
+  xy: 1817, 909
+  size: 21, 55
+  orig: 21, 55
+  offset: 0, 0
+  index: -1
+ARM_L_G_FINGER_2
+  rotate: false
+  xy: 1696, 460
+  size: 21, 75
+  orig: 21, 75
+  offset: 0, 0
+  index: -1
+ARM_L_G_FINGER_3
+  rotate: false
+  xy: 1640, 240
+  size: 23, 78
+  orig: 23, 78
+  offset: 0, 0
+  index: -1
+ARM_L_G_FINGER_4
+  rotate: true
+  xy: 1842, 1000
+  size: 22, 70
+  orig: 22, 70
+  offset: 0, 0
+  index: -1
+ARM_L_G_HAND
+  rotate: false
+  xy: 1756, 899
+  size: 59, 65
+  orig: 59, 65
+  offset: 0, 0
+  index: -1
+EYE_L_BALL
+  rotate: false
+  xy: 1886, 982
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+EYE_L_BROW
+  rotate: false
+  xy: 2, 2
+  size: 42, 11
+  orig: 42, 11
+  offset: 0, 0
+  index: -1
+EYE_L_DESPAIR
+  rotate: false
+  xy: 1914, 1001
+  size: 42, 21
+  orig: 42, 21
+  offset: 0, 0
+  index: -1
+EYE_L_HATE
+  rotate: true
+  xy: 1640, 195
+  size: 43, 23
+  orig: 43, 23
+  offset: 0, 0
+  index: -1
+EYE_L_INBROW
+  rotate: true
+  xy: 1794, 832
+  size: 40, 14
+  orig: 40, 14
+  offset: 0, 0
+  index: -1
+EYE_L_INNER
+  rotate: true
+  xy: 1742, 461
+  size: 32, 12
+  orig: 32, 12
+  offset: 0, 0
+  index: -1
+EYE_L_LAUGH
+  rotate: true
+  xy: 1696, 415
+  size: 43, 21
+  orig: 43, 21
+  offset: 0, 0
+  index: -1
+EYE_L_LIGHT
+  rotate: false
+  xy: 1842, 966
+  size: 15, 4
+  orig: 15, 4
+  offset: 0, 0
+  index: -1
+EYE_L_PRIDE
+  rotate: true
+  xy: 1665, 228
+  size: 40, 24
+  orig: 40, 24
+  offset: 0, 0
+  index: -1
+EYE_L_SERIOUS
+  rotate: true
+  xy: 1756, 787
+  size: 42, 24
+  orig: 42, 24
+  offset: 0, 0
+  index: -1
+EYE_L_SURPRISE
+  rotate: true
+  xy: 1719, 451
+  size: 42, 21
+  orig: 42, 21
+  offset: 0, 0
+  index: -1
+MAIN_1
+  rotate: false
+  xy: 2, 15
+  size: 1636, 1007
+  orig: 1636, 1007
+  offset: 0, 0
+  index: -1
+MOUTH_DESPAIR
+  rotate: false
+  xy: 1661, 188
+  size: 17, 5
+  orig: 17, 5
+  offset: 0, 0
+  index: -1
+MOUTH_HATE
+  rotate: false
+  xy: 1756, 739
+  size: 16, 5
+  orig: 16, 5
+  offset: 0, 0
+  index: -1
+MOUTH_HATE_SWEET
+  rotate: false
+  xy: 1812, 882
+  size: 3, 15
+  orig: 3, 15
+  offset: 0, 0
+  index: -1
+MOUTH_INNER
+  rotate: false
+  xy: 46, 2
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+MOUTH_LAUGH
+  rotate: false
+  xy: 1817, 901
+  size: 20, 6
+  orig: 20, 6
+  offset: 0, 0
+  index: -1
+MOUTH_PRIDE
+  rotate: true
+  xy: 1782, 807
+  size: 22, 7
+  orig: 22, 7
+  offset: 0, 0
+  index: -1
+MOUTH_SERIOUS
+  rotate: false
+  xy: 1640, 132
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+MOUTH_SURPRISE
+  rotate: true
+  xy: 62, 2
+  size: 11, 4
+  orig: 11, 4
+  offset: 0, 0
+  index: -1
+MOUTH_THEETH
+  rotate: false
+  xy: 1696, 406
+  size: 14, 7
+  orig: 14, 7
+  offset: 0, 0
+  index: -1
+MOUTH_UNDER
+  rotate: true
+  xy: 1719, 419
+  size: 30, 18
+  orig: 30, 18
+  offset: 0, 0
+  index: -1
+MOUTH_UPPER
+  rotate: false
+  xy: 1958, 1001
+  size: 30, 21
+  orig: 30, 21
+  offset: 0, 0
+  index: -1

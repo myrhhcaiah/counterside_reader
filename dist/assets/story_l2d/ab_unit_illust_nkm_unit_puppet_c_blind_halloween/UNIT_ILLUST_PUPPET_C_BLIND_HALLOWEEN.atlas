@@ -1,0 +1,181 @@
+
+UNIT_ILLUST_PUPPET_C_BLIND_HALLOWEEN.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ARM_L_HAND_B
+  rotate: false
+  xy: 1883, 800
+  size: 57, 120
+  orig: 57, 120
+  offset: 0, 0
+  index: -1
+ARM_R_HAND_B
+  rotate: true
+  xy: 1942, 853
+  size: 67, 104
+  orig: 67, 104
+  offset: 0, 0
+  index: -1
+FX_BACKFIRE_SUB
+  rotate: false
+  xy: 1883, 732
+  size: 66, 66
+  orig: 66, 66
+  offset: 0, 0
+  index: -1
+FX_SMOKE_1
+  rotate: true
+  xy: 1942, 800
+  size: 51, 50
+  orig: 51, 50
+  offset: 0, 0
+  index: -1
+FX_SMOKE_2
+  rotate: false
+  xy: 1883, 922
+  size: 116, 100
+  orig: 116, 100
+  offset: 0, 0
+  index: -1
+FX_WATER
+  rotate: false
+  xy: 2, 10
+  size: 138, 6
+  orig: 138, 6
+  offset: 0, 0
+  index: -1
+MESH
+  rotate: false
+  xy: 2, 18
+  size: 1879, 1004
+  orig: 1879, 1004
+  offset: 0, 0
+  index: -1
+MOUTH_DESPAIR
+  rotate: false
+  xy: 1994, 800
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1
+MOUTH_HATE
+  rotate: true
+  xy: 1973, 762
+  size: 36, 12
+  orig: 36, 12
+  offset: 0, 0
+  index: -1
+MOUTH_INNER
+  rotate: true
+  xy: 2001, 922
+  size: 29, 17
+  orig: 29, 17
+  offset: 0, 0
+  index: -1
+MOUTH_LAUGH
+  rotate: false
+  xy: 142, 2
+  size: 27, 14
+  orig: 27, 14
+  offset: 0, 0
+  index: -1
+MOUTH_LAUGH_2
+  rotate: true
+  xy: 1951, 750
+  size: 48, 20
+  orig: 48, 20
+  offset: 0, 0
+  index: -1
+MOUTH_LAUGH_3
+  rotate: true
+  xy: 1883, 612
+  size: 30, 21
+  orig: 30, 21
+  offset: 0, 0
+  index: -1
+MOUTH_PRIDE
+  rotate: false
+  xy: 171, 2
+  size: 27, 14
+  orig: 27, 14
+  offset: 0, 0
+  index: -1
+MOUTH_SERIOUS
+  rotate: false
+  xy: 1951, 732
+  size: 16, 16
+  orig: 16, 16
+  offset: 0, 0
+  index: -1
+MOUTH_SURPRISE
+  rotate: false
+  xy: 200, 5
+  size: 34, 11
+  orig: 34, 11
+  offset: 0, 0
+  index: -1
+MOUTH_THEETH
+  rotate: true
+  xy: 2020, 923
+  size: 28, 10
+  orig: 28, 10
+  offset: 0, 0
+  index: -1
+MOUTH_TOUNGUE
+  rotate: true
+  xy: 2020, 823
+  size: 28, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: -1
+MOUTH_UNDER
+  rotate: false
+  xy: 2001, 953
+  size: 38, 20
+  orig: 38, 20
+  offset: 0, 0
+  index: -1
+MOUTH_UPPER
+  rotate: true
+  xy: 1913, 693
+  size: 37, 17
+  orig: 37, 17
+  offset: 0, 0
+  index: -1
+SHOCK_2
+  rotate: false
+  xy: 1883, 583
+  size: 21, 27
+  orig: 21, 27
+  offset: 0, 0
+  index: -1
+SHOCK_3
+  rotate: false
+  xy: 1883, 644
+  size: 22, 34
+  orig: 22, 34
+  offset: 0, 0
+  index: -1
+SHOCK_4
+  rotate: true
+  xy: 2001, 975
+  size: 47, 41
+  orig: 47, 41
+  offset: 0, 0
+  index: -1
+SHOCK_5
+  rotate: false
+  xy: 1994, 812
+  size: 24, 39
+  orig: 24, 39
+  offset: 0, 0
+  index: -1
+SHOCK_6
+  rotate: false
+  xy: 1883, 680
+  size: 28, 50
+  orig: 28, 50
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,83 @@
+
+UNIT_ILLUST_NPC_HOGSBACK_JERRY.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00
+  rotate: false
+  xy: 686, 608
+  size: 145, 179
+  orig: 145, 179
+  offset: 0, 0
+  index: -1
+01
+  rotate: true
+  xy: 686, 411
+  size: 195, 121
+  orig: 195, 121
+  offset: 0, 0
+  index: -1
+02
+  rotate: true
+  xy: 453, 211
+  size: 125, 79
+  orig: 125, 79
+  offset: 0, 0
+  index: -1
+03
+  rotate: false
+  xy: 453, 128
+  size: 62, 81
+  orig: 62, 81
+  offset: 0, 0
+  index: -1
+04
+  rotate: false
+  xy: 318, 338
+  size: 216, 634
+  orig: 216, 634
+  offset: 0, 0
+  index: -1
+05
+  rotate: false
+  xy: 318, 28
+  size: 133, 308
+  orig: 133, 308
+  offset: 0, 0
+  index: -1
+06
+  rotate: false
+  xy: 840, 826
+  size: 85, 146
+  orig: 85, 146
+  offset: 0, 0
+  index: -1
+07
+  rotate: false
+  xy: 536, 379
+  size: 148, 593
+  orig: 148, 593
+  offset: 0, 0
+  index: -1
+08
+  rotate: false
+  xy: 2, 2
+  size: 314, 970
+  orig: 314, 970
+  offset: 0, 0
+  index: -1
+09
+  rotate: false
+  xy: 927, 831
+  size: 84, 141
+  orig: 84, 141
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 686, 789
+  size: 152, 183
+  orig: 152, 183
+  offset: 0, 0
+  index: -1

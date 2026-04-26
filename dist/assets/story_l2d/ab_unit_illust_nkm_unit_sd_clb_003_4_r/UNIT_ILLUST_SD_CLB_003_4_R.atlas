@@ -1,0 +1,146 @@
+
+UNIT_ILLUST_SD_CLB_003_4_R.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 262, 373
+  size: 141, 130
+  orig: 141, 131
+  offset: 0, 1
+  index: -1
+body_ac
+  rotate: false
+  xy: 2, 2
+  size: 150, 79
+  orig: 150, 80
+  offset: 0, 1
+  index: -1
+body_back_ac
+  rotate: true
+  xy: 160, 48
+  size: 146, 72
+  orig: 147, 73
+  offset: 0, 1
+  index: -1
+body_left_arm
+  rotate: true
+  xy: 411, 75
+  size: 58, 85
+  orig: 58, 86
+  offset: 0, 1
+  index: -1
+body_left_leg
+  rotate: true
+  xy: 392, 317
+  size: 52, 95
+  orig: 53, 95
+  offset: 0, 0
+  index: -1
+body_right_arm
+  rotate: true
+  xy: 292, 20
+  size: 58, 85
+  orig: 58, 86
+  offset: 0, 1
+  index: -1
+body_right_leg
+  rotate: true
+  xy: 379, 23
+  size: 50, 94
+  orig: 50, 95
+  offset: 0, 1
+  index: -1
+face_a
+  rotate: false
+  xy: 405, 371
+  size: 105, 63
+  orig: 106, 64
+  offset: 0, 1
+  index: -1
+face_b
+  rotate: true
+  xy: 411, 135
+  size: 105, 63
+  orig: 106, 64
+  offset: 0, 1
+  index: -1
+face_c
+  rotate: false
+  xy: 405, 436
+  size: 105, 67
+  orig: 106, 67
+  offset: 0, 0
+  index: -1
+face_d
+  rotate: false
+  xy: 215, 210
+  size: 122, 104
+  orig: 122, 104
+  offset: 0, 0
+  index: -1
+face_e
+  rotate: false
+  xy: 402, 242
+  size: 106, 73
+  orig: 106, 73
+  offset: 0, 0
+  index: -1
+face_f
+  rotate: true
+  xy: 339, 212
+  size: 102, 61
+  orig: 102, 61
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: false
+  xy: 2, 196
+  size: 211, 118
+  orig: 212, 118
+  offset: 0, 0
+  index: -1
+hair_cap
+  rotate: false
+  xy: 2, 316
+  size: 258, 187
+  orig: 258, 187
+  offset: 0, 0
+  index: -1
+hair_cap2
+  rotate: true
+  xy: 234, 41
+  size: 167, 56
+  orig: 167, 56
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: true
+  xy: 292, 80
+  size: 128, 54
+  orig: 129, 55
+  offset: 0, 1
+  index: -1
+hair_left_side
+  rotate: true
+  xy: 262, 316
+  size: 55, 128
+  orig: 56, 128
+  offset: 0, 0
+  index: -1
+hair_right_side
+  rotate: false
+  xy: 348, 88
+  size: 61, 122
+  orig: 61, 123
+  offset: 0, 1
+  index: -1
+head
+  rotate: false
+  xy: 2, 83
+  size: 156, 111
+  orig: 156, 111
+  offset: 0, 0
+  index: -1

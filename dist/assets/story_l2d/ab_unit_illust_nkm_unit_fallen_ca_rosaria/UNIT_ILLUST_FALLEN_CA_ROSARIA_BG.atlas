@@ -1,0 +1,97 @@
+
+UNIT_ILLUST_FALLEN_CA_ROSARIA_BG.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_0
+  rotate: false
+  xy: 2, 598
+  size: 941, 423
+  orig: 941, 423
+  offset: 0, 0
+  index: -1
+bg_p
+  rotate: false
+  xy: 2, 10
+  size: 59, 67
+  orig: 59, 67
+  offset: 0, 0
+  index: -1
+fx_0_10
+  rotate: false
+  xy: 2, 79
+  size: 254, 517
+  orig: 254, 517
+  offset: 0, 0
+  index: -1
+fx_0_13
+  rotate: true
+  xy: 258, 398
+  size: 198, 534
+  orig: 198, 534
+  offset: 0, 0
+  index: -1
+fx_0_14
+  rotate: true
+  xy: 258, 263
+  size: 133, 381
+  orig: 133, 381
+  offset: 0, 0
+  index: -1
+fx_0_15
+  rotate: true
+  xy: 258, 83
+  size: 98, 327
+  orig: 98, 327
+  offset: 0, 0
+  index: -1
+fx_0_3
+  rotate: true
+  xy: 658, 149
+  size: 120, 304
+  orig: 120, 304
+  offset: 0, 0
+  index: -1
+fx_0_4
+  rotate: true
+  xy: 587, 49
+  size: 98, 175
+  orig: 98, 175
+  offset: 0, 0
+  index: -1
+fx_0_5
+  rotate: false
+  xy: 945, 776
+  size: 64, 245
+  orig: 64, 245
+  offset: 0, 0
+  index: -1
+fx_0_7
+  rotate: false
+  xy: 641, 271
+  size: 277, 104
+  orig: 277, 104
+  offset: 0, 0
+  index: -1
+fx_3_4
+  rotate: true
+  xy: 258, 183
+  size: 78, 398
+  orig: 78, 398
+  offset: 0, 0
+  index: -1
+fx_3_5
+  rotate: false
+  xy: 794, 377
+  size: 132, 219
+  orig: 132, 219
+  offset: 0, 0
+  index: -1
+fx_3_6
+  rotate: true
+  xy: 258, 2
+  size: 79, 249
+  orig: 79, 249
+  offset: 0, 0
+  index: -1

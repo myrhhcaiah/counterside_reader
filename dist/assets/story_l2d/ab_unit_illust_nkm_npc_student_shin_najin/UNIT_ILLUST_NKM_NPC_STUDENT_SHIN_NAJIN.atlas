@@ -1,0 +1,167 @@
+
+UNIT_ILLUST_NKM_NPC_STUDENT_SHIN_NAJIN.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BISIC
+  rotate: false
+  xy: 401, 42
+  size: 108, 74
+  orig: 108, 74
+  offset: 0, 0
+  index: -1
+CLOSE_EYES
+  rotate: false
+  xy: 711, 45
+  size: 96, 18
+  orig: 96, 18
+  offset: 0, 0
+  index: -1
+EMOITON_LAUGH
+  rotate: true
+  xy: 875, 421
+  size: 125, 85
+  orig: 125, 85
+  offset: 0, 0
+  index: -1
+EMOITON_LAUGH_1
+  rotate: true
+  xy: 842, 241
+  size: 125, 82
+  orig: 125, 82
+  offset: 0, 0
+  index: -1
+EMOTIN_SURPRISE
+  rotate: false
+  xy: 511, 32
+  size: 108, 84
+  orig: 108, 84
+  offset: 0, 0
+  index: -1
+EMOTIN_SURPRISE_2
+  rotate: true
+  xy: 505, 118
+  size: 125, 82
+  orig: 125, 82
+  offset: 0, 0
+  index: -1
+EMOTION_DESPAIR
+  rotate: false
+  xy: 842, 163
+  size: 108, 76
+  orig: 108, 76
+  offset: 0, 0
+  index: -1
+EMOTION_HATE
+  rotate: false
+  xy: 835, 72
+  size: 106, 89
+  orig: 106, 89
+  offset: 0, 0
+  index: -1
+EMOTION_PRIDE
+  rotate: true
+  xy: 943, 59
+  size: 102, 73
+  orig: 102, 73
+  offset: 0, 0
+  index: -1
+EMOTION_SERIOUS
+  rotate: true
+  xy: 952, 313
+  size: 106, 70
+  orig: 106, 70
+  offset: 0, 0
+  index: -1
+bag
+  rotate: true
+  xy: 2, 43
+  size: 150, 397
+  orig: 150, 397
+  offset: 0, 0
+  index: -1
+body_1
+  rotate: false
+  xy: 365, 514
+  size: 298, 507
+  orig: 298, 507
+  offset: 0, 0
+  index: -1
+body_2
+  rotate: false
+  xy: 2, 195
+  size: 361, 826
+  orig: 361, 826
+  offset: 0, 0
+  index: -1
+hair
+  rotate: true
+  xy: 711, 368
+  size: 176, 162
+  orig: 176, 162
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 711, 192
+  size: 129, 174
+  orig: 129, 174
+  offset: 0, 0
+  index: -1
+head_shadow
+  rotate: false
+  xy: 711, 65
+  size: 122, 125
+  orig: 122, 125
+  offset: 0, 0
+  index: -1
+jacket_left
+  rotate: false
+  xy: 665, 546
+  size: 156, 475
+  orig: 156, 475
+  offset: 0, 0
+  index: -1
+jacket_right
+  rotate: false
+  xy: 823, 548
+  size: 130, 473
+  orig: 130, 473
+  offset: 0, 0
+  index: -1
+jacket_right_1
+  rotate: false
+  xy: 401, 118
+  size: 102, 125
+  orig: 102, 125
+  offset: 0, 0
+  index: -1
+left_arm1
+  rotate: false
+  xy: 517, 252
+  size: 107, 260
+  orig: 107, 260
+  offset: 0, 0
+  index: -1
+left_arm12
+  rotate: false
+  xy: 365, 245
+  size: 150, 267
+  orig: 150, 267
+  offset: 0, 0
+  index: -1
+left_hand
+  rotate: false
+  xy: 955, 929
+  size: 64, 92
+  orig: 64, 92
+  offset: 0, 0
+  index: -1
+right_arm
+  rotate: false
+  xy: 626, 2
+  size: 83, 510
+  orig: 83, 510
+  offset: 0, 0
+  index: -1

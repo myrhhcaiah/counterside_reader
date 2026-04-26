@@ -1,0 +1,69 @@
+
+UNIT_ILLUST_NPC_CLAN_DRUG.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00
+  rotate: false
+  xy: 1, 266
+  size: 853, 710
+  orig: 853, 710
+  offset: 0, 0
+  index: -1
+1
+  rotate: false
+  xy: 1, 1
+  size: 234, 264
+  orig: 234, 264
+  offset: 0, 0
+  index: -1
+BASE
+  rotate: false
+  xy: 236, 125
+  size: 145, 140
+  orig: 145, 140
+  offset: 0, 0
+  index: -1
+DESPAIR
+  rotate: false
+  xy: 855, 413
+  size: 144, 139
+  orig: 144, 139
+  offset: 0, 0
+  index: -1
+HATE
+  rotate: false
+  xy: 855, 695
+  size: 145, 140
+  orig: 145, 140
+  offset: 0, 0
+  index: -1
+LAUGH
+  rotate: false
+  xy: 528, 125
+  size: 144, 140
+  orig: 144, 140
+  offset: 0, 0
+  index: -1
+PRIDE
+  rotate: false
+  xy: 382, 125
+  size: 145, 140
+  orig: 145, 140
+  offset: 0, 0
+  index: -1
+SERIOUS
+  rotate: false
+  xy: 855, 836
+  size: 146, 140
+  orig: 146, 140
+  offset: 0, 0
+  index: -1
+SURPRISE
+  rotate: false
+  xy: 855, 553
+  size: 144, 141
+  orig: 144, 141
+  offset: 0, 0
+  index: -1

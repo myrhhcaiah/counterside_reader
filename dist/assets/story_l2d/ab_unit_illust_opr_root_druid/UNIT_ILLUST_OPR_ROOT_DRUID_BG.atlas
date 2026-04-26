@@ -1,0 +1,41 @@
+
+UNIT_ILLUST_OPR_ROOT_DRUID_BG.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_1_1
+  rotate: false
+  xy: 1069, 81
+  size: 655, 313
+  orig: 655, 313
+  offset: 0, 0
+  index: -1
+bg_1_2
+  rotate: false
+  xy: 1546, 396
+  size: 377, 549
+  orig: 377, 549
+  offset: 0, 0
+  index: -1
+bg_1_3
+  rotate: false
+  xy: 719, 153
+  size: 348, 792
+  orig: 348, 792
+  offset: 0, 0
+  index: -1
+bg_2_1
+  rotate: true
+  xy: 1069, 503
+  size: 442, 475
+  orig: 442, 475
+  offset: 0, 0
+  index: -1
+bg_3_1
+  rotate: false
+  xy: 2, 2
+  size: 715, 943
+  orig: 715, 943
+  offset: 0, 0
+  index: -1

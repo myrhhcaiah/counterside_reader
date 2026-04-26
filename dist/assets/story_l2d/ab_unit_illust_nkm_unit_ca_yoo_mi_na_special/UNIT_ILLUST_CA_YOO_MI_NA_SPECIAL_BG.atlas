@@ -1,0 +1,125 @@
+
+UNIT_ILLUST_CA_YOO_MI_NA_SPECIAL_BG.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_1
+  rotate: false
+  xy: 2, 396
+  size: 819, 931
+  orig: 819, 931
+  offset: 0, 0
+  index: -1
+bg_3
+  rotate: false
+  xy: 2, 1329
+  size: 1472, 717
+  orig: 1472, 717
+  offset: 0, 0
+  index: -1
+bg_4
+  rotate: false
+  xy: 1155, 617
+  size: 229, 710
+  orig: 229, 710
+  offset: 0, 0
+  index: -1
+bg_5
+  rotate: true
+  xy: 823, 295
+  size: 1032, 330
+  orig: 1032, 330
+  offset: 0, 0
+  index: -1
+bg_6
+  rotate: true
+  xy: 2, 2
+  size: 291, 820
+  orig: 291, 820
+  offset: 0, 0
+  index: -1
+bg_8
+  rotate: true
+  xy: 1386, 770
+  size: 557, 347
+  orig: 557, 347
+  offset: 0, 0
+  index: -1
+bg_9
+  rotate: true
+  xy: 1386, 525
+  size: 243, 430
+  orig: 243, 430
+  offset: 0, 0
+  index: -1
+bg_back_1
+  rotate: false
+  xy: 1266, 140
+  size: 431, 383
+  orig: 431, 383
+  offset: 0, 0
+  index: -1
+bg_back_2
+  rotate: false
+  xy: 2, 327
+  size: 186, 67
+  orig: 186, 67
+  offset: 0, 0
+  index: -1
+bg_back_3
+  rotate: false
+  xy: 1266, 107
+  size: 73, 31
+  orig: 73, 31
+  offset: 0, 0
+  index: -1
+bg_back_5
+  rotate: true
+  xy: 1476, 1469
+  size: 577, 391
+  orig: 577, 391
+  offset: 0, 0
+  index: -1
+bg_snow_1
+  rotate: false
+  xy: 1155, 533
+  size: 142, 82
+  orig: 142, 82
+  offset: 0, 0
+  index: -1
+bg_snow_2
+  rotate: false
+  xy: 1476, 1374
+  size: 142, 93
+  orig: 142, 93
+  offset: 0, 0
+  index: -1
+bg_snow_3
+  rotate: false
+  xy: 824, 13
+  size: 440, 280
+  orig: 440, 280
+  offset: 0, 0
+  index: -1
+bg_snow_4
+  rotate: true
+  xy: 1699, 109
+  size: 414, 242
+  orig: 414, 242
+  offset: 0, 0
+  index: -1
+camp_fire_3
+  rotate: true
+  xy: 1869, 1624
+  size: 200, 158
+  orig: 200, 158
+  offset: 0, 0
+  index: -1
+camp_fire_4
+  rotate: true
+  xy: 1869, 1826
+  size: 220, 149
+  orig: 220, 149
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+
+UNIT_ILLUST_HARMONY_C_VIOLIN_SUMMER_BG.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 2, 2
+  size: 1526, 986
+  orig: 1526, 986
+  offset: 0, 0
+  index: -1

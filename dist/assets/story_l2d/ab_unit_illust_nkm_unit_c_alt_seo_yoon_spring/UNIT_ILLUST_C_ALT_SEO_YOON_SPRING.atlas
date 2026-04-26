@@ -1,0 +1,1077 @@
+
+UNIT_ILLUST_C_ALT_SEO_YOON_SPRING.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ARM_L_HAND_00
+  rotate: false
+  xy: 1538, 3
+  size: 45, 35
+  orig: 45, 35
+  offset: 0, 0
+  index: -1
+ARM_L_HAND_01
+  rotate: false
+  xy: 1773, 351
+  size: 25, 37
+  orig: 25, 37
+  offset: 0, 0
+  index: -1
+ARM_L_HAND_02
+  rotate: false
+  xy: 1799, 13
+  size: 26, 30
+  orig: 26, 30
+  offset: 0, 0
+  index: -1
+ARM_L_HAND_03
+  rotate: true
+  xy: 1979, 106
+  size: 32, 37
+  orig: 32, 37
+  offset: 0, 0
+  index: -1
+ARM_L_HAND_04
+  rotate: false
+  xy: 1797, 77
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+ARM_L_HAND_05
+  rotate: true
+  xy: 1939, 140
+  size: 31, 39
+  orig: 31, 39
+  offset: 0, 0
+  index: -1
+ARM_L_UNDER_01
+  rotate: true
+  xy: 1949, 218
+  size: 93, 95
+  orig: 93, 95
+  offset: 0, 0
+  index: -1
+ARM_L_UNDER_02
+  rotate: true
+  xy: 1501, 17
+  size: 25, 35
+  orig: 25, 35
+  offset: 0, 0
+  index: -1
+ARM_L_UPPER
+  rotate: false
+  xy: 1005, 75
+  size: 88, 84
+  orig: 88, 84
+  offset: 0, 0
+  index: -1
+ARM_R_HAND_00
+  rotate: false
+  xy: 1750, 61
+  size: 45, 37
+  orig: 45, 37
+  offset: 0, 0
+  index: -1
+ARM_R_HAND_01
+  rotate: false
+  xy: 1069, 277
+  size: 47, 17
+  orig: 47, 17
+  offset: 0, 0
+  index: -1
+ARM_R_HAND_02
+  rotate: false
+  xy: 1758, 2
+  size: 39, 12
+  orig: 39, 12
+  offset: 0, 0
+  index: -1
+ARM_R_HAND_03
+  rotate: false
+  xy: 1022, 2
+  size: 33, 16
+  orig: 33, 16
+  offset: 0, 0
+  index: -1
+ARM_R_HAND_04
+  rotate: false
+  xy: 1504, 2
+  size: 32, 13
+  orig: 32, 13
+  offset: 0, 0
+  index: -1
+ARM_R_HAND_05
+  rotate: true
+  xy: 797, 161
+  size: 41, 25
+  orig: 41, 25
+  offset: 0, 0
+  index: -1
+ARM_R_HAND_B_00
+  rotate: true
+  xy: 1501, 44
+  size: 58, 35
+  orig: 58, 35
+  offset: 0, 0
+  index: -1
+ARM_R_HAND_B_01
+  rotate: true
+  xy: 2018, 107
+  size: 31, 28
+  orig: 31, 28
+  offset: 0, 0
+  index: -1
+ARM_R_HAND_B_02
+  rotate: true
+  xy: 2013, 986
+  size: 36, 33
+  orig: 36, 33
+  offset: 0, 0
+  index: -1
+ARM_R_HAND_B_03
+  rotate: true
+  xy: 1796, 109
+  size: 35, 34
+  orig: 35, 34
+  offset: 0, 0
+  index: -1
+ARM_R_HAND_B_04
+  rotate: true
+  xy: 1799, 45
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+ARM_R_HAND_B_05
+  rotate: false
+  xy: 2013, 741
+  size: 29, 47
+  orig: 29, 47
+  offset: 0, 0
+  index: -1
+ARM_R_UNDER
+  rotate: false
+  xy: 246, 7
+  size: 203, 111
+  orig: 203, 111
+  offset: 0, 0
+  index: -1
+ARM_R_UPPER_r
+  rotate: true
+  xy: 797, 80
+  size: 79, 206
+  orig: 79, 206
+  offset: 0, 0
+  index: -1
+BG_BAG
+  rotate: false
+  xy: 1139, 277
+  size: 153, 149
+  orig: 153, 149
+  offset: 0, 0
+  index: -1
+BG_CHAIR
+  rotate: true
+  xy: 1800, 576
+  size: 102, 166
+  orig: 102, 166
+  offset: 0, 0
+  index: -1
+BG_DESK
+  rotate: true
+  xy: 1515, 609
+  size: 165, 223
+  orig: 165, 223
+  offset: 0, 0
+  index: -1
+BG_DESK_01
+  rotate: false
+  xy: 2, 440
+  size: 932, 582
+  orig: 932, 582
+  offset: 0, 0
+  index: -1
+BG_DESK_02
+  rotate: false
+  xy: 2, 120
+  size: 449, 318
+  orig: 449, 318
+  offset: 0, 0
+  index: -1
+BG_DESK_03
+  rotate: false
+  xy: 1244, 721
+  size: 269, 301
+  orig: 269, 301
+  offset: 0, 0
+  index: -1
+BG_DESK_05_1
+  rotate: true
+  xy: 1800, 714
+  size: 60, 20
+  orig: 60, 20
+  offset: 0, 0
+  index: -1
+BG_DESK_ONAIR
+  rotate: true
+  xy: 1279, 79
+  size: 83, 59
+  orig: 83, 59
+  offset: 0, 0
+  index: -1
+BG_DESK_ONAIR_LIGHT
+  rotate: false
+  xy: 1490, 477
+  size: 192, 130
+  orig: 192, 130
+  offset: 0, 0
+  index: -1
+BG_DESK_SCREEN_01
+  rotate: true
+  xy: 1237, 164
+  size: 111, 101
+  orig: 111, 101
+  offset: 0, 0
+  index: -1
+BG_DESK_SCREEN_01_01
+  rotate: false
+  xy: 1684, 477
+  size: 114, 130
+  orig: 114, 130
+  offset: 0, 0
+  index: -1
+BG_DESK_SCREEN_01_02
+  rotate: true
+  xy: 1630, 137
+  size: 68, 47
+  orig: 68, 47
+  offset: 0, 0
+  index: -1
+BG_DESK_SCREEN_01_03
+  rotate: false
+  xy: 1968, 557
+  size: 78, 121
+  orig: 78, 121
+  offset: 0, 0
+  index: -1
+BG_DESK_SCREEN_01_04
+  rotate: false
+  xy: 1704, 87
+  size: 44, 51
+  orig: 44, 51
+  offset: 0, 0
+  index: -1
+BG_DESK_SCREEN_02
+  rotate: true
+  xy: 1773, 260
+  size: 89, 110
+  orig: 89, 110
+  offset: 0, 0
+  index: -1
+BG_DESK_SCREEN_02_01
+  rotate: true
+  xy: 2013, 839
+  size: 49, 31
+  orig: 49, 31
+  offset: 0, 0
+  index: -1
+BG_DESK_SCREEN_02_02
+  rotate: false
+  xy: 1442, 82
+  size: 38, 59
+  orig: 38, 59
+  offset: 0, 0
+  index: -1
+BG_DESK_SCREEN_02_03
+  rotate: false
+  xy: 2023, 441
+  size: 19, 66
+  orig: 19, 66
+  offset: 0, 0
+  index: -1
+BG_DESK_SCREEN_02_04
+  rotate: true
+  xy: 1980, 140
+  size: 31, 39
+  orig: 31, 39
+  offset: 0, 0
+  index: -1
+BG_DESK_SCREEN_02_05
+  rotate: true
+  xy: 1939, 107
+  size: 31, 38
+  orig: 31, 38
+  offset: 0, 0
+  index: -1
+BG_DESK_SCREEN_02_05_01
+  rotate: true
+  xy: 1490, 609
+  size: 30, 21
+  orig: 30, 21
+  offset: 0, 0
+  index: -1
+BG_DESK_SCREEN_02_05_02
+  rotate: true
+  xy: 1916, 126
+  size: 30, 21
+  orig: 30, 21
+  offset: 0, 0
+  index: -1
+BG_DESK_SCREEN_02_05_03
+  rotate: true
+  xy: 2021, 141
+  size: 30, 21
+  orig: 30, 21
+  offset: 0, 0
+  index: -1
+BG_DESK_SCREEN_02_06
+  rotate: false
+  xy: 1482, 104
+  size: 56, 59
+  orig: 56, 59
+  offset: 0, 0
+  index: -1
+BG_DESK_SCREEN_03
+  rotate: false
+  xy: 1582, 207
+  size: 72, 66
+  orig: 72, 66
+  offset: 0, 0
+  index: -1
+BG_DESK_SCREEN_03_01
+  rotate: false
+  xy: 1694, 44
+  size: 44, 41
+  orig: 44, 41
+  offset: 0, 0
+  index: -1
+BG_DESK_SCREEN_03_2
+  rotate: true
+  xy: 1641, 390
+  size: 22, 30
+  orig: 22, 30
+  offset: 0, 0
+  index: -1
+BG_DESK_SCREEN_03_2_01
+  rotate: false
+  xy: 1261, 428
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+BG_DESK_SCREEN_03_2_02
+  rotate: false
+  xy: 1793, 617
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+BG_DESK_SCREEN_03_3
+  rotate: false
+  xy: 1758, 16
+  size: 39, 43
+  orig: 39, 43
+  offset: 0, 0
+  index: -1
+BG_DESK_SCREEN_03_4
+  rotate: false
+  xy: 1490, 641
+  size: 23, 30
+  orig: 23, 30
+  offset: 0, 0
+  index: -1
+BG_DESK_SCREEN_03_5
+  rotate: false
+  xy: 1118, 277
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+BG_DESK_SCREEN_04
+  rotate: false
+  xy: 1540, 98
+  size: 60, 44
+  orig: 60, 44
+  offset: 0, 0
+  index: -1
+BG_DESK_SCREEN_04_LIGHT
+  rotate: true
+  xy: 1951, 313
+  size: 126, 95
+  orig: 126, 95
+  offset: 0, 0
+  index: -1
+BG_DESK_SCREEN_04_LIGHT_A
+  rotate: true
+  xy: 1662, 94
+  size: 41, 40
+  orig: 41, 40
+  offset: 0, 0
+  index: -1
+BG_DESK_SCREEN_04_LIGHT_B
+  rotate: false
+  xy: 1694, 2
+  size: 41, 40
+  orig: 41, 40
+  offset: 0, 0
+  index: -1
+BG_DESK_SCREEN_04_LIGHT_C
+  rotate: true
+  xy: 1740, 624
+  size: 150, 58
+  orig: 150, 58
+  offset: 0, 0
+  index: -1
+BG_DESK_SCREEN_05
+  rotate: false
+  xy: 1147, 4
+  size: 56, 72
+  orig: 56, 72
+  offset: 0, 0
+  index: -1
+BG_DESK_SCREEN_05_0_1
+  rotate: true
+  xy: 1559, 144
+  size: 61, 69
+  orig: 61, 69
+  offset: 0, 0
+  index: -1
+BG_DESK_SCREEN_05_0_2
+  rotate: true
+  xy: 1807, 153
+  size: 53, 42
+  orig: 53, 42
+  offset: 0, 0
+  index: -1
+BG_DESK_SCREEN_05_0_3
+  rotate: true
+  xy: 1597, 40
+  size: 52, 53
+  orig: 52, 53
+  offset: 0, 0
+  index: -1
+BG_DESK_SCREEN_05_2_LIGHT
+  rotate: true
+  xy: 1740, 609
+  size: 13, 51
+  orig: 13, 51
+  offset: 0, 0
+  index: -1
+BG_DESK_SCREEN_06
+  rotate: true
+  xy: 1942, 173
+  size: 43, 93
+  orig: 43, 93
+  offset: 0, 0
+  index: -1
+BG_DESK_SCREEN_06_1
+  rotate: true
+  xy: 1490, 673
+  size: 46, 23
+  orig: 46, 23
+  offset: 0, 0
+  index: -1
+BG_DESK_SCREEN_07_1
+  rotate: false
+  xy: 1186, 85
+  size: 91, 77
+  orig: 91, 77
+  offset: 0, 0
+  index: -1
+BG_DESK_SCREEN_07_2
+  rotate: true
+  xy: 1464, 15
+  size: 65, 35
+  orig: 65, 35
+  offset: 0, 0
+  index: -1
+BG_DESK_SCREEN_07_3
+  rotate: false
+  xy: 2013, 900
+  size: 13, 84
+  orig: 13, 84
+  offset: 0, 0
+  index: -1
+BG_DESK_SCREEN_07_4
+  rotate: true
+  xy: 451, 2
+  size: 9, 68
+  orig: 9, 68
+  offset: 0, 0
+  index: -1
+BG_DESK_SCREEN_07_5
+  rotate: false
+  xy: 1340, 202
+  size: 122, 84
+  orig: 122, 84
+  offset: 0, 0
+  index: -1
+BG_DESK_SCREEN_07_9
+  rotate: true
+  xy: 1885, 260
+  size: 89, 62
+  orig: 89, 62
+  offset: 0, 0
+  index: -1
+BG_DESK_SCREEN_08_1
+  rotate: true
+  xy: 1340, 2
+  size: 78, 75
+  orig: 78, 75
+  offset: 0, 0
+  index: -1
+BG_DESK_SCREEN_09_1
+  rotate: false
+  xy: 1417, 11
+  size: 45, 69
+  orig: 45, 69
+  offset: 0, 0
+  index: -1
+BG_LIGHT_01
+  rotate: false
+  xy: 1746, 268
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+BG_LIGHT_02
+  rotate: true
+  xy: 1095, 78
+  size: 84, 89
+  orig: 84, 89
+  offset: 0, 0
+  index: -1
+BG_LIGHT_03_1
+  rotate: false
+  xy: 1942, 253
+  size: 5, 5
+  orig: 5, 5
+  offset: 0, 0
+  index: -1
+BG_LIGHT_04_1
+  rotate: true
+  xy: 2028, 926
+  size: 58, 18
+  orig: 58, 18
+  offset: 0, 0
+  index: -1
+BG_LIGHT_04_2
+  rotate: false
+  xy: 2018, 87
+  size: 28, 18
+  orig: 28, 18
+  offset: 0, 0
+  index: -1
+BG_MICROPHONE_01
+  rotate: true
+  xy: 1464, 165
+  size: 40, 93
+  orig: 40, 93
+  offset: 0, 0
+  index: -1
+BG_MICROPHONE_02
+  rotate: true
+  xy: 1602, 94
+  size: 41, 58
+  orig: 41, 58
+  offset: 0, 0
+  index: -1
+BG_MICROPHONE_03
+  rotate: false
+  xy: 1340, 82
+  size: 100, 59
+  orig: 100, 59
+  offset: 0, 0
+  index: -1
+BG_MICROPHONE_04
+  rotate: true
+  xy: 1538, 40
+  size: 56, 57
+  orig: 56, 57
+  offset: 0, 0
+  index: -1
+BG_MICROPHONE_05
+  rotate: true
+  xy: 1629, 8
+  size: 30, 41
+  orig: 30, 41
+  offset: 0, 0
+  index: -1
+BG_MICROPHONE_06
+  rotate: true
+  xy: 1683, 390
+  size: 85, 115
+  orig: 85, 115
+  offset: 0, 0
+  index: -1
+BG_MICROPHONE_07
+  rotate: true
+  xy: 1294, 288
+  size: 145, 170
+  orig: 145, 170
+  offset: 0, 0
+  index: -1
+BG_MICROPHONE_08
+  rotate: false
+  xy: 1956, 441
+  size: 65, 114
+  orig: 65, 114
+  offset: 0, 0
+  index: -1
+BG_SHADOW
+  rotate: false
+  xy: 826, 161
+  size: 241, 133
+  orig: 241, 133
+  offset: 0, 0
+  index: -1
+BODY_LEG_L_UNDER_r
+  rotate: true
+  xy: 2, 5
+  size: 113, 242
+  orig: 113, 242
+  offset: 0, 0
+  index: -1
+BODY_LEG_L_UPPER_r
+  rotate: true
+  xy: 1800, 441
+  size: 133, 154
+  orig: 133, 154
+  offset: 0, 0
+  index: -1
+BODY_LEG_R_r
+  rotate: true
+  xy: 453, 71
+  size: 131, 342
+  orig: 131, 342
+  offset: 0, 0
+  index: -1
+BODY_SKIRT_01
+  rotate: false
+  xy: 1466, 275
+  size: 173, 137
+  orig: 173, 137
+  offset: 0, 0
+  index: -1
+BODY_SKIRT_02
+  rotate: false
+  xy: 1069, 164
+  size: 166, 111
+  orig: 166, 111
+  offset: 0, 0
+  index: -1
+BODY_SKIRT_03
+  rotate: false
+  xy: 1095, 2
+  size: 50, 74
+  orig: 50, 74
+  offset: 0, 0
+  index: -1
+BODY_SKIRT_04
+  rotate: false
+  xy: 1205, 14
+  size: 65, 69
+  orig: 65, 69
+  offset: 0, 0
+  index: -1
+BODY_UPPER_01
+  rotate: true
+  xy: 453, 204
+  size: 234, 371
+  orig: 234, 371
+  offset: 0, 0
+  index: -1
+BODY_UPPER_02
+  rotate: false
+  xy: 1641, 284
+  size: 130, 104
+  orig: 130, 104
+  offset: 0, 0
+  index: -1
+BODY_UPPER_03
+  rotate: true
+  xy: 870, 10
+  size: 68, 96
+  orig: 68, 96
+  offset: 0, 0
+  index: -1
+BODY_UPPER_HEADSET_01
+  rotate: false
+  xy: 1744, 146
+  size: 61, 60
+  orig: 61, 60
+  offset: 0, 0
+  index: -1
+BODY_UPPER_HEADSET_02
+  rotate: true
+  xy: 1851, 145
+  size: 46, 63
+  orig: 46, 63
+  offset: 0, 0
+  index: -1
+BODY_UPPER_HEADSET_03
+  rotate: false
+  xy: 1679, 140
+  size: 63, 68
+  orig: 63, 68
+  offset: 0, 0
+  index: -1
+BODY_UPPER_HEADSET_04
+  rotate: false
+  xy: 1851, 193
+  size: 89, 65
+  orig: 89, 65
+  offset: 0, 0
+  index: -1
+BODY_UPPER_NECK
+  rotate: true
+  xy: 1464, 207
+  size: 66, 116
+  orig: 66, 116
+  offset: 0, 0
+  index: -1
+EFFECT_MUSIC
+  rotate: false
+  xy: 1272, 2
+  size: 44, 75
+  orig: 44, 75
+  offset: 0, 0
+  index: -1
+HAIR_BACK_01_r
+  rotate: true
+  xy: 1515, 776
+  size: 246, 305
+  orig: 246, 305
+  offset: 0, 0
+  index: -1
+HAIR_BACK_02_r
+  rotate: false
+  xy: 1822, 680
+  size: 189, 342
+  orig: 189, 342
+  offset: 0, 0
+  index: -1
+HAIR_BACK_03
+  rotate: true
+  xy: 936, 428
+  size: 222, 323
+  orig: 222, 323
+  offset: 0, 0
+  index: -1
+HAIR_BACK_04_r
+  rotate: false
+  xy: 1261, 435
+  size: 227, 284
+  orig: 227, 284
+  offset: 0, 0
+  index: -1
+HAIR_BACK_05_r
+  rotate: true
+  xy: 826, 296
+  size: 130, 311
+  orig: 130, 311
+  offset: 0, 0
+  index: -1
+HEAD_CHEEK_01
+  rotate: false
+  xy: 1340, 143
+  size: 104, 57
+  orig: 104, 57
+  offset: 0, 0
+  index: -1
+HEAD_DESPAIR_EYE_BROW_R
+  rotate: false
+  xy: 968, 2
+  size: 52, 16
+  orig: 52, 16
+  offset: 0, 0
+  index: -1
+HEAD_DESPAIR_EYE_L
+  rotate: true
+  xy: 1072, 31
+  size: 42, 21
+  orig: 42, 21
+  offset: 0, 0
+  index: -1
+HEAD_DESPAIR_EYE_R
+  rotate: true
+  xy: 1916, 158
+  size: 33, 21
+  orig: 33, 21
+  offset: 0, 0
+  index: -1
+HEAD_DESPAIR_MOUTH
+  rotate: false
+  xy: 1629, 2
+  size: 13, 4
+  orig: 13, 4
+  offset: 0, 0
+  index: -1
+HEAD_EYE_BROW_L
+  rotate: true
+  xy: 1244, 652
+  size: 44, 14
+  orig: 44, 14
+  offset: 0, 0
+  index: -1
+HEAD_EYE_BROW_R
+  rotate: false
+  xy: 1464, 2
+  size: 38, 11
+  orig: 38, 11
+  offset: 0, 0
+  index: -1
+HEAD_EYE_L_BALL
+  rotate: false
+  xy: 1318, 13
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+HEAD_EYE_L_INNER
+  rotate: false
+  xy: 1869, 117
+  size: 27, 26
+  orig: 27, 26
+  offset: 0, 0
+  index: -1
+HEAD_EYE_L_LIGHT
+  rotate: true
+  xy: 1672, 20
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+HEAD_EYE_L_UNDER
+  rotate: false
+  xy: 1294, 277
+  size: 19, 9
+  orig: 19, 9
+  offset: 0, 0
+  index: -1
+HEAD_EYE_L_UPPER
+  rotate: true
+  xy: 2023, 509
+  size: 46, 23
+  orig: 46, 23
+  offset: 0, 0
+  index: -1
+HEAD_EYE_R_BALL
+  rotate: false
+  xy: 1244, 698
+  size: 15, 21
+  orig: 15, 21
+  offset: 0, 0
+  index: -1
+HEAD_EYE_R_INNER
+  rotate: true
+  xy: 1800, 685
+  size: 27, 20
+  orig: 27, 20
+  offset: 0, 0
+  index: -1
+HEAD_EYE_R_LIGHT
+  rotate: false
+  xy: 1057, 2
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+HEAD_EYE_R_UNDER
+  rotate: false
+  xy: 870, 2
+  size: 17, 6
+  orig: 17, 6
+  offset: 0, 0
+  index: -1
+HEAD_EYE_R_UPPER
+  rotate: true
+  xy: 2028, 890
+  size: 34, 18
+  orig: 34, 18
+  offset: 0, 0
+  index: -1
+HEAD_HAIR_FRONT_01
+  rotate: true
+  xy: 968, 20
+  size: 53, 102
+  orig: 53, 102
+  offset: 0, 0
+  index: -1
+HEAD_HAIR_FRONT_01_LIGHT
+  rotate: false
+  xy: 1750, 100
+  size: 44, 44
+  orig: 44, 44
+  offset: 0, 0
+  index: -1
+HEAD_HAIR_FRONT_01_SHADOW
+  rotate: false
+  xy: 1656, 210
+  size: 88, 72
+  orig: 88, 72
+  offset: 0, 0
+  index: -1
+HEAD_HAIR_FRONT_02
+  rotate: true
+  xy: 1800, 351
+  size: 88, 149
+  orig: 88, 149
+  offset: 0, 0
+  index: -1
+HEAD_HAIR_FRONT_02_LIGHT
+  rotate: false
+  xy: 1585, 3
+  size: 42, 35
+  orig: 42, 35
+  offset: 0, 0
+  index: -1
+HEAD_HAIR_FRONT_02_SHADOW
+  rotate: false
+  xy: 1466, 422
+  size: 18, 11
+  orig: 18, 11
+  offset: 0, 0
+  index: -1
+HEAD_HAIR_FRONT_03
+  rotate: true
+  xy: 655, 13
+  size: 56, 131
+  orig: 56, 131
+  offset: 0, 0
+  index: -1
+HEAD_HAIR_FRONT_03_LIGHT
+  rotate: false
+  xy: 2013, 692
+  size: 29, 47
+  orig: 29, 47
+  offset: 0, 0
+  index: -1
+HEAD_HAIR_FRONT_04_LIGHT
+  rotate: false
+  xy: 2013, 790
+  size: 32, 47
+  orig: 32, 47
+  offset: 0, 0
+  index: -1
+HEAD_HAIR_SIDE_L
+  rotate: true
+  xy: 1490, 414
+  size: 61, 191
+  orig: 61, 191
+  offset: 0, 0
+  index: -1
+HEAD_HAIR_SIDE_R
+  rotate: true
+  xy: 451, 13
+  size: 56, 202
+  orig: 56, 202
+  offset: 0, 0
+  index: -1
+HEAD_HATE_MOUTH
+  rotate: false
+  xy: 889, 2
+  size: 16, 6
+  orig: 16, 6
+  offset: 0, 0
+  index: -1
+HEAD_LAUGH_EYE_L
+  rotate: true
+  xy: 1737, 2
+  size: 40, 19
+  orig: 40, 19
+  offset: 0, 0
+  index: -1
+HEAD_LAUGH_EYE_R
+  rotate: false
+  xy: 826, 428
+  size: 36, 10
+  orig: 36, 10
+  offset: 0, 0
+  index: -1
+HEAD_LAUGH_MOUTH
+  rotate: true
+  xy: 1482, 82
+  size: 20, 12
+  orig: 20, 12
+  offset: 0, 0
+  index: -1
+HEAD_MAIN
+  rotate: false
+  xy: 936, 652
+  size: 306, 370
+  orig: 306, 370
+  offset: 0, 0
+  index: -1
+HEAD_MOUTH_THEETH
+  rotate: false
+  xy: 864, 428
+  size: 23, 10
+  orig: 23, 10
+  offset: 0, 0
+  index: -1
+HEAD_MOUTH_UNDER
+  rotate: false
+  xy: 1832, 124
+  size: 35, 19
+  orig: 35, 19
+  offset: 0, 0
+  index: -1
+HEAD_MOUTH_UPPER
+  rotate: true
+  xy: 1318, 41
+  size: 36, 20
+  orig: 36, 20
+  offset: 0, 0
+  index: -1
+HEAD_PRIDE_MOUTH
+  rotate: true
+  xy: 1673, 394
+  size: 18, 8
+  orig: 18, 8
+  offset: 0, 0
+  index: -1
+HEAD_RIBBON_01
+  rotate: false
+  xy: 1652, 40
+  size: 40, 52
+  orig: 40, 52
+  offset: 0, 0
+  index: -1
+HEAD_RIBBON_02
+  rotate: true
+  xy: 1746, 208
+  size: 50, 103
+  orig: 50, 103
+  offset: 0, 0
+  index: -1
+HEAD_RIBBON_03
+  rotate: false
+  xy: 797, 2
+  size: 71, 76
+  orig: 71, 76
+  offset: 0, 0
+  index: -1
+HEAD_SERIOUS_MOUTH
+  rotate: false
+  xy: 907, 2
+  size: 16, 6
+  orig: 16, 6
+  offset: 0, 0
+  index: -1
+HEAD_SURPRISE_MOUTH
+  rotate: true
+  xy: 788, 61
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: -1
+HEAD_TEAR
+  rotate: true
+  xy: 1644, 2
+  size: 4, 13
+  orig: 4, 13
+  offset: 0, 0
+  index: -1

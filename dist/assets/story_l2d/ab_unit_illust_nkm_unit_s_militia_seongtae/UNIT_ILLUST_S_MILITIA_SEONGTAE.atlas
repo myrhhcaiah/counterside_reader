@@ -1,0 +1,405 @@
+
+UNIT_ILLUST_S_MILITIA_SEONGTAE.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: true
+  xy: 871, 221
+  size: 159, 151
+  orig: 159, 151
+  offset: 0, 0
+  index: -1
+10_FIX
+  rotate: false
+  xy: 928, 854
+  size: 83, 168
+  orig: 83, 168
+  offset: 0, 0
+  index: -1
+11
+  rotate: true
+  xy: 714, 154
+  size: 226, 155
+  orig: 226, 155
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 2, 583
+  size: 413, 439
+  orig: 413, 439
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 768, 382
+  size: 126, 279
+  orig: 126, 279
+  offset: 0, 0
+  index: -1
+14
+  rotate: true
+  xy: 417, 417
+  size: 244, 349
+  orig: 244, 349
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 2, 221
+  size: 371, 360
+  orig: 371, 360
+  offset: 0, 0
+  index: -1
+16
+  rotate: true
+  xy: 2, 23
+  size: 196, 354
+  orig: 196, 354
+  offset: 0, 0
+  index: -1
+17
+  rotate: false
+  xy: 423, 25
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+18
+  rotate: true
+  xy: 454, 63
+  size: 54, 94
+  orig: 54, 94
+  offset: 0, 0
+  index: -1
+19
+  rotate: false
+  xy: 1000, 751
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+1_1
+  rotate: false
+  xy: 1000, 779
+  size: 22, 33
+  orig: 22, 33
+  offset: 0, 0
+  index: -1
+1_2
+  rotate: false
+  xy: 1000, 704
+  size: 17, 23
+  orig: 17, 23
+  offset: 0, 0
+  index: -1
+1_3
+  rotate: true
+  xy: 175, 2
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1
+1_4
+  rotate: false
+  xy: 1000, 729
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+1_FIX
+  rotate: true
+  xy: 417, 837
+  size: 185, 509
+  orig: 185, 509
+  offset: 0, 0
+  index: -1
+20
+  rotate: true
+  xy: 550, 63
+  size: 54, 87
+  orig: 54, 87
+  offset: 0, 0
+  index: -1
+21_FIX
+  rotate: false
+  xy: 375, 119
+  size: 337, 296
+  orig: 337, 296
+  offset: 0, 0
+  index: -1
+2_FIX
+  rotate: true
+  xy: 787, 131
+  size: 21, 69
+  orig: 21, 69
+  offset: 0, 0
+  index: -1
+3_FIX
+  rotate: true
+  xy: 639, 84
+  size: 33, 60
+  orig: 33, 60
+  offset: 0, 0
+  index: -1
+4_FIX
+  rotate: true
+  xy: 714, 122
+  size: 30, 71
+  orig: 30, 71
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 358, 126
+  size: 16, 14
+  orig: 16, 14
+  offset: 0, 0
+  index: -1
+6_FIX
+  rotate: true
+  xy: 375, 487
+  size: 94, 35
+  orig: 94, 35
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 358, 55
+  size: 94, 62
+  orig: 94, 62
+  offset: 0, 0
+  index: -1
+8
+  rotate: true
+  xy: 417, 663
+  size: 172, 456
+  orig: 172, 456
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 871, 100
+  size: 138, 119
+  orig: 138, 119
+  offset: 0, 0
+  index: -1
+BASE_FACE
+  rotate: false
+  xy: 875, 703
+  size: 123, 132
+  orig: 123, 132
+  offset: 0, 0
+  index: -1
+BASE_FACE_L_EYE
+  rotate: true
+  xy: 1013, 974
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+BASE_FACE_L_EYE_1
+  rotate: true
+  xy: 412, 577
+  size: 4, 3
+  orig: 4, 3
+  offset: 0, 0
+  index: -1
+BASE_FACE_L_EYE_BACK
+  rotate: true
+  xy: 701, 99
+  size: 18, 10
+  orig: 18, 10
+  offset: 0, 0
+  index: -1
+BASE_FACE_L_EYE_BOW
+  rotate: true
+  xy: 1013, 984
+  size: 38, 9
+  orig: 38, 9
+  offset: 0, 0
+  index: -1
+BASE_FACE_L_EYE_COVER
+  rotate: false
+  xy: 896, 605
+  size: 27, 17
+  orig: 27, 17
+  offset: 0, 0
+  index: -1
+BASE_FACE_MOUTH
+  rotate: false
+  xy: 896, 624
+  size: 37, 14
+  orig: 37, 14
+  offset: 0, 0
+  index: -1
+BASE_FACE_R_EYE
+  rotate: true
+  xy: 858, 142
+  size: 10, 11
+  orig: 10, 11
+  offset: 0, 0
+  index: -1
+BASE_FACE_R_EYE_1
+  rotate: false
+  xy: 714, 382
+  size: 4, 3
+  orig: 4, 3
+  offset: 0, 0
+  index: -1
+BASE_FACE_R_EYE_BACK
+  rotate: true
+  xy: 1011, 192
+  size: 27, 11
+  orig: 27, 11
+  offset: 0, 0
+  index: -1
+BASE_FACE_R_EYE_BOW
+  rotate: false
+  xy: 2, 2
+  size: 55, 19
+  orig: 55, 19
+  offset: 0, 0
+  index: -1
+BASE_FACE_R_EYE_COVER
+  rotate: false
+  xy: 59, 2
+  size: 39, 19
+  orig: 39, 19
+  offset: 0, 0
+  index: -1
+EMOTION_DESPAIR_1
+  rotate: false
+  xy: 942, 676
+  size: 55, 25
+  orig: 55, 25
+  offset: 0, 0
+  index: -1
+EMOTION_DESPAIR_2
+  rotate: false
+  xy: 138, 2
+  size: 35, 19
+  orig: 35, 19
+  offset: 0, 0
+  index: -1
+EMOTION_DESPAIR_3
+  rotate: true
+  xy: 358, 144
+  size: 36, 15
+  orig: 36, 15
+  offset: 0, 0
+  index: -1
+EMOTION_HATE_3
+  rotate: true
+  xy: 358, 144
+  size: 36, 15
+  orig: 36, 15
+  offset: 0, 0
+  index: -1
+EMOTION_HATE_1
+  rotate: false
+  xy: 358, 24
+  size: 63, 29
+  orig: 63, 29
+  offset: 0, 0
+  index: -1
+EMOTION_HATE_2
+  rotate: false
+  xy: 896, 640
+  size: 41, 30
+  orig: 41, 30
+  offset: 0, 0
+  index: -1
+EMOTION_LAUGH_1
+  rotate: false
+  xy: 639, 57
+  size: 52, 25
+  orig: 52, 25
+  offset: 0, 0
+  index: -1
+EMOTION_LAUGH_2
+  rotate: false
+  xy: 202, 3
+  size: 35, 18
+  orig: 35, 18
+  offset: 0, 0
+  index: -1
+EMOTION_LAUGH_3
+  rotate: false
+  xy: 928, 837
+  size: 37, 15
+  orig: 37, 15
+  offset: 0, 0
+  index: -1
+EMOTION_PRIDE_1
+  rotate: false
+  xy: 714, 387
+  size: 52, 28
+  orig: 52, 28
+  offset: 0, 0
+  index: -1
+EMOTION_PRIDE_2
+  rotate: false
+  xy: 358, 2
+  size: 38, 20
+  orig: 38, 20
+  offset: 0, 0
+  index: -1
+EMOTION_PRIDE_3
+  rotate: true
+  xy: 358, 182
+  size: 37, 15
+  orig: 37, 15
+  offset: 0, 0
+  index: -1
+EMOTION_SERIOUS_1
+  rotate: true
+  xy: 375, 422
+  size: 63, 27
+  orig: 63, 27
+  offset: 0, 0
+  index: -1
+EMOTION_SERIOUS_2
+  rotate: false
+  xy: 398, 2
+  size: 37, 20
+  orig: 37, 20
+  offset: 0, 0
+  index: -1
+EMOTION_SERIOUS_3
+  rotate: false
+  xy: 100, 2
+  size: 36, 19
+  orig: 36, 19
+  offset: 0, 0
+  index: -1
+EMOTION_SURPRISE_1
+  rotate: false
+  xy: 875, 672
+  size: 65, 29
+  orig: 65, 29
+  offset: 0, 0
+  index: -1
+EMOTION_SURPRISE_2
+  rotate: true
+  xy: 1000, 814
+  size: 38, 22
+  orig: 38, 22
+  offset: 0, 0
+  index: -1
+EMOTION_SURPRISE_3
+  rotate: false
+  xy: 239, 5
+  size: 34, 16
+  orig: 34, 16
+  offset: 0, 0
+  index: -1
+EMOTION_SURPRISE_4
+  rotate: true
+  xy: 1011, 186
+  size: 4, 11
+  orig: 4, 11
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,76 @@
+
+UNIT_ILLUST_SD_CLB_003_2_MC.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_right
+  rotate: true
+  xy: 291, 177
+  size: 65, 157
+  orig: 65, 159
+  offset: 0, 1
+  index: -1
+body
+  rotate: false
+  xy: 1, 157
+  size: 289, 354
+  orig: 289, 354
+  offset: 0, 0
+  index: -1
+face1
+  rotate: false
+  xy: 1, 1
+  size: 67, 49
+  orig: 67, 49
+  offset: 0, 0
+  index: -1
+face2
+  rotate: false
+  xy: 69, 17
+  size: 112, 33
+  orig: 112, 33
+  offset: 0, 0
+  index: -1
+hand_right
+  rotate: false
+  xy: 291, 243
+  size: 103, 141
+  orig: 104, 141
+  offset: 1, 0
+  index: -1
+hat
+  rotate: false
+  xy: 1, 51
+  size: 198, 105
+  orig: 198, 105
+  offset: 0, 0
+  index: -1
+shock
+  rotate: false
+  xy: 414, 401
+  size: 94, 110
+  orig: 94, 110
+  offset: 0, 0
+  index: -1
+snot
+  rotate: false
+  xy: 305, 120
+  size: 77, 56
+  orig: 77, 56
+  offset: 0, 0
+  index: -1
+sweat
+  rotate: false
+  xy: 200, 21
+  size: 104, 135
+  orig: 104, 135
+  offset: 0, 0
+  index: -1
+zzz
+  rotate: false
+  xy: 291, 385
+  size: 122, 126
+  orig: 122, 126
+  offset: 0, 0
+  index: -1

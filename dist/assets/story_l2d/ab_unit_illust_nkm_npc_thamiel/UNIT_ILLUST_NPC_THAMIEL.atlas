@@ -1,0 +1,76 @@
+
+UNIT_ILLUST_NPC_THAMIEL.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BASE
+  rotate: true
+  xy: 0, 0
+  size: 980, 1322
+  orig: 980, 1322
+  offset: 0, 0
+  index: -1
+BASE_FACE
+  rotate: false
+  xy: 1322, 780
+  size: 98, 97
+  orig: 98, 97
+  offset: 0, 0
+  index: -1
+DESPAIR
+  rotate: true
+  xy: 1322, 509
+  size: 98, 59
+  orig: 98, 59
+  offset: 0, 0
+  index: -1
+FRONT
+  rotate: false
+  xy: 1322, 877
+  size: 102, 103
+  orig: 102, 103
+  offset: 0, 0
+  index: -1
+HATE
+  rotate: false
+  xy: 1712, 923
+  size: 96, 57
+  orig: 96, 57
+  offset: 0, 0
+  index: -1
+LAUGH
+  rotate: false
+  xy: 1618, 914
+  size: 94, 66
+  orig: 94, 66
+  offset: 0, 0
+  index: -1
+PRIDE
+  rotate: false
+  xy: 1322, 692
+  size: 97, 88
+  orig: 97, 88
+  offset: 0, 0
+  index: -1
+SERIOUS
+  rotate: false
+  xy: 1322, 607
+  size: 97, 85
+  orig: 97, 85
+  offset: 0, 0
+  index: -1
+SERIOUS2
+  rotate: false
+  xy: 1424, 886
+  size: 97, 94
+  orig: 97, 94
+  offset: 0, 0
+  index: -1
+SURPRISE
+  rotate: false
+  xy: 1521, 892
+  size: 97, 88
+  orig: 97, 88
+  offset: 0, 0
+  index: -1

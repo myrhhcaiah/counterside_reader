@@ -1,0 +1,230 @@
+
+UNIT_ILLUST_C_DELTA_JAKE_CASUAL.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry_0
+  rotate: false
+  xy: 887, 302
+  size: 78, 45
+  orig: 78, 45
+  offset: 0, 0
+  index: -1
+angry_1
+  rotate: true
+  xy: 972, 365
+  size: 32, 23
+  orig: 32, 23
+  offset: 0, 0
+  index: -1
+body_0
+  rotate: true
+  xy: 2, 255
+  size: 260, 523
+  orig: 260, 523
+  offset: 0, 0
+  index: -1
+body_80_1
+  rotate: true
+  xy: 783, 704
+  size: 318, 196
+  orig: 318, 196
+  offset: 0, 0
+  index: -1
+close_0
+  rotate: true
+  xy: 904, 222
+  size: 78, 45
+  orig: 78, 45
+  offset: 0, 0
+  index: -1
+dis_0
+  rotate: true
+  xy: 904, 222
+  size: 78, 45
+  orig: 78, 45
+  offset: 0, 0
+  index: -1
+dis_1
+  rotate: true
+  xy: 981, 811
+  size: 42, 36
+  orig: 42, 36
+  offset: 0, 0
+  index: -1
+dislike_0
+  rotate: false
+  xy: 517, 158
+  size: 142, 70
+  orig: 142, 70
+  offset: 0, 0
+  index: -1
+dislike_1
+  rotate: true
+  xy: 981, 762
+  size: 47, 28
+  orig: 47, 28
+  offset: 0, 0
+  index: -1
+glasses_0
+  rotate: true
+  xy: 460, 140
+  size: 113, 55
+  orig: 113, 55
+  offset: 0, 0
+  index: -1
+hair_0
+  rotate: false
+  xy: 732, 142
+  size: 170, 158
+  orig: 170, 158
+  offset: 0, 0
+  index: -1
+happy_0
+  rotate: true
+  xy: 661, 150
+  size: 78, 43
+  orig: 78, 43
+  offset: 0, 0
+  index: -1
+happy_1
+  rotate: true
+  xy: 469, 9
+  size: 49, 39
+  orig: 49, 39
+  offset: 0, 0
+  index: -1
+wink_1
+  rotate: true
+  xy: 469, 9
+  size: 49, 39
+  orig: 49, 39
+  offset: 0, 0
+  index: -1
+head_0
+  rotate: false
+  xy: 783, 517
+  size: 204, 185
+  orig: 204, 185
+  offset: 0, 0
+  index: -1
+l_arm_2
+  rotate: true
+  xy: 527, 230
+  size: 285, 203
+  orig: 285, 203
+  offset: 0, 0
+  index: -1
+l_arm_3
+  rotate: false
+  xy: 732, 302
+  size: 153, 213
+  orig: 153, 213
+  offset: 0, 0
+  index: -1
+l_arm_6
+  rotate: false
+  xy: 543, 536
+  size: 238, 486
+  orig: 238, 486
+  offset: 0, 0
+  index: -1
+leg_0050_0
+  rotate: false
+  xy: 2, 517
+  size: 539, 505
+  orig: 539, 505
+  offset: 0, 0
+  index: -1
+normal_0
+  rotate: false
+  xy: 517, 113
+  size: 78, 43
+  orig: 78, 43
+  offset: 0, 0
+  index: -1
+normal_1
+  rotate: false
+  xy: 597, 119
+  size: 48, 37
+  orig: 48, 37
+  offset: 0, 0
+  index: -1
+pride_0
+  rotate: true
+  xy: 904, 142
+  size: 78, 45
+  orig: 78, 45
+  offset: 0, 0
+  index: -1
+pride_1
+  rotate: true
+  xy: 981, 905
+  size: 49, 39
+  orig: 49, 39
+  offset: 0, 0
+  index: -1
+r_arm_60_0
+  rotate: false
+  xy: 2, 8
+  size: 364, 125
+  orig: 364, 125
+  offset: 0, 0
+  index: -1
+r_arm_60_1
+  rotate: true
+  xy: 2, 135
+  size: 118, 456
+  orig: 118, 456
+  offset: 0, 0
+  index: -1
+r_arm_60_2
+  rotate: true
+  xy: 887, 399
+  size: 116, 112
+  orig: 116, 112
+  offset: 0, 0
+  index: -1
+ser_0
+  rotate: true
+  xy: 469, 60
+  size: 78, 45
+  orig: 78, 45
+  offset: 0, 0
+  index: -1
+ser_1
+  rotate: true
+  xy: 981, 855
+  size: 48, 37
+  orig: 48, 37
+  offset: 0, 0
+  index: -1
+surp_0
+  rotate: false
+  xy: 887, 349
+  size: 83, 48
+  orig: 83, 48
+  offset: 0, 0
+  index: -1
+surp_1
+  rotate: true
+  xy: 981, 956
+  size: 66, 40
+  orig: 66, 40
+  offset: 0, 0
+  index: -1
+tie_r60_0
+  rotate: false
+  xy: 368, 2
+  size: 99, 131
+  orig: 99, 131
+  offset: 0, 0
+  index: -1
+wink_0
+  rotate: false
+  xy: 516, 68
+  size: 77, 43
+  orig: 77, 43
+  offset: 0, 0
+  index: -1

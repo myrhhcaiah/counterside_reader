@@ -1,0 +1,174 @@
+
+UNIT_ILLUST_M_FOX_ANTIAIR.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 809
+  size: 910, 211
+  orig: 910, 211
+  offset: 0, 0
+  index: -1
+body_lighting
+  rotate: true
+  xy: 996, 940
+  size: 44, 14
+  orig: 44, 14
+  offset: 0, 0
+  index: -1
+body_thing_2
+  rotate: false
+  xy: 549, 134
+  size: 433, 76
+  orig: 433, 76
+  offset: 0, 0
+  index: -1
+body_thing_l
+  rotate: true
+  xy: 712, 299
+  size: 335, 156
+  orig: 335, 156
+  offset: 0, 0
+  index: -1
+body_thing_l_lighting
+  rotate: false
+  xy: 996, 986
+  size: 26, 34
+  orig: 26, 34
+  offset: 0, 0
+  index: -1
+body_thing_r
+  rotate: false
+  xy: 2, 380
+  size: 708, 191
+  orig: 708, 191
+  offset: 0, 0
+  index: -1
+body_thing_r_lighting
+  rotate: false
+  xy: 971, 309
+  size: 27, 36
+  orig: 27, 36
+  offset: 0, 0
+  index: -1
+canon_01
+  rotate: false
+  xy: 542, 61
+  size: 430, 71
+  orig: 430, 71
+  offset: 0, 0
+  index: -1
+canon_02
+  rotate: true
+  xy: 870, 224
+  size: 410, 99
+  orig: 410, 99
+  offset: 0, 0
+  index: -1
+canon_cover_back
+  rotate: true
+  xy: 668, 219
+  size: 70, 65
+  orig: 70, 65
+  offset: 0, 0
+  index: -1
+canon_cover_front
+  rotate: true
+  xy: 914, 880
+  size: 140, 80
+  orig: 140, 80
+  offset: 0, 0
+  index: -1
+canon_thing
+  rotate: true
+  xy: 680, 311
+  size: 67, 23
+  orig: 67, 23
+  offset: 0, 0
+  index: -1
+cover_back
+  rotate: true
+  xy: 971, 525
+  size: 109, 48
+  orig: 109, 48
+  offset: 0, 0
+  index: -1
+cover_l
+  rotate: false
+  xy: 444, 2
+  size: 73, 56
+  orig: 73, 56
+  offset: 0, 0
+  index: -1
+cover_l_shadow
+  rotate: false
+  xy: 914, 815
+  size: 73, 63
+  orig: 73, 63
+  offset: 0, 0
+  index: -1
+cover_r
+  rotate: false
+  xy: 549, 212
+  size: 117, 77
+  orig: 117, 77
+  offset: 0, 0
+  index: -1
+cover_r_shadow
+  rotate: false
+  xy: 549, 291
+  size: 129, 87
+  orig: 129, 87
+  offset: 0, 0
+  index: -1
+head_l
+  rotate: false
+  xy: 704, 636
+  size: 308, 171
+  orig: 308, 171
+  offset: 0, 0
+  index: -1
+head_r
+  rotate: false
+  xy: 2, 193
+  size: 545, 185
+  orig: 545, 185
+  offset: 0, 0
+  index: -1
+thing_01
+  rotate: true
+  xy: 444, 60
+  size: 131, 96
+  orig: 131, 96
+  offset: 0, 0
+  index: -1
+thing_back
+  rotate: false
+  xy: 971, 347
+  size: 46, 78
+  orig: 46, 78
+  offset: 0, 0
+  index: -1
+thing_cover
+  rotate: false
+  xy: 971, 427
+  size: 41, 96
+  orig: 41, 96
+  offset: 0, 0
+  index: -1
+wheel_l
+  rotate: false
+  xy: 2, 39
+  size: 440, 152
+  orig: 440, 152
+  offset: 0, 0
+  index: -1
+wheel_r
+  rotate: false
+  xy: 2, 573
+  size: 700, 234
+  orig: 700, 234
+  offset: 0, 0
+  index: -1

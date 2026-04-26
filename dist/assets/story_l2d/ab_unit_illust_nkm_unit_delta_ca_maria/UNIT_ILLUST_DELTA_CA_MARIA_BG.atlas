@@ -1,0 +1,34 @@
+
+UNIT_ILLUST_DELTA_CA_MARIA_BG.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_1
+  rotate: false
+  xy: 2, 17
+  size: 180, 476
+  orig: 180, 476
+  offset: 0, 0
+  index: -1
+bg_2
+  rotate: true
+  xy: 184, 2
+  size: 138, 308
+  orig: 138, 308
+  offset: 0, 0
+  index: -1
+bg_3
+  rotate: true
+  xy: 306, 156
+  size: 337, 119
+  orig: 337, 119
+  offset: 0, 0
+  index: -1
+bg_4
+  rotate: false
+  xy: 184, 142
+  size: 120, 351
+  orig: 120, 351
+  offset: 0, 0
+  index: -1

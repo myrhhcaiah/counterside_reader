@@ -1,0 +1,118 @@
+
+UNIT_ILLUST_NPC_BOSS_BASIC_MAGELLAN.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BASE_FACE
+  rotate: false
+  xy: 727, 73
+  size: 102, 83
+  orig: 102, 83
+  offset: 0, 0
+  index: -1
+DESPAIR
+  rotate: true
+  xy: 433, 2
+  size: 102, 85
+  orig: 102, 85
+  offset: 0, 0
+  index: -1
+HATE
+  rotate: false
+  xy: 611, 125
+  size: 114, 118
+  orig: 114, 118
+  offset: 0, 0
+  index: -1
+LAUGH
+  rotate: true
+  xy: 520, 2
+  size: 102, 85
+  orig: 102, 85
+  offset: 0, 0
+  index: -1
+PRIDE
+  rotate: true
+  xy: 607, 2
+  size: 102, 85
+  orig: 102, 85
+  offset: 0, 0
+  index: -1
+SERIOUS
+  rotate: false
+  xy: 727, 158
+  size: 102, 85
+  orig: 102, 85
+  offset: 0, 0
+  index: -1
+SURPRISE
+  rotate: true
+  xy: 341, 2
+  size: 102, 90
+  orig: 102, 90
+  offset: 0, 0
+  index: -1
+boay_ac
+  rotate: false
+  xy: 712, 245
+  size: 157, 777
+  orig: 157, 777
+  offset: 0, 0
+  index: -1
+boay_ac1
+  rotate: false
+  xy: 871, 231
+  size: 91, 791
+  orig: 91, 791
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 529
+  size: 478, 493
+  orig: 478, 493
+  offset: 0, 0
+  index: -1
+body_ac_2
+  rotate: false
+  xy: 454, 275
+  size: 184, 252
+  orig: 184, 252
+  offset: 0, 0
+  index: -1
+glass
+  rotate: true
+  xy: 964, 898
+  size: 124, 28
+  orig: 124, 28
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 454, 106
+  size: 155, 167
+  orig: 155, 167
+  offset: 0, 0
+  index: -1
+left_arm
+  rotate: false
+  xy: 2, 44
+  size: 337, 483
+  orig: 337, 483
+  offset: 0, 0
+  index: -1
+leg
+  rotate: true
+  xy: 341, 106
+  size: 421, 111
+  orig: 421, 111
+  offset: 0, 0
+  index: -1
+right_arm
+  rotate: false
+  xy: 482, 548
+  size: 228, 474
+  orig: 228, 474
+  offset: 0, 0
+  index: -1

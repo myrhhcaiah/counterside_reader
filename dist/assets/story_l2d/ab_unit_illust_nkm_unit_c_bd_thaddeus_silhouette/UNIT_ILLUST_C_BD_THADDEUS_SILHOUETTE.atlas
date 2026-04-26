@@ -1,0 +1,13 @@
+
+UNIT_ILLUST_C_BD_THADDEUS_SILHOUETTE.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_1
+  rotate: true
+  xy: 2, 2
+  size: 477, 1006
+  orig: 477, 1006
+  offset: 0, 0
+  index: -1

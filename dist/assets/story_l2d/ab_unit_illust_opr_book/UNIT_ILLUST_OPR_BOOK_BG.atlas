@@ -1,0 +1,55 @@
+
+UNIT_ILLUST_OPR_BOOK_BG.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_1
+  rotate: false
+  xy: 297, 584
+  size: 408, 415
+  orig: 408, 415
+  offset: 0, 0
+  index: -1
+bg_2
+  rotate: true
+  xy: 260, 8
+  size: 121, 169
+  orig: 121, 169
+  offset: 0, 0
+  index: -1
+bg_3
+  rotate: true
+  xy: 2, 2
+  size: 162, 256
+  orig: 162, 256
+  offset: 0, 0
+  index: -1
+bg_4
+  rotate: false
+  xy: 2, 166
+  size: 293, 833
+  orig: 293, 833
+  offset: 0, 0
+  index: -1
+bg_5
+  rotate: false
+  xy: 297, 131
+  size: 322, 451
+  orig: 322, 451
+  offset: 0, 0
+  index: -1
+bg_6
+  rotate: true
+  xy: 707, 513
+  size: 486, 291
+  orig: 486, 291
+  offset: 0, 0
+  index: -1
+bg_7
+  rotate: false
+  xy: 621, 215
+  size: 284, 296
+  orig: 284, 296
+  offset: 0, 0
+  index: -1

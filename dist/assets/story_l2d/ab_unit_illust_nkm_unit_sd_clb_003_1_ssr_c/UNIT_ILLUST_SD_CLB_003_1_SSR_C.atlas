@@ -1,0 +1,174 @@
+
+UNIT_ILLUST_SD_CLB_003_1_SSR_C.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+b_hair
+  rotate: false
+  xy: 2, 84
+  size: 289, 213
+  orig: 302, 214
+  offset: 12, 1
+  index: -1
+body
+  rotate: false
+  xy: 2, 299
+  size: 305, 211
+  orig: 306, 212
+  offset: 0, 1
+  index: -1
+body_back
+  rotate: true
+  xy: 607, 57
+  size: 142, 77
+  orig: 142, 77
+  offset: 0, 0
+  index: -1
+body_left_arm
+  rotate: true
+  xy: 304, 25
+  size: 67, 117
+  orig: 68, 118
+  offset: 0, 1
+  index: -1
+body_left_arm_a
+  rotate: false
+  xy: 686, 24
+  size: 140, 124
+  orig: 140, 124
+  offset: 0, 0
+  index: -1
+body_left_arm_b
+  rotate: false
+  xy: 786, 322
+  size: 196, 188
+  orig: 197, 188
+  offset: 0, 0
+  index: -1
+body_left_hand
+  rotate: false
+  xy: 889, 21
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+body_right_arm
+  rotate: true
+  xy: 293, 94
+  size: 136, 155
+  orig: 136, 156
+  offset: 0, 1
+  index: -1
+body_right_hand
+  rotate: true
+  xy: 724, 308
+  size: 50, 53
+  orig: 51, 54
+  offset: 0, 1
+  index: -1
+cup
+  rotate: true
+  xy: 984, 439
+  size: 71, 35
+  orig: 72, 35
+  offset: 0, 0
+  index: -1
+f_hair
+  rotate: false
+  xy: 509, 201
+  size: 175, 103
+  orig: 175, 104
+  offset: 0, 1
+  index: -1
+face_a
+  rotate: true
+  xy: 686, 150
+  size: 154, 92
+  orig: 155, 92
+  offset: 0, 0
+  index: -1
+face_b
+  rotate: true
+  xy: 908, 170
+  size: 150, 92
+  orig: 151, 92
+  offset: 0, 0
+  index: -1
+face_c
+  rotate: false
+  xy: 828, 69
+  size: 154, 99
+  orig: 155, 100
+  offset: 0, 1
+  index: -1
+face_d
+  rotate: false
+  xy: 450, 91
+  size: 155, 108
+  orig: 155, 108
+  offset: 0, 0
+  index: -1
+hair_ac
+  rotate: false
+  xy: 539, 360
+  size: 245, 150
+  orig: 246, 151
+  offset: 0, 1
+  index: -1
+head
+  rotate: false
+  xy: 309, 333
+  size: 228, 177
+  orig: 228, 177
+  offset: 0, 0
+  index: -1
+l_hair
+  rotate: true
+  xy: 2, 6
+  size: 76, 189
+  orig: 76, 189
+  offset: 0, 0
+  index: -1
+left_leg
+  rotate: true
+  xy: 193, 11
+  size: 71, 109
+  orig: 72, 110
+  offset: 0, 1
+  index: -1
+mask
+  rotate: false
+  xy: 780, 170
+  size: 126, 150
+  orig: 126, 151
+  offset: 0, 1
+  index: -1
+r_hair
+  rotate: true
+  xy: 539, 306
+  size: 52, 183
+  orig: 53, 183
+  offset: 0, 0
+  index: -1
+red
+  rotate: false
+  xy: 309, 232
+  size: 198, 99
+  orig: 199, 100
+  offset: 0, 1
+  index: -1
+right_leg
+  rotate: true
+  xy: 423, 18
+  size: 71, 113
+  orig: 72, 114
+  offset: 0, 1
+  index: -1
+snow
+  rotate: false
+  xy: 828, 2
+  size: 59, 65
+  orig: 60, 66
+  offset: 0, 1
+  index: -1

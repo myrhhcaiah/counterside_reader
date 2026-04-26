@@ -1,0 +1,272 @@
+
+NPC_MAID_S_LEADER_MASK.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+10
+  rotate: false
+  xy: 826, 69
+  size: 192, 78
+  orig: 192, 78
+  offset: 0, 0
+  index: -1
+11
+  rotate: true
+  xy: 1959, 511
+  size: 111, 58
+  orig: 111, 58
+  offset: 0, 0
+  index: -1
+12_fix
+  rotate: true
+  xy: 477, 46
+  size: 101, 348
+  orig: 101, 348
+  offset: 0, 0
+  index: -1
+13_fix
+  rotate: false
+  xy: 1308, 594
+  size: 346, 169
+  orig: 346, 169
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 1069, 764
+  size: 635, 259
+  orig: 635, 259
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 1023, 154
+  size: 45, 71
+  orig: 45, 71
+  offset: 0, 0
+  index: -1
+16_1_fix
+  rotate: false
+  xy: 1960, 686
+  size: 68, 173
+  orig: 68, 173
+  offset: 0, 0
+  index: -1
+16_fix
+  rotate: false
+  xy: 1, 356
+  size: 1067, 667
+  orig: 1067, 667
+  offset: 0, 0
+  index: -1
+17
+  rotate: false
+  xy: 1193, 200
+  size: 86, 116
+  orig: 86, 116
+  offset: 0, 0
+  index: -1
+17_2
+  rotate: false
+  xy: 1960, 623
+  size: 87, 62
+  orig: 87, 62
+  offset: 0, 0
+  index: -1
+18_fix
+  rotate: false
+  xy: 1069, 456
+  size: 238, 307
+  orig: 238, 307
+  offset: 0, 0
+  index: -1
+19_fix
+  rotate: true
+  xy: 477, 1
+  size: 44, 167
+  orig: 44, 167
+  offset: 0, 0
+  index: -1
+20_1
+  rotate: true
+  xy: 1904, 442
+  size: 33, 47
+  orig: 33, 47
+  offset: 0, 0
+  index: -1
+20_2
+  rotate: false
+  xy: 1432, 257
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+20_3
+  rotate: false
+  xy: 2018, 588
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+20_4
+  rotate: false
+  xy: 1404, 213
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1
+20_fix
+  rotate: true
+  xy: 1, 26
+  size: 121, 475
+  orig: 121, 475
+  offset: 0, 0
+  index: -1
+21
+  rotate: true
+  xy: 1308, 454
+  size: 139, 347
+  orig: 139, 347
+  offset: 0, 0
+  index: -1
+22_fix
+  rotate: true
+  xy: 1705, 860
+  size: 163, 325
+  orig: 163, 325
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 949, 22
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+3_1
+  rotate: false
+  xy: 645, 4
+  size: 47, 41
+  orig: 47, 41
+  offset: 0, 0
+  index: -1
+3_2
+  rotate: true
+  xy: 1655, 709
+  size: 54, 40
+  orig: 54, 40
+  offset: 0, 0
+  index: -1
+3_3
+  rotate: true
+  xy: 1622, 380
+  size: 73, 33
+  orig: 73, 33
+  offset: 0, 0
+  index: -1
+4_fix
+  rotate: true
+  xy: 1, 148
+  size: 207, 1021
+  orig: 207, 1021
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 1904, 476
+  size: 54, 187
+  orig: 54, 187
+  offset: 0, 0
+  index: -1
+6_fix
+  rotate: true
+  xy: 1280, 244
+  size: 49, 151
+  orig: 49, 151
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 1023, 226
+  size: 45, 129
+  orig: 45, 129
+  offset: 0, 0
+  index: -1
+8
+  rotate: true
+  xy: 1656, 438
+  size: 225, 247
+  orig: 225, 247
+  offset: 0, 0
+  index: -1
+8_1
+  rotate: false
+  xy: 1069, 317
+  size: 219, 138
+  orig: 219, 138
+  offset: 0, 0
+  index: -1
+8_1_shadow
+  rotate: false
+  xy: 1069, 317
+  size: 219, 138
+  orig: 219, 138
+  offset: 0, 0
+  index: -1
+9
+  rotate: true
+  xy: 1069, 220
+  size: 96, 123
+  orig: 96, 123
+  offset: 0, 0
+  index: -1
+9_1
+  rotate: true
+  xy: 1280, 172
+  size: 71, 123
+  orig: 71, 123
+  offset: 0, 0
+  index: -1
+9_2
+  rotate: true
+  xy: 826, 1
+  size: 67, 122
+  orig: 67, 122
+  offset: 0, 0
+  index: -1
+EMOTION_DESPAIR_4
+  rotate: false
+  xy: 1, 7
+  size: 5, 18
+  orig: 5, 18
+  offset: 0, 0
+  index: -1
+EMOTION_HATE_4
+  rotate: false
+  xy: 1, 7
+  size: 5, 18
+  orig: 5, 18
+  offset: 0, 0
+  index: -1
+MAKK_01
+  rotate: true
+  xy: 1705, 664
+  size: 195, 254
+  orig: 195, 254
+  offset: 0, 0
+  index: -1
+MAKK_02
+  rotate: false
+  xy: 1494, 301
+  size: 127, 152
+  orig: 127, 152
+  offset: 0, 0
+  index: -1
+MAKK_03
+  rotate: true
+  xy: 1289, 294
+  size: 159, 204
+  orig: 159, 204
+  offset: 0, 0
+  index: -1

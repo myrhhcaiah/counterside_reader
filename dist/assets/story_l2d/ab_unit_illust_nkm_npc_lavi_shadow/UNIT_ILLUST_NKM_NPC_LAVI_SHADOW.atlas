@@ -1,0 +1,13 @@
+
+UNIT_ILLUST_NKM_NPC_LAVI_SHADOW.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 0, 0
+  size: 503, 1005
+  orig: 503, 1005
+  offset: 0, 0
+  index: -1

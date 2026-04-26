@@ -1,0 +1,76 @@
+
+UNIT_ILLUST_NPC_SIXWING_UMBRELLA.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_1
+  rotate: false
+  xy: 2, 83
+  size: 811, 928
+  orig: 811, 928
+  offset: 0, 0
+  index: -1
+body_2
+  rotate: false
+  xy: 815, 493
+  size: 140, 518
+  orig: 140, 518
+  offset: 0, 0
+  index: -1
+body_3
+  rotate: false
+  xy: 815, 274
+  size: 200, 217
+  orig: 200, 217
+  offset: 0, 0
+  index: -1
+despair
+  rotate: false
+  xy: 918, 201
+  size: 97, 71
+  orig: 97, 71
+  offset: 0, 0
+  index: -1
+hate
+  rotate: false
+  xy: 308, 13
+  size: 102, 68
+  orig: 102, 68
+  offset: 0, 0
+  index: -1
+idle
+  rotate: false
+  xy: 815, 195
+  size: 101, 77
+  orig: 101, 77
+  offset: 0, 0
+  index: -1
+laugh
+  rotate: false
+  xy: 2, 2
+  size: 101, 79
+  orig: 101, 79
+  offset: 0, 0
+  index: -1
+pride
+  rotate: false
+  xy: 208, 6
+  size: 98, 75
+  orig: 98, 75
+  offset: 0, 0
+  index: -1
+serious
+  rotate: false
+  xy: 815, 116
+  size: 100, 77
+  orig: 100, 77
+  offset: 0, 0
+  index: -1
+surprise
+  rotate: false
+  xy: 105, 4
+  size: 101, 77
+  orig: 101, 77
+  offset: 0, 0
+  index: -1

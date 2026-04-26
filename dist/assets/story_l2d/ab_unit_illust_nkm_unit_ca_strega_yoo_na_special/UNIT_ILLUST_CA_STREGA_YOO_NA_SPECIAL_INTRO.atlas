@@ -1,0 +1,104 @@
+
+UNIT_ILLUST_CA_STREGA_YOO_NA_SPECIAL_INTRO.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+intro_fether_1
+  rotate: true
+  xy: 390, 43
+  size: 47, 124
+  orig: 47, 124
+  offset: 0, 0
+  index: -1
+intro_fether_2
+  rotate: false
+  xy: 553, 75
+  size: 87, 61
+  orig: 87, 61
+  offset: 0, 0
+  index: -1
+intro_fether_3
+  rotate: true
+  xy: 2, 2
+  size: 34, 107
+  orig: 34, 107
+  offset: 0, 0
+  index: -1
+intro_fether_4
+  rotate: false
+  xy: 821, 119
+  size: 91, 34
+  orig: 91, 34
+  offset: 0, 0
+  index: -1
+intro_fether_5
+  rotate: false
+  xy: 642, 58
+  size: 48, 78
+  orig: 48, 78
+  offset: 0, 0
+  index: -1
+intro_light_1
+  rotate: true
+  xy: 2, 92
+  size: 172, 549
+  orig: 172, 549
+  offset: 0, 0
+  index: -1
+intro_light_2
+  rotate: true
+  xy: 2, 266
+  size: 193, 549
+  orig: 193, 549
+  offset: 0, 0
+  index: -1
+intro_light_3
+  rotate: true
+  xy: 929, 168
+  size: 105, 53
+  orig: 105, 53
+  offset: 0, 0
+  index: -1
+intro_light_4
+  rotate: true
+  xy: 2, 38
+  size: 52, 386
+  orig: 52, 386
+  offset: 0, 0
+  index: -1
+intro_light_5
+  rotate: false
+  xy: 712, 111
+  size: 107, 348
+  orig: 107, 348
+  offset: 0, 0
+  index: -1
+intro_light_6
+  rotate: true
+  xy: 929, 275
+  size: 184, 72
+  orig: 184, 72
+  offset: 0, 0
+  index: -1
+intro_light_7
+  rotate: false
+  xy: 553, 138
+  size: 157, 321
+  orig: 157, 321
+  offset: 0, 0
+  index: -1
+intro_light_8
+  rotate: false
+  xy: 821, 155
+  size: 106, 304
+  orig: 106, 304
+  offset: 0, 0
+  index: -1
+intro_sky
+  rotate: false
+  xy: 2, 461
+  size: 975, 549
+  orig: 975, 549
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,419 @@
+
+UNIT_ILLUST_S_ORCA_JESSICA.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DESPAIR
+  rotate: false
+  xy: 729, 116
+  size: 92, 85
+  orig: 92, 85
+  offset: 0, 0
+  index: -1
+HATE
+  rotate: true
+  xy: 933, 698
+  size: 91, 89
+  orig: 91, 89
+  offset: 0, 0
+  index: -1
+LAUGH
+  rotate: false
+  xy: 823, 119
+  size: 94, 86
+  orig: 94, 86
+  offset: 0, 0
+  index: -1
+PRIDE
+  rotate: false
+  xy: 729, 203
+  size: 92, 94
+  orig: 92, 94
+  offset: 0, 0
+  index: -1
+SERIOUS
+  rotate: true
+  xy: 933, 604
+  size: 92, 87
+  orig: 92, 87
+  offset: 0, 0
+  index: -1
+SURPRISE
+  rotate: false
+  xy: 823, 207
+  size: 91, 90
+  orig: 91, 90
+  offset: 0, 0
+  index: -1
+TOUCH
+  rotate: false
+  xy: 931, 929
+  size: 91, 93
+  orig: 91, 93
+  offset: 0, 0
+  index: -1
+arm_left
+  rotate: true
+  xy: 488, 437
+  size: 76, 211
+  orig: 76, 211
+  offset: 0, 0
+  index: -1
+arm_right
+  rotate: true
+  xy: 229, 317
+  size: 109, 266
+  orig: 109, 266
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 619
+  size: 279, 403
+  orig: 279, 403
+  offset: 0, 0
+  index: -1
+br
+  rotate: false
+  xy: 283, 601
+  size: 266, 163
+  orig: 266, 163
+  offset: 0, 0
+  index: -1
+eye_left_2
+  rotate: false
+  xy: 690, 301
+  size: 47, 35
+  orig: 47, 35
+  offset: 0, 0
+  index: -1
+eye_right_2
+  rotate: false
+  xy: 324, 47
+  size: 30, 27
+  orig: 30, 27
+  offset: 0, 0
+  index: -1
+eyeback_left
+  rotate: true
+  xy: 438, 2
+  size: 38, 28
+  orig: 38, 28
+  offset: 0, 0
+  index: -1
+eyeback_right
+  rotate: false
+  xy: 520, 770
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+eyeball_left
+  rotate: true
+  xy: 260, 601
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+eyeball_right
+  rotate: false
+  xy: 701, 437
+  size: 12, 14
+  orig: 12, 14
+  offset: 0, 0
+  index: -1
+eyebrow_left
+  rotate: false
+  xy: 701, 479
+  size: 60, 34
+  orig: 60, 34
+  offset: 0, 0
+  index: -1
+eyebrow_right
+  rotate: false
+  xy: 229, 601
+  size: 29, 16
+  orig: 29, 16
+  offset: 0, 0
+  index: -1
+eyeup_left
+  rotate: false
+  xy: 138, 12
+  size: 44, 24
+  orig: 44, 24
+  offset: 0, 0
+  index: -1
+eyeup_right
+  rotate: false
+  xy: 184, 2
+  size: 27, 19
+  orig: 27, 19
+  offset: 0, 0
+  index: -1
+finger_right_1
+  rotate: false
+  xy: 933, 444
+  size: 78, 44
+  orig: 78, 44
+  offset: 0, 0
+  index: -1
+finger_right_2
+  rotate: false
+  xy: 384, 2
+  size: 52, 38
+  orig: 52, 38
+  offset: 0, 0
+  index: -1
+finger_right_2_2
+  rotate: false
+  xy: 213, 2
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+finger_right_3
+  rotate: false
+  xy: 764, 542
+  size: 28, 49
+  orig: 28, 49
+  offset: 0, 0
+  index: -1
+finger_right_4
+  rotate: true
+  xy: 701, 453
+  size: 24, 50
+  orig: 24, 50
+  offset: 0, 0
+  index: -1
+finger_right_5
+  rotate: false
+  xy: 903, 31
+  size: 22, 33
+  orig: 22, 33
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 488, 115
+  size: 160, 165
+  orig: 160, 165
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: true
+  xy: 520, 796
+  size: 145, 309
+  orig: 145, 309
+  offset: 0, 0
+  index: -1
+hair_left
+  rotate: false
+  xy: 650, 123
+  size: 77, 157
+  orig: 77, 157
+  offset: 0, 0
+  index: -1
+hair_right_1
+  rotate: false
+  xy: 831, 784
+  size: 88, 157
+  orig: 88, 157
+  offset: 0, 0
+  index: -1
+hair_right_2
+  rotate: true
+  xy: 188, 23
+  size: 51, 134
+  orig: 51, 134
+  offset: 0, 0
+  index: -1
+hand_left
+  rotate: true
+  xy: 921, 791
+  size: 136, 88
+  orig: 136, 88
+  offset: 0, 0
+  index: -1
+head_1
+  rotate: false
+  xy: 794, 607
+  size: 137, 175
+  orig: 137, 175
+  offset: 0, 0
+  index: -1
+head_2
+  rotate: false
+  xy: 794, 430
+  size: 137, 175
+  orig: 137, 175
+  offset: 0, 0
+  index: -1
+leg_left
+  rotate: false
+  xy: 283, 766
+  size: 235, 256
+  orig: 235, 256
+  offset: 0, 0
+  index: -1
+leg_right
+  rotate: false
+  xy: 2, 38
+  size: 184, 278
+  orig: 184, 278
+  offset: 0, 0
+  index: -1
+mouth_down
+  rotate: false
+  xy: 764, 527
+  size: 21, 13
+  orig: 21, 13
+  offset: 0, 0
+  index: -1
+mouth_inner
+  rotate: true
+  xy: 468, 20
+  size: 20, 13
+  orig: 20, 13
+  offset: 0, 0
+  index: -1
+mouth_up
+  rotate: true
+  xy: 1011, 900
+  size: 27, 11
+  orig: 27, 11
+  offset: 0, 0
+  index: -1
+neck
+  rotate: true
+  xy: 751, 299
+  size: 129, 173
+  orig: 129, 173
+  offset: 0, 0
+  index: -1
+nose
+  rotate: false
+  xy: 903, 66
+  size: 20, 51
+  orig: 20, 51
+  offset: 0, 0
+  index: -1
+pelvis
+  rotate: true
+  xy: 2, 318
+  size: 299, 225
+  orig: 299, 225
+  offset: 0, 0
+  index: -1
+pocket_left_1
+  rotate: false
+  xy: 790, 3
+  size: 58, 111
+  orig: 58, 111
+  offset: 0, 0
+  index: -1
+pocket_left_1_cover
+  rotate: true
+  xy: 324, 2
+  size: 38, 58
+  orig: 38, 58
+  offset: 0, 0
+  index: -1
+pocket_left_2
+  rotate: false
+  xy: 933, 490
+  size: 87, 112
+  orig: 87, 112
+  offset: 0, 0
+  index: -1
+pocket_left_3
+  rotate: false
+  xy: 710, 9
+  size: 78, 105
+  orig: 78, 105
+  offset: 0, 0
+  index: -1
+pocket_left_4
+  rotate: false
+  xy: 850, 14
+  size: 51, 103
+  orig: 51, 103
+  offset: 0, 0
+  index: -1
+pocket_right
+  rotate: false
+  xy: 664, 2
+  size: 44, 119
+  orig: 44, 119
+  offset: 0, 0
+  index: -1
+shoulder_belt_left
+  rotate: true
+  xy: 497, 282
+  size: 54, 191
+  orig: 54, 191
+  offset: 0, 0
+  index: -1
+shoulder_belt_right
+  rotate: false
+  xy: 2, 10
+  size: 134, 26
+  orig: 134, 26
+  offset: 0, 0
+  index: -1
+shoulder_left
+  rotate: false
+  xy: 497, 338
+  size: 252, 97
+  orig: 252, 97
+  offset: 0, 0
+  index: -1
+shoulder_right
+  rotate: false
+  xy: 488, 515
+  size: 274, 76
+  orig: 274, 76
+  offset: 0, 0
+  index: -1
+tigh_left
+  rotate: true
+  xy: 551, 593
+  size: 201, 241
+  orig: 201, 241
+  offset: 0, 0
+  index: -1
+tigh_right
+  rotate: false
+  xy: 188, 76
+  size: 166, 239
+  orig: 166, 239
+  offset: 0, 0
+  index: -1
+tigh_right_pocket
+  rotate: true
+  xy: 488, 35
+  size: 78, 174
+  orig: 78, 174
+  offset: 0, 0
+  index: -1
+weapon_2
+  rotate: false
+  xy: 229, 428
+  size: 257, 171
+  orig: 257, 171
+  offset: 0, 0
+  index: -1
+weapon_3
+  rotate: true
+  xy: 356, 42
+  size: 273, 130
+  orig: 273, 130
+  offset: 0, 0
+  index: -1
+wepon_1
+  rotate: false
+  xy: 520, 943
+  size: 409, 79
+  orig: 409, 79
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,293 @@
+
+UNIT_ILLUST_M_ADMIN_CANNON.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_lighting_01
+  rotate: false
+  xy: 954, 646
+  size: 57, 41
+  orig: 57, 41
+  offset: 0, 0
+  index: -1
+body_lighting_02
+  rotate: false
+  xy: 379, 110
+  size: 49, 34
+  orig: 49, 34
+  offset: 0, 0
+  index: -1
+body_lighting_03
+  rotate: false
+  xy: 2, 2
+  size: 20, 15
+  orig: 20, 15
+  offset: 0, 0
+  index: -1
+body_no_shadow
+  rotate: false
+  xy: 2, 596
+  size: 797, 426
+  orig: 797, 426
+  offset: 0, 0
+  index: -1
+box_01
+  rotate: false
+  xy: 719, 151
+  size: 153, 131
+  orig: 153, 131
+  offset: 0, 0
+  index: -1
+canon_01
+  rotate: true
+  xy: 874, 146
+  size: 136, 53
+  orig: 136, 53
+  offset: 0, 0
+  index: -1
+canon_02
+  rotate: false
+  xy: 2, 498
+  size: 616, 96
+  orig: 616, 96
+  offset: 0, 0
+  index: -1
+canon_cover_01
+  rotate: false
+  xy: 620, 519
+  size: 157, 75
+  orig: 157, 75
+  offset: 0, 0
+  index: -1
+canon_cover_02
+  rotate: false
+  xy: 2, 19
+  size: 127, 35
+  orig: 127, 35
+  offset: 0, 0
+  index: -1
+canon_cover_03
+  rotate: false
+  xy: 131, 30
+  size: 31, 24
+  orig: 31, 24
+  offset: 0, 0
+  index: -1
+canon_cover_04
+  rotate: true
+  xy: 779, 544
+  size: 50, 8
+  orig: 50, 8
+  offset: 0, 0
+  index: -1
+canon_lingting_01
+  rotate: true
+  xy: 1010, 976
+  size: 46, 8
+  orig: 46, 8
+  offset: 0, 0
+  index: -1
+canon_lingting_02
+  rotate: false
+  xy: 801, 601
+  size: 96, 9
+  orig: 96, 9
+  offset: 0, 0
+  index: -1
+canon_lingting_03
+  rotate: false
+  xy: 929, 274
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+head_01
+  rotate: true
+  xy: 801, 612
+  size: 410, 151
+  orig: 410, 151
+  offset: 0, 0
+  index: -1
+head_02
+  rotate: false
+  xy: 2, 56
+  size: 375, 125
+  orig: 375, 125
+  offset: 0, 0
+  index: -1
+head_lighting_01
+  rotate: false
+  xy: 379, 100
+  size: 5, 8
+  orig: 5, 8
+  offset: 0, 0
+  index: -1
+head_lighting_02
+  rotate: false
+  xy: 1020, 1016
+  size: 2, 6
+  orig: 2, 6
+  offset: 0, 0
+  index: -1
+head_lighting_03
+  rotate: false
+  xy: 24, 10
+  size: 4, 7
+  orig: 4, 7
+  offset: 0, 0
+  index: -1
+head_lighting_04
+  rotate: false
+  xy: 24, 2
+  size: 4, 6
+  orig: 4, 6
+  offset: 0, 0
+  index: -1
+head_lighting_05
+  rotate: false
+  xy: 131, 23
+  size: 4, 5
+  orig: 4, 5
+  offset: 0, 0
+  index: -1
+joint_01
+  rotate: false
+  xy: 379, 146
+  size: 65, 35
+  orig: 65, 35
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 589, 189
+  size: 307, 128
+  orig: 307, 128
+  offset: 0, 0
+  index: -1
+wheel_left
+  rotate: true
+  xy: 383, 219
+  size: 277, 204
+  orig: 277, 204
+  offset: 0, 0
+  index: -1
+wheel_left_lighting_01
+  rotate: true
+  xy: 954, 830
+  size: 192, 54
+  orig: 192, 54
+  offset: 0, 0
+  index: -1
+wheel_left_lighting_02
+  rotate: true
+  xy: 620, 498
+  size: 19, 27
+  orig: 19, 27
+  offset: 0, 0
+  index: -1
+wheel_right_01
+  rotate: false
+  xy: 2, 183
+  size: 379, 313
+  orig: 379, 313
+  offset: 0, 0
+  index: -1
+wheel_right_02
+  rotate: true
+  xy: 719, 284
+  size: 233, 222
+  orig: 233, 222
+  offset: 0, 0
+  index: -1
+wheel_right_lighting_01
+  rotate: true
+  xy: 1010, 947
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+wheel_right_lighting_02
+  rotate: false
+  xy: 899, 604
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+wheel_right_lighting_03
+  rotate: false
+  xy: 430, 138
+  size: 7, 6
+  orig: 7, 6
+  offset: 0, 0
+  index: -1
+wheel_right_lighting_04
+  rotate: false
+  xy: 446, 175
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+wheel_right_lighting_05
+  rotate: false
+  xy: 954, 638
+  size: 8, 6
+  orig: 8, 6
+  offset: 0, 0
+  index: -1
+wheel_right_lighting_06
+  rotate: false
+  xy: 1013, 680
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+wheel_right_lighting_07
+  rotate: true
+  xy: 954, 689
+  size: 139, 60
+  orig: 139, 60
+  offset: 0, 0
+  index: -1
+wheel_right_lighting_08
+  rotate: false
+  xy: 484, 192
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+wheel_right_lighting_09
+  rotate: true
+  xy: 1010, 958
+  size: 16, 12
+  orig: 16, 12
+  offset: 0, 0
+  index: -1
+wheel_right_lighting_10
+  rotate: false
+  xy: 649, 512
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+wheel_right_lighting_11
+  rotate: false
+  xy: 779, 537
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+wheel_right_lighting_12
+  rotate: false
+  xy: 789, 589
+  size: 7, 5
+  orig: 7, 5
+  offset: 0, 0
+  index: -1
+wheel_right_lighting_13
+  rotate: false
+  xy: 383, 183
+  size: 99, 34
+  orig: 99, 34
+  offset: 0, 0
+  index: -1

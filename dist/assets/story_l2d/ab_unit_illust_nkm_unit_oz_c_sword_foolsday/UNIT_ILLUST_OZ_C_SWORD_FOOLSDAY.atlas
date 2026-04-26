@@ -1,0 +1,69 @@
+
+UNIT_ILLUST_OZ_C_SWORD_FOOLSDAY.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Background
+  rotate: false
+  xy: 1006, 127
+  size: 721, 888
+  orig: 721, 888
+  offset: 0, 0
+  index: -1
+Character
+  rotate: false
+  xy: 2, 2
+  size: 1002, 1013
+  orig: 1002, 1013
+  offset: 0, 0
+  index: -1
+FaceEmotion00
+  rotate: false
+  xy: 1114, 39
+  size: 111, 86
+  orig: 111, 86
+  offset: 0, 0
+  index: -1
+FaceEmotion01
+  rotate: false
+  xy: 1227, 45
+  size: 111, 80
+  orig: 111, 80
+  offset: 0, 0
+  index: -1
+FaceEmotion02
+  rotate: true
+  xy: 1729, 725
+  size: 112, 77
+  orig: 112, 77
+  offset: 0, 0
+  index: -1
+FaceEmotion03
+  rotate: false
+  xy: 1729, 839
+  size: 111, 85
+  orig: 111, 85
+  offset: 0, 0
+  index: -1
+FaceEmotion04
+  rotate: false
+  xy: 1729, 926
+  size: 111, 89
+  orig: 111, 89
+  offset: 0, 0
+  index: -1
+FaceEmotion05
+  rotate: false
+  xy: 1842, 932
+  size: 112, 83
+  orig: 112, 83
+  offset: 0, 0
+  index: -1
+FaceEmotion06
+  rotate: false
+  xy: 1006, 24
+  size: 106, 101
+  orig: 106, 101
+  offset: 0, 0
+  index: -1

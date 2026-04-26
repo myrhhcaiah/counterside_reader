@@ -1,0 +1,69 @@
+
+UNIT_ILLUST_NPC_SETSUNA_MEMORIAL.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 2, 73
+  size: 434, 1019
+  orig: 434, 1019
+  offset: 0, 0
+  index: -1
+despair
+  rotate: false
+  xy: 587, 9
+  size: 90, 62
+  orig: 90, 62
+  offset: 0, 0
+  index: -1
+hate
+  rotate: false
+  xy: 296, 10
+  size: 96, 61
+  orig: 96, 61
+  offset: 0, 0
+  index: -1
+idle
+  rotate: false
+  xy: 199, 6
+  size: 95, 65
+  orig: 95, 65
+  offset: 0, 0
+  index: -1
+laugh
+  rotate: false
+  xy: 102, 4
+  size: 95, 67
+  orig: 95, 67
+  offset: 0, 0
+  index: -1
+pride
+  rotate: false
+  xy: 494, 10
+  size: 91, 61
+  orig: 91, 61
+  offset: 0, 0
+  index: -1
+serious
+  rotate: false
+  xy: 394, 13
+  size: 98, 58
+  orig: 98, 58
+  offset: 0, 0
+  index: -1
+serious2
+  rotate: false
+  xy: 679, 11
+  size: 90, 60
+  orig: 90, 60
+  offset: 0, 0
+  index: -1
+surprise
+  rotate: false
+  xy: 2, 2
+  size: 98, 69
+  orig: 98, 69
+  offset: 0, 0
+  index: -1

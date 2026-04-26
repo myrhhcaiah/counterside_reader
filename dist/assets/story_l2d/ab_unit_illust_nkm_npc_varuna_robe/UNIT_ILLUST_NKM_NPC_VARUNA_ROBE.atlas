@@ -1,0 +1,62 @@
+
+UNIT_ILLUST_NKM_NPC_VARUNA_ROBE.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 2, 2
+  size: 1015, 1786
+  orig: 1015, 1786
+  offset: 0, 0
+  index: -1
+despair
+  rotate: false
+  xy: 1790, 393
+  size: 138, 83
+  orig: 138, 83
+  offset: 0, 0
+  index: -1
+hate
+  rotate: false
+  xy: 1790, 742
+  size: 141, 89
+  orig: 141, 89
+  offset: 0, 0
+  index: -1
+idle
+  rotate: false
+  xy: 1790, 653
+  size: 141, 87
+  orig: 141, 87
+  offset: 0, 0
+  index: -1
+laugh
+  rotate: false
+  xy: 1790, 478
+  size: 141, 84
+  orig: 141, 84
+  offset: 0, 0
+  index: -1
+pride
+  rotate: false
+  xy: 1790, 564
+  size: 141, 87
+  orig: 141, 87
+  offset: 0, 0
+  index: -1
+serious
+  rotate: false
+  xy: 1790, 833
+  size: 141, 90
+  orig: 141, 90
+  offset: 0, 0
+  index: -1
+surprise
+  rotate: false
+  xy: 1790, 925
+  size: 142, 92
+  orig: 142, 92
+  offset: 0, 0
+  index: -1

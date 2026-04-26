@@ -1,0 +1,76 @@
+
+UNIT_ILLUST_NPC_HAVEN_A.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 608, 342
+  size: 410, 646
+  orig: 410, 646
+  offset: 0, 0
+  index: -1
+1
+  rotate: false
+  xy: 1, 93
+  size: 606, 895
+  orig: 606, 895
+  offset: 0, 0
+  index: -1
+BASE
+  rotate: false
+  xy: 1, 1
+  size: 119, 91
+  orig: 119, 91
+  offset: 0, 0
+  index: -1
+DESPAIR
+  rotate: false
+  xy: 608, 250
+  size: 119, 91
+  orig: 119, 91
+  offset: 0, 0
+  index: -1
+GLASS
+  rotate: false
+  xy: 121, 34
+  size: 152, 58
+  orig: 152, 58
+  offset: 0, 0
+  index: -1
+HATE
+  rotate: false
+  xy: 848, 161
+  size: 119, 89
+  orig: 119, 89
+  offset: 0, 0
+  index: -1
+LAUGH
+  rotate: false
+  xy: 728, 159
+  size: 119, 90
+  orig: 119, 90
+  offset: 0, 0
+  index: -1
+PRIDE
+  rotate: false
+  xy: 848, 251
+  size: 119, 90
+  orig: 119, 90
+  offset: 0, 0
+  index: -1
+SERIOUS
+  rotate: false
+  xy: 608, 158
+  size: 119, 91
+  orig: 119, 91
+  offset: 0, 0
+  index: -1
+SURPRISE
+  rotate: false
+  xy: 728, 250
+  size: 119, 91
+  orig: 119, 91
+  offset: 0, 0
+  index: -1

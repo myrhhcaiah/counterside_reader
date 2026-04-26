@@ -1,0 +1,118 @@
+
+UNIT_ILLUST_NPC_RAS_TOWER_GAP.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_1
+  rotate: false
+  xy: 714, 279
+  size: 92, 92
+  orig: 92, 92
+  offset: 0, 0
+  index: -1
+arm_2
+  rotate: false
+  xy: 671, 235
+  size: 41, 376
+  orig: 41, 376
+  offset: 0, 0
+  index: -1
+blur
+  rotate: true
+  xy: 714, 192
+  size: 85, 86
+  orig: 85, 86
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 157
+  size: 667, 147
+  orig: 667, 147
+  offset: 0, 0
+  index: -1
+body_ac
+  rotate: false
+  xy: 800, 823
+  size: 147, 191
+  orig: 147, 191
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 557, 51
+  size: 104, 104
+  orig: 104, 104
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 2, 2
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+face_glitch
+  rotate: true
+  xy: 949, 848
+  size: 166, 54
+  orig: 166, 54
+  offset: 0, 0
+  index: -1
+face_mark_a
+  rotate: true
+  xy: 800, 668
+  size: 153, 131
+  orig: 153, 131
+  offset: 0, 0
+  index: -1
+hand_1
+  rotate: false
+  xy: 714, 373
+  size: 86, 94
+  orig: 86, 94
+  offset: 0, 0
+  index: -1
+hand_2
+  rotate: true
+  xy: 405, 53
+  size: 102, 150
+  orig: 102, 150
+  offset: 0, 0
+  index: -1
+hand_3
+  rotate: false
+  xy: 714, 469
+  size: 84, 142
+  orig: 84, 142
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 306
+  size: 667, 708
+  orig: 667, 708
+  offset: 0, 0
+  index: -1
+mouth_a
+  rotate: true
+  xy: 671, 613
+  size: 401, 127
+  orig: 401, 127
+  offset: 0, 0
+  index: -1
+mouth_b
+  rotate: false
+  xy: 2, 28
+  size: 401, 127
+  orig: 401, 127
+  offset: 0, 0
+  index: -1
+wheel
+  rotate: true
+  xy: 800, 525
+  size: 141, 91
+  orig: 141, 91
+  offset: 0, 0
+  index: -1

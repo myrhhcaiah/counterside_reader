@@ -1,0 +1,125 @@
+
+UNIT_ILLUST_SD_CLB_003_4_MC.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_1
+  rotate: true
+  xy: 439, 322
+  size: 60, 71
+  orig: 60, 71
+  offset: 0, 0
+  index: -1
+arm_3
+  rotate: true
+  xy: 365, 2
+  size: 53, 79
+  orig: 53, 79
+  offset: 0, 0
+  index: -1
+arm_4
+  rotate: true
+  xy: 365, 57
+  size: 61, 73
+  orig: 61, 73
+  offset: 0, 0
+  index: -1
+bg
+  rotate: false
+  xy: 2, 292
+  size: 435, 218
+  orig: 435, 218
+  offset: 0, 0
+  index: -1
+body_1
+  rotate: true
+  xy: 439, 384
+  size: 126, 70
+  orig: 126, 70
+  offset: 0, 0
+  index: -1
+body_2
+  rotate: true
+  xy: 2, 2
+  size: 288, 303
+  orig: 288, 303
+  offset: 0, 0
+  index: -1
+bubble_1
+  rotate: false
+  xy: 445, 94
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+bubble_2
+  rotate: true
+  xy: 445, 260
+  size: 60, 65
+  orig: 60, 65
+  offset: 0, 0
+  index: -1
+bubble_3
+  rotate: false
+  xy: 445, 164
+  size: 50, 44
+  orig: 50, 44
+  offset: 0, 0
+  index: -1
+bubble_4
+  rotate: false
+  xy: 307, 10
+  size: 50, 35
+  orig: 50, 35
+  offset: 0, 0
+  index: -1
+eye_1
+  rotate: false
+  xy: 440, 57
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+eye_2
+  rotate: false
+  xy: 446, 20
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+leg_1
+  rotate: false
+  xy: 365, 206
+  size: 78, 84
+  orig: 78, 84
+  offset: 0, 0
+  index: -1
+leg_2
+  rotate: false
+  xy: 365, 120
+  size: 78, 84
+  orig: 78, 84
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 307, 47
+  size: 56, 243
+  orig: 56, 243
+  offset: 0, 0
+  index: -1
+mouth_1
+  rotate: false
+  xy: 445, 133
+  size: 50, 29
+  orig: 50, 29
+  offset: 0, 0
+  index: -1
+mouth_2
+  rotate: false
+  xy: 445, 210
+  size: 50, 48
+  orig: 50, 48
+  offset: 0, 0
+  index: -1

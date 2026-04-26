@@ -1,0 +1,209 @@
+
+UNIT_ILLUST_MONSTER_BOSS_BASIC_PAWN.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 477, 117
+  size: 167, 212
+  orig: 167, 212
+  offset: 0, 0
+  index: -1
+emotion_hate
+  rotate: false
+  xy: 529, 20
+  size: 85, 95
+  orig: 85, 95
+  offset: 0, 0
+  index: -1
+emotion_lau
+  rotate: true
+  xy: 948, 168
+  size: 83, 61
+  orig: 83, 61
+  offset: 0, 0
+  index: -1
+emotion_pri
+  rotate: false
+  xy: 818, 99
+  size: 60, 56
+  orig: 60, 56
+  offset: 0, 0
+  index: -1
+emotion_sad
+  rotate: true
+  xy: 759, 77
+  size: 65, 57
+  orig: 65, 57
+  offset: 0, 0
+  index: -1
+emotion_ser
+  rotate: true
+  xy: 701, 58
+  size: 83, 56
+  orig: 83, 56
+  offset: 0, 0
+  index: -1
+emotion_sur
+  rotate: false
+  xy: 701, 2
+  size: 60, 54
+  orig: 60, 54
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 763, 10
+  size: 65, 57
+  orig: 65, 57
+  offset: 0, 0
+  index: -1
+glass
+  rotate: true
+  xy: 477, 363
+  size: 61, 17
+  orig: 61, 17
+  offset: 0, 0
+  index: -1
+glass_hate
+  rotate: true
+  xy: 1000, 961
+  size: 61, 17
+  orig: 61, 17
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 429, 2
+  size: 98, 95
+  orig: 98, 95
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 616, 15
+  size: 83, 95
+  orig: 83, 95
+  offset: 0, 0
+  index: -1
+left_arm
+  rotate: false
+  xy: 866, 157
+  size: 54, 169
+  orig: 54, 169
+  offset: 0, 0
+  index: -1
+left_hand
+  rotate: true
+  xy: 302, 8
+  size: 62, 119
+  orig: 62, 119
+  offset: 0, 0
+  index: -1
+monsrt_left_arm_1
+  rotate: false
+  xy: 979, 391
+  size: 41, 182
+  orig: 41, 182
+  offset: 0, 0
+  index: -1
+monsrt_left_arm_2
+  rotate: false
+  xy: 719, 328
+  size: 212, 694
+  orig: 212, 694
+  offset: 0, 0
+  index: -1
+monsrt_right_arm_1
+  rotate: false
+  xy: 747, 144
+  size: 48, 182
+  orig: 48, 182
+  offset: 0, 0
+  index: -1
+monsrt_right_arm_2
+  rotate: false
+  xy: 500, 331
+  size: 217, 691
+  orig: 217, 691
+  offset: 0, 0
+  index: -1
+monster_body
+  rotate: false
+  xy: 2, 426
+  size: 496, 596
+  orig: 496, 596
+  offset: 0, 0
+  index: -1
+monster_body_back1
+  rotate: false
+  xy: 922, 179
+  size: 24, 147
+  orig: 24, 147
+  offset: 0, 0
+  index: -1
+monster_body_back2
+  rotate: false
+  xy: 646, 112
+  size: 34, 217
+  orig: 34, 217
+  offset: 0, 0
+  index: -1
+monster_body_back3
+  rotate: false
+  xy: 429, 99
+  size: 46, 325
+  orig: 46, 325
+  offset: 0, 0
+  index: -1
+monster_body_back4
+  rotate: false
+  xy: 933, 575
+  size: 65, 447
+  orig: 65, 447
+  offset: 0, 0
+  index: -1
+monster_body_back5
+  rotate: true
+  xy: 2, 9
+  size: 61, 298
+  orig: 61, 298
+  offset: 0, 0
+  index: -1
+monster_body_back6
+  rotate: false
+  xy: 933, 342
+  size: 44, 231
+  orig: 44, 231
+  offset: 0, 0
+  index: -1
+monster_head
+  rotate: false
+  xy: 2, 72
+  size: 425, 352
+  orig: 425, 352
+  offset: 0, 0
+  index: -1
+necklace
+  rotate: false
+  xy: 948, 253
+  size: 45, 87
+  orig: 45, 87
+  offset: 0, 0
+  index: -1
+right_arm
+  rotate: false
+  xy: 797, 165
+  size: 67, 161
+  orig: 67, 161
+  offset: 0, 0
+  index: -1
+right_hand
+  rotate: false
+  xy: 682, 143
+  size: 63, 183
+  orig: 63, 183
+  offset: 0, 0
+  index: -1

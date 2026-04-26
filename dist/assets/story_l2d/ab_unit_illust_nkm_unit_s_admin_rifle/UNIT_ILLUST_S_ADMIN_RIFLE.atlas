@@ -1,0 +1,118 @@
+
+UNIT_ILLUST_S_ADMIN_RIFLE.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+effect_02
+  rotate: false
+  xy: 986, 982
+  size: 36, 34
+  orig: 36, 34
+  offset: 0, 0
+  index: -1
+rifle_1
+  rotate: true
+  xy: 821, 425
+  size: 120, 162
+  orig: 120, 162
+  offset: 0, 0
+  index: -1
+rifle_10
+  rotate: false
+  xy: 821, 741
+  size: 122, 275
+  orig: 122, 275
+  offset: 0, 0
+  index: -1
+rifle_11
+  rotate: false
+  xy: 777, 317
+  size: 144, 106
+  orig: 144, 106
+  offset: 0, 0
+  index: -1
+rifle_12
+  rotate: false
+  xy: 2, 45
+  size: 417, 971
+  orig: 417, 971
+  offset: 0, 0
+  index: -1
+rifle_13
+  rotate: false
+  xy: 821, 547
+  size: 163, 192
+  orig: 163, 192
+  offset: 0, 0
+  index: -1
+rifle_14
+  rotate: false
+  xy: 720, 245
+  size: 55, 227
+  orig: 55, 227
+  offset: 0, 0
+  index: -1
+rifle_15
+  rotate: false
+  xy: 421, 4
+  size: 297, 468
+  orig: 297, 468
+  offset: 0, 0
+  index: -1
+rifle_2
+  rotate: true
+  xy: 720, 16
+  size: 82, 103
+  orig: 82, 103
+  offset: 0, 0
+  index: -1
+rifle_3
+  rotate: true
+  xy: 2, 2
+  size: 41, 58
+  orig: 41, 58
+  offset: 0, 0
+  index: -1
+rifle_4
+  rotate: false
+  xy: 421, 474
+  size: 398, 542
+  orig: 398, 542
+  offset: 0, 0
+  index: -1
+rifle_5
+  rotate: false
+  xy: 923, 402
+  size: 14, 21
+  orig: 14, 21
+  offset: 0, 0
+  index: -1
+rifle_6
+  rotate: false
+  xy: 777, 435
+  size: 22, 37
+  orig: 22, 37
+  offset: 0, 0
+  index: -1
+rifle_7
+  rotate: false
+  xy: 945, 979
+  size: 36, 37
+  orig: 36, 37
+  offset: 0, 0
+  index: -1
+rifle_8
+  rotate: false
+  xy: 777, 213
+  size: 146, 102
+  orig: 146, 102
+  offset: 0, 0
+  index: -1
+rifle_9
+  rotate: false
+  xy: 720, 100
+  size: 134, 111
+  orig: 134, 111
+  offset: 0, 0
+  index: -1

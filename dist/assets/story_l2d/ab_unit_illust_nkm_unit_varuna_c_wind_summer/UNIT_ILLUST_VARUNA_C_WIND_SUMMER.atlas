@@ -1,0 +1,13 @@
+
+UNIT_ILLUST_VARUNA_C_WIND_SUMMER.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+UNIT_ILLUST_VARUNA_C_WIND_SUMMER
+  rotate: false
+  xy: 0, 0
+  size: 2045, 1008
+  orig: 2048, 1024
+  offset: 1, 15
+  index: -1

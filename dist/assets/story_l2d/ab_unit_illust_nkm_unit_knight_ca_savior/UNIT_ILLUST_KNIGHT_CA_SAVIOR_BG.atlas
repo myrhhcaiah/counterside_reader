@@ -1,0 +1,55 @@
+
+UNIT_ILLUST_KNIGHT_CA_SAVIOR_BG.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_1
+  rotate: false
+  xy: 316, 608
+  size: 913, 1435
+  orig: 913, 1435
+  offset: 0, 0
+  index: -1
+bg_2
+  rotate: false
+  xy: 1231, 1262
+  size: 651, 781
+  orig: 651, 781
+  offset: 0, 0
+  index: -1
+bg_3
+  rotate: true
+  xy: 1115, 24
+  size: 582, 781
+  orig: 582, 781
+  offset: 0, 0
+  index: -1
+bg_4
+  rotate: false
+  xy: 2, 433
+  size: 312, 1610
+  orig: 312, 1610
+  offset: 0, 0
+  index: -1
+bg_5
+  rotate: false
+  xy: 1231, 756
+  size: 545, 504
+  orig: 545, 504
+  offset: 0, 0
+  index: -1
+bg_6
+  rotate: true
+  xy: 316, 2
+  size: 604, 797
+  orig: 604, 797
+  offset: 0, 0
+  index: -1
+fx_3
+  rotate: true
+  xy: 2, 334
+  size: 97, 187
+  orig: 97, 187
+  offset: 0, 0
+  index: -1

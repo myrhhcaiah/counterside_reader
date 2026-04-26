@@ -1,0 +1,97 @@
+
+UNIT_ILLUST_M_TIDE_DRONE.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back_wing_01
+  rotate: true
+  xy: 975, 696
+  size: 324, 40
+  orig: 324, 40
+  offset: 0, 0
+  index: -1
+back_wing_02
+  rotate: true
+  xy: 303, 119
+  size: 91, 241
+  orig: 91, 241
+  offset: 0, 0
+  index: -1
+back_wing_03
+  rotate: false
+  xy: 840, 298
+  size: 53, 178
+  orig: 53, 178
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 677
+  size: 971, 343
+  orig: 971, 343
+  offset: 0, 0
+  index: -1
+left_wing_01
+  rotate: false
+  xy: 2, 292
+  size: 836, 184
+  orig: 836, 184
+  offset: 0, 0
+  index: -1
+left_wing_light_02
+  rotate: false
+  xy: 945, 657
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+missile_01
+  rotate: false
+  xy: 303, 212
+  size: 299, 78
+  orig: 299, 78
+  offset: 0, 0
+  index: -1
+right_wing
+  rotate: false
+  xy: 2, 478
+  size: 941, 197
+  orig: 941, 197
+  offset: 0, 0
+  index: -1
+right_wing_light
+  rotate: false
+  xy: 895, 446
+  size: 34, 30
+  orig: 34, 30
+  offset: 0, 0
+  index: -1
+right_wing_light_02
+  rotate: false
+  xy: 604, 224
+  size: 64, 66
+  orig: 64, 66
+  offset: 0, 0
+  index: -1
+rotate
+  rotate: false
+  xy: 2, 2
+  size: 299, 288
+  orig: 299, 288
+  offset: 0, 0
+  index: -1
+thing
+  rotate: false
+  xy: 303, 2
+  size: 96, 115
+  orig: 96, 115
+  offset: 0, 0
+  index: -1
+thing_light
+  rotate: true
+  xy: 546, 150
+  size: 60, 50
+  orig: 60, 50
+  offset: 0, 0
+  index: -1

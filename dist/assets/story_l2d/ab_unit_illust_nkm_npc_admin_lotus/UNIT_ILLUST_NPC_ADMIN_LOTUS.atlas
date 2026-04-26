@@ -1,0 +1,76 @@
+
+UNIT_ILLUST_NPC_ADMIN_LOTUS.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ALL
+  rotate: false
+  xy: 2, 2
+  size: 723, 1013
+  orig: 723, 1013
+  offset: 0, 0
+  index: -1
+ALL_1
+  rotate: true
+  xy: 908, 694
+  size: 168, 108
+  orig: 168, 108
+  offset: 0, 0
+  index: -1
+ALL_DESPAIR
+  rotate: true
+  xy: 908, 864
+  size: 151, 114
+  orig: 151, 114
+  offset: 0, 0
+  index: -1
+ALL_HATE
+  rotate: true
+  xy: 727, 201
+  size: 168, 108
+  orig: 168, 108
+  offset: 0, 0
+  index: -1
+ALL_LAUGH
+  rotate: true
+  xy: 727, 34
+  size: 165, 111
+  orig: 165, 111
+  offset: 0, 0
+  index: -1
+ALL_PRIDE
+  rotate: true
+  xy: 837, 206
+  size: 163, 111
+  orig: 163, 111
+  offset: 0, 0
+  index: -1
+ALL_SERIOUS
+  rotate: true
+  xy: 840, 41
+  size: 163, 110
+  orig: 163, 110
+  offset: 0, 0
+  index: -1
+ALL_SERIOUS2
+  rotate: false
+  xy: 727, 494
+  size: 177, 133
+  orig: 177, 133
+  offset: 0, 0
+  index: -1
+ALL_SURPRISE
+  rotate: false
+  xy: 727, 371
+  size: 161, 121
+  orig: 161, 121
+  offset: 0, 0
+  index: -1
+ALL_UP
+  rotate: true
+  xy: 727, 629
+  size: 386, 179
+  orig: 386, 179
+  offset: 0, 0
+  index: -1

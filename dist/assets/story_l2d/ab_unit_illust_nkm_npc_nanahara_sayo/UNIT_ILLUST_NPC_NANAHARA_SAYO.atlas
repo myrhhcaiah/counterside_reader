@@ -1,0 +1,104 @@
+
+UNIT_ILLUST_NPC_NANAHARA_SAYO.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 1032, 43
+  size: 162, 177
+  orig: 162, 177
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 1196, 43
+  size: 162, 177
+  orig: 162, 177
+  offset: 0, 0
+  index: -1
+BASE_FACE
+  rotate: true
+  xy: 1910, 709
+  size: 154, 85
+  orig: 154, 85
+  offset: 0, 0
+  index: -1
+DESPAIR
+  rotate: false
+  xy: 1360, 134
+  size: 154, 86
+  orig: 154, 86
+  offset: 0, 0
+  index: -1
+HATE
+  rotate: false
+  xy: 158, 12
+  size: 154, 85
+  orig: 154, 85
+  offset: 0, 0
+  index: -1
+LAUGH
+  rotate: false
+  xy: 1360, 46
+  size: 152, 86
+  orig: 152, 86
+  offset: 0, 0
+  index: -1
+PRIDE
+  rotate: true
+  xy: 1910, 553
+  size: 154, 83
+  orig: 154, 83
+  offset: 0, 0
+  index: -1
+SERIOUS
+  rotate: false
+  xy: 2, 10
+  size: 154, 87
+  orig: 154, 87
+  offset: 0, 0
+  index: -1
+SERIOUS2
+  rotate: true
+  xy: 798, 2
+  size: 218, 232
+  orig: 218, 232
+  offset: 0, 0
+  index: -1
+SURPRISE
+  rotate: true
+  xy: 1910, 865
+  size: 154, 88
+  orig: 154, 88
+  offset: 0, 0
+  index: -1
+bd1
+  rotate: false
+  xy: 798, 222
+  size: 821, 797
+  orig: 821, 797
+  offset: 0, 0
+  index: -1
+bd2
+  rotate: false
+  xy: 2, 99
+  size: 794, 920
+  orig: 794, 920
+  offset: 0, 0
+  index: -1
+ha
+  rotate: false
+  xy: 1621, 492
+  size: 287, 527
+  orig: 287, 527
+  offset: 0, 0
+  index: -1
+ha1
+  rotate: false
+  xy: 1621, 223
+  size: 216, 267
+  orig: 216, 267
+  offset: 0, 0
+  index: -1

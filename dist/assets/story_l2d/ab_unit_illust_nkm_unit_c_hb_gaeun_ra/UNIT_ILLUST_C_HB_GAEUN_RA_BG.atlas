@@ -1,0 +1,111 @@
+
+UNIT_ILLUST_C_HB_GAEUN_RA_BG.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_1
+  rotate: true
+  xy: 1724, 311
+  size: 291, 315
+  orig: 291, 315
+  offset: 0, 0
+  index: -1
+bg_10
+  rotate: true
+  xy: 671, 116
+  size: 76, 215
+  orig: 76, 215
+  offset: 0, 0
+  index: -1
+bg_2_1
+  rotate: true
+  xy: 1208, 87
+  size: 105, 83
+  orig: 105, 83
+  offset: 0, 0
+  index: -1
+bg_2_2
+  rotate: true
+  xy: 1002, 73
+  size: 119, 99
+  orig: 119, 99
+  offset: 0, 0
+  index: -1
+bg_3_1
+  rotate: true
+  xy: 1208, 2
+  size: 83, 87
+  orig: 83, 87
+  offset: 0, 0
+  index: -1
+bg_3_2
+  rotate: false
+  xy: 1103, 83
+  size: 103, 109
+  orig: 103, 109
+  offset: 0, 0
+  index: -1
+bg_4
+  rotate: false
+  xy: 886, 7
+  size: 114, 107
+  orig: 114, 107
+  offset: 0, 0
+  index: -1
+bg_5
+  rotate: false
+  xy: 1402, 119
+  size: 320, 483
+  orig: 320, 483
+  offset: 0, 0
+  index: -1
+bg_6
+  rotate: false
+  xy: 1402, 604
+  size: 418, 418
+  orig: 418, 418
+  offset: 0, 0
+  index: -1
+bg_8
+  rotate: true
+  xy: 671, 46
+  size: 68, 213
+  orig: 68, 213
+  offset: 0, 0
+  index: -1
+bg_9
+  rotate: true
+  xy: 242, 2
+  size: 51, 171
+  orig: 51, 171
+  offset: 0, 0
+  index: -1
+bg_fix
+  rotate: true
+  xy: 2, 194
+  size: 828, 1398
+  orig: 828, 1398
+  offset: 0, 0
+  index: -1
+fx_0_1
+  rotate: false
+  xy: 513, 36
+  size: 156, 156
+  orig: 156, 156
+  offset: 0, 0
+  index: -1
+fx_1
+  rotate: true
+  xy: 2, 16
+  size: 176, 238
+  orig: 176, 238
+  offset: 0, 0
+  index: -1
+fx_2
+  rotate: true
+  xy: 242, 55
+  size: 137, 269
+  orig: 137, 269
+  offset: 0, 0
+  index: -1

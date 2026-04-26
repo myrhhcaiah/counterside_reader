@@ -1,0 +1,62 @@
+
+UNIT_ILLUST_C_JOO_SHI_YOON_AP_FOOLSDAY.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00
+  rotate: true
+  xy: 2, 2
+  size: 987, 1619
+  orig: 987, 1619
+  offset: 0, 0
+  index: -1
+DESPAIR
+  rotate: false
+  xy: 1623, 463
+  size: 159, 116
+  orig: 159, 116
+  offset: 0, 0
+  index: -1
+HATE
+  rotate: false
+  xy: 1623, 349
+  size: 159, 112
+  orig: 159, 112
+  offset: 0, 0
+  index: -1
+IDLE
+  rotate: false
+  xy: 1785, 853
+  size: 160, 136
+  orig: 160, 136
+  offset: 0, 0
+  index: -1
+LAUGH
+  rotate: false
+  xy: 1785, 728
+  size: 159, 123
+  orig: 159, 123
+  offset: 0, 0
+  index: -1
+PRIDE
+  rotate: false
+  xy: 1623, 851
+  size: 160, 138
+  orig: 160, 138
+  offset: 0, 0
+  index: -1
+SERIOUS
+  rotate: false
+  xy: 1623, 711
+  size: 160, 138
+  orig: 160, 138
+  offset: 0, 0
+  index: -1
+SURPRISE
+  rotate: false
+  xy: 1623, 581
+  size: 159, 128
+  orig: 159, 128
+  offset: 0, 0
+  index: -1

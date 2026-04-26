@@ -1,0 +1,237 @@
+
+UNIT_ILLUST_NPC_PROFESSOR_OLIVIA.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EMOITON_BASIC
+  rotate: false
+  xy: 1927, 114
+  size: 107, 97
+  orig: 107, 97
+  offset: 0, 0
+  index: -1
+EMOITON_BASIC_CLOSEEYE
+  rotate: false
+  xy: 1862, 395
+  size: 109, 57
+  orig: 109, 57
+  offset: 0, 0
+  index: -1
+EMOTION_CONPIDENCE
+  rotate: false
+  xy: 619, 26
+  size: 107, 96
+  orig: 107, 96
+  offset: 0, 0
+  index: -1
+EMOTION_DESPAIR
+  rotate: true
+  xy: 1053, 18
+  size: 104, 92
+  orig: 104, 92
+  offset: 0, 0
+  index: -1
+EMOTION_HATE
+  rotate: false
+  xy: 837, 28
+  size: 107, 94
+  orig: 107, 94
+  offset: 0, 0
+  index: -1
+EMOTION_LAUGH
+  rotate: false
+  xy: 728, 25
+  size: 107, 97
+  orig: 107, 97
+  offset: 0, 0
+  index: -1
+EMOTION_SERIOUS
+  rotate: false
+  xy: 946, 27
+  size: 105, 95
+  orig: 105, 95
+  offset: 0, 0
+  index: -1
+EMOTION_SURPRISE
+  rotate: false
+  xy: 1903, 13
+  size: 107, 99
+  orig: 107, 99
+  offset: 0, 0
+  index: -1
+ob_1
+  rotate: true
+  xy: 2, 173
+  size: 126, 618
+  orig: 126, 618
+  offset: 0, 0
+  index: -1
+ob_10
+  rotate: false
+  xy: 2, 2
+  size: 287, 169
+  orig: 287, 169
+  offset: 0, 0
+  index: -1
+ob_11
+  rotate: true
+  xy: 442, 85
+  size: 86, 175
+  orig: 86, 175
+  offset: 0, 0
+  index: -1
+ob_12
+  rotate: false
+  xy: 1927, 213
+  size: 92, 180
+  orig: 92, 180
+  offset: 0, 0
+  index: -1
+ob_13
+  rotate: true
+  xy: 442, 30
+  size: 53, 148
+  orig: 53, 148
+  offset: 0, 0
+  index: -1
+ob_14
+  rotate: true
+  xy: 1499, 395
+  size: 57, 361
+  orig: 57, 361
+  offset: 0, 0
+  index: -1
+ob_14_1
+  rotate: true
+  xy: 442, 2
+  size: 26, 120
+  orig: 26, 120
+  offset: 0, 0
+  index: -1
+ob_16
+  rotate: true
+  xy: 1704, 53
+  size: 103, 67
+  orig: 103, 67
+  offset: 0, 0
+  index: -1
+ob_17
+  rotate: false
+  xy: 291, 2
+  size: 149, 169
+  orig: 149, 169
+  offset: 0, 0
+  index: -1
+ob_17_1
+  rotate: false
+  xy: 1773, 12
+  size: 128, 127
+  orig: 128, 127
+  offset: 0, 0
+  index: -1
+ob_18
+  rotate: false
+  xy: 2008, 798
+  size: 36, 224
+  orig: 36, 224
+  offset: 0, 0
+  index: -1
+ob_19
+  rotate: true
+  xy: 1589, 454
+  size: 86, 418
+  orig: 86, 418
+  offset: 0, 0
+  index: -1
+ob_2
+  rotate: false
+  xy: 2, 301
+  size: 726, 721
+  orig: 726, 721
+  offset: 0, 0
+  index: -1
+ob_20
+  rotate: false
+  xy: 730, 326
+  size: 543, 696
+  orig: 543, 696
+  offset: 0, 0
+  index: -1
+ob_21
+  rotate: true
+  xy: 622, 124
+  size: 159, 530
+  orig: 159, 530
+  offset: 0, 0
+  index: -1
+ob_22
+  rotate: false
+  xy: 1275, 338
+  size: 222, 177
+  orig: 222, 177
+  offset: 0, 0
+  index: -1
+ob_22_1
+  rotate: false
+  xy: 1362, 85
+  size: 114, 251
+  orig: 114, 251
+  offset: 0, 0
+  index: -1
+ob_2_1
+  rotate: false
+  xy: 1154, 66
+  size: 206, 217
+  orig: 206, 217
+  offset: 0, 0
+  index: -1
+ob_2_2
+  rotate: true
+  xy: 730, 285
+  size: 39, 571
+  orig: 39, 571
+  offset: 0, 0
+  index: -1
+ob_3
+  rotate: true
+  xy: 1589, 542
+  size: 190, 434
+  orig: 190, 434
+  offset: 0, 0
+  index: -1
+ob_4
+  rotate: false
+  xy: 1786, 141
+  size: 139, 252
+  orig: 139, 252
+  offset: 0, 0
+  index: -1
+ob_6
+  rotate: true
+  xy: 1499, 158
+  size: 235, 285
+  orig: 235, 285
+  offset: 0, 0
+  index: -1
+ob_7
+  rotate: false
+  xy: 1589, 734
+  size: 417, 288
+  orig: 417, 288
+  offset: 0, 0
+  index: -1
+ob_8
+  rotate: false
+  xy: 1275, 517
+  size: 312, 505
+  orig: 312, 505
+  offset: 0, 0
+  index: -1
+ob_9
+  rotate: true
+  xy: 1478, 17
+  size: 139, 224
+  orig: 139, 224
+  offset: 0, 0
+  index: -1

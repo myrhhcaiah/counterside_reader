@@ -1,0 +1,20 @@
+
+UNIT_ILLUST_SD_CLB_003_6_R.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+l_wing
+  rotate: false
+  xy: 2, 2
+  size: 251, 121
+  orig: 251, 121
+  offset: 0, 0
+  index: -1
+r_wing
+  rotate: false
+  xy: 2, 125
+  size: 251, 121
+  orig: 251, 121
+  offset: 0, 0
+  index: -1

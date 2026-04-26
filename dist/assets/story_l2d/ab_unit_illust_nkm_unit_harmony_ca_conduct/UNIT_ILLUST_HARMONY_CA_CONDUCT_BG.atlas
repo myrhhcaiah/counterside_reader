@@ -1,0 +1,13 @@
+
+UNIT_ILLUST_HARMONY_CA_CONDUCT_BG.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_1
+  rotate: false
+  xy: 2, 2
+  size: 996, 996
+  orig: 996, 996
+  offset: 0, 0
+  index: -1

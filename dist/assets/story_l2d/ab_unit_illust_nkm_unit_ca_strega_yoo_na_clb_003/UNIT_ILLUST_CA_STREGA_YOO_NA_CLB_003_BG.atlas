@@ -1,0 +1,111 @@
+
+UNIT_ILLUST_CA_STREGA_YOO_NA_CLB_003_BG.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_1
+  rotate: false
+  xy: 2, 203
+  size: 830, 813
+  orig: 830, 813
+  offset: 0, 0
+  index: -1
+bg_2
+  rotate: false
+  xy: 2, 19
+  size: 920, 182
+  orig: 920, 182
+  offset: 0, 0
+  index: -1
+bird_1
+  rotate: false
+  xy: 834, 574
+  size: 117, 60
+  orig: 117, 60
+  offset: 0, 0
+  index: -1
+bird_10
+  rotate: true
+  xy: 834, 375
+  size: 76, 49
+  orig: 76, 49
+  offset: 0, 0
+  index: -1
+bird_11
+  rotate: false
+  xy: 834, 523
+  size: 91, 49
+  orig: 91, 49
+  offset: 0, 0
+  index: -1
+bird_12
+  rotate: true
+  xy: 834, 775
+  size: 241, 114
+  orig: 241, 114
+  offset: 0, 0
+  index: -1
+bird_2
+  rotate: true
+  xy: 927, 546
+  size: 26, 6
+  orig: 26, 6
+  offset: 0, 0
+  index: -1
+bird_3
+  rotate: false
+  xy: 904, 502
+  size: 6, 19
+  orig: 6, 19
+  offset: 0, 0
+  index: -1
+bird_4
+  rotate: true
+  xy: 999, 1007
+  size: 9, 23
+  orig: 9, 23
+  offset: 0, 0
+  index: -1
+bird_5
+  rotate: true
+  xy: 834, 636
+  size: 137, 134
+  orig: 137, 134
+  offset: 0, 0
+  index: -1
+bird_6
+  rotate: true
+  xy: 950, 890
+  size: 126, 47
+  orig: 126, 47
+  offset: 0, 0
+  index: -1
+bird_7
+  rotate: false
+  xy: 2, 2
+  size: 40, 15
+  orig: 40, 15
+  offset: 0, 0
+  index: -1
+bird_8
+  rotate: true
+  xy: 953, 603
+  size: 31, 8
+  orig: 31, 8
+  offset: 0, 0
+  index: -1
+bird_9
+  rotate: false
+  xy: 950, 858
+  size: 72, 30
+  orig: 72, 30
+  offset: 0, 0
+  index: -1
+blur_1
+  rotate: false
+  xy: 834, 453
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1

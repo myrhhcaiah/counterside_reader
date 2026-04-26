@@ -1,0 +1,104 @@
+
+NKM_NPC_CORRUPTED_OBJECT_SHADOW.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+front_body_1
+  rotate: true
+  xy: 413, 404
+  size: 99, 95
+  orig: 99, 95
+  offset: 0, 0
+  index: -1
+front_body_2
+  rotate: true
+  xy: 299, 2
+  size: 63, 78
+  orig: 63, 78
+  offset: 0, 0
+  index: -1
+front_head_1
+  rotate: false
+  xy: 2, 220
+  size: 232, 283
+  orig: 232, 283
+  offset: 0, 0
+  index: -1
+front_head_1_ef
+  rotate: true
+  xy: 236, 164
+  size: 132, 169
+  orig: 132, 169
+  offset: 0, 0
+  index: -1
+front_left_arm_1
+  rotate: false
+  xy: 182, 30
+  size: 115, 132
+  orig: 115, 132
+  offset: 0, 0
+  index: -1
+front_left_arm_2
+  rotate: false
+  xy: 2, 5
+  size: 178, 213
+  orig: 178, 213
+  offset: 0, 0
+  index: -1
+front_left_arm_2_ef
+  rotate: false
+  xy: 236, 298
+  size: 175, 205
+  orig: 175, 205
+  offset: 0, 0
+  index: -1
+front_left_leg_1
+  rotate: true
+  xy: 379, 4
+  size: 62, 93
+  orig: 62, 93
+  offset: 0, 0
+  index: -1
+front_left_leg_2
+  rotate: true
+  xy: 413, 304
+  size: 98, 76
+  orig: 98, 76
+  offset: 0, 0
+  index: -1
+front_right_arm_1
+  rotate: false
+  xy: 299, 67
+  size: 75, 95
+  orig: 75, 95
+  offset: 0, 0
+  index: -1
+front_right_arm_2
+  rotate: true
+  xy: 445, 107
+  size: 66, 59
+  orig: 66, 59
+  offset: 0, 0
+  index: -1
+front_right_arm_3
+  rotate: false
+  xy: 455, 246
+  size: 52, 56
+  orig: 52, 56
+  offset: 0, 0
+  index: -1
+front_right_leg_1
+  rotate: true
+  xy: 376, 68
+  size: 94, 67
+  orig: 94, 67
+  offset: 0, 0
+  index: -1
+front_right_leg_2
+  rotate: false
+  xy: 407, 175
+  size: 46, 121
+  orig: 46, 121
+  offset: 0, 0
+  index: -1

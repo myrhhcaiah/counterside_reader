@@ -1,0 +1,13 @@
+
+UNIT_ILLUST_DELTA_CA_JAKE_CHUSEOK_BG.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 2, 2
+  size: 1019, 952
+  orig: 1019, 952
+  offset: 0, 0
+  index: -1

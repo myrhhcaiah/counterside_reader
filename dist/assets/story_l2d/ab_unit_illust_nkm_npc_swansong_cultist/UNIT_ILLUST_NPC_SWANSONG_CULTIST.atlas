@@ -1,0 +1,13 @@
+
+UNIT_ILLUST_NPC_SWANSONG_CULTIST.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 2, 2
+  size: 496, 979
+  orig: 496, 979
+  offset: 0, 0
+  index: -1

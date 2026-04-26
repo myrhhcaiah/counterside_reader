@@ -1,0 +1,174 @@
+
+UNIT_ILLUST_M_SL_HEAVY_TANK.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 760, 502
+  size: 175, 93
+  orig: 175, 93
+  offset: 0, 0
+  index: -1
+cover_01
+  rotate: false
+  xy: 2, 650
+  size: 479, 372
+  orig: 479, 372
+  offset: 0, 0
+  index: -1
+cover_02
+  rotate: false
+  xy: 250, 293
+  size: 324, 355
+  orig: 324, 355
+  offset: 0, 0
+  index: -1
+cover_03
+  rotate: false
+  xy: 483, 679
+  size: 365, 343
+  orig: 365, 343
+  offset: 0, 0
+  index: -1
+cover_light
+  rotate: false
+  xy: 483, 665
+  size: 78, 12
+  orig: 78, 12
+  offset: 0, 0
+  index: -1
+joint_01
+  rotate: false
+  xy: 657, 168
+  size: 85, 86
+  orig: 85, 86
+  offset: 0, 0
+  index: -1
+joint_02
+  rotate: false
+  xy: 978, 992
+  size: 17, 30
+  orig: 17, 30
+  offset: 0, 0
+  index: -1
+nail_01
+  rotate: true
+  xy: 576, 256
+  size: 421, 141
+  orig: 421, 141
+  offset: 0, 0
+  index: -1
+nail_cover_01
+  rotate: true
+  xy: 855, 592
+  size: 123, 118
+  orig: 123, 118
+  offset: 0, 0
+  index: -1
+nail_cover_02
+  rotate: false
+  xy: 362, 59
+  size: 155, 130
+  orig: 155, 130
+  offset: 0, 0
+  index: -1
+nail_cover_03
+  rotate: true
+  xy: 850, 717
+  size: 305, 126
+  orig: 305, 126
+  offset: 0, 0
+  index: -1
+nail_cover_05
+  rotate: false
+  xy: 180, 43
+  size: 28, 29
+  orig: 28, 29
+  offset: 0, 0
+  index: -1
+nail_cover_4
+  rotate: false
+  xy: 362, 29
+  size: 135, 28
+  orig: 135, 28
+  offset: 0, 0
+  index: -1
+nail_cover_back
+  rotate: true
+  xy: 875, 411
+  size: 116, 115
+  orig: 116, 115
+  offset: 0, 0
+  index: -1
+nail_cover_back_02
+  rotate: true
+  xy: 760, 343
+  size: 157, 113
+  orig: 157, 113
+  offset: 0, 0
+  index: -1
+nail_light
+  rotate: false
+  xy: 855, 520
+  size: 6, 7
+  orig: 6, 7
+  offset: 0, 0
+  index: -1
+obect_02
+  rotate: true
+  xy: 2, 74
+  size: 574, 246
+  orig: 574, 246
+  offset: 0, 0
+  index: -1
+object_01
+  rotate: true
+  xy: 2, 8
+  size: 64, 176
+  orig: 64, 176
+  offset: 0, 0
+  index: -1
+object_03
+  rotate: true
+  xy: 250, 2
+  size: 187, 110
+  orig: 187, 110
+  offset: 0, 0
+  index: -1
+pipe_01
+  rotate: true
+  xy: 875, 319
+  size: 90, 120
+  orig: 90, 120
+  offset: 0, 0
+  index: -1
+pipe_02
+  rotate: false
+  xy: 855, 529
+  size: 129, 61
+  orig: 129, 61
+  offset: 0, 0
+  index: -1
+pipe_03
+  rotate: false
+  xy: 535, 194
+  size: 120, 60
+  orig: 120, 60
+  offset: 0, 0
+  index: -1
+support_01
+  rotate: true
+  xy: 719, 331
+  size: 346, 39
+  orig: 346, 39
+  offset: 0, 0
+  index: -1
+wheel
+  rotate: false
+  xy: 250, 191
+  size: 283, 100
+  orig: 283, 100
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+UNIT_ILLUST_MOB_NORMAL_PALADIN.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: true
+  xy: 1071, 250
+  size: 616, 853
+  orig: 616, 853
+  offset: 0, 0
+  index: -1
+1_FIX
+  rotate: true
+  xy: 2, 868
+  size: 154, 2014
+  orig: 154, 2014
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 2
+  size: 255, 269
+  orig: 255, 269
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 2, 273
+  size: 593, 1067
+  orig: 593, 1067
+  offset: 0, 0
+  index: -1

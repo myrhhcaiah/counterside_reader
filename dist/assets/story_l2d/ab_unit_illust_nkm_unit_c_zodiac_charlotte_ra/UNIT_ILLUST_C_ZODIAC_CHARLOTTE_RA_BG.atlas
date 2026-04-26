@@ -1,0 +1,111 @@
+
+UNIT_ILLUST_C_ZODIAC_CHARLOTTE_RA_BG.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_01
+  rotate: false
+  xy: 2, 70
+  size: 848, 952
+  orig: 848, 952
+  offset: 0, 0
+  index: -1
+bg_fx_00_01
+  rotate: false
+  xy: 999, 698
+  size: 4, 324
+  orig: 4, 324
+  offset: 0, 0
+  index: -1
+bg_fx_00_02
+  rotate: false
+  xy: 852, 169
+  size: 5, 351
+  orig: 5, 351
+  offset: 0, 0
+  index: -1
+bg_fx_00_03
+  rotate: true
+  xy: 2, 2
+  size: 6, 200
+  orig: 6, 200
+  offset: 0, 0
+  index: -1
+bg_fx_00_08
+  rotate: true
+  xy: 2, 10
+  size: 3, 301
+  orig: 3, 301
+  offset: 0, 0
+  index: -1
+bg_fx_02_01
+  rotate: false
+  xy: 924, 543
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+bg_fx_02_02
+  rotate: false
+  xy: 789, 60
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+bg_fx_02_03
+  rotate: false
+  xy: 1005, 1013
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+bg_xf_01_01
+  rotate: true
+  xy: 2, 15
+  size: 53, 467
+  orig: 53, 467
+  offset: 0, 0
+  index: -1
+bg_xf_01_02
+  rotate: false
+  xy: 924, 555
+  size: 73, 467
+  orig: 73, 467
+  offset: 0, 0
+  index: -1
+bg_xf_01_05
+  rotate: false
+  xy: 852, 522
+  size: 70, 500
+  orig: 70, 500
+  offset: 0, 0
+  index: -1
+bg_xf_01_07
+  rotate: false
+  xy: 859, 397
+  size: 61, 123
+  orig: 61, 123
+  offset: 0, 0
+  index: -1
+bg_xf_01_08
+  rotate: false
+  xy: 859, 296
+  size: 59, 99
+  orig: 59, 99
+  offset: 0, 0
+  index: -1
+bg_xf_01_12
+  rotate: true
+  xy: 471, 2
+  size: 66, 119
+  orig: 66, 119
+  offset: 0, 0
+  index: -1
+bg_xf_01_14
+  rotate: true
+  xy: 592, 3
+  size: 65, 195
+  orig: 65, 195
+  offset: 0, 0
+  index: -1

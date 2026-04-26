@@ -1,0 +1,76 @@
+
+UNIT_ILLUST_ADMIN_CA_BIRDCAGE_BG.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_1
+  rotate: false
+  xy: 2, 32
+  size: 1261, 976
+  orig: 1261, 976
+  offset: 0, 0
+  index: -1
+bg_leaf_1
+  rotate: false
+  xy: 1700, 667
+  size: 207, 341
+  orig: 207, 341
+  offset: 0, 0
+  index: -1
+bg_leaf_2
+  rotate: false
+  xy: 1700, 454
+  size: 145, 211
+  orig: 145, 211
+  offset: 0, 0
+  index: -1
+bg_leaf_3
+  rotate: true
+  xy: 1544, 162
+  size: 155, 139
+  orig: 155, 139
+  offset: 0, 0
+  index: -1
+vine_1
+  rotate: false
+  xy: 1620, 384
+  size: 78, 624
+  orig: 78, 624
+  offset: 0, 0
+  index: -1
+vine_2
+  rotate: false
+  xy: 1468, 83
+  size: 74, 925
+  orig: 74, 925
+  offset: 0, 0
+  index: -1
+vine_3
+  rotate: false
+  xy: 1265, 32
+  size: 78, 976
+  orig: 78, 976
+  offset: 0, 0
+  index: -1
+vine_4
+  rotate: false
+  xy: 1544, 319
+  size: 74, 689
+  orig: 74, 689
+  offset: 0, 0
+  index: -1
+vine_5
+  rotate: false
+  xy: 1345, 2
+  size: 64, 1006
+  orig: 64, 1006
+  offset: 0, 0
+  index: -1
+vine_6
+  rotate: false
+  xy: 1411, 22
+  size: 55, 986
+  orig: 55, 986
+  offset: 0, 0
+  index: -1

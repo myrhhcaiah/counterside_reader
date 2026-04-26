@@ -1,0 +1,13 @@
+
+UNIT_ILLUST_NPC_COUNTER_CAMPAMENTO.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 2, 2
+  size: 504, 963
+  orig: 504, 963
+  offset: 0, 0
+  index: -1

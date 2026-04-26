@@ -1,0 +1,62 @@
+
+UNIT_ILLUST_C_HILDE_FOOLSDAY.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00
+  rotate: true
+  xy: 2, 2
+  size: 1006, 1199
+  orig: 1006, 1199
+  offset: 0, 0
+  index: -1
+DESPAIR
+  rotate: true
+  xy: 1203, 287
+  size: 213, 120
+  orig: 213, 120
+  offset: 0, 0
+  index: -1
+HATE
+  rotate: false
+  xy: 1422, 737
+  size: 217, 132
+  orig: 217, 132
+  offset: 0, 0
+  index: -1
+IDLE
+  rotate: false
+  xy: 1203, 724
+  size: 217, 140
+  orig: 217, 140
+  offset: 0, 0
+  index: -1
+LAUGH
+  rotate: false
+  xy: 1641, 880
+  size: 215, 128
+  orig: 215, 128
+  offset: 0, 0
+  index: -1
+PRIDE
+  rotate: true
+  xy: 1203, 502
+  size: 220, 131
+  orig: 220, 131
+  offset: 0, 0
+  index: -1
+SERIOUS
+  rotate: false
+  xy: 1422, 871
+  size: 217, 137
+  orig: 217, 137
+  offset: 0, 0
+  index: -1
+SUPRISE
+  rotate: false
+  xy: 1203, 866
+  size: 217, 142
+  orig: 217, 142
+  offset: 0, 0
+  index: -1

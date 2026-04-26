@@ -1,0 +1,41 @@
+
+UNIT_ILLUST_CHARADE_C_CRIMSON_CHANGE_BG.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+beer_1
+  rotate: true
+  xy: 76, 4
+  size: 32, 74
+  orig: 33, 74
+  offset: 0, 0
+  index: -1
+beer_2
+  rotate: true
+  xy: 980, 945
+  size: 74, 34
+  orig: 74, 34
+  offset: 0, 0
+  index: -1
+beer_3
+  rotate: true
+  xy: 1, 1
+  size: 35, 74
+  orig: 35, 74
+  offset: 0, 0
+  index: -1
+bg_1
+  rotate: false
+  xy: 1, 37
+  size: 978, 982
+  orig: 978, 982
+  offset: 0, 0
+  index: -1
+bg_shadow_1
+  rotate: false
+  xy: 980, 916
+  size: 27, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1

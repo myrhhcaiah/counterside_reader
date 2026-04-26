@@ -1,0 +1,300 @@
+
+UNIT_ILLUST_C_FALLEN_YUMA.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry_l
+  rotate: false
+  xy: 584, 35
+  size: 59, 47
+  orig: 59, 47
+  offset: 0, 0
+  index: -1
+angry_m
+  rotate: true
+  xy: 774, 218
+  size: 50, 35
+  orig: 50, 35
+  offset: 0, 0
+  index: -1
+angry_r
+  rotate: false
+  xy: 715, 125
+  size: 58, 53
+  orig: 58, 53
+  offset: 0, 0
+  index: -1
+close_l
+  rotate: false
+  xy: 155, 2
+  size: 55, 28
+  orig: 55, 28
+  offset: 0, 0
+  index: -1
+close_r
+  rotate: false
+  xy: 428, 2
+  size: 42, 34
+  orig: 42, 34
+  offset: 0, 0
+  index: -1
+normal_l
+  rotate: false
+  xy: 893, 119
+  size: 55, 46
+  orig: 55, 46
+  offset: 0, 0
+  index: -1
+normal_m
+  rotate: false
+  xy: 379, 2
+  size: 47, 34
+  orig: 47, 34
+  offset: 0, 0
+  index: -1
+normal_r
+  rotate: true
+  xy: 775, 118
+  size: 47, 57
+  orig: 47, 57
+  offset: 0, 0
+  index: -1
+pride_l
+  rotate: false
+  xy: 645, 32
+  size: 62, 41
+  orig: 62, 41
+  offset: 0, 0
+  index: -1
+pride_m
+  rotate: true
+  xy: 982, 275
+  size: 60, 40
+  orig: 60, 40
+  offset: 0, 0
+  index: -1
+pride_r
+  rotate: true
+  xy: 348, 582
+  size: 48, 52
+  orig: 48, 52
+  offset: 0, 0
+  index: -1
+sad_l
+  rotate: false
+  xy: 645, 75
+  size: 61, 47
+  orig: 61, 47
+  offset: 0, 0
+  index: -1
+sad_m
+  rotate: false
+  xy: 996, 494
+  size: 26, 38
+  orig: 26, 38
+  offset: 0, 0
+  index: -1
+sad_r
+  rotate: false
+  xy: 348, 472
+  size: 48, 45
+  orig: 48, 45
+  offset: 0, 0
+  index: -1
+smile_l
+  rotate: true
+  xy: 348, 519
+  size: 61, 49
+  orig: 61, 49
+  offset: 0, 0
+  index: -1
+smile_m
+  rotate: false
+  xy: 212, 2
+  size: 48, 28
+  orig: 48, 28
+  offset: 0, 0
+  index: -1
+smile_r
+  rotate: true
+  xy: 834, 118
+  size: 47, 57
+  orig: 47, 57
+  offset: 0, 0
+  index: -1
+surprise_l
+  rotate: true
+  xy: 982, 212
+  size: 61, 37
+  orig: 61, 37
+  offset: 0, 0
+  index: -1
+surprise_m
+  rotate: false
+  xy: 348, 187
+  size: 17, 37
+  orig: 17, 37
+  offset: 0, 0
+  index: -1
+surprise_r
+  rotate: false
+  xy: 950, 119
+  size: 45, 46
+  orig: 45, 46
+  offset: 0, 0
+  index: -1
+yuma_1
+  rotate: true
+  xy: 811, 337
+  size: 189, 183
+  orig: 189, 183
+  offset: 0, 0
+  index: -1
+yuma_10
+  rotate: false
+  xy: 195, 180
+  size: 151, 450
+  orig: 151, 450
+  offset: 0, 0
+  index: -1
+yuma_11
+  rotate: true
+  xy: 712, 270
+  size: 210, 97
+  orig: 210, 97
+  offset: 0, 0
+  index: -1
+yuma_12
+  rotate: true
+  xy: 916, 655
+  size: 131, 89
+  orig: 131, 89
+  offset: 0, 0
+  index: -1
+yuma_13
+  rotate: false
+  xy: 348, 226
+  size: 254, 239
+  orig: 254, 239
+  offset: 0, 0
+  index: -1
+yuma_14
+  rotate: true
+  xy: 402, 467
+  size: 263, 272
+  orig: 263, 272
+  offset: 0, 0
+  index: -1
+yuma_15
+  rotate: true
+  xy: 584, 84
+  size: 140, 57
+  orig: 140, 57
+  offset: 0, 0
+  index: -1
+yuma_16
+  rotate: false
+  xy: 2, 632
+  size: 398, 390
+  orig: 398, 390
+  offset: 0, 0
+  index: -1
+yuma_2
+  rotate: true
+  xy: 195, 32
+  size: 146, 182
+  orig: 146, 182
+  offset: 0, 0
+  index: -1
+yuma_21
+  rotate: true
+  xy: 676, 482
+  size: 248, 116
+  orig: 248, 116
+  offset: 0, 0
+  index: -1
+yuma_22
+  rotate: true
+  xy: 916, 534
+  size: 119, 103
+  orig: 119, 103
+  offset: 0, 0
+  index: -1
+yuma_23
+  rotate: false
+  xy: 2, 3
+  size: 151, 71
+  orig: 151, 71
+  offset: 0, 0
+  index: -1
+yuma_24
+  rotate: true
+  xy: 794, 528
+  size: 202, 120
+  orig: 202, 120
+  offset: 0, 0
+  index: -1
+yuma_25
+  rotate: true
+  xy: 827, 788
+  size: 234, 175
+  orig: 234, 175
+  offset: 0, 0
+  index: -1
+yuma_26
+  rotate: true
+  xy: 379, 38
+  size: 186, 203
+  orig: 186, 203
+  offset: 0, 0
+  index: -1
+yuma_3
+  rotate: true
+  xy: 827, 738
+  size: 48, 85
+  orig: 48, 85
+  offset: 0, 0
+  index: -1
+yuma_4
+  rotate: true
+  xy: 643, 124
+  size: 113, 70
+  orig: 113, 70
+  offset: 0, 0
+  index: -1
+yuma_5
+  rotate: true
+  xy: 811, 167
+  size: 168, 169
+  orig: 168, 169
+  offset: 0, 0
+  index: -1
+yuma_6
+  rotate: true
+  xy: 604, 239
+  size: 226, 106
+  orig: 226, 106
+  offset: 0, 0
+  index: -1
+yuma_7
+  rotate: true
+  xy: 402, 732
+  size: 290, 423
+  orig: 290, 423
+  offset: 0, 0
+  index: -1
+yuma_8
+  rotate: false
+  xy: 715, 180
+  size: 57, 88
+  orig: 57, 88
+  offset: 0, 0
+  index: -1
+yuma_9
+  rotate: false
+  xy: 2, 76
+  size: 191, 554
+  orig: 191, 554
+  offset: 0, 0
+  index: -1

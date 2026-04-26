@@ -1,0 +1,13 @@
+
+UNIT_ILLUST_NKM_NPC_VARUNA_SHADOW.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 2
+  size: 986, 952
+  orig: 986, 952
+  offset: 0, 0
+  index: -1

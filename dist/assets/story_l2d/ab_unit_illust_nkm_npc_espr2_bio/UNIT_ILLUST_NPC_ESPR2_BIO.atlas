@@ -1,0 +1,69 @@
+
+UNIT_ILLUST_NPC_ESPR2_BIO.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 2, 110
+  size: 471, 906
+  orig: 471, 906
+  offset: 0, 0
+  index: -1
+1
+  rotate: false
+  xy: 475, 237
+  size: 534, 779
+  orig: 534, 779
+  offset: 0, 0
+  index: -1
+BASE
+  rotate: false
+  xy: 334, 21
+  size: 105, 87
+  orig: 105, 87
+  offset: 0, 0
+  index: -1
+DESPAIR
+  rotate: false
+  xy: 583, 143
+  size: 105, 92
+  orig: 105, 92
+  offset: 0, 0
+  index: -1
+LAUGH
+  rotate: false
+  xy: 227, 19
+  size: 105, 89
+  orig: 105, 89
+  offset: 0, 0
+  index: -1
+PRIDE
+  rotate: false
+  xy: 690, 146
+  size: 105, 89
+  orig: 105, 89
+  offset: 0, 0
+  index: -1
+SERIOUS
+  rotate: true
+  xy: 2, 2
+  size: 106, 116
+  orig: 106, 116
+  offset: 0, 0
+  index: -1
+SERIOUS2
+  rotate: false
+  xy: 475, 119
+  size: 106, 116
+  orig: 106, 116
+  offset: 0, 0
+  index: -1
+SUPRISE
+  rotate: false
+  xy: 120, 15
+  size: 105, 93
+  orig: 105, 93
+  offset: 0, 0
+  index: -1

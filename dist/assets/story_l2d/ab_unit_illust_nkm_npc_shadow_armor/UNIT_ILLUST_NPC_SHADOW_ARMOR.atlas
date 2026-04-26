@@ -1,0 +1,69 @@
+
+UNIT_ILLUST_NPC_SHADOW_ARMOR.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_FIX
+  rotate: true
+  xy: 371, 185
+  size: 204, 635
+  orig: 204, 635
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 2, 460
+  size: 558, 1063
+  orig: 558, 1063
+  offset: 0, 0
+  index: -1
+5_1_FIX
+  rotate: true
+  xy: 1067, 328
+  size: 690, 493
+  orig: 690, 493
+  offset: 0, 0
+  index: -1
+5_2_FIX
+  rotate: false
+  xy: 2, 391
+  size: 1047, 67
+  orig: 1047, 67
+  offset: 0, 0
+  index: -1
+6_1_FIX
+  rotate: false
+  xy: 1562, 609
+  size: 393, 409
+  orig: 393, 409
+  offset: 0, 0
+  index: -1
+6_2
+  rotate: false
+  xy: 2, 47
+  size: 367, 342
+  orig: 367, 342
+  offset: 0, 0
+  index: -1
+7_FIX
+  rotate: false
+  xy: 1562, 4
+  size: 179, 603
+  orig: 179, 603
+  offset: 0, 0
+  index: -1
+8_FIX
+  rotate: false
+  xy: 1743, 20
+  size: 163, 587
+  orig: 163, 587
+  offset: 0, 0
+  index: -1
+9
+  rotate: true
+  xy: 371, 2
+  size: 181, 578
+  orig: 181, 578
+  offset: 0, 0
+  index: -1

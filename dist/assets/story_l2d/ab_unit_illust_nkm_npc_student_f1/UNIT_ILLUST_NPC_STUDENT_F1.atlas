@@ -1,0 +1,111 @@
+
+UNIT_ILLUST_NPC_STUDENT_F1.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 442, 135
+  size: 219, 222
+  orig: 219, 222
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 852, 149
+  size: 164, 208
+  orig: 164, 208
+  offset: 0, 0
+  index: -1
+3_fix
+  rotate: true
+  xy: 442, 35
+  size: 98, 236
+  orig: 98, 236
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 442, 359
+  size: 482, 661
+  orig: 482, 661
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 2, 49
+  size: 438, 971
+  orig: 438, 971
+  offset: 0, 0
+  index: -1
+6
+  rotate: true
+  xy: 663, 164
+  size: 193, 187
+  orig: 193, 187
+  offset: 0, 0
+  index: -1
+BASE_FACE
+  rotate: true
+  xy: 926, 762
+  size: 128, 93
+  orig: 128, 93
+  offset: 0, 0
+  index: -1
+base_face_close
+  rotate: false
+  xy: 2, 31
+  size: 121, 16
+  orig: 121, 16
+  offset: 0, 0
+  index: -1
+emotion_despair
+  rotate: true
+  xy: 926, 502
+  size: 128, 86
+  orig: 128, 86
+  offset: 0, 0
+  index: -1
+emotion_hate
+  rotate: true
+  xy: 926, 372
+  size: 128, 86
+  orig: 128, 86
+  offset: 0, 0
+  index: -1
+emotion_hate_effect
+  rotate: true
+  xy: 680, 2
+  size: 160, 130
+  orig: 160, 130
+  offset: 0, 0
+  index: -1
+emotion_laugh
+  rotate: true
+  xy: 918, 21
+  size: 126, 102
+  orig: 126, 102
+  offset: 0, 0
+  index: -1
+emotion_pride
+  rotate: true
+  xy: 926, 892
+  size: 128, 95
+  orig: 128, 95
+  offset: 0, 0
+  index: -1
+emotion_serious
+  rotate: true
+  xy: 926, 632
+  size: 128, 93
+  orig: 128, 93
+  offset: 0, 0
+  index: -1
+emotion_surprise
+  rotate: true
+  xy: 812, 19
+  size: 128, 104
+  orig: 128, 104
+  offset: 0, 0
+  index: -1

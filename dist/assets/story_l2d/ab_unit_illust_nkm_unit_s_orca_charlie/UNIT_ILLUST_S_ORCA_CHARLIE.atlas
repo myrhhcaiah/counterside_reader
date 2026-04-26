@@ -1,0 +1,223 @@
+
+UNIT_ILLUST_S_ORCA_CHARLIE.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_l_0
+  rotate: true
+  xy: 356, 35
+  size: 401, 240
+  orig: 401, 240
+  offset: 0, 0
+  index: -1
+arm_r_r30_0
+  rotate: true
+  xy: 893, 776
+  size: 245, 114
+  orig: 245, 114
+  offset: 0, 0
+  index: -1
+arm_r_r40_1
+  rotate: true
+  xy: 787, 491
+  size: 240, 104
+  orig: 240, 104
+  offset: 0, 0
+  index: -1
+belt_0
+  rotate: true
+  xy: 787, 733
+  size: 288, 104
+  orig: 288, 104
+  offset: 0, 0
+  index: -1
+body_r10_0
+  rotate: false
+  xy: 2, 2
+  size: 352, 1019
+  orig: 352, 1019
+  offset: 0, 0
+  index: -1
+ear_0
+  rotate: true
+  xy: 356, 8
+  size: 25, 40
+  orig: 25, 40
+  offset: 0, 0
+  index: -1
+emotion_despair
+  rotate: false
+  xy: 598, 232
+  size: 61, 74
+  orig: 61, 74
+  offset: 0, 0
+  index: -1
+emotion_despair_mouth
+  rotate: true
+  xy: 740, 472
+  size: 51, 45
+  orig: 51, 45
+  offset: 0, 0
+  index: -1
+emotion_guide
+  rotate: false
+  xy: 598, 156
+  size: 61, 74
+  orig: 61, 74
+  offset: 0, 0
+  index: -1
+emotion_hate
+  rotate: false
+  xy: 598, 80
+  size: 61, 74
+  orig: 61, 74
+  offset: 0, 0
+  index: -1
+emotion_hate_mouth
+  rotate: true
+  xy: 661, 47
+  size: 49, 41
+  orig: 49, 41
+  offset: 0, 0
+  index: -1
+emotion_laugh
+  rotate: false
+  xy: 690, 394
+  size: 61, 74
+  orig: 61, 74
+  offset: 0, 0
+  index: -1
+emotion_laugh_mouth
+  rotate: true
+  xy: 661, 149
+  size: 50, 46
+  orig: 50, 46
+  offset: 0, 0
+  index: -1
+emotion_normal
+  rotate: false
+  xy: 690, 318
+  size: 61, 74
+  orig: 61, 74
+  offset: 0, 0
+  index: -1
+emotion_normal_mouth
+  rotate: true
+  xy: 661, 201
+  size: 51, 45
+  orig: 51, 45
+  offset: 0, 0
+  index: -1
+emotion_pride
+  rotate: false
+  xy: 598, 4
+  size: 61, 74
+  orig: 61, 74
+  offset: 0, 0
+  index: -1
+emotion_pride_mouth
+  rotate: true
+  xy: 661, 98
+  size: 49, 45
+  orig: 49, 45
+  offset: 0, 0
+  index: -1
+emotion_serious
+  rotate: false
+  xy: 753, 396
+  size: 61, 74
+  orig: 61, 74
+  offset: 0, 0
+  index: -1
+emotion_serious_mouth
+  rotate: true
+  xy: 661, 254
+  size: 52, 39
+  orig: 52, 39
+  offset: 0, 0
+  index: -1
+emotion_surprise
+  rotate: false
+  xy: 753, 320
+  size: 61, 74
+  orig: 61, 74
+  offset: 0, 0
+  index: -1
+emotion_surprise_mouth
+  rotate: false
+  xy: 661, 5
+  size: 45, 40
+  orig: 45, 40
+  offset: 0, 0
+  index: -1
+emotion_surprise_sweat
+  rotate: true
+  xy: 893, 491
+  size: 6, 9
+  orig: 6, 9
+  offset: 0, 0
+  index: -1
+eyes_l_close
+  rotate: true
+  xy: 579, 439
+  size: 29, 17
+  orig: 29, 17
+  offset: 0, 0
+  index: -1
+eyes_r_close
+  rotate: true
+  xy: 1009, 1005
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 893, 628
+  size: 121, 146
+  orig: 121, 146
+  offset: 0, 0
+  index: -1
+gun_r40_6500_0
+  rotate: true
+  xy: 579, 525
+  size: 496, 206
+  orig: 496, 206
+  offset: 0, 0
+  index: -1
+hand_r_0
+  rotate: true
+  xy: 893, 499
+  size: 127, 105
+  orig: 127, 105
+  offset: 0, 0
+  index: -1
+leg_r_0080_0
+  rotate: false
+  xy: 356, 438
+  size: 221, 583
+  orig: 221, 583
+  offset: 0, 0
+  index: -1
+leg_r_1
+  rotate: true
+  xy: 579, 470
+  size: 53, 159
+  orig: 53, 159
+  offset: 0, 0
+  index: -1
+nose_0
+  rotate: false
+  xy: 1000, 592
+  size: 22, 34
+  orig: 22, 34
+  offset: 0, 0
+  index: -1
+pocket_r15_0
+  rotate: false
+  xy: 598, 308
+  size: 90, 160
+  orig: 90, 160
+  offset: 0, 0
+  index: -1

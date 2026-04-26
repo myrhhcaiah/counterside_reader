@@ -1,0 +1,265 @@
+
+UNIT_ILLUST_C_VATICAN_CLOUDIA.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+eye_1
+  rotate: false
+  xy: 302, 644
+  size: 77, 22
+  orig: 77, 22
+  offset: 0, 0
+  index: -1
+eye_2
+  rotate: false
+  xy: 740, 28
+  size: 80, 60
+  orig: 80, 60
+  offset: 0, 0
+  index: -1
+eye_3
+  rotate: false
+  xy: 575, 25
+  size: 81, 63
+  orig: 81, 63
+  offset: 0, 0
+  index: -1
+eye_4
+  rotate: false
+  xy: 451, 40
+  size: 80, 65
+  orig: 80, 65
+  offset: 0, 0
+  index: -1
+eye_5
+  rotate: true
+  xy: 1008, 690
+  size: 56, 14
+  orig: 56, 14
+  offset: 0, 0
+  index: -1
+eye_6
+  rotate: false
+  xy: 807, 339
+  size: 88, 39
+  orig: 88, 39
+  offset: 0, 0
+  index: -1
+eye_7
+  rotate: false
+  xy: 368, 40
+  size: 81, 65
+  orig: 81, 65
+  offset: 0, 0
+  index: -1
+eye_8
+  rotate: true
+  xy: 822, 8
+  size: 80, 59
+  orig: 80, 59
+  offset: 0, 0
+  index: -1
+eye_9
+  rotate: false
+  xy: 658, 25
+  size: 80, 63
+  orig: 80, 63
+  offset: 0, 0
+  index: -1
+mouse_1
+  rotate: false
+  xy: 591, 250
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+mouse_2
+  rotate: false
+  xy: 2, 2
+  size: 21, 10
+  orig: 21, 10
+  offset: 0, 0
+  index: -1
+ob_1
+  rotate: true
+  xy: 533, 47
+  size: 58, 40
+  orig: 58, 40
+  offset: 0, 0
+  index: -1
+ob_10
+  rotate: false
+  xy: 627, 329
+  size: 178, 278
+  orig: 178, 278
+  offset: 0, 0
+  index: -1
+ob_11
+  rotate: true
+  xy: 192, 109
+  size: 136, 100
+  orig: 136, 100
+  offset: 0, 0
+  index: -1
+ob_12_1
+  rotate: false
+  xy: 931, 673
+  size: 75, 73
+  orig: 75, 73
+  offset: 0, 0
+  index: -1
+ob_12_2
+  rotate: false
+  xy: 931, 748
+  size: 78, 82
+  orig: 78, 82
+  offset: 0, 0
+  index: -1
+ob_13
+  rotate: false
+  xy: 2, 106
+  size: 188, 142
+  orig: 188, 142
+  offset: 0, 0
+  index: -1
+ob_14
+  rotate: true
+  xy: 716, 645
+  size: 172, 61
+  orig: 172, 61
+  offset: 0, 0
+  index: -1
+ob_15
+  rotate: false
+  xy: 198, 247
+  size: 102, 419
+  orig: 102, 419
+  offset: 0, 0
+  index: -1
+ob_16
+  rotate: true
+  xy: 302, 268
+  size: 152, 314
+  orig: 152, 314
+  offset: 0, 0
+  index: -1
+ob_17
+  rotate: false
+  xy: 2, 668
+  size: 377, 354
+  orig: 377, 354
+  offset: 0, 0
+  index: -1
+ob_18
+  rotate: true
+  xy: 185, 2
+  size: 86, 181
+  orig: 86, 181
+  offset: 0, 0
+  index: -1
+ob_2
+  rotate: false
+  xy: 892, 96
+  size: 118, 104
+  orig: 118, 104
+  offset: 0, 0
+  index: -1
+ob_20
+  rotate: false
+  xy: 807, 380
+  size: 114, 137
+  orig: 114, 137
+  offset: 0, 0
+  index: -1
+ob_212
+  rotate: true
+  xy: 302, 107
+  size: 159, 287
+  orig: 159, 287
+  offset: 0, 0
+  index: -1
+ob_23
+  rotate: true
+  xy: 618, 141
+  size: 186, 272
+  orig: 186, 272
+  offset: 0, 0
+  index: -1
+ob_23_1_1
+  rotate: true
+  xy: 381, 819
+  size: 203, 382
+  orig: 203, 382
+  offset: 0, 0
+  index: -1
+ob_23_1_2
+  rotate: false
+  xy: 381, 609
+  size: 333, 208
+  orig: 333, 208
+  offset: 0, 0
+  index: -1
+ob_23_1_3
+  rotate: false
+  xy: 2, 250
+  size: 194, 416
+  orig: 194, 416
+  offset: 0, 0
+  index: -1
+ob_23_1_4
+  rotate: false
+  xy: 302, 422
+  size: 323, 185
+  orig: 323, 185
+  offset: 0, 0
+  index: -1
+ob_3
+  rotate: true
+  xy: 591, 90
+  size: 49, 276
+  orig: 49, 276
+  offset: 0, 0
+  index: -1
+ob_4
+  rotate: false
+  xy: 779, 670
+  size: 150, 160
+  orig: 150, 160
+  offset: 0, 0
+  index: -1
+ob_5
+  rotate: true
+  xy: 2, 14
+  size: 90, 181
+  orig: 90, 181
+  offset: 0, 0
+  index: -1
+ob_6
+  rotate: false
+  xy: 869, 107
+  size: 21, 32
+  orig: 21, 32
+  offset: 0, 0
+  index: -1
+ob_7
+  rotate: true
+  xy: 892, 202
+  size: 135, 124
+  orig: 135, 124
+  offset: 0, 0
+  index: -1
+ob_8
+  rotate: true
+  xy: 765, 832
+  size: 190, 237
+  orig: 190, 237
+  offset: 0, 0
+  index: -1
+ob_9
+  rotate: true
+  xy: 807, 519
+  size: 149, 114
+  orig: 149, 114
+  offset: 0, 0
+  index: -1

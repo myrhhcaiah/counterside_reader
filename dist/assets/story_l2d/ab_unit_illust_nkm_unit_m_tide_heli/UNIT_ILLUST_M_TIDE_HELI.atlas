@@ -1,0 +1,174 @@
+
+UNIT_ILLUST_M_TIDE_HELI.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 357
+  size: 557, 653
+  orig: 557, 653
+  offset: 0, 0
+  index: -1
+gun
+  rotate: false
+  xy: 321, 206
+  size: 176, 149
+  orig: 176, 149
+  offset: 0, 0
+  index: -1
+gun_thing_01
+  rotate: false
+  xy: 284, 136
+  size: 26, 44
+  orig: 26, 44
+  offset: 0, 0
+  index: -1
+gun_thing_02
+  rotate: false
+  xy: 321, 187
+  size: 33, 17
+  orig: 33, 17
+  offset: 0, 0
+  index: -1
+light_01
+  rotate: false
+  xy: 561, 421
+  size: 78, 76
+  orig: 78, 76
+  offset: 0, 0
+  index: -1
+light_02
+  rotate: false
+  xy: 561, 369
+  size: 55, 50
+  orig: 55, 50
+  offset: 0, 0
+  index: -1
+lighting_01
+  rotate: false
+  xy: 253, 86
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+lighting_02
+  rotate: false
+  xy: 671, 429
+  size: 15, 21
+  orig: 15, 21
+  offset: 0, 0
+  index: -1
+thing _01
+  rotate: true
+  xy: 499, 277
+  size: 78, 50
+  orig: 78, 50
+  offset: 0, 0
+  index: -1
+thing_02
+  rotate: false
+  xy: 210, 113
+  size: 72, 67
+  orig: 72, 67
+  offset: 0, 0
+  index: -1
+thing_03
+  rotate: false
+  xy: 671, 452
+  size: 37, 45
+  orig: 37, 45
+  offset: 0, 0
+  index: -1
+thing_04
+  rotate: false
+  xy: 2, 182
+  size: 317, 173
+  orig: 317, 173
+  offset: 0, 0
+  index: -1
+wheel_01
+  rotate: false
+  xy: 210, 68
+  size: 41, 43
+  orig: 41, 43
+  offset: 0, 0
+  index: -1
+wheel_02
+  rotate: false
+  xy: 499, 233
+  size: 41, 42
+  orig: 41, 42
+  offset: 0, 0
+  index: -1
+wheel_light
+  rotate: false
+  xy: 210, 34
+  size: 35, 32
+  orig: 35, 32
+  offset: 0, 0
+  index: -1
+wheel_light_02
+  rotate: false
+  xy: 499, 209
+  size: 25, 22
+  orig: 25, 22
+  offset: 0, 0
+  index: -1
+wheel_thing_01
+  rotate: true
+  xy: 2, 2
+  size: 28, 67
+  orig: 28, 67
+  offset: 0, 0
+  index: -1
+wheel_thing_02
+  rotate: true
+  xy: 71, 4
+  size: 26, 35
+  orig: 26, 35
+  offset: 0, 0
+  index: -1
+wheel_thing_03
+  rotate: true
+  xy: 641, 421
+  size: 13, 28
+  orig: 13, 28
+  offset: 0, 0
+  index: -1
+wheel_thing_04
+  rotate: false
+  xy: 710, 452
+  size: 37, 45
+  orig: 37, 45
+  offset: 0, 0
+  index: -1
+wheel_thing_05
+  rotate: false
+  xy: 641, 436
+  size: 28, 61
+  orig: 28, 61
+  offset: 0, 0
+  index: -1
+wheel_thing_06
+  rotate: true
+  xy: 618, 396
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+wing_02
+  rotate: true
+  xy: 2, 32
+  size: 148, 206
+  orig: 148, 206
+  offset: 0, 0
+  index: -1
+wing_1
+  rotate: true
+  xy: 561, 499
+  size: 511, 450
+  orig: 511, 450
+  offset: 0, 0
+  index: -1

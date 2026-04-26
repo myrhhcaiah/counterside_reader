@@ -1,0 +1,167 @@
+
+UNIT_ILLUST_FALLEN_CA_ROSARIA_SPECIAL_INTRO.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back_hair_1
+  rotate: false
+  xy: 1397, 535
+  size: 361, 465
+  orig: 361, 465
+  offset: 0, 0
+  index: -1
+back_hair_2
+  rotate: true
+  xy: 979, 164
+  size: 351, 460
+  orig: 351, 460
+  offset: 0, 0
+  index: -1
+bg_1
+  rotate: false
+  xy: 2, 204
+  size: 975, 369
+  orig: 975, 369
+  offset: 0, 0
+  index: -1
+bg_2
+  rotate: false
+  xy: 2, 575
+  size: 975, 425
+  orig: 975, 425
+  offset: 0, 0
+  index: -1
+body_1
+  rotate: false
+  xy: 1349, 35
+  size: 95, 127
+  orig: 95, 127
+  offset: 0, 0
+  index: -1
+body_2
+  rotate: false
+  xy: 1244, 35
+  size: 103, 127
+  orig: 103, 127
+  offset: 0, 0
+  index: -1
+body_3
+  rotate: false
+  xy: 1760, 632
+  size: 241, 368
+  orig: 241, 368
+  offset: 0, 0
+  index: -1
+face_1
+  rotate: false
+  xy: 2, 2
+  size: 57, 14
+  orig: 57, 14
+  offset: 0, 0
+  index: -1
+face_2
+  rotate: false
+  xy: 1953, 567
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+face_3
+  rotate: false
+  xy: 1441, 164
+  size: 63, 14
+  orig: 63, 14
+  offset: 0, 0
+  index: -1
+face_4
+  rotate: false
+  xy: 1953, 504
+  size: 63, 61
+  orig: 63, 61
+  offset: 0, 0
+  index: -1
+face_5
+  rotate: false
+  xy: 398, 20
+  size: 22, 10
+  orig: 22, 10
+  offset: 0, 0
+  index: -1
+face_6
+  rotate: false
+  xy: 1397, 526
+  size: 29, 7
+  orig: 29, 7
+  offset: 0, 0
+  index: -1
+front_hair_1
+  rotate: true
+  xy: 398, 32
+  size: 170, 379
+  orig: 170, 379
+  offset: 0, 0
+  index: -1
+front_hair_2
+  rotate: true
+  xy: 1441, 180
+  size: 353, 330
+  orig: 353, 330
+  offset: 0, 0
+  index: -1
+fx_1
+  rotate: false
+  xy: 779, 53
+  size: 173, 149
+  orig: 173, 149
+  offset: 0, 0
+  index: -1
+fx_2
+  rotate: false
+  xy: 1105, 34
+  size: 137, 128
+  orig: 137, 128
+  offset: 0, 0
+  index: -1
+fx_3
+  rotate: false
+  xy: 954, 39
+  size: 149, 123
+  orig: 149, 123
+  offset: 0, 0
+  index: -1
+hand
+  rotate: true
+  xy: 1773, 354
+  size: 276, 178
+  orig: 276, 178
+  offset: 0, 0
+  index: -1
+head_1
+  rotate: true
+  xy: 1773, 199
+  size: 153, 243
+  orig: 153, 243
+  offset: 0, 0
+  index: -1
+head_2
+  rotate: false
+  xy: 2, 18
+  size: 394, 184
+  orig: 394, 184
+  offset: 0, 0
+  index: -1
+hilde
+  rotate: false
+  xy: 979, 517
+  size: 416, 483
+  orig: 416, 483
+  offset: 0, 0
+  index: -1
+nose
+  rotate: false
+  xy: 1773, 180
+  size: 24, 17
+  orig: 24, 17
+  offset: 0, 0
+  index: -1

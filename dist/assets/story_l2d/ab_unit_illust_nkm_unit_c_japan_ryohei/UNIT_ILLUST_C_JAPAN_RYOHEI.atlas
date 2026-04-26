@@ -1,0 +1,349 @@
+
+UNIT_ILLUST_C_JAPAN_RYOHEI.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+N_0
+  rotate: false
+  xy: 527, 331
+  size: 201, 172
+  orig: 201, 172
+  offset: 0, 0
+  index: -1
+N_0_1
+  rotate: true
+  xy: 961, 311
+  size: 67, 33
+  orig: 67, 33
+  offset: 0, 0
+  index: -1
+N_1_1
+  rotate: false
+  xy: 532, 13
+  size: 65, 45
+  orig: 65, 45
+  offset: 0, 0
+  index: -1
+N_1_2
+  rotate: true
+  xy: 996, 923
+  size: 64, 25
+  orig: 64, 25
+  offset: 0, 0
+  index: -1
+N_1_3
+  rotate: false
+  xy: 730, 463
+  size: 62, 40
+  orig: 62, 40
+  offset: 0, 0
+  index: -1
+N_1_4
+  rotate: true
+  xy: 599, 8
+  size: 50, 30
+  orig: 50, 30
+  offset: 0, 0
+  index: -1
+N_2
+  rotate: false
+  xy: 2, 132
+  size: 164, 890
+  orig: 164, 890
+  offset: 0, 0
+  index: -1
+N_2_1
+  rotate: false
+  xy: 942, 71
+  size: 74, 92
+  orig: 74, 92
+  offset: 0, 0
+  index: -1
+N_2_2
+  rotate: false
+  xy: 770, 138
+  size: 63, 240
+  orig: 63, 240
+  offset: 0, 0
+  index: -1
+N_3
+  rotate: true
+  xy: 168, 137
+  size: 81, 261
+  orig: 81, 261
+  offset: 0, 0
+  index: -1
+N_4
+  rotate: false
+  xy: 168, 321
+  size: 357, 185
+  orig: 357, 185
+  offset: 0, 0
+  index: -1
+N_5_1
+  rotate: true
+  xy: 431, 123
+  size: 95, 118
+  orig: 95, 118
+  offset: 0, 0
+  index: -1
+N_5_2
+  rotate: true
+  xy: 730, 337
+  size: 41, 38
+  orig: 41, 38
+  offset: 0, 0
+  index: -1
+N_6_1
+  rotate: true
+  xy: 2, 25
+  size: 105, 217
+  orig: 105, 217
+  offset: 0, 0
+  index: -1
+N_6_2
+  rotate: true
+  xy: 730, 380
+  size: 78, 261
+  orig: 78, 261
+  offset: 0, 0
+  index: -1
+N_6_3
+  rotate: false
+  xy: 168, 508
+  size: 443, 514
+  orig: 443, 514
+  offset: 0, 0
+  index: -1
+N_6_4
+  rotate: true
+  xy: 221, 4
+  size: 131, 201
+  orig: 131, 201
+  offset: 0, 0
+  index: -1
+N_7_1
+  rotate: false
+  xy: 613, 505
+  size: 207, 517
+  orig: 207, 517
+  offset: 0, 0
+  index: -1
+N_7_2
+  rotate: false
+  xy: 835, 165
+  size: 120, 104
+  orig: 120, 104
+  offset: 0, 0
+  index: -1
+N_7_3
+  rotate: false
+  xy: 822, 558
+  size: 172, 464
+  orig: 172, 464
+  offset: 0, 0
+  index: -1
+N_7_4
+  rotate: false
+  xy: 822, 460
+  size: 180, 96
+  orig: 180, 96
+  offset: 0, 0
+  index: -1
+N_8
+  rotate: true
+  xy: 168, 220
+  size: 99, 391
+  orig: 99, 391
+  offset: 0, 0
+  index: -1
+N_BASE_FACE
+  rotate: false
+  xy: 561, 120
+  size: 207, 209
+  orig: 207, 209
+  offset: 0, 0
+  index: -1
+N_BASE_FACE_SHADOW
+  rotate: false
+  xy: 835, 271
+  size: 124, 107
+  orig: 124, 107
+  offset: 0, 0
+  index: -1
+N_EMOTION_DESPAIR
+  rotate: false
+  xy: 424, 2
+  size: 106, 57
+  orig: 106, 57
+  offset: 0, 0
+  index: -1
+N_EMOTION_DESPAIR_MOUTH
+  rotate: true
+  xy: 1011, 858
+  size: 27, 11
+  orig: 27, 11
+  offset: 0, 0
+  index: -1
+N_EMOTION_DESPAIR_SWEAT
+  rotate: true
+  xy: 527, 324
+  size: 5, 17
+  orig: 5, 17
+  offset: 0, 0
+  index: -1
+N_EMOTION_HATE
+  rotate: false
+  xy: 645, 59
+  size: 105, 59
+  orig: 105, 59
+  offset: 0, 0
+  index: -1
+N_EMOTION_HATE_MOUTH
+  rotate: true
+  xy: 1011, 887
+  size: 34, 11
+  orig: 34, 11
+  offset: 0, 0
+  index: -1
+N_EMOTION_LAUGH
+  rotate: false
+  xy: 535, 60
+  size: 108, 58
+  orig: 108, 58
+  offset: 0, 0
+  index: -1
+N_EMOTION_LAUGH_MOUTH
+  rotate: true
+  xy: 996, 885
+  size: 36, 13
+  orig: 36, 13
+  offset: 0, 0
+  index: -1
+N_EMOTION_PRIDE
+  rotate: false
+  xy: 835, 101
+  size: 105, 62
+  orig: 105, 62
+  offset: 0, 0
+  index: -1
+N_EMOTION_PRIDE_MOUTH
+  rotate: true
+  xy: 961, 271
+  size: 38, 12
+  orig: 38, 12
+  offset: 0, 0
+  index: -1
+N_EMOTION_SERIOUS
+  rotate: true
+  xy: 957, 166
+  size: 103, 64
+  orig: 103, 64
+  offset: 0, 0
+  index: -1
+N_EMOTION_SERIOUS_MOUTH
+  rotate: false
+  xy: 752, 64
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+N_EMOTION_SURPRISE
+  rotate: false
+  xy: 424, 61
+  size: 109, 60
+  orig: 109, 60
+  offset: 0, 0
+  index: -1
+N_EMOTION_SURPRISE_MOUTH
+  rotate: true
+  xy: 794, 472
+  size: 31, 22
+  orig: 31, 22
+  offset: 0, 0
+  index: -1
+N_FACE_BASE_EYE_EYEBOW
+  rotate: false
+  xy: 51, 10
+  size: 35, 13
+  orig: 35, 13
+  offset: 0, 0
+  index: -1
+N_FACE_BASE_EYE_L
+  rotate: false
+  xy: 781, 67
+  size: 19, 25
+  orig: 19, 25
+  offset: 0, 0
+  index: -1
+N_FACE_BASE_EYE_L_BACK
+  rotate: true
+  xy: 996, 989
+  size: 33, 26
+  orig: 33, 26
+  offset: 0, 0
+  index: -1
+N_FACE_BASE_EYE_L_CLOSE
+  rotate: true
+  xy: 816, 97
+  size: 39, 17
+  orig: 39, 17
+  offset: 0, 0
+  index: -1
+N_FACE_BASE_EYE_L_COVER
+  rotate: false
+  xy: 770, 106
+  size: 44, 30
+  orig: 44, 30
+  offset: 0, 0
+  index: -1
+N_FACE_BASE_EYE_L_EYEBOW
+  rotate: false
+  xy: 2, 8
+  size: 47, 15
+  orig: 47, 15
+  offset: 0, 0
+  index: -1
+N_FACE_BASE_EYE_R
+  rotate: false
+  xy: 752, 94
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+N_FACE_BASE_EYE_R_BACK
+  rotate: true
+  xy: 993, 433
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+N_FACE_BASE_EYE_R_CLOSE
+  rotate: false
+  xy: 770, 94
+  size: 28, 10
+  orig: 28, 10
+  offset: 0, 0
+  index: -1
+N_FACE_BASE_EYE_R_COVER
+  rotate: true
+  xy: 975, 277
+  size: 32, 30
+  orig: 32, 30
+  offset: 0, 0
+  index: -1
+N_FACE_BASE_MOUTH
+  rotate: false
+  xy: 532, 2
+  size: 30, 9
+  orig: 30, 9
+  offset: 0, 0
+  index: -1
+N_FACE_BASE_NOSE
+  rotate: true
+  xy: 564, 2
+  size: 9, 16
+  orig: 9, 16
+  offset: 0, 0
+  index: -1

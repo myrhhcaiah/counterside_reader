@@ -1,0 +1,83 @@
+
+UNIT_ILLUST_MONSTER_BOSS_REGEN_KNIGHT.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: true
+  xy: 644, 520
+  size: 132, 287
+  orig: 132, 287
+  offset: 0, 0
+  index: -1
+1
+  rotate: false
+  xy: 2, 72
+  size: 715, 357
+  orig: 715, 357
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 431
+  size: 640, 578
+  orig: 640, 578
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 644, 654
+  size: 347, 355
+  orig: 347, 355
+  offset: 0, 0
+  index: -1
+BASEFACE
+  rotate: true
+  xy: 644, 431
+  size: 87, 60
+  orig: 87, 60
+  offset: 0, 0
+  index: -1
+DESPAIR
+  rotate: false
+  xy: 180, 11
+  size: 85, 59
+  orig: 85, 59
+  offset: 0, 0
+  index: -1
+HATE
+  rotate: false
+  xy: 2, 2
+  size: 88, 68
+  orig: 88, 68
+  offset: 0, 0
+  index: -1
+LAUGH
+  rotate: false
+  xy: 92, 11
+  size: 86, 59
+  orig: 86, 59
+  offset: 0, 0
+  index: -1
+PRIDE
+  rotate: false
+  xy: 768, 458
+  size: 86, 60
+  orig: 86, 60
+  offset: 0, 0
+  index: -1
+SERIOUS
+  rotate: true
+  xy: 706, 431
+  size: 87, 60
+  orig: 87, 60
+  offset: 0, 0
+  index: -1
+SURPRISE
+  rotate: true
+  xy: 933, 567
+  size: 85, 54
+  orig: 85, 54
+  offset: 0, 0
+  index: -1

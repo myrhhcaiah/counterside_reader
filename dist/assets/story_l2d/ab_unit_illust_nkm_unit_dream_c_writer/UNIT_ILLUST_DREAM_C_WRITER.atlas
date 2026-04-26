@@ -1,0 +1,13 @@
+
+UNIT_ILLUST_DREAM_C_WRITER.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+UNIT_ILLUST_DREAM_C_WRITER
+  rotate: false
+  xy: 0, 0
+  size: 1021, 973
+  orig: 1024, 1024
+  offset: 1, 50
+  index: -1

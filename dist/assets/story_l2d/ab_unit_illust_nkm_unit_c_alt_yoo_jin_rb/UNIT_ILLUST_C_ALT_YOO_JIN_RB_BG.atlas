@@ -1,0 +1,69 @@
+
+UNIT_ILLUST_C_ALT_YOO_JIN_RB_BG.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back_1
+  rotate: true
+  xy: 693, 621
+  size: 401, 271
+  orig: 401, 271
+  offset: 0, 0
+  index: -1
+back_2
+  rotate: false
+  xy: 2, 33
+  size: 689, 989
+  orig: 689, 989
+  offset: 0, 0
+  index: -1
+bullet_1
+  rotate: false
+  xy: 966, 990
+  size: 40, 32
+  orig: 40, 32
+  offset: 0, 0
+  index: -1
+bullet_2
+  rotate: false
+  xy: 737, 593
+  size: 23, 26
+  orig: 23, 26
+  offset: 0, 0
+  index: -1
+bullet_3
+  rotate: false
+  xy: 693, 559
+  size: 23, 27
+  orig: 23, 27
+  offset: 0, 0
+  index: -1
+bullet_4
+  rotate: false
+  xy: 966, 968
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+bullet_5
+  rotate: false
+  xy: 2, 2
+  size: 18, 29
+  orig: 18, 29
+  offset: 0, 0
+  index: -1
+bullet_6
+  rotate: true
+  xy: 22, 2
+  size: 29, 16
+  orig: 29, 16
+  offset: 0, 0
+  index: -1
+bullet_7
+  rotate: false
+  xy: 693, 588
+  size: 42, 31
+  orig: 42, 31
+  offset: 0, 0
+  index: -1

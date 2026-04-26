@@ -1,0 +1,13 @@
+
+UNIT_ILLUST_GAMECIRCLE_C_STAR_PARTY.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+UNIT_ILLUST_GAMECIRCLE_C_STAR_PARTY
+  rotate: false
+  xy: 0, 0
+  size: 2045, 974
+  orig: 2048, 1024
+  offset: 1, 49
+  index: -1

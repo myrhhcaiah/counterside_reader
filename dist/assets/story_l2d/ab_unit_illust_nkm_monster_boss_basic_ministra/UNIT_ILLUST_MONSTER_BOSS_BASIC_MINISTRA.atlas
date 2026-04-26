@@ -1,0 +1,188 @@
+
+UNIT_ILLUST_MONSTER_BOSS_BASIC_MINISTRA.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_01
+  rotate: true
+  xy: 673, 281
+  size: 102, 74
+  orig: 102, 74
+  offset: 0, 0
+  index: -1
+arm_02
+  rotate: false
+  xy: 745, 39
+  size: 124, 47
+  orig: 124, 47
+  offset: 0, 0
+  index: -1
+arm_03
+  rotate: true
+  xy: 2, 3
+  size: 16, 70
+  orig: 16, 70
+  offset: 0, 0
+  index: -1
+arm_04
+  rotate: true
+  xy: 74, 4
+  size: 15, 51
+  orig: 15, 51
+  offset: 0, 0
+  index: -1
+arm_05
+  rotate: false
+  xy: 284, 9
+  size: 7, 10
+  orig: 7, 10
+  offset: 0, 0
+  index: -1
+body_01
+  rotate: true
+  xy: 315, 756
+  size: 266, 588
+  orig: 266, 588
+  offset: 0, 0
+  index: -1
+body_04
+  rotate: true
+  xy: 315, 495
+  size: 259, 440
+  orig: 259, 440
+  offset: 0, 0
+  index: -1
+body_08
+  rotate: true
+  xy: 2, 21
+  size: 449, 361
+  orig: 449, 361
+  offset: 0, 0
+  index: -1
+body_11
+  rotate: false
+  xy: 905, 604
+  size: 71, 418
+  orig: 71, 418
+  offset: 0, 0
+  index: -1
+body_13
+  rotate: true
+  xy: 757, 206
+  size: 396, 262
+  orig: 396, 262
+  offset: 0, 0
+  index: -1
+body_14
+  rotate: true
+  xy: 673, 385
+  size: 108, 71
+  orig: 108, 71
+  offset: 0, 0
+  index: -1
+body_15
+  rotate: true
+  xy: 745, 88
+  size: 116, 64
+  orig: 116, 64
+  offset: 0, 0
+  index: -1
+body_16
+  rotate: true
+  xy: 365, 37
+  size: 167, 378
+  orig: 167, 378
+  offset: 0, 0
+  index: -1
+fride
+  rotate: false
+  xy: 978, 885
+  size: 42, 34
+  orig: 42, 34
+  offset: 0, 0
+  index: -1
+hate
+  rotate: false
+  xy: 127, 7
+  size: 34, 12
+  orig: 34, 12
+  offset: 0, 0
+  index: -1
+head_01
+  rotate: true
+  xy: 757, 630
+  size: 124, 136
+  orig: 124, 136
+  offset: 0, 0
+  index: -1
+head_03
+  rotate: true
+  xy: 163, 2
+  size: 17, 22
+  orig: 17, 22
+  offset: 0, 0
+  index: -1
+head_04
+  rotate: true
+  xy: 187, 3
+  size: 16, 21
+  orig: 16, 21
+  offset: 0, 0
+  index: -1
+head_05
+  rotate: false
+  xy: 365, 225
+  size: 306, 268
+  orig: 306, 268
+  offset: 0, 0
+  index: -1
+head_06
+  rotate: false
+  xy: 245, 4
+  size: 14, 7
+  orig: 14, 7
+  offset: 0, 0
+  index: -1
+head_07
+  rotate: false
+  xy: 210, 6
+  size: 33, 5
+  orig: 33, 5
+  offset: 0, 0
+  index: -1
+head_08
+  rotate: false
+  xy: 210, 13
+  size: 39, 6
+  orig: 39, 6
+  offset: 0, 0
+  index: -1
+head_09
+  rotate: false
+  xy: 978, 921
+  size: 32, 101
+  orig: 32, 101
+  offset: 0, 0
+  index: -1
+serious
+  rotate: true
+  xy: 978, 855
+  size: 28, 34
+  orig: 28, 34
+  offset: 0, 0
+  index: -1
+surprise
+  rotate: false
+  xy: 261, 8
+  size: 21, 11
+  orig: 21, 11
+  offset: 0, 0
+  index: -1
+weapon_01
+  rotate: false
+  xy: 2, 472
+  size: 311, 550
+  orig: 311, 550
+  offset: 0, 0
+  index: -1

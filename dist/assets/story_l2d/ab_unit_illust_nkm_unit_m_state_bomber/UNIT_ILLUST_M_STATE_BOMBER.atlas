@@ -1,0 +1,76 @@
+
+UNIT_ILLUST_M_STATE_BOMBER.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 224
+  size: 971, 286
+  orig: 971, 286
+  offset: 0, 0
+  index: -1
+left_back_wing
+  rotate: false
+  xy: 236, 24
+  size: 99, 46
+  orig: 99, 46
+  offset: 0, 0
+  index: -1
+left_engine
+  rotate: true
+  xy: 938, 110
+  size: 112, 33
+  orig: 112, 33
+  offset: 0, 0
+  index: -1
+left_front_wing
+  rotate: false
+  xy: 2, 2
+  size: 53, 18
+  orig: 53, 18
+  offset: 0, 0
+  index: -1
+left_wing
+  rotate: false
+  xy: 654, 108
+  size: 282, 114
+  orig: 282, 114
+  offset: 0, 0
+  index: -1
+missile
+  rotate: true
+  xy: 975, 333
+  size: 177, 43
+  orig: 177, 43
+  offset: 0, 0
+  index: -1
+right_back_wing
+  rotate: false
+  xy: 2, 22
+  size: 232, 48
+  orig: 232, 48
+  offset: 0, 0
+  index: -1
+right_engine
+  rotate: false
+  xy: 654, 29
+  size: 250, 77
+  orig: 250, 77
+  offset: 0, 0
+  index: -1
+right_front_wing
+  rotate: true
+  xy: 906, 40
+  size: 66, 26
+  orig: 66, 26
+  offset: 0, 0
+  index: -1
+right_wing
+  rotate: false
+  xy: 2, 72
+  size: 650, 150
+  orig: 650, 150
+  offset: 0, 0
+  index: -1

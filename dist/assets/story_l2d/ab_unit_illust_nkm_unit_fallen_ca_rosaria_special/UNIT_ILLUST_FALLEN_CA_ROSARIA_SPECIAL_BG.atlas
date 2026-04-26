@@ -1,0 +1,48 @@
+
+UNIT_ILLUST_FALLEN_CA_ROSARIA_SPECIAL_BG.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_1
+  rotate: false
+  xy: 2, 83
+  size: 875, 175
+  orig: 875, 175
+  offset: 0, 0
+  index: -1
+bg_2
+  rotate: false
+  xy: 1188, 64
+  size: 717, 304
+  orig: 717, 304
+  offset: 0, 0
+  index: -1
+bg_3
+  rotate: false
+  xy: 2, 260
+  size: 1184, 613
+  orig: 1184, 613
+  offset: 0, 0
+  index: -1
+bg_4
+  rotate: false
+  xy: 1188, 370
+  size: 623, 503
+  orig: 623, 503
+  offset: 0, 0
+  index: -1
+bg_light_1
+  rotate: false
+  xy: 2, 2
+  size: 66, 79
+  orig: 66, 79
+  offset: 0, 0
+  index: -1
+bg_spot_1
+  rotate: false
+  xy: 1813, 792
+  size: 135, 81
+  orig: 135, 81
+  offset: 0, 0
+  index: -1

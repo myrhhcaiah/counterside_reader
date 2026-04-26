@@ -1,0 +1,48 @@
+
+UNIT_ILLUST_NKM_NPC_CULTIST.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: true
+  xy: 1689, 233
+  size: 159, 215
+  orig: 159, 215
+  offset: 0, 0
+  index: -1
+1
+  rotate: true
+  xy: 243, 28
+  size: 159, 215
+  orig: 159, 215
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 460, 28
+  size: 159, 215
+  orig: 159, 215
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 2, 2
+  size: 185, 239
+  orig: 185, 239
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 2, 189
+  size: 805, 1685
+  orig: 805, 1685
+  offset: 0, 0
+  index: -1
+hat
+  rotate: true
+  xy: 1689, 394
+  size: 600, 308
+  orig: 600, 308
+  offset: 0, 0
+  index: -1

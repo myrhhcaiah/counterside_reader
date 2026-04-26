@@ -1,0 +1,132 @@
+
+UNIT_ILLUST_ALPHA_C_SPEAR_BUNNY_BG.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_1
+  rotate: false
+  xy: 2, 79
+  size: 825, 926
+  orig: 825, 926
+  offset: 0, 0
+  index: -1
+bird_1_1
+  rotate: true
+  xy: 829, 79
+  size: 78, 31
+  orig: 78, 31
+  offset: 0, 0
+  index: -1
+bird_1_2
+  rotate: false
+  xy: 957, 269
+  size: 43, 59
+  orig: 43, 59
+  offset: 0, 0
+  index: -1
+bird_1_3
+  rotate: false
+  xy: 607, 49
+  size: 69, 28
+  orig: 69, 28
+  offset: 0, 0
+  index: -1
+bird_2_1
+  rotate: true
+  xy: 944, 330
+  size: 108, 47
+  orig: 108, 47
+  offset: 0, 0
+  index: -1
+bird_2_2
+  rotate: true
+  xy: 315, 17
+  size: 60, 106
+  orig: 60, 106
+  offset: 0, 0
+  index: -1
+bird_2_3
+  rotate: true
+  xy: 423, 44
+  size: 33, 104
+  orig: 33, 104
+  offset: 0, 0
+  index: -1
+fx_3
+  rotate: false
+  xy: 678, 51
+  size: 53, 26
+  orig: 53, 26
+  offset: 0, 0
+  index: -1
+fx_7
+  rotate: false
+  xy: 829, 440
+  size: 166, 119
+  orig: 166, 119
+  offset: 0, 0
+  index: -1
+fx_8
+  rotate: false
+  xy: 829, 561
+  size: 167, 444
+  orig: 167, 444
+  offset: 0, 0
+  index: -1
+gap_1
+  rotate: false
+  xy: 2, 2
+  size: 153, 75
+  orig: 153, 75
+  offset: 0, 0
+  index: -1
+gap_2
+  rotate: true
+  xy: 998, 940
+  size: 65, 24
+  orig: 65, 24
+  offset: 0, 0
+  index: -1
+gap_3
+  rotate: false
+  xy: 871, 181
+  size: 84, 41
+  orig: 84, 41
+  offset: 0, 0
+  index: -1
+gap_4
+  rotate: false
+  xy: 829, 325
+  size: 113, 113
+  orig: 113, 113
+  offset: 0, 0
+  index: -1
+gap_5
+  rotate: true
+  xy: 829, 159
+  size: 164, 40
+  orig: 164, 40
+  offset: 0, 0
+  index: -1
+gap_6
+  rotate: true
+  xy: 871, 224
+  size: 99, 84
+  orig: 99, 84
+  offset: 0, 0
+  index: -1
+gap_7
+  rotate: true
+  xy: 529, 45
+  size: 32, 76
+  orig: 32, 76
+  offset: 0, 0
+  index: -1
+gap_8
+  rotate: false
+  xy: 157, 12
+  size: 156, 65
+  orig: 156, 65
+  offset: 0, 0
+  index: -1

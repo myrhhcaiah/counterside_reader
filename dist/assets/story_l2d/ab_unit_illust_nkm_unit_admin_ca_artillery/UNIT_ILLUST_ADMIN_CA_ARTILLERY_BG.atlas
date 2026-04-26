@@ -1,0 +1,181 @@
+
+UNIT_ILLUST_ADMIN_CA_ARTILLERY_BG.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back_fog_1
+  rotate: true
+  xy: 709, 82
+  size: 375, 396
+  orig: 375, 396
+  offset: 0, 0
+  index: -1
+back_rock_1
+  rotate: false
+  xy: 709, 729
+  size: 1293, 293
+  orig: 1293, 293
+  offset: 0, 0
+  index: -1
+back_rock_2
+  rotate: false
+  xy: 2, 65
+  size: 705, 957
+  orig: 705, 957
+  offset: 0, 0
+  index: -1
+back_rock_3
+  rotate: true
+  xy: 709, 459
+  size: 268, 777
+  orig: 268, 777
+  offset: 0, 0
+  index: -1
+red_1
+  rotate: true
+  xy: 1894, 488
+  size: 72, 134
+  orig: 72, 134
+  offset: 0, 0
+  index: -1
+red_2
+  rotate: true
+  xy: 1837, 457
+  size: 29, 201
+  orig: 29, 201
+  offset: 0, 0
+  index: -1
+red_3
+  rotate: false
+  xy: 1999, 637
+  size: 20, 90
+  orig: 20, 90
+  offset: 0, 0
+  index: -1
+red_4
+  rotate: true
+  xy: 709, 27
+  size: 53, 341
+  orig: 53, 341
+  offset: 0, 0
+  index: -1
+red_5
+  rotate: false
+  xy: 1783, 376
+  size: 196, 26
+  orig: 196, 26
+  offset: 0, 0
+  index: -1
+weapon_1
+  rotate: true
+  xy: 1488, 637
+  size: 90, 509
+  orig: 90, 509
+  offset: 0, 0
+  index: -1
+weapon_2
+  rotate: true
+  xy: 1107, 368
+  size: 89, 674
+  orig: 89, 674
+  offset: 0, 0
+  index: -1
+weapon_3
+  rotate: true
+  xy: 1488, 562
+  size: 73, 552
+  orig: 73, 552
+  offset: 0, 0
+  index: -1
+weapon_4
+  rotate: false
+  xy: 1465, 86
+  size: 324, 63
+  orig: 324, 63
+  offset: 0, 0
+  index: -1
+weapon_5
+  rotate: false
+  xy: 1488, 520
+  size: 404, 40
+  orig: 404, 40
+  offset: 0, 0
+  index: -1
+weapon_6
+  rotate: true
+  xy: 1107, 151
+  size: 58, 662
+  orig: 58, 662
+  offset: 0, 0
+  index: -1
+weapon_7
+  rotate: true
+  xy: 1107, 284
+  size: 82, 649
+  orig: 82, 649
+  offset: 0, 0
+  index: -1
+weapon_8
+  rotate: true
+  xy: 1107, 211
+  size: 71, 654
+  orig: 71, 654
+  offset: 0, 0
+  index: -1
+weapon_fx_1
+  rotate: true
+  xy: 1465, 16
+  size: 68, 273
+  orig: 68, 273
+  offset: 0, 0
+  index: -1
+weapon_fx_2
+  rotate: true
+  xy: 1107, 82
+  size: 67, 356
+  orig: 67, 356
+  offset: 0, 0
+  index: -1
+weapon_fx_3
+  rotate: true
+  xy: 1052, 23
+  size: 57, 294
+  orig: 57, 294
+  offset: 0, 0
+  index: -1
+weapon_fx_4
+  rotate: false
+  xy: 1783, 404
+  size: 181, 51
+  orig: 181, 51
+  offset: 0, 0
+  index: -1
+weapon_fx_5
+  rotate: true
+  xy: 2004, 803
+  size: 219, 41
+  orig: 219, 41
+  offset: 0, 0
+  index: -1
+weapon_fx_6
+  rotate: true
+  xy: 1488, 468
+  size: 50, 347
+  orig: 50, 347
+  offset: 0, 0
+  index: -1
+weapon_fx_7
+  rotate: true
+  xy: 2, 2
+  size: 61, 342
+  orig: 61, 342
+  offset: 0, 0
+  index: -1
+weapon_fx_8
+  rotate: true
+  xy: 346, 7
+  size: 56, 345
+  orig: 56, 345
+  offset: 0, 0
+  index: -1

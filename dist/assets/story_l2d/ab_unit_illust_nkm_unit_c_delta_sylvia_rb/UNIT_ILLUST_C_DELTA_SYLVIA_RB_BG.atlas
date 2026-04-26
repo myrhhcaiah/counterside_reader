@@ -1,0 +1,34 @@
+
+UNIT_ILLUST_C_DELTA_SYLVIA_RB_BG.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_1
+  rotate: true
+  xy: 2, 2
+  size: 992, 1729
+  orig: 992, 1729
+  offset: 0, 0
+  index: -1
+bg_fx_1
+  rotate: true
+  xy: 1733, 217
+  size: 263, 120
+  orig: 263, 120
+  offset: 0, 0
+  index: -1
+bg_fx_2
+  rotate: true
+  xy: 1733, 35
+  size: 180, 84
+  orig: 180, 84
+  offset: 0, 0
+  index: -1
+bg_fx_3
+  rotate: true
+  xy: 1733, 482
+  size: 512, 235
+  orig: 512, 235
+  offset: 0, 0
+  index: -1

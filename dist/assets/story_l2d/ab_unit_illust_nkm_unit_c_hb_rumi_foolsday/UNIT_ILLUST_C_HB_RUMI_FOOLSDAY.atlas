@@ -1,0 +1,69 @@
+
+UNIT_ILLUST_C_HB_RUMI_FOOLSDAY.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00
+  rotate: false
+  xy: 2, 2
+  size: 1179, 998
+  orig: 1179, 998
+  offset: 0, 0
+  index: -1
+BACK
+  rotate: false
+  xy: 1183, 267
+  size: 729, 733
+  orig: 729, 733
+  offset: 0, 0
+  index: -1
+DESPAIR
+  rotate: false
+  xy: 1483, 161
+  size: 139, 104
+  orig: 139, 104
+  offset: 0, 0
+  index: -1
+HATE
+  rotate: false
+  xy: 1183, 149
+  size: 148, 116
+  orig: 148, 116
+  offset: 0, 0
+  index: -1
+IDLE
+  rotate: false
+  xy: 1183, 39
+  size: 148, 108
+  orig: 148, 108
+  offset: 0, 0
+  index: -1
+LAUGH
+  rotate: false
+  xy: 1333, 50
+  size: 145, 105
+  orig: 145, 105
+  offset: 0, 0
+  index: -1
+PRIDE
+  rotate: true
+  xy: 1914, 701
+  size: 149, 102
+  orig: 149, 102
+  offset: 0, 0
+  index: -1
+SERIOUS
+  rotate: false
+  xy: 1333, 157
+  size: 148, 108
+  orig: 148, 108
+  offset: 0, 0
+  index: -1
+SURPRISE
+  rotate: true
+  xy: 1914, 852
+  size: 148, 114
+  orig: 148, 114
+  offset: 0, 0
+  index: -1

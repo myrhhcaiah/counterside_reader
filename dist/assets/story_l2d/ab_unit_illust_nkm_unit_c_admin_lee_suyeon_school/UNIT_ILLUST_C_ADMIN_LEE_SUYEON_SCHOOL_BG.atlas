@@ -1,0 +1,13 @@
+
+UNIT_ILLUST_C_ADMIN_LEE_SUYEON_SCHOOL_BG.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: false
+  xy: 2, 2
+  size: 1007, 947
+  orig: 1007, 947
+  offset: 0, 0
+  index: -1

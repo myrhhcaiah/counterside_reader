@@ -1,0 +1,279 @@
+
+UNIT_ILLUST_OPR_MOMO.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ARM_L_UNDER_B_1
+  rotate: false
+  xy: 1761, 849
+  size: 181, 173
+  orig: 181, 173
+  offset: 0, 0
+  index: -1
+ARM_L_UNDER_B_2
+  rotate: false
+  xy: 1944, 935
+  size: 89, 87
+  orig: 89, 87
+  offset: 0, 0
+  index: -1
+ARM_L_UNDER_B_3
+  rotate: false
+  xy: 1944, 859
+  size: 79, 74
+  orig: 79, 74
+  offset: 0, 0
+  index: -1
+EYE_DESPAIR
+  rotate: false
+  xy: 1902, 377
+  size: 134, 91
+  orig: 134, 91
+  offset: 0, 0
+  index: -1
+EYE_HATE
+  rotate: false
+  xy: 1761, 218
+  size: 143, 109
+  orig: 143, 109
+  offset: 0, 0
+  index: -1
+EYE_LAUGH
+  rotate: false
+  xy: 1761, 23
+  size: 148, 94
+  orig: 148, 94
+  offset: 0, 0
+  index: -1
+EYE_L_BALL
+  rotate: false
+  xy: 2, 2
+  size: 27, 31
+  orig: 27, 31
+  offset: 0, 0
+  index: -1
+EYE_L_BALL_CORE
+  rotate: false
+  xy: 2035, 1008
+  size: 8, 14
+  orig: 8, 14
+  offset: 0, 0
+  index: -1
+EYE_L_BROW
+  rotate: false
+  xy: 141, 19
+  size: 49, 14
+  orig: 49, 14
+  offset: 0, 0
+  index: -1
+EYE_L_INBROW
+  rotate: false
+  xy: 1906, 291
+  size: 50, 41
+  orig: 50, 41
+  offset: 0, 0
+  index: -1
+EYE_L_INNER
+  rotate: false
+  xy: 1902, 334
+  size: 58, 41
+  orig: 58, 41
+  offset: 0, 0
+  index: -1
+EYE_L_LIGHT
+  rotate: false
+  xy: 2023, 351
+  size: 13, 24
+  orig: 13, 24
+  offset: 0, 0
+  index: -1
+EYE_L_SKIN_1
+  rotate: false
+  xy: 192, 17
+  size: 37, 16
+  orig: 37, 16
+  offset: 0, 0
+  index: -1
+EYE_L_UNBROW
+  rotate: false
+  xy: 418, 22
+  size: 20, 11
+  orig: 20, 11
+  offset: 0, 0
+  index: -1
+EYE_PRIDE
+  rotate: false
+  xy: 1761, 119
+  size: 146, 97
+  orig: 146, 97
+  offset: 0, 0
+  index: -1
+EYE_R_BALL
+  rotate: false
+  xy: 1911, 86
+  size: 42, 39
+  orig: 42, 39
+  offset: 0, 0
+  index: -1
+EYE_R_BALL_CORE
+  rotate: false
+  xy: 2025, 920
+  size: 8, 13
+  orig: 8, 13
+  offset: 0, 0
+  index: -1
+EYE_R_BROW
+  rotate: false
+  xy: 1906, 251
+  size: 52, 38
+  orig: 52, 38
+  offset: 0, 0
+  index: -1
+EYE_R_INBROW
+  rotate: false
+  xy: 1962, 340
+  size: 59, 35
+  orig: 59, 35
+  offset: 0, 0
+  index: -1
+EYE_R_INNER
+  rotate: false
+  xy: 1909, 186
+  size: 53, 37
+  orig: 53, 37
+  offset: 0, 0
+  index: -1
+EYE_R_LIGHT
+  rotate: false
+  xy: 339, 9
+  size: 18, 24
+  orig: 18, 24
+  offset: 0, 0
+  index: -1
+EYE_R_SKIN_1
+  rotate: false
+  xy: 92, 11
+  size: 47, 22
+  orig: 47, 22
+  offset: 0, 0
+  index: -1
+EYE_R_UNBROW
+  rotate: false
+  xy: 390, 22
+  size: 26, 11
+  orig: 26, 11
+  offset: 0, 0
+  index: -1
+EYE_SERIOUS
+  rotate: false
+  xy: 1761, 470
+  size: 158, 123
+  orig: 158, 123
+  offset: 0, 0
+  index: -1
+EYE_SERIOUS2
+  rotate: false
+  xy: 1761, 329
+  size: 139, 139
+  orig: 139, 139
+  offset: 0, 0
+  index: -1
+EYE_SURPRISE
+  rotate: false
+  xy: 1761, 595
+  size: 165, 124
+  orig: 165, 124
+  offset: 0, 0
+  index: -1
+EYE_SURPRISE2
+  rotate: false
+  xy: 1761, 721
+  size: 167, 126
+  orig: 167, 126
+  offset: 0, 0
+  index: -1
+MESH
+  rotate: false
+  xy: 2, 35
+  size: 1757, 987
+  orig: 1757, 987
+  offset: 0, 0
+  index: -1
+MOUTH_DESPAIR
+  rotate: false
+  xy: 1909, 127
+  size: 44, 21
+  orig: 44, 21
+  offset: 0, 0
+  index: -1
+MOUTH_HATE
+  rotate: false
+  xy: 1906, 225
+  size: 50, 24
+  orig: 50, 24
+  offset: 0, 0
+  index: -1
+MOUTH_INNER
+  rotate: false
+  xy: 306, 9
+  size: 31, 24
+  orig: 31, 24
+  offset: 0, 0
+  index: -1
+MOUTH_LAUGH
+  rotate: false
+  xy: 1911, 22
+  size: 38, 27
+  orig: 38, 27
+  offset: 0, 0
+  index: -1
+MOUTH_PRIDE
+  rotate: false
+  xy: 231, 14
+  size: 36, 19
+  orig: 36, 19
+  offset: 0, 0
+  index: -1
+MOUTH_SERIOUS
+  rotate: false
+  xy: 269, 16
+  size: 35, 17
+  orig: 35, 17
+  offset: 0, 0
+  index: -1
+MOUTH_SURPRISE
+  rotate: false
+  xy: 1909, 150
+  size: 59, 34
+  orig: 59, 34
+  offset: 0, 0
+  index: -1
+MOUTH_THEETH
+  rotate: false
+  xy: 359, 20
+  size: 29, 13
+  orig: 29, 13
+  offset: 0, 0
+  index: -1
+MOUTH_UNDER
+  rotate: false
+  xy: 1911, 51
+  size: 57, 33
+  orig: 57, 33
+  offset: 0, 0
+  index: -1
+MOUTH_UPPER
+  rotate: false
+  xy: 31, 10
+  size: 59, 23
+  orig: 59, 23
+  offset: 0, 0
+  index: -1
+NOSE
+  rotate: false
+  xy: 1930, 827
+  size: 10, 20
+  orig: 10, 20
+  offset: 0, 0
+  index: -1

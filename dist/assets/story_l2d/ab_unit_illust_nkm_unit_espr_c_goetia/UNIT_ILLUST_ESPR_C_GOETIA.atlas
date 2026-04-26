@@ -1,0 +1,13 @@
+
+UNIT_ILLUST_ESPR_C_GOETIA.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+UNIT_ILLUST_ESPR_C_GOETIA
+  rotate: false
+  xy: 0, 0
+  size: 1021, 980
+  orig: 1024, 1024
+  offset: 1, 43
+  index: -1

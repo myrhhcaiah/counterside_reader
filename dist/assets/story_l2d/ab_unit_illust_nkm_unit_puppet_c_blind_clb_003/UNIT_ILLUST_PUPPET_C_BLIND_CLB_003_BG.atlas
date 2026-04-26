@@ -1,0 +1,48 @@
+
+UNIT_ILLUST_PUPPET_C_BLIND_CLB_003_BG.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 317
+  size: 1991, 1699
+  orig: 1991, 1699
+  offset: 0, 0
+  index: -1
+bg_fx_0
+  rotate: false
+  xy: 1480, 198
+  size: 309, 117
+  orig: 309, 117
+  offset: 0, 0
+  index: -1
+bg_fx_1
+  rotate: true
+  xy: 1138, 12
+  size: 303, 340
+  orig: 303, 340
+  offset: 0, 0
+  index: -1
+bg_fx_2
+  rotate: true
+  xy: 756, 52
+  size: 263, 380
+  orig: 263, 380
+  offset: 0, 0
+  index: -1
+bg_fx_3
+  rotate: true
+  xy: 2, 2
+  size: 313, 362
+  orig: 313, 362
+  offset: 0, 0
+  index: -1
+bg_fx_4
+  rotate: true
+  xy: 366, 48
+  size: 267, 388
+  orig: 267, 388
+  offset: 0, 0
+  index: -1

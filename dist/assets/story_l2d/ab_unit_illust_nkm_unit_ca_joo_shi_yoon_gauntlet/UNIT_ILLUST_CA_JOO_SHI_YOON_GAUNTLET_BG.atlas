@@ -1,0 +1,13 @@
+
+UNIT_ILLUST_CA_JOO_SHI_YOON_GAUNTLET_BG.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_1
+  rotate: true
+  xy: 2, 2
+  size: 1020, 2040
+  orig: 1020, 2040
+  offset: 0, 0
+  index: -1

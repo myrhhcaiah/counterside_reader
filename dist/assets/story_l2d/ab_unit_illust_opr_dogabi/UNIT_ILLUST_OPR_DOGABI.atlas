@@ -1,0 +1,13 @@
+
+UNIT_ILLUST_OPR_DOGABI.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+UNIT_ILLUST_OPR_DOGABI
+  rotate: false
+  xy: 0, 0
+  size: 1021, 1019
+  orig: 1024, 1024
+  offset: 1, 4
+  index: -1

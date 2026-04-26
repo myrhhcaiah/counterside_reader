@@ -1,0 +1,209 @@
+
+UNIT_ILLUST_SD_CLB_003_1_SSR_B.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ARM_LEFT
+  rotate: false
+  xy: 568, 209
+  size: 129, 133
+  orig: 129, 133
+  offset: 0, 0
+  index: -1
+ARM_RIGHT
+  rotate: false
+  xy: 575, 70
+  size: 80, 138
+  orig: 81, 139
+  offset: 0, 0
+  index: -1
+BODY
+  rotate: false
+  xy: 1, 86
+  size: 216, 202
+  orig: 216, 202
+  offset: 0, 0
+  index: -1
+BODY_BACK
+  rotate: false
+  xy: 506, 343
+  size: 210, 85
+  orig: 210, 85
+  offset: 0, 0
+  index: -1
+DEAD_BODY
+  rotate: false
+  xy: 327, 171
+  size: 145, 160
+  orig: 145, 160
+  offset: 0, 0
+  index: -1
+DEAD_FACE
+  rotate: true
+  xy: 860, 159
+  size: 71, 70
+  orig: 73, 72
+  offset: 1, 1
+  index: -1
+DEAD_GLASSES
+  rotate: true
+  xy: 857, 231
+  size: 104, 33
+  orig: 106, 35
+  offset: 1, 1
+  index: -1
+DEAD_SAX
+  rotate: false
+  xy: 485, 80
+  size: 89, 92
+  orig: 91, 94
+  offset: 1, 1
+  index: -1
+FACE_ANGRY
+  rotate: false
+  xy: 327, 81
+  size: 157, 89
+  orig: 157, 89
+  offset: 0, 0
+  index: -1
+FACE_CALM
+  rotate: true
+  xy: 933, 357
+  size: 154, 88
+  orig: 154, 88
+  offset: 0, 0
+  index: -1
+FACE_NORMAL
+  rotate: true
+  xy: 473, 173
+  size: 158, 94
+  orig: 158, 94
+  offset: 0, 0
+  index: -1
+FACE_SHOUT
+  rotate: false
+  xy: 698, 231
+  size: 158, 104
+  orig: 158, 104
+  offset: 0, 0
+  index: -1
+FACE_SP
+  rotate: false
+  xy: 739, 402
+  size: 193, 109
+  orig: 193, 109
+  offset: 0, 0
+  index: -1
+GLASS_COLOR
+  rotate: true
+  xy: 464, 20
+  size: 59, 108
+  orig: 61, 110
+  offset: 1, 1
+  index: -1
+GLASS_LINE
+  rotate: true
+  xy: 347, 12
+  size: 68, 116
+  orig: 70, 118
+  offset: 1, 1
+  index: -1
+HAIR_BACK
+  rotate: false
+  xy: 1, 289
+  size: 270, 222
+  orig: 272, 224
+  offset: 1, 1
+  index: -1
+HAIR_FRONT
+  rotate: true
+  xy: 218, 109
+  size: 179, 108
+  orig: 179, 108
+  offset: 0, 0
+  index: -1
+HAIR_LEFT
+  rotate: true
+  xy: 1, 28
+  size: 57, 214
+  orig: 58, 215
+  offset: 1, 0
+  index: -1
+HAIR_LEFT_ACC
+  rotate: true
+  xy: 216, 1
+  size: 78, 130
+  orig: 80, 132
+  offset: 1, 1
+  index: -1
+HAIR_LEFT_TAIL
+  rotate: true
+  xy: 717, 336
+  size: 65, 178
+  orig: 65, 184
+  offset: 0, 0
+  index: -1
+HAIR_RIGHT
+  rotate: true
+  xy: 506, 429
+  size: 82, 232
+  orig: 82, 232
+  offset: 0, 0
+  index: -1
+HAND_LEFT
+  rotate: false
+  xy: 641, 18
+  size: 43, 46
+  orig: 45, 48
+  offset: 1, 1
+  index: -1
+HAND_RIGHT
+  rotate: false
+  xy: 875, 99
+  size: 44, 59
+  orig: 46, 61
+  offset: 1, 1
+  index: -1
+HEAD
+  rotate: false
+  xy: 272, 332
+  size: 233, 179
+  orig: 235, 181
+  offset: 1, 1
+  index: -1
+LEG
+  rotate: true
+  xy: 656, 65
+  size: 82, 113
+  orig: 84, 115
+  offset: 1, 1
+  index: -1
+MIC_ACC
+  rotate: true
+  xy: 770, 82
+  size: 65, 104
+  orig: 67, 106
+  offset: 1, 1
+  index: -1
+MIC_HEAD
+  rotate: true
+  xy: 573, 9
+  size: 60, 67
+  orig: 62, 69
+  offset: 1, 1
+  index: -1
+MIC_NECK
+  rotate: true
+  xy: 698, 148
+  size: 82, 161
+  orig: 84, 163
+  offset: 1, 1
+  index: -1
+WINE
+  rotate: false
+  xy: 272, 298
+  size: 44, 33
+  orig: 44, 33
+  offset: 0, 0
+  index: -1

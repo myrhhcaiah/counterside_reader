@@ -1,0 +1,195 @@
+
+UNIT_ILLUST_M_STATE_AIRCRAFT.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+FX_SHOT_1
+  rotate: false
+  xy: 351, 98
+  size: 131, 136
+  orig: 131, 136
+  offset: 0, 0
+  index: -1
+FX_SHOT_2_1
+  rotate: true
+  xy: 483, 127
+  size: 113, 102
+  orig: 113, 102
+  offset: 0, 0
+  index: -1
+FX_SHOT_2_2
+  rotate: true
+  xy: 370, 235
+  size: 176, 102
+  orig: 176, 102
+  offset: 0, 0
+  index: -1
+FX_SHOT_2_4
+  rotate: true
+  xy: 473, 241
+  size: 172, 97
+  orig: 172, 97
+  offset: 0, 0
+  index: -1
+bodly_light
+  rotate: false
+  xy: 1, 177
+  size: 69, 7
+  orig: 69, 7
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 1, 710
+  size: 978, 312
+  orig: 978, 312
+  offset: 0, 0
+  index: -1
+body_back
+  rotate: false
+  xy: 1, 25
+  size: 252, 81
+  orig: 252, 81
+  offset: 0, 0
+  index: -1
+body_bay
+  rotate: false
+  xy: 461, 482
+  size: 224, 41
+  orig: 224, 41
+  offset: 0, 0
+  index: -1
+fx_shot_2
+  rotate: false
+  xy: 851, 530
+  size: 121, 134
+  orig: 121, 134
+  offset: 0, 0
+  index: -1
+left_wing_01
+  rotate: false
+  xy: 82, 266
+  size: 287, 145
+  orig: 287, 145
+  offset: 0, 0
+  index: -1
+left_wing_02
+  rotate: false
+  xy: 461, 524
+  size: 258, 38
+  orig: 258, 38
+  offset: 0, 0
+  index: -1
+left_wing_03
+  rotate: false
+  xy: 1, 1
+  size: 202, 23
+  orig: 202, 23
+  offset: 0, 0
+  index: -1
+left_wing_04
+  rotate: false
+  xy: 1, 107
+  size: 300, 44
+  orig: 300, 44
+  offset: 0, 0
+  index: -1
+left_wing_05
+  rotate: false
+  xy: 720, 524
+  size: 120, 38
+  orig: 120, 38
+  offset: 0, 0
+  index: -1
+left_wing_back_01
+  rotate: true
+  xy: 82, 152
+  size: 113, 268
+  orig: 113, 268
+  offset: 0, 0
+  index: -1
+left_wing_back_02
+  rotate: false
+  xy: 570, 563
+  size: 280, 101
+  orig: 280, 101
+  offset: 0, 0
+  index: -1
+missile
+  rotate: false
+  xy: 82, 504
+  size: 378, 70
+  orig: 378, 70
+  offset: 0, 0
+  index: -1
+missile_shdow
+  rotate: true
+  xy: 571, 248
+  size: 165, 37
+  orig: 165, 37
+  offset: 0, 0
+  index: -1
+right_wing_01
+  rotate: false
+  xy: 1, 575
+  size: 568, 134
+  orig: 568, 134
+  offset: 0, 0
+  index: -1
+right_wing_02
+  rotate: false
+  xy: 570, 665
+  size: 406, 44
+  orig: 406, 44
+  offset: 0, 0
+  index: -1
+right_wing_03
+  rotate: true
+  xy: 980, 525
+  size: 497, 43
+  orig: 497, 43
+  offset: 0, 0
+  index: -1
+right_wing_04
+  rotate: false
+  xy: 433, 414
+  size: 171, 67
+  orig: 171, 67
+  offset: 0, 0
+  index: -1
+right_wing_back_01
+  rotate: false
+  xy: 1, 185
+  size: 80, 389
+  orig: 80, 389
+  offset: 0, 0
+  index: -1
+right_wing_back_02
+  rotate: false
+  xy: 82, 412
+  size: 350, 91
+  orig: 350, 91
+  offset: 0, 0
+  index: -1
+rright_wing_05
+  rotate: false
+  xy: 686, 480
+  size: 93, 43
+  orig: 93, 43
+  offset: 0, 0
+  index: -1
+wing_light_01
+  rotate: false
+  xy: 433, 487
+  size: 27, 16
+  orig: 27, 16
+  offset: 0, 0
+  index: -1
+wing_light_02
+  rotate: false
+  xy: 204, 11
+  size: 16, 13
+  orig: 16, 13
+  offset: 0, 0
+  index: -1

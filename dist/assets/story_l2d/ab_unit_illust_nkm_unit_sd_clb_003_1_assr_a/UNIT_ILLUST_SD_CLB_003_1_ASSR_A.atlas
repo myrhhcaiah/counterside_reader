@@ -1,0 +1,293 @@
+
+UNIT_ILLUST_SD_CLB_003_1_ASSR_A.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+TV
+  rotate: false
+  xy: 1, 18
+  size: 183, 186
+  orig: 183, 186
+  offset: 0, 0
+  index: -1
+arm_game_L
+  rotate: false
+  xy: 703, 246
+  size: 84, 116
+  orig: 84, 117
+  offset: 0, 1
+  index: -1
+arm_game_R
+  rotate: false
+  xy: 829, 142
+  size: 74, 110
+  orig: 74, 110
+  offset: 0, 0
+  index: -1
+arm_hold_R
+  rotate: false
+  xy: 554, 71
+  size: 134, 92
+  orig: 134, 93
+  offset: 0, 1
+  index: -1
+arm_throw_R
+  rotate: false
+  xy: 558, 249
+  size: 144, 113
+  orig: 144, 114
+  offset: 0, 1
+  index: -1
+body
+  rotate: true
+  xy: 387, 211
+  size: 154, 170
+  orig: 154, 170
+  offset: 0, 0
+  index: -1
+body_game
+  rotate: true
+  xy: 574, 363
+  size: 148, 169
+  orig: 148, 170
+  offset: 0, 1
+  index: -1
+body_left_arm
+  rotate: false
+  xy: 489, 93
+  size: 64, 117
+  orig: 65, 118
+  offset: 0, 1
+  index: -1
+body_left_arm_ac
+  rotate: false
+  xy: 647, 32
+  size: 36, 38
+  orig: 37, 38
+  offset: 0, 0
+  index: -1
+body_left_leg
+  rotate: true
+  xy: 815, 84
+  size: 57, 103
+  orig: 58, 103
+  offset: 0, 0
+  index: -1
+body_right_arm
+  rotate: false
+  xy: 960, 396
+  size: 62, 115
+  orig: 62, 115
+  offset: 0, 0
+  index: -1
+body_right_arm_ac
+  rotate: false
+  xy: 461, 13
+  size: 79, 79
+  orig: 79, 79
+  offset: 0, 0
+  index: -1
+body_right_leg
+  rotate: true
+  xy: 541, 14
+  size: 56, 105
+  orig: 57, 106
+  offset: 0, 1
+  index: -1
+chair
+  rotate: false
+  xy: 1, 205
+  size: 212, 306
+  orig: 212, 306
+  offset: 0, 0
+  index: -1
+chair_arm_L
+  rotate: true
+  xy: 382, 1
+  size: 101, 78
+  orig: 101, 78
+  offset: 0, 0
+  index: -1
+coat_game_back
+  rotate: true
+  xy: 904, 156
+  size: 96, 48
+  orig: 96, 49
+  offset: 0, 1
+  index: -1
+crown
+  rotate: false
+  xy: 813, 1
+  size: 89, 35
+  orig: 89, 35
+  offset: 0, 0
+  index: -1
+dead_body
+  rotate: true
+  xy: 788, 253
+  size: 116, 128
+  orig: 116, 128
+  offset: 0, 0
+  index: -1
+dead_face
+  rotate: false
+  xy: 953, 187
+  size: 58, 58
+  orig: 58, 58
+  offset: 0, 0
+  index: -1
+dead_glasses
+  rotate: true
+  xy: 919, 70
+  size: 85, 28
+  orig: 85, 28
+  offset: 0, 0
+  index: -1
+dress_game_back
+  rotate: false
+  xy: 903, 4
+  size: 38, 32
+  orig: 38, 32
+  offset: 0, 0
+  index: -1
+face_angry
+  rotate: false
+  xy: 689, 90
+  size: 125, 71
+  orig: 126, 71
+  offset: 0, 0
+  index: -1
+face_calm
+  rotate: false
+  xy: 689, 19
+  size: 123, 70
+  orig: 123, 70
+  offset: 0, 0
+  index: -1
+face_shout
+  rotate: false
+  xy: 702, 162
+  size: 126, 83
+  orig: 126, 83
+  offset: 0, 0
+  index: -1
+face_tongue
+  rotate: false
+  xy: 227, 1
+  size: 154, 83
+  orig: 154, 83
+  offset: 0, 0
+  index: -1
+hair_L
+  rotate: true
+  xy: 744, 370
+  size: 62, 180
+  orig: 62, 180
+  offset: 0, 0
+  index: -1
+hair_R
+  rotate: false
+  xy: 185, 32
+  size: 41, 172
+  orig: 42, 173
+  offset: 0, 1
+  index: -1
+hair_back
+  rotate: false
+  xy: 227, 85
+  size: 122, 131
+  orig: 130, 131
+  offset: 8, 0
+  index: -1
+hair_front
+  rotate: false
+  xy: 558, 164
+  size: 143, 84
+  orig: 143, 85
+  offset: 0, 1
+  index: -1
+hand_game_L
+  rotate: true
+  xy: 948, 40
+  size: 44, 54
+  orig: 45, 54
+  offset: 0, 0
+  index: -1
+hand_game_R
+  rotate: true
+  xy: 953, 132
+  size: 54, 61
+  orig: 54, 62
+  offset: 0, 1
+  index: -1
+hand_hold_L
+  rotate: false
+  xy: 948, 85
+  size: 54, 46
+  orig: 54, 46
+  offset: 0, 0
+  index: -1
+hat
+  rotate: false
+  xy: 744, 433
+  size: 215, 78
+  orig: 215, 78
+  offset: 0, 0
+  index: -1
+hat_back
+  rotate: false
+  xy: 350, 103
+  size: 138, 107
+  orig: 138, 107
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 387, 366
+  size: 186, 145
+  orig: 186, 145
+  offset: 0, 0
+  index: -1
+leg_game_L
+  rotate: false
+  xy: 953, 318
+  size: 70, 77
+  orig: 70, 77
+  offset: 0, 0
+  index: -1
+leg_game_R
+  rotate: false
+  xy: 917, 257
+  size: 58, 60
+  orig: 58, 60
+  offset: 0, 0
+  index: -1
+pad1
+  rotate: false
+  xy: 813, 37
+  size: 105, 46
+  orig: 105, 46
+  offset: 0, 0
+  index: -1
+pelvis_game_R
+  rotate: true
+  xy: 976, 246
+  size: 26, 47
+  orig: 26, 47
+  offset: 0, 0
+  index: -1
+rage_mark
+  rotate: true
+  xy: 976, 273
+  size: 44, 47
+  orig: 44, 47
+  offset: 0, 0
+  index: -1
+sycthe
+  rotate: false
+  xy: 214, 217
+  size: 172, 294
+  orig: 172, 294
+  offset: 0, 0
+  index: -1

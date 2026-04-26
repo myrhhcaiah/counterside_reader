@@ -1,0 +1,139 @@
+
+UNIT_ILLUST_SIXWING_CA_ACTOR_BG.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_1
+  rotate: false
+  xy: 609, 611
+  size: 301, 412
+  orig: 301, 412
+  offset: 0, 0
+  index: -1
+bg_10
+  rotate: false
+  xy: 956, 225
+  size: 53, 196
+  orig: 53, 196
+  offset: 0, 0
+  index: -1
+bg_11
+  rotate: true
+  xy: 218, 47
+  size: 127, 413
+  orig: 128, 414
+  offset: 0, 1
+  index: -1
+bg_12
+  rotate: false
+  xy: 181, 390
+  size: 15, 30
+  orig: 16, 30
+  offset: 0, 0
+  index: -1
+bg_13
+  rotate: true
+  xy: 911, 738
+  size: 285, 95
+  orig: 285, 96
+  offset: 0, 1
+  index: -1
+bg_14
+  rotate: false
+  xy: 218, 25
+  size: 15, 21
+  orig: 15, 22
+  offset: 0, 1
+  index: -1
+bg_15
+  rotate: false
+  xy: 416, 442
+  size: 85, 52
+  orig: 85, 52
+  offset: 0, 0
+  index: -1
+bg_16
+  rotate: true
+  xy: 632, 153
+  size: 21, 12
+  orig: 22, 12
+  offset: 0, 0
+  index: -1
+bg_17
+  rotate: true
+  xy: 1, 1
+  size: 92, 216
+  orig: 92, 216
+  offset: 0, 0
+  index: -1
+bg_18
+  rotate: false
+  xy: 1, 363
+  size: 179, 660
+  orig: 180, 661
+  offset: 0, 1
+  index: -1
+bg_19
+  rotate: false
+  xy: 416, 495
+  size: 192, 528
+  orig: 192, 528
+  offset: 0, 0
+  index: -1
+bg_2
+  rotate: false
+  xy: 181, 421
+  size: 234, 602
+  orig: 234, 602
+  offset: 0, 0
+  index: -1
+bg_3
+  rotate: false
+  xy: 609, 422
+  size: 374, 188
+  orig: 374, 189
+  offset: 0, 1
+  index: -1
+bg_4
+  rotate: true
+  xy: 798, 83
+  size: 107, 162
+  orig: 107, 163
+  offset: 0, 1
+  index: -1
+bg_5
+  rotate: false
+  xy: 647, 39
+  size: 150, 382
+  orig: 151, 382
+  offset: 0, 0
+  index: -1
+bg_6
+  rotate: true
+  xy: 207, 175
+  size: 245, 439
+  orig: 246, 440
+  offset: 0, 1
+  index: -1
+bg_7
+  rotate: false
+  xy: 911, 613
+  size: 90, 124
+  orig: 91, 125
+  offset: 0, 1
+  index: -1
+bg_8
+  rotate: false
+  xy: 798, 191
+  size: 157, 230
+  orig: 158, 231
+  offset: 0, 1
+  index: -1
+bg_9
+  rotate: false
+  xy: 1, 94
+  size: 205, 268
+  orig: 206, 269
+  offset: 0, 1
+  index: -1

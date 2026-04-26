@@ -1,0 +1,132 @@
+
+UNIT_ILLUST_M_SL_AIR_HELI.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+blue_light
+  rotate: false
+  xy: 597, 250
+  size: 6, 25
+  orig: 6, 25
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 536
+  size: 888, 466
+  orig: 888, 466
+  offset: 0, 0
+  index: -1
+body_02
+  rotate: false
+  xy: 363, 246
+  size: 232, 226
+  orig: 232, 226
+  offset: 0, 0
+  index: -1
+boll
+  rotate: false
+  xy: 348, 19
+  size: 122, 73
+  orig: 122, 73
+  offset: 0, 0
+  index: -1
+cover
+  rotate: false
+  xy: 815, 102
+  size: 108, 109
+  orig: 108, 109
+  offset: 0, 0
+  index: -1
+joint_01
+  rotate: true
+  xy: 892, 687
+  size: 159, 103
+  orig: 159, 103
+  offset: 0, 0
+  index: -1
+joint_02
+  rotate: false
+  xy: 472, 2
+  size: 93, 90
+  orig: 93, 90
+  offset: 0, 0
+  index: -1
+joint_03
+  rotate: false
+  xy: 815, 213
+  size: 160, 67
+  orig: 160, 67
+  offset: 0, 0
+  index: -1
+missile_1
+  rotate: false
+  xy: 2, 5
+  size: 344, 170
+  orig: 344, 170
+  offset: 0, 0
+  index: -1
+object_01
+  rotate: false
+  xy: 812, 282
+  size: 181, 190
+  orig: 181, 190
+  offset: 0, 0
+  index: -1
+object_02
+  rotate: true
+  xy: 925, 120
+  size: 91, 82
+  orig: 91, 82
+  offset: 0, 0
+  index: -1
+roket
+  rotate: true
+  xy: 892, 848
+  size: 154, 119
+  orig: 154, 119
+  offset: 0, 0
+  index: -1
+shot_1
+  rotate: false
+  xy: 363, 94
+  size: 249, 150
+  orig: 249, 150
+  offset: 0, 0
+  index: -1
+shot_2
+  rotate: false
+  xy: 597, 277
+  size: 213, 195
+  orig: 213, 195
+  offset: 0, 0
+  index: -1
+shot_3
+  rotate: false
+  xy: 614, 97
+  size: 199, 178
+  orig: 199, 178
+  offset: 0, 0
+  index: -1
+tail
+  rotate: false
+  xy: 892, 544
+  size: 119, 141
+  orig: 119, 141
+  offset: 0, 0
+  index: -1
+wing_1
+  rotate: false
+  xy: 2, 177
+  size: 359, 357
+  orig: 359, 357
+  offset: 0, 0
+  index: -1
+wing_2
+  rotate: true
+  xy: 363, 474
+  size: 60, 485
+  orig: 60, 485
+  offset: 0, 0
+  index: -1

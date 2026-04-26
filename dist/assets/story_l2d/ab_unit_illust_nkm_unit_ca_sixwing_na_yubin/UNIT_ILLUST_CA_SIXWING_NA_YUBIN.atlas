@@ -1,0 +1,300 @@
+
+UNIT_ILLUST_CA_SIXWING_NA_YUBIN.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BASE_01
+  rotate: false
+  xy: 99, 3
+  size: 71, 23
+  orig: 71, 23
+  offset: 0, 0
+  index: -1
+BASE_02
+  rotate: false
+  xy: 957, 342
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+BASE_03
+  rotate: true
+  xy: 1909, 1137
+  size: 30, 36
+  orig: 30, 36
+  offset: 0, 0
+  index: -1
+BASE_04
+  rotate: true
+  xy: 2009, 1975
+  size: 71, 29
+  orig: 71, 29
+  offset: 0, 0
+  index: -1
+BASE_05
+  rotate: true
+  xy: 1062, 1023
+  size: 65, 11
+  orig: 65, 11
+  offset: 0, 0
+  index: -1
+BASE_06
+  rotate: false
+  xy: 1712, 504
+  size: 61, 32
+  orig: 61, 32
+  offset: 0, 0
+  index: -1
+BASE_07
+  rotate: false
+  xy: 1778, 541
+  size: 60, 18
+  orig: 60, 18
+  offset: 0, 0
+  index: -1
+DESPAIR_01
+  rotate: false
+  xy: 295, 174
+  size: 30, 9
+  orig: 30, 9
+  offset: 0, 0
+  index: -1
+HATE_01
+  rotate: true
+  xy: 2009, 1926
+  size: 47, 15
+  orig: 47, 15
+  offset: 0, 0
+  index: -1
+LAUGH_01
+  rotate: true
+  xy: 1511, 413
+  size: 65, 27
+  orig: 65, 27
+  offset: 0, 0
+  index: -1
+LAUGH_02
+  rotate: false
+  xy: 652, 108
+  size: 57, 21
+  orig: 57, 21
+  offset: 0, 0
+  index: -1
+L_arm_01
+  rotate: false
+  xy: 1207, 82
+  size: 154, 804
+  orig: 154, 804
+  offset: 0, 0
+  index: -1
+L_arm_02
+  rotate: true
+  xy: 470, 60
+  size: 123, 59
+  orig: 123, 59
+  offset: 0, 0
+  index: -1
+L_arm_03
+  rotate: true
+  xy: 2, 28
+  size: 134, 193
+  orig: 134, 193
+  offset: 0, 0
+  index: -1
+L_arm_04
+  rotate: true
+  xy: 786, 313
+  size: 38, 169
+  orig: 38, 169
+  offset: 0, 0
+  index: -1
+L_arm_05
+  rotate: true
+  xy: 2, 2
+  size: 24, 95
+  orig: 24, 95
+  offset: 0, 0
+  index: -1
+PRIDE_01
+  rotate: true
+  xy: 1966, 1224
+  size: 60, 17
+  orig: 60, 17
+  offset: 0, 0
+  index: -1
+R_arm_01
+  rotate: false
+  xy: 786, 353
+  size: 202, 735
+  orig: 202, 735
+  offset: 0, 0
+  index: -1
+R_arm_02
+  rotate: false
+  xy: 197, 14
+  size: 135, 148
+  orig: 135, 148
+  offset: 0, 0
+  index: -1
+R_arm_03
+  rotate: true
+  xy: 531, 31
+  size: 98, 119
+  orig: 98, 119
+  offset: 0, 0
+  index: -1
+SERIOUS_01
+  rotate: false
+  xy: 334, 14
+  size: 41, 41
+  orig: 41, 41
+  offset: 0, 0
+  index: -1
+SURPRISE_01
+  rotate: false
+  xy: 2026, 1961
+  size: 20, 12
+  orig: 20, 12
+  offset: 0, 0
+  index: -1
+body_01
+  rotate: false
+  xy: 1360, 1141
+  size: 319, 905
+  orig: 319, 905
+  offset: 0, 0
+  index: -1
+body_02
+  rotate: false
+  xy: 545, 1090
+  size: 528, 956
+  orig: 528, 956
+  offset: 0, 0
+  index: -1
+body_03
+  rotate: true
+  xy: 540, 131
+  size: 175, 241
+  orig: 175, 241
+  offset: 0, 0
+  index: -1
+body_04
+  rotate: false
+  xy: 334, 57
+  size: 134, 126
+  orig: 134, 126
+  offset: 0, 0
+  index: -1
+body_05
+  rotate: false
+  xy: 1566, 465
+  size: 144, 71
+  orig: 144, 71
+  offset: 0, 0
+  index: -1
+body_06
+  rotate: false
+  xy: 1566, 538
+  size: 210, 594
+  orig: 210, 594
+  offset: 0, 0
+  index: -1
+body_07
+  rotate: true
+  xy: 990, 217
+  size: 669, 215
+  orig: 669, 215
+  offset: 0, 0
+  index: -1
+head_01
+  rotate: false
+  xy: 2, 164
+  size: 291, 312
+  orig: 291, 312
+  offset: 0, 0
+  index: -1
+head_02
+  rotate: true
+  xy: 295, 185
+  size: 291, 243
+  orig: 291, 243
+  offset: 0, 0
+  index: -1
+leg_01
+  rotate: false
+  xy: 2, 478
+  size: 541, 1568
+  orig: 541, 1568
+  offset: 0, 0
+  index: -1
+leg_02
+  rotate: false
+  xy: 1363, 76
+  size: 146, 402
+  orig: 146, 402
+  offset: 0, 0
+  index: -1
+leg_03
+  rotate: false
+  xy: 990, 893
+  size: 70, 195
+  orig: 70, 195
+  offset: 0, 0
+  index: -1
+necktie_01
+  rotate: false
+  xy: 1909, 1406
+  size: 98, 640
+  orig: 98, 640
+  offset: 0, 0
+  index: -1
+necktie_02
+  rotate: false
+  xy: 1909, 1169
+  size: 55, 235
+  orig: 55, 235
+  offset: 0, 0
+  index: -1
+necktie_03
+  rotate: false
+  xy: 1966, 1286
+  size: 40, 118
+  orig: 40, 118
+  offset: 0, 0
+  index: -1
+wing_01
+  rotate: false
+  xy: 1075, 888
+  size: 283, 1158
+  orig: 283, 1158
+  offset: 0, 0
+  index: -1
+wing_02
+  rotate: false
+  xy: 545, 308
+  size: 239, 780
+  orig: 239, 780
+  offset: 0, 0
+  index: -1
+wing_03
+  rotate: false
+  xy: 1681, 1134
+  size: 226, 912
+  orig: 226, 912
+  offset: 0, 0
+  index: -1
+wing_04
+  rotate: false
+  xy: 1778, 561
+  size: 186, 571
+  orig: 186, 571
+  offset: 0, 0
+  index: -1
+wing_05
+  rotate: false
+  xy: 1363, 480
+  size: 201, 659
+  orig: 201, 659
+  offset: 0, 0
+  index: -1

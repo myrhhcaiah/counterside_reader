@@ -1,0 +1,90 @@
+
+UNIT_ILLUST_NPC_MOONLIGHT_LUDWIG.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 335, 332
+  size: 630, 508
+  orig: 630, 508
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 845, 224
+  size: 166, 738
+  orig: 166, 738
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 2, 79
+  size: 331, 883
+  orig: 331, 883
+  offset: 0, 0
+  index: -1
+7
+  rotate: true
+  xy: 335, 150
+  size: 180, 354
+  orig: 180, 354
+  offset: 0, 0
+  index: -1
+despair
+  rotate: false
+  xy: 517, 47
+  size: 75, 101
+  orig: 75, 101
+  offset: 0, 0
+  index: -1
+hate
+  rotate: true
+  xy: 2, 2
+  size: 75, 101
+  orig: 75, 101
+  offset: 0, 0
+  index: -1
+hate_2
+  rotate: true
+  xy: 105, 2
+  size: 75, 101
+  orig: 75, 101
+  offset: 0, 0
+  index: -1
+idle
+  rotate: true
+  xy: 208, 2
+  size: 75, 101
+  orig: 75, 101
+  offset: 0, 0
+  index: -1
+laugh
+  rotate: true
+  xy: 311, 2
+  size: 75, 101
+  orig: 75, 101
+  offset: 0, 0
+  index: -1
+pride
+  rotate: true
+  xy: 691, 147
+  size: 75, 101
+  orig: 75, 101
+  offset: 0, 0
+  index: -1
+serious
+  rotate: true
+  xy: 691, 255
+  size: 75, 101
+  orig: 75, 101
+  offset: 0, 0
+  index: -1
+surprise
+  rotate: true
+  xy: 414, 73
+  size: 75, 101
+  orig: 75, 101
+  offset: 0, 0
+  index: -1

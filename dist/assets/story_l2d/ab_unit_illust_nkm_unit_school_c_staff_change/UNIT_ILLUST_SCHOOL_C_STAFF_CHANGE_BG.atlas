@@ -1,0 +1,27 @@
+
+UNIT_ILLUST_SCHOOL_C_STAFF_CHANGE_BG.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_0
+  rotate: false
+  xy: 2, 154
+  size: 935, 824
+  orig: 935, 824
+  offset: 0, 0
+  index: -1
+bg_1
+  rotate: false
+  xy: 613, 11
+  size: 366, 141
+  orig: 366, 141
+  offset: 0, 0
+  index: -1
+bg_2
+  rotate: true
+  xy: 2, 2
+  size: 150, 609
+  orig: 150, 609
+  offset: 0, 0
+  index: -1

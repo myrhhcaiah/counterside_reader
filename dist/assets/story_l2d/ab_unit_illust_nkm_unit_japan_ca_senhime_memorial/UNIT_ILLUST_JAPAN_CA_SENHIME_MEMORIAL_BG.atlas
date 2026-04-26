@@ -1,0 +1,55 @@
+
+UNIT_ILLUST_JAPAN_CA_SENHIME_MEMORIAL_BG.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_1
+  rotate: true
+  xy: 1419, 50
+  size: 226, 302
+  orig: 226, 302
+  offset: 0, 0
+  index: -1
+bg_2
+  rotate: true
+  xy: 2, 56
+  size: 241, 658
+  orig: 241, 658
+  offset: 0, 0
+  index: -1
+bg_3
+  rotate: true
+  xy: 1085, 2
+  size: 295, 332
+  orig: 295, 332
+  offset: 0, 0
+  index: -1
+bg_4
+  rotate: false
+  xy: 2, 299
+  size: 1434, 672
+  orig: 1434, 672
+  offset: 0, 0
+  index: -1
+bg_5
+  rotate: false
+  xy: 662, 109
+  size: 421, 188
+  orig: 421, 188
+  offset: 0, 0
+  index: -1
+bg_6
+  rotate: false
+  xy: 1438, 278
+  size: 500, 693
+  orig: 500, 693
+  offset: 0, 0
+  index: -1
+leaf_1
+  rotate: false
+  xy: 1940, 895
+  size: 66, 76
+  orig: 66, 76
+  offset: 0, 0
+  index: -1

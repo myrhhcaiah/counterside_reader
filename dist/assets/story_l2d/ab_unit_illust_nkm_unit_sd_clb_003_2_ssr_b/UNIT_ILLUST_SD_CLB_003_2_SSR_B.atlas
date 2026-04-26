@@ -1,0 +1,118 @@
+
+UNIT_ILLUST_SD_CLB_003_2_SSR_B.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_left
+  rotate: true
+  xy: 870, 16
+  size: 76, 107
+  orig: 77, 107
+  offset: 0, 0
+  index: -1
+arm_right
+  rotate: true
+  xy: 858, 304
+  size: 120, 136
+  orig: 121, 137
+  offset: 0, 1
+  index: -1
+body
+  rotate: true
+  xy: 335, 176
+  size: 335, 204
+  orig: 335, 204
+  offset: 0, 0
+  index: -1
+chair
+  rotate: true
+  xy: 544, 1
+  size: 185, 61
+  orig: 185, 61
+  offset: 0, 0
+  index: -1
+earring
+  rotate: false
+  xy: 817, 11
+  size: 52, 81
+  orig: 52, 81
+  offset: 0, 0
+  index: -1
+face_normal
+  rotate: true
+  xy: 223, 8
+  size: 150, 89
+  orig: 150, 89
+  offset: 0, 0
+  index: -1
+face_sp
+  rotate: true
+  xy: 313, 16
+  size: 142, 89
+  orig: 143, 89
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: true
+  xy: 540, 187
+  size: 324, 317
+  orig: 325, 374
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: true
+  xy: 858, 93
+  size: 210, 122
+  orig: 211, 207
+  offset: 0, 0
+  index: -1
+hat
+  rotate: false
+  xy: 606, 110
+  size: 76, 76
+  orig: 76, 76
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 1, 2
+  size: 221, 156
+  orig: 221, 156
+  offset: 0, 0
+  index: -1
+head_wing
+  rotate: true
+  xy: 403, 3
+  size: 172, 140
+  orig: 172, 140
+  offset: 0, 0
+  index: -1
+leg
+  rotate: false
+  xy: 858, 425
+  size: 165, 86
+  orig: 187, 86
+  offset: 22, 0
+  index: -1
+mask
+  rotate: false
+  xy: 606, 10
+  size: 210, 82
+  orig: 210, 83
+  offset: 0, 0
+  index: -1
+piano
+  rotate: false
+  xy: 1, 159
+  size: 333, 352
+  orig: 333, 352
+  offset: 0, 0
+  index: -1
+shoulder_feather
+  rotate: false
+  xy: 683, 115
+  size: 114, 71
+  orig: 115, 71
+  offset: 0, 0
+  index: -1

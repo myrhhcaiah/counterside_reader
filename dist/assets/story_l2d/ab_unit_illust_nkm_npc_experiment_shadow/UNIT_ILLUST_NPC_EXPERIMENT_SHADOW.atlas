@@ -1,0 +1,13 @@
+
+UNIT_ILLUST_NPC_EXPERIMENT_SHADOW.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 2, 2
+  size: 229, 501
+  orig: 229, 501
+  offset: 0, 0
+  index: -1

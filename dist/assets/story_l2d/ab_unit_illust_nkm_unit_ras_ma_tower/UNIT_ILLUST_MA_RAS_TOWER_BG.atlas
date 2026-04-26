@@ -1,0 +1,55 @@
+
+UNIT_ILLUST_MA_RAS_TOWER_BG.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_1
+  rotate: false
+  xy: 473, 426
+  size: 234, 593
+  orig: 234, 593
+  offset: 0, 0
+  index: -1
+bg_2
+  rotate: false
+  xy: 2, 2
+  size: 300, 1017
+  orig: 300, 1017
+  offset: 0, 0
+  index: -1
+bg_3
+  rotate: true
+  xy: 437, 144
+  size: 128, 514
+  orig: 128, 514
+  offset: 0, 0
+  index: -1
+bg_4
+  rotate: false
+  xy: 304, 294
+  size: 167, 725
+  orig: 167, 725
+  offset: 0, 0
+  index: -1
+bg_5
+  rotate: false
+  xy: 304, 6
+  size: 131, 286
+  orig: 131, 286
+  offset: 0, 0
+  index: -1
+bg_6
+  rotate: false
+  xy: 709, 603
+  size: 289, 416
+  orig: 289, 416
+  offset: 0, 0
+  index: -1
+bg_light
+  rotate: false
+  xy: 473, 274
+  size: 474, 150
+  orig: 474, 150
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,34 @@
+
+UNIT_ILLUST_DELTA_CA_KYLE_AP_CONTEST_BG.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_1
+  rotate: true
+  xy: 1146, 2
+  size: 305, 475
+  orig: 305, 475
+  offset: 0, 0
+  index: -1
+bg_2
+  rotate: true
+  xy: 1146, 309
+  size: 688, 827
+  orig: 688, 827
+  offset: 0, 0
+  index: -1
+bg_4
+  rotate: true
+  xy: 2, 34
+  size: 963, 703
+  orig: 963, 703
+  offset: 0, 0
+  index: -1
+bg_5
+  rotate: true
+  xy: 707, 85
+  size: 912, 437
+  orig: 912, 437
+  offset: 0, 0
+  index: -1

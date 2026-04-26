@@ -1,0 +1,62 @@
+
+UNIT_ILLUST_C_HB_GAEUN_FOOLSDAY.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 2, 58
+  size: 858, 959
+  orig: 858, 959
+  offset: 0, 0
+  index: -1
+DESPAIR
+  rotate: false
+  xy: 862, 763
+  size: 157, 125
+  orig: 157, 125
+  offset: 0, 0
+  index: -1
+HATE
+  rotate: false
+  xy: 862, 637
+  size: 157, 124
+  orig: 157, 124
+  offset: 0, 0
+  index: -1
+IDLE
+  rotate: false
+  xy: 862, 890
+  size: 157, 127
+  orig: 157, 127
+  offset: 0, 0
+  index: -1
+LAUGH
+  rotate: false
+  xy: 862, 146
+  size: 148, 114
+  orig: 148, 114
+  offset: 0, 0
+  index: -1
+PRIDE
+  rotate: false
+  xy: 862, 511
+  size: 157, 124
+  orig: 157, 124
+  offset: 0, 0
+  index: -1
+SERIOUS
+  rotate: false
+  xy: 862, 262
+  size: 157, 121
+  orig: 157, 121
+  offset: 0, 0
+  index: -1
+SURPRISE
+  rotate: false
+  xy: 862, 385
+  size: 157, 124
+  orig: 157, 124
+  offset: 0, 0
+  index: -1

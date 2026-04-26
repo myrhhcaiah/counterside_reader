@@ -1,0 +1,41 @@
+
+UNIT_ILLUST_VARUNA_CA_CHAKRAM_BG.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Y_bg
+  rotate: false
+  xy: 2, 279
+  size: 785, 225
+  orig: 785, 225
+  offset: 0, 0
+  index: -1
+Y_fx_1
+  rotate: false
+  xy: 2, 2
+  size: 451, 275
+  orig: 451, 275
+  offset: 0, 0
+  index: -1
+Y_particle_1
+  rotate: false
+  xy: 769, 122
+  size: 126, 144
+  orig: 126, 144
+  offset: 0, 0
+  index: -1
+Y_particle_3
+  rotate: false
+  xy: 455, 73
+  size: 312, 204
+  orig: 312, 204
+  offset: 0, 0
+  index: -1
+Y_particle_4
+  rotate: false
+  xy: 789, 268
+  size: 188, 236
+  orig: 188, 236
+  offset: 0, 0
+  index: -1

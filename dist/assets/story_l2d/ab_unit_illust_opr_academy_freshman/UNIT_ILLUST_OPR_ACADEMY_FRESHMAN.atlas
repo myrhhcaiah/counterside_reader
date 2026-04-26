@@ -1,0 +1,188 @@
+
+UNIT_ILLUST_OPR_ACADEMY_FRESHMAN.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 244, 206
+  size: 81, 40
+  orig: 81, 40
+  offset: 0, 0
+  index: -1
+1
+  rotate: true
+  xy: 980, 609
+  size: 131, 19
+  orig: 131, 19
+  offset: 0, 0
+  index: -1
+10
+  rotate: true
+  xy: 411, 478
+  size: 242, 354
+  orig: 242, 354
+  offset: 0, 0
+  index: -1
+11
+  rotate: true
+  xy: 364, 235
+  size: 241, 242
+  orig: 241, 242
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 838, 131
+  size: 46, 54
+  orig: 46, 54
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 769, 742
+  size: 250, 280
+  orig: 250, 280
+  offset: 0, 0
+  index: -1
+14
+  rotate: true
+  xy: 744, 192
+  size: 67, 65
+  orig: 67, 65
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 799, 279
+  size: 94, 96
+  orig: 94, 96
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 608, 192
+  size: 134, 67
+  orig: 134, 67
+  offset: 0, 0
+  index: -1
+17
+  rotate: false
+  xy: 244, 248
+  size: 118, 280
+  orig: 118, 280
+  offset: 0, 0
+  index: -1
+18
+  rotate: false
+  xy: 773, 95
+  size: 63, 90
+  orig: 63, 90
+  offset: 0, 0
+  index: -1
+19
+  rotate: false
+  xy: 799, 377
+  size: 101, 104
+  orig: 101, 104
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 608, 261
+  size: 215, 189
+  orig: 215, 189
+  offset: 0, 0
+  index: -1
+20
+  rotate: false
+  xy: 411, 722
+  size: 356, 300
+  orig: 356, 300
+  offset: 0, 0
+  index: -1
+21
+  rotate: false
+  xy: 2, 188
+  size: 240, 834
+  orig: 240, 834
+  offset: 0, 0
+  index: -1
+22
+  rotate: true
+  xy: 2, 2
+  size: 184, 769
+  orig: 184, 769
+  offset: 0, 0
+  index: -1
+23
+  rotate: false
+  xy: 902, 389
+  size: 66, 92
+  orig: 66, 92
+  offset: 0, 0
+  index: -1
+24
+  rotate: false
+  xy: 773, 8
+  size: 66, 85
+  orig: 66, 85
+  offset: 0, 0
+  index: -1
+25
+  rotate: false
+  xy: 244, 530
+  size: 165, 492
+  orig: 165, 492
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 811, 187
+  size: 90, 83
+  orig: 90, 83
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 364, 482
+  size: 46, 37
+  orig: 46, 37
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 944, 512
+  size: 55, 38
+  orig: 55, 38
+  offset: 0, 0
+  index: -1
+6
+  rotate: true
+  xy: 1001, 711
+  size: 29, 10
+  orig: 29, 10
+  offset: 0, 0
+  index: -1
+7
+  rotate: true
+  xy: 244, 188
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+8
+  rotate: true
+  xy: 769, 569
+  size: 171, 209
+  orig: 171, 209
+  offset: 0, 0
+  index: -1
+9
+  rotate: true
+  xy: 767, 483
+  size: 84, 175
+  orig: 84, 175
+  offset: 0, 0
+  index: -1

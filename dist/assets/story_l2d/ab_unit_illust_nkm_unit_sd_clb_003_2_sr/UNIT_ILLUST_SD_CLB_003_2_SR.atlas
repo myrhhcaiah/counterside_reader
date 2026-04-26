@@ -1,0 +1,146 @@
+
+UNIT_ILLUST_SD_CLB_003_2_SR.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 40
+  size: 142, 139
+  orig: 142, 140
+  offset: 0, 1
+  index: -1
+body_ac
+  rotate: true
+  xy: 146, 35
+  size: 144, 56
+  orig: 145, 56
+  offset: 0, 0
+  index: -1
+body_left_arm_b
+  rotate: false
+  xy: 398, 229
+  size: 91, 90
+  orig: 92, 90
+  offset: 0, 0
+  index: -1
+body_left_leg
+  rotate: false
+  xy: 314, 6
+  size: 58, 103
+  orig: 58, 103
+  offset: 0, 0
+  index: -1
+body_right_arm_a
+  rotate: false
+  xy: 433, 113
+  size: 60, 114
+  orig: 60, 115
+  offset: 0, 1
+  index: -1
+body_right_arm_b
+  rotate: false
+  xy: 356, 122
+  size: 75, 105
+  orig: 76, 105
+  offset: 0, 0
+  index: -1
+body_right_leg
+  rotate: false
+  xy: 374, 6
+  size: 61, 105
+  orig: 62, 105
+  offset: 0, 0
+  index: -1
+face_a
+  rotate: true
+  xy: 204, 57
+  size: 124, 74
+  orig: 125, 74
+  offset: 0, 0
+  index: -1
+face_b
+  rotate: true
+  xy: 280, 111
+  size: 120, 74
+  orig: 121, 74
+  offset: 0, 0
+  index: -1
+face_c
+  rotate: true
+  xy: 188, 183
+  size: 125, 82
+  orig: 125, 82
+  offset: 0, 0
+  index: -1
+face_e
+  rotate: false
+  xy: 272, 233
+  size: 124, 86
+  orig: 125, 87
+  offset: 0, 1
+  index: -1
+hair_back_40
+  rotate: false
+  xy: 2, 310
+  size: 253, 200
+  orig: 254, 201
+  offset: 0, 1
+  index: -1
+hair_front
+  rotate: false
+  xy: 257, 409
+  size: 208, 101
+  orig: 209, 102
+  offset: 0, 1
+  index: -1
+head
+  rotate: false
+  xy: 2, 181
+  size: 184, 127
+  orig: 184, 127
+  offset: 0, 0
+  index: -1
+head_ac
+  rotate: false
+  xy: 257, 321
+  size: 206, 86
+  orig: 207, 87
+  offset: 0, 1
+  index: -1
+head_ac2
+  rotate: false
+  xy: 280, 57
+  size: 32, 52
+  orig: 32, 52
+  offset: 0, 0
+  index: -1
+l_chicken
+  rotate: true
+  xy: 204, 2
+  size: 53, 103
+  orig: 53, 103
+  offset: 0, 0
+  index: -1
+ofc_face_mouth_1
+  rotate: false
+  xy: 2, 10
+  size: 34, 28
+  orig: 39, 32
+  offset: 3, 1
+  index: -1
+r_chicken_a
+  rotate: false
+  xy: 437, 46
+  size: 47, 65
+  orig: 47, 65
+  offset: 0, 0
+  index: -1
+r_chicken_b
+  rotate: false
+  xy: 467, 479
+  size: 23, 31
+  orig: 23, 32
+  offset: 0, 0
+  index: -1

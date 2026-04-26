@@ -1,0 +1,237 @@
+
+UNIT_ILLUST_M_FUTURE_TITAN.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+titan_00
+  rotate: false
+  xy: 0, 212
+  size: 127, 405
+  orig: 127, 405
+  offset: 0, 0
+  index: -1
+titan_01
+  rotate: true
+  xy: 386, 0
+  size: 105, 162
+  orig: 105, 162
+  offset: 0, 0
+  index: -1
+titan_02
+  rotate: true
+  xy: 127, 214
+  size: 83, 216
+  orig: 83, 216
+  offset: 0, 0
+  index: -1
+titan_021
+  rotate: false
+  xy: 953, 256
+  size: 67, 82
+  orig: 67, 82
+  offset: 0, 0
+  index: -1
+titan_03
+  rotate: false
+  xy: 689, 26
+  size: 152, 106
+  orig: 152, 106
+  offset: 0, 0
+  index: -1
+titan_031
+  rotate: false
+  xy: 343, 243
+  size: 87, 85
+  orig: 87, 85
+  offset: 0, 0
+  index: -1
+titan_032
+  rotate: false
+  xy: 953, 201
+  size: 55, 55
+  orig: 55, 55
+  offset: 0, 0
+  index: -1
+titan_04
+  rotate: true
+  xy: 127, 297
+  size: 320, 158
+  orig: 320, 158
+  offset: 0, 0
+  index: -1
+titan_05
+  rotate: false
+  xy: 285, 328
+  size: 150, 289
+  orig: 150, 289
+  offset: 0, 0
+  index: -1
+titan_06
+  rotate: false
+  xy: 614, 407
+  size: 145, 274
+  orig: 145, 274
+  offset: 0, 0
+  index: -1
+titan_07
+  rotate: false
+  xy: 878, 132
+  size: 66, 65
+  orig: 66, 65
+  offset: 0, 0
+  index: -1
+titan_08
+  rotate: true
+  xy: 545, 139
+  size: 69, 178
+  orig: 69, 178
+  offset: 0, 0
+  index: -1
+titan_09
+  rotate: false
+  xy: 435, 415
+  size: 179, 266
+  orig: 179, 266
+  offset: 0, 0
+  index: -1
+titan_10
+  rotate: false
+  xy: 435, 231
+  size: 173, 184
+  orig: 173, 184
+  offset: 0, 0
+  index: -1
+titan_12
+  rotate: false
+  xy: 886, 758
+  size: 138, 263
+  orig: 138, 263
+  offset: 0, 0
+  index: -1
+titan_13
+  rotate: false
+  xy: 841, 15
+  size: 125, 117
+  orig: 125, 117
+  offset: 0, 0
+  index: -1
+titan_14
+  rotate: true
+  xy: 755, 197
+  size: 141, 198
+  orig: 141, 198
+  offset: 0, 0
+  index: -1
+titan_15
+  rotate: false
+  xy: 430, 681
+  size: 323, 201
+  orig: 323, 201
+  offset: 0, 0
+  index: -1
+titan_16
+  rotate: true
+  xy: 548, 11
+  size: 128, 141
+  orig: 128, 141
+  offset: 0, 0
+  index: -1
+titan_161
+  rotate: false
+  xy: 944, 132
+  size: 15, 65
+  orig: 15, 65
+  offset: 0, 0
+  index: -1
+titan_17
+  rotate: false
+  xy: 977, 521
+  size: 16, 162
+  orig: 16, 162
+  offset: 0, 0
+  index: -1
+titan_18
+  rotate: false
+  xy: 0, 617
+  size: 430, 265
+  orig: 430, 265
+  offset: 0, 0
+  index: -1
+titan_19
+  rotate: true
+  xy: 753, 683
+  size: 199, 127
+  orig: 199, 127
+  offset: 0, 0
+  index: -1
+titan_20
+  rotate: false
+  xy: 0, 882
+  size: 886, 139
+  orig: 886, 139
+  offset: 0, 0
+  index: -1
+titan_21
+  rotate: false
+  xy: 386, 105
+  size: 159, 126
+  orig: 159, 126
+  offset: 0, 0
+  index: -1
+titan_22
+  rotate: true
+  xy: 759, 457
+  size: 226, 218
+  orig: 226, 218
+  offset: 0, 0
+  index: -1
+titan_23
+  rotate: true
+  xy: 165, 15
+  size: 199, 118
+  orig: 199, 118
+  offset: 0, 0
+  index: -1
+titan_24
+  rotate: false
+  xy: 0, 6
+  size: 165, 206
+  orig: 165, 206
+  offset: 0, 0
+  index: -1
+titan_25
+  rotate: true
+  xy: 283, 23
+  size: 191, 103
+  orig: 191, 103
+  offset: 0, 0
+  index: -1
+titan_26
+  rotate: true
+  xy: 759, 338
+  size: 119, 220
+  orig: 119, 220
+  offset: 0, 0
+  index: -1
+titan_27
+  rotate: false
+  xy: 608, 208
+  size: 147, 199
+  orig: 147, 199
+  offset: 0, 0
+  index: -1
+titan_28
+  rotate: false
+  xy: 880, 683
+  size: 113, 75
+  orig: 113, 75
+  offset: 0, 0
+  index: -1
+titan_29
+  rotate: true
+  xy: 723, 132
+  size: 65, 155
+  orig: 65, 155
+  offset: 0, 0
+  index: -1

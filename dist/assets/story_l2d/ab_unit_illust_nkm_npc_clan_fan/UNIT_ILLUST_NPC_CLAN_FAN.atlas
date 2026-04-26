@@ -1,0 +1,83 @@
+
+UNIT_ILLUST_NPC_CLAN_FAN.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 1, 292
+  size: 891, 720
+  orig: 891, 720
+  offset: 0, 0
+  index: -1
+1
+  rotate: true
+  xy: 1, 22
+  size: 269, 601
+  orig: 269, 601
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 893, 235
+  size: 346, 124
+  orig: 346, 124
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 603, 126
+  size: 396, 108
+  orig: 396, 108
+  offset: 0, 0
+  index: -1
+BASE
+  rotate: false
+  xy: 893, 791
+  size: 128, 104
+  orig: 128, 104
+  offset: 0, 0
+  index: -1
+DESPAIR
+  rotate: true
+  xy: 720, 2
+  size: 123, 107
+  orig: 123, 107
+  offset: 0, 0
+  index: -1
+HATE
+  rotate: false
+  xy: 893, 686
+  size: 125, 104
+  orig: 125, 104
+  offset: 0, 0
+  index: -1
+LAUGH
+  rotate: true
+  xy: 828, 2
+  size: 123, 107
+  orig: 123, 107
+  offset: 0, 0
+  index: -1
+PRIDE
+  rotate: true
+  xy: 603, 1
+  size: 124, 116
+  orig: 124, 116
+  offset: 0, 0
+  index: -1
+SERIOUS
+  rotate: false
+  xy: 893, 582
+  size: 125, 103
+  orig: 125, 103
+  offset: 0, 0
+  index: -1
+SURPRISE
+  rotate: false
+  xy: 893, 896
+  size: 128, 116
+  orig: 128, 116
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,97 @@
+
+UNIT_ILLUST_SECURITY_CA_SERGEANT_BG.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_1
+  rotate: false
+  xy: 2, 358
+  size: 1418, 109
+  orig: 1418, 109
+  offset: 0, 0
+  index: -1
+bg_10
+  rotate: false
+  xy: 2, 43
+  size: 514, 313
+  orig: 514, 313
+  offset: 0, 0
+  index: -1
+bg_11
+  rotate: false
+  xy: 568, 687
+  size: 826, 330
+  orig: 826, 330
+  offset: 0, 0
+  index: -1
+bg_12
+  rotate: false
+  xy: 518, 262
+  size: 883, 94
+  orig: 883, 94
+  offset: 0, 0
+  index: -1
+bg_2
+  rotate: true
+  xy: 1654, 108
+  size: 909, 356
+  orig: 909, 356
+  offset: 0, 0
+  index: -1
+bg_3
+  rotate: false
+  xy: 1422, 9
+  size: 230, 1008
+  orig: 230, 1008
+  offset: 0, 0
+  index: -1
+bg_5
+  rotate: false
+  xy: 518, 2
+  size: 601, 258
+  orig: 601, 258
+  offset: 0, 0
+  index: -1
+bg_6
+  rotate: true
+  xy: 766, 528
+  size: 157, 641
+  orig: 157, 641
+  offset: 0, 0
+  index: -1
+bg_7
+  rotate: true
+  xy: 1121, 27
+  size: 167, 263
+  orig: 167, 263
+  offset: 0, 0
+  index: -1
+bg_8
+  rotate: false
+  xy: 2, 469
+  size: 564, 548
+  orig: 564, 548
+  offset: 0, 0
+  index: -1
+bg_9
+  rotate: true
+  xy: 1121, 196
+  size: 64, 281
+  orig: 64, 281
+  offset: 0, 0
+  index: -1
+mecha_4
+  rotate: false
+  xy: 1654, 20
+  size: 142, 86
+  orig: 142, 86
+  offset: 0, 0
+  index: -1
+mecha_5
+  rotate: true
+  xy: 568, 502
+  size: 183, 196
+  orig: 183, 196
+  offset: 0, 0
+  index: -1

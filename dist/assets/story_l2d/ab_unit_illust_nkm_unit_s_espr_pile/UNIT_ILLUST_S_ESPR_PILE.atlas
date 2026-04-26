@@ -1,0 +1,279 @@
+
+UNIT_ILLUST_S_ESPR_PILE.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Body_Shadow
+  rotate: false
+  xy: 826, 607
+  size: 173, 134
+  orig: 173, 134
+  offset: 0, 0
+  index: -1
+EMOITON_DESPAIR
+  rotate: true
+  xy: 908, 365
+  size: 88, 93
+  orig: 88, 93
+  offset: 0, 0
+  index: -1
+EMOITON_HATE
+  rotate: true
+  xy: 757, 42
+  size: 86, 74
+  orig: 86, 74
+  offset: 0, 0
+  index: -1
+EMOITON_LAUGH
+  rotate: false
+  xy: 651, 165
+  size: 88, 79
+  orig: 88, 79
+  offset: 0, 0
+  index: -1
+EMOITON_PRIDE
+  rotate: true
+  xy: 679, 17
+  size: 88, 77
+  orig: 88, 77
+  offset: 0, 0
+  index: -1
+EMOITON_SERIOUS
+  rotate: false
+  xy: 740, 129
+  size: 87, 75
+  orig: 87, 75
+  offset: 0, 0
+  index: -1
+EMOITON_SURPRISE
+  rotate: true
+  xy: 590, 1
+  size: 89, 88
+  orig: 89, 88
+  offset: 0, 0
+  index: -1
+b_hair
+  rotate: false
+  xy: 697, 742
+  size: 310, 281
+  orig: 310, 281
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 119, 182
+  size: 236, 405
+  orig: 236, 405
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 630, 245
+  size: 131, 157
+  orig: 131, 157
+  offset: 0, 0
+  index: -1
+gun
+  rotate: false
+  xy: 119, 588
+  size: 491, 160
+  orig: 491, 160
+  offset: 0, 0
+  index: -1
+gun_b
+  rotate: false
+  xy: 1, 749
+  size: 695, 274
+  orig: 695, 274
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: false
+  xy: 611, 598
+  size: 214, 143
+  orig: 214, 143
+  offset: 0, 0
+  index: -1
+hair_tail
+  rotate: false
+  xy: 590, 91
+  size: 60, 143
+  orig: 60, 143
+  offset: 0, 0
+  index: -1
+head_b
+  rotate: true
+  xy: 908, 454
+  size: 152, 97
+  orig: 152, 97
+  offset: 0, 0
+  index: -1
+jakect
+  rotate: true
+  xy: 356, 235
+  size: 352, 273
+  orig: 352, 273
+  offset: 0, 0
+  index: -1
+l_arm
+  rotate: true
+  xy: 356, 186
+  size: 48, 168
+  orig: 48, 168
+  offset: 0, 0
+  index: -1
+l_arm_clo
+  rotate: false
+  xy: 630, 403
+  size: 139, 194
+  orig: 139, 194
+  offset: 0, 0
+  index: -1
+l_arm_clo_b
+  rotate: false
+  xy: 651, 106
+  size: 75, 58
+  orig: 75, 58
+  offset: 0, 0
+  index: -1
+l_ear
+  rotate: false
+  xy: 770, 348
+  size: 75, 249
+  orig: 75, 249
+  offset: 0, 0
+  index: -1
+l_eye_ball
+  rotate: false
+  xy: 727, 106
+  size: 18, 22
+  orig: 18, 22
+  offset: 0, 0
+  index: -1
+l_eye_bro
+  rotate: false
+  xy: 549, 49
+  size: 32, 10
+  orig: 32, 10
+  offset: 0, 0
+  index: -1
+l_eye_t
+  rotate: false
+  xy: 757, 17
+  size: 37, 24
+  orig: 37, 24
+  offset: 0, 0
+  index: -1
+l_eye_w
+  rotate: false
+  xy: 167, 14
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+l_finger
+  rotate: false
+  xy: 119, 4
+  size: 47, 36
+  orig: 47, 36
+  offset: 0, 0
+  index: -1
+l_finger_b
+  rotate: false
+  xy: 525, 216
+  size: 23, 18
+  orig: 23, 18
+  offset: 0, 0
+  index: -1
+l_leg
+  rotate: true
+  xy: 119, 41
+  size: 140, 429
+  orig: 140, 429
+  offset: 0, 0
+  index: -1
+l_s_hair
+  rotate: false
+  xy: 549, 60
+  size: 40, 174
+  orig: 40, 174
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 651, 91
+  size: 26, 14
+  orig: 26, 14
+  offset: 0, 0
+  index: -1
+nose
+  rotate: false
+  xy: 1008, 1006
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+r_arm
+  rotate: false
+  xy: 762, 205
+  size: 87, 142
+  orig: 87, 142
+  offset: 0, 0
+  index: -1
+r_arm_clo
+  rotate: false
+  xy: 850, 226
+  size: 144, 138
+  orig: 144, 138
+  offset: 0, 0
+  index: -1
+r_ear
+  rotate: false
+  xy: 846, 365
+  size: 61, 241
+  orig: 61, 241
+  offset: 0, 0
+  index: -1
+r_eye_ball
+  rotate: true
+  xy: 828, 187
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+r_eye_bro
+  rotate: false
+  xy: 1, 1
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+r_eye_t
+  rotate: false
+  xy: 795, 17
+  size: 29, 24
+  orig: 29, 24
+  offset: 0, 0
+  index: -1
+r_eye_w
+  rotate: true
+  xy: 740, 221
+  size: 23, 21
+  orig: 23, 21
+  offset: 0, 0
+  index: -1
+r_leg
+  rotate: false
+  xy: 1, 13
+  size: 117, 735
+  orig: 117, 735
+  offset: 0, 0
+  index: -1
+r_s_hair
+  rotate: true
+  xy: 850, 174
+  size: 51, 148
+  orig: 51, 148
+  offset: 0, 0
+  index: -1

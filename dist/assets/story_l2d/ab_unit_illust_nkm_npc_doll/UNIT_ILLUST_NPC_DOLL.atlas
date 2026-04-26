@@ -1,0 +1,83 @@
+
+UNIT_ILLUST_NPC_DOLL.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 1884, 1087
+  size: 115, 73
+  orig: 115, 73
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 189, 98
+  size: 115, 73
+  orig: 115, 73
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 1884, 1012
+  size: 110, 73
+  orig: 110, 73
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 1732, 565
+  size: 115, 70
+  orig: 115, 70
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 1615, 485
+  size: 115, 73
+  orig: 115, 73
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 1615, 560
+  size: 115, 75
+  orig: 115, 75
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 189, 32
+  size: 115, 64
+  orig: 115, 64
+  offset: 0, 0
+  index: -1
+body_1
+  rotate: false
+  xy: 2, 173
+  size: 1611, 1821
+  orig: 1611, 1821
+  offset: 0, 0
+  index: -1
+body_2
+  rotate: true
+  xy: 1615, 1162
+  size: 832, 396
+  orig: 832, 396
+  offset: 0, 0
+  index: -1
+halo
+  rotate: true
+  xy: 1615, 637
+  size: 523, 267
+  orig: 523, 267
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 2
+  size: 185, 169
+  orig: 185, 169
+  offset: 0, 0
+  index: -1

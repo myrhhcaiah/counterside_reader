@@ -1,0 +1,55 @@
+
+UNIT_ILLUST_HARMONY_CA_ARMOR_SPECIAL_INTRO.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+introsky_1
+  rotate: false
+  xy: 1447, 13
+  size: 116, 116
+  orig: 116, 116
+  offset: 0, 0
+  index: -1
+introsky_2
+  rotate: false
+  xy: 1447, 131
+  size: 389, 507
+  orig: 389, 507
+  offset: 0, 0
+  index: -1
+introsky_3
+  rotate: false
+  xy: 2, 2
+  size: 1443, 406
+  orig: 1443, 406
+  offset: 0, 0
+  index: -1
+introsky_4
+  rotate: false
+  xy: 1838, 466
+  size: 172, 172
+  orig: 172, 172
+  offset: 0, 0
+  index: -1
+introsky_5
+  rotate: false
+  xy: 1447, 640
+  size: 588, 379
+  orig: 588, 379
+  offset: 0, 0
+  index: -1
+introsky_6
+  rotate: false
+  xy: 2, 410
+  size: 1443, 609
+  orig: 1443, 609
+  offset: 0, 0
+  index: -1
+introsky_7
+  rotate: false
+  xy: 1838, 397
+  size: 67, 67
+  orig: 67, 67
+  offset: 0, 0
+  index: -1

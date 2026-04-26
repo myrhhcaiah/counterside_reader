@@ -1,0 +1,356 @@
+
+UNIT_ILLUST_MONSTER_BOSS_BASIC_BISHOP.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 813, 69
+  size: 99, 23
+  orig: 99, 23
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 664, 90
+  size: 128, 145
+  orig: 128, 145
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 194, 16
+  size: 150, 304
+  orig: 150, 304
+  offset: 0, 0
+  index: -1
+12
+  rotate: false
+  xy: 346, 26
+  size: 203, 95
+  orig: 203, 95
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 479, 161
+  size: 183, 65
+  orig: 183, 65
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 663, 649
+  size: 146, 373
+  orig: 146, 373
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 481, 381
+  size: 171, 283
+  orig: 171, 283
+  offset: 0, 0
+  index: -1
+16
+  rotate: false
+  xy: 797, 284
+  size: 38, 363
+  orig: 38, 363
+  offset: 0, 0
+  index: -1
+17
+  rotate: false
+  xy: 837, 310
+  size: 33, 350
+  orig: 33, 350
+  offset: 0, 0
+  index: -1
+18
+  rotate: false
+  xy: 872, 311
+  size: 33, 349
+  orig: 33, 349
+  offset: 0, 0
+  index: -1
+19
+  rotate: true
+  xy: 837, 284
+  size: 24, 77
+  orig: 24, 77
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 946, 533
+  size: 102, 25
+  orig: 102, 25
+  offset: 0, 0
+  index: -1
+20
+  rotate: false
+  xy: 2, 17
+  size: 190, 303
+  orig: 190, 303
+  offset: 0, 0
+  index: -1
+21
+  rotate: false
+  xy: 994, 609
+  size: 26, 413
+  orig: 26, 413
+  offset: 0, 0
+  index: -1
+22
+  rotate: false
+  xy: 948, 637
+  size: 44, 385
+  orig: 44, 385
+  offset: 0, 0
+  index: -1
+23
+  rotate: false
+  xy: 754, 250
+  size: 41, 397
+  orig: 41, 397
+  offset: 0, 0
+  index: -1
+24
+  rotate: false
+  xy: 747, 2
+  size: 26, 86
+  orig: 26, 86
+  offset: 0, 0
+  index: -1
+25
+  rotate: false
+  xy: 302, 322
+  size: 177, 313
+  orig: 177, 313
+  offset: 0, 0
+  index: -1
+26
+  rotate: true
+  xy: 2, 4
+  size: 11, 63
+  orig: 11, 63
+  offset: 0, 0
+  index: -1
+27
+  rotate: true
+  xy: 551, 15
+  size: 11, 68
+  orig: 11, 68
+  offset: 0, 0
+  index: -1
+28
+  rotate: false
+  xy: 907, 480
+  size: 37, 180
+  orig: 37, 180
+  offset: 0, 0
+  index: -1
+29
+  rotate: true
+  xy: 479, 125
+  size: 34, 182
+  orig: 34, 182
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 621, 2
+  size: 26, 121
+  orig: 26, 121
+  offset: 0, 0
+  index: -1
+30
+  rotate: true
+  xy: 797, 250
+  size: 32, 99
+  orig: 32, 99
+  offset: 0, 0
+  index: -1
+31
+  rotate: false
+  xy: 775, 3
+  size: 36, 85
+  orig: 36, 85
+  offset: 0, 0
+  index: -1
+32
+  rotate: false
+  xy: 551, 28
+  size: 68, 95
+  orig: 68, 95
+  offset: 0, 0
+  index: -1
+33
+  rotate: true
+  xy: 649, 21
+  size: 67, 96
+  orig: 67, 96
+  offset: 0, 0
+  index: -1
+34
+  rotate: true
+  xy: 654, 313
+  size: 334, 98
+  orig: 334, 98
+  offset: 0, 0
+  index: -1
+35
+  rotate: false
+  xy: 324, 666
+  size: 337, 356
+  orig: 337, 356
+  offset: 0, 0
+  index: -1
+36
+  rotate: false
+  xy: 811, 662
+  size: 135, 360
+  orig: 135, 360
+  offset: 0, 0
+  index: -1
+37
+  rotate: true
+  xy: 846, 38
+  size: 29, 82
+  orig: 29, 82
+  offset: 0, 0
+  index: -1
+38
+  rotate: false
+  xy: 2, 647
+  size: 320, 375
+  orig: 320, 375
+  offset: 0, 0
+  index: -1
+39
+  rotate: false
+  xy: 2, 322
+  size: 298, 323
+  orig: 298, 323
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 324, 637
+  size: 27, 111
+  orig: 27, 111
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 907, 319
+  size: 38, 159
+  orig: 38, 159
+  offset: 0, 0
+  index: -1
+6_back
+  rotate: true
+  xy: 794, 94
+  size: 154, 129
+  orig: 154, 129
+  offset: 0, 0
+  index: -1
+6_front
+  rotate: true
+  xy: 481, 228
+  size: 151, 169
+  orig: 151, 169
+  offset: 0, 0
+  index: -1
+6_l
+  rotate: true
+  xy: 846, 4
+  size: 32, 62
+  orig: 32, 62
+  offset: 0, 0
+  index: -1
+6_r
+  rotate: false
+  xy: 813, 2
+  size: 31, 65
+  orig: 31, 65
+  offset: 0, 0
+  index: -1
+7
+  rotate: true
+  xy: 346, 123
+  size: 197, 131
+  orig: 197, 131
+  offset: 0, 0
+  index: -1
+BASE_EYE
+  rotate: false
+  xy: 947, 363
+  size: 20, 27
+  orig: 20, 27
+  offset: 0, 0
+  index: -1
+BASE_EYE_BACK
+  rotate: true
+  xy: 437, 637
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+BASE_EYE_BOW
+  rotate: false
+  xy: 649, 12
+  size: 47, 7
+  orig: 47, 7
+  offset: 0, 0
+  index: -1
+BASE_EYE_COVER
+  rotate: true
+  xy: 947, 392
+  size: 41, 31
+  orig: 41, 31
+  offset: 0, 0
+  index: -1
+BASE_EYE_LIGHT
+  rotate: true
+  xy: 654, 655
+  size: 9, 5
+  orig: 9, 5
+  offset: 0, 0
+  index: -1
+BASE_SHADOW1
+  rotate: false
+  xy: 910, 11
+  size: 18, 25
+  orig: 18, 25
+  offset: 0, 0
+  index: -1
+BASE_SHADOW2
+  rotate: false
+  xy: 946, 481
+  size: 37, 50
+  orig: 37, 50
+  offset: 0, 0
+  index: -1
+BASE_SHADOW3
+  rotate: true
+  xy: 649, 109
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+HATE
+  rotate: true
+  xy: 947, 435
+  size: 44, 37
+  orig: 44, 37
+  offset: 0, 0
+  index: -1
+HATE_BACK
+  rotate: false
+  xy: 652, 237
+  size: 94, 74
+  orig: 94, 74
+  offset: 0, 0
+  index: -1

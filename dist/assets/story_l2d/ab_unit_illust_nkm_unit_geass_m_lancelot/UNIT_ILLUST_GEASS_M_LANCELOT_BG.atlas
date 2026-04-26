@@ -1,0 +1,174 @@
+
+UNIT_ILLUST_GEASS_M_LANCELOT_BG.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_1
+  rotate: false
+  xy: 1265, 6
+  size: 166, 284
+  orig: 166, 284
+  offset: 0, 0
+  index: -1
+bg_10
+  rotate: false
+  xy: 375, 79
+  size: 77, 183
+  orig: 77, 183
+  offset: 0, 0
+  index: -1
+bg_11
+  rotate: false
+  xy: 18, 33
+  size: 423, 36
+  orig: 423, 36
+  offset: 0, 0
+  index: -1
+bg_12
+  rotate: true
+  xy: 1773, 161
+  size: 117, 159
+  orig: 117, 159
+  offset: 0, 0
+  index: -1
+bg_13
+  rotate: false
+  xy: 1433, 9
+  size: 123, 293
+  orig: 123, 293
+  offset: 0, 0
+  index: -1
+bg_14
+  rotate: true
+  xy: 2, 2
+  size: 67, 14
+  orig: 67, 14
+  offset: 0, 0
+  index: -1
+bg_15
+  rotate: true
+  xy: 826, 22
+  size: 242, 437
+  orig: 242, 437
+  offset: 0, 0
+  index: -1
+bg_16
+  rotate: true
+  xy: 611, 501
+  size: 521, 156
+  orig: 521, 156
+  offset: 0, 0
+  index: -1
+bg_17
+  rotate: true
+  xy: 1464, 815
+  size: 207, 387
+  orig: 207, 387
+  offset: 0, 0
+  index: -1
+bg_18
+  rotate: false
+  xy: 1558, 6
+  size: 213, 342
+  orig: 213, 342
+  offset: 0, 0
+  index: -1
+bg_19
+  rotate: true
+  xy: 611, 266
+  size: 233, 457
+  orig: 233, 457
+  offset: 0, 0
+  index: -1
+bg_2
+  rotate: false
+  xy: 1876, 280
+  size: 162, 330
+  orig: 162, 330
+  offset: 0, 0
+  index: -1
+bg_20
+  rotate: true
+  xy: 454, 83
+  size: 179, 370
+  orig: 179, 370
+  offset: 0, 0
+  index: -1
+bg_21
+  rotate: true
+  xy: 1294, 304
+  size: 272, 150
+  orig: 272, 150
+  offset: 0, 0
+  index: -1
+bg_22
+  rotate: true
+  xy: 443, 2
+  size: 75, 193
+  orig: 75, 193
+  offset: 0, 0
+  index: -1
+bg_3
+  rotate: false
+  xy: 159, 76
+  size: 214, 186
+  orig: 214, 186
+  offset: 0, 0
+  index: -1
+bg_4
+  rotate: false
+  xy: 1098, 578
+  size: 364, 444
+  orig: 364, 444
+  offset: 0, 0
+  index: -1
+bg_5
+  rotate: true
+  xy: 2, 71
+  size: 951, 155
+  orig: 951, 155
+  offset: 0, 0
+  index: -1
+bg_6
+  rotate: true
+  xy: 1446, 350
+  size: 226, 428
+  orig: 226, 428
+  offset: 0, 0
+  index: -1
+bg_7
+  rotate: false
+  xy: 1876, 612
+  size: 164, 410
+  orig: 164, 410
+  offset: 0, 0
+  index: -1
+bg_8
+  rotate: false
+  xy: 159, 264
+  size: 450, 758
+  orig: 450, 758
+  offset: 0, 0
+  index: -1
+bg_9
+  rotate: false
+  xy: 1464, 654
+  size: 372, 159
+  orig: 372, 159
+  offset: 0, 0
+  index: -1
+bg_fx_1
+  rotate: true
+  xy: 769, 523
+  size: 499, 327
+  orig: 499, 327
+  offset: 0, 0
+  index: -1
+blur
+  rotate: false
+  xy: 1070, 292
+  size: 222, 229
+  orig: 222, 229
+  offset: 0, 0
+  index: -1

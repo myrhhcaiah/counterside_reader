@@ -1,0 +1,244 @@
+
+UNIT_ILLUST_NPC_ASSISTANT_LEE_YOON_JUNG.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+EMOTION_BASIC
+  rotate: true
+  xy: 932, 789
+  size: 109, 84
+  orig: 109, 84
+  offset: 0, 0
+  index: -1
+EMOTION_BASIC_CLOSEEYE
+  rotate: true
+  xy: 879, 319
+  size: 106, 34
+  orig: 106, 34
+  offset: 0, 0
+  index: -1
+EMOTION_DESPAIR
+  rotate: true
+  xy: 796, 301
+  size: 107, 81
+  orig: 107, 81
+  offset: 0, 0
+  index: -1
+EMOTION_DESPAIR_2
+  rotate: true
+  xy: 797, 193
+  size: 106, 84
+  orig: 106, 84
+  offset: 0, 0
+  index: -1
+EMOTION_HATE
+  rotate: false
+  xy: 792, 96
+  size: 107, 95
+  orig: 107, 95
+  offset: 0, 0
+  index: -1
+EMOTION_HATE_2
+  rotate: true
+  xy: 820, 427
+  size: 107, 95
+  orig: 107, 95
+  offset: 0, 0
+  index: -1
+EMOTION_LAUGH
+  rotate: true
+  xy: 917, 444
+  size: 106, 88
+  orig: 106, 88
+  offset: 0, 0
+  index: -1
+EMOTION_PRIDE
+  rotate: true
+  xy: 858, 661
+  size: 110, 91
+  orig: 110, 91
+  offset: 0, 0
+  index: -1
+EMOTION_SERIOUS
+  rotate: true
+  xy: 820, 536
+  size: 109, 88
+  orig: 109, 88
+  offset: 0, 0
+  index: -1
+EMOTION_SURPRISE
+  rotate: true
+  xy: 832, 773
+  size: 113, 98
+  orig: 113, 98
+  offset: 0, 0
+  index: -1
+ob_1
+  rotate: true
+  xy: 803, 647
+  size: 112, 53
+  orig: 112, 53
+  offset: 0, 0
+  index: -1
+ob_10
+  rotate: false
+  xy: 883, 215
+  size: 76, 102
+  orig: 76, 102
+  offset: 0, 0
+  index: -1
+ob_11
+  rotate: true
+  xy: 310, 622
+  size: 137, 491
+  orig: 137, 491
+  offset: 0, 0
+  index: -1
+ob_12
+  rotate: true
+  xy: 263, 294
+  size: 140, 344
+  orig: 140, 344
+  offset: 0, 0
+  index: -1
+ob_13
+  rotate: true
+  xy: 263, 190
+  size: 102, 341
+  orig: 102, 341
+  offset: 0, 0
+  index: -1
+ob_14
+  rotate: true
+  xy: 2, 58
+  size: 93, 301
+  orig: 93, 301
+  offset: 0, 0
+  index: -1
+ob_15
+  rotate: false
+  xy: 2, 472
+  size: 306, 539
+  orig: 306, 539
+  offset: 0, 0
+  index: -1
+ob_16
+  rotate: false
+  xy: 609, 201
+  size: 186, 98
+  orig: 186, 98
+  offset: 0, 0
+  index: -1
+ob_17
+  rotate: true
+  xy: 310, 761
+  size: 125, 520
+  orig: 125, 520
+  offset: 0, 0
+  index: -1
+ob_18
+  rotate: true
+  xy: 310, 888
+  size: 123, 549
+  orig: 123, 549
+  offset: 0, 0
+  index: -1
+ob_19
+  rotate: true
+  xy: 310, 436
+  size: 184, 343
+  orig: 184, 343
+  offset: 0, 0
+  index: -1
+ob_2
+  rotate: false
+  xy: 917, 418
+  size: 70, 24
+  orig: 70, 24
+  offset: 0, 0
+  index: -1
+ob_20
+  rotate: false
+  xy: 2, 153
+  size: 259, 317
+  orig: 259, 317
+  offset: 0, 0
+  index: -1
+ob_21
+  rotate: false
+  xy: 910, 552
+  size: 98, 107
+  orig: 98, 107
+  offset: 0, 0
+  index: -1
+ob_22
+  rotate: false
+  xy: 609, 301
+  size: 185, 107
+  orig: 185, 107
+  offset: 0, 0
+  index: -1
+ob_23
+  rotate: true
+  xy: 606, 120
+  size: 79, 184
+  orig: 79, 184
+  offset: 0, 0
+  index: -1
+ob_24
+  rotate: false
+  xy: 486, 78
+  size: 113, 110
+  orig: 113, 110
+  offset: 0, 0
+  index: -1
+ob_3
+  rotate: true
+  xy: 127, 16
+  size: 40, 135
+  orig: 40, 135
+  offset: 0, 0
+  index: -1
+ob_4
+  rotate: true
+  xy: 861, 900
+  size: 111, 149
+  orig: 111, 149
+  offset: 0, 0
+  index: -1
+ob_5
+  rotate: true
+  xy: 601, 78
+  size: 40, 133
+  orig: 40, 133
+  offset: 0, 0
+  index: -1
+ob_6
+  rotate: true
+  xy: 305, 68
+  size: 120, 179
+  orig: 120, 179
+  offset: 0, 0
+  index: -1
+ob_7
+  rotate: true
+  xy: 2, 2
+  size: 54, 123
+  orig: 54, 123
+  offset: 0, 0
+  index: -1
+ob_8
+  rotate: false
+  xy: 655, 410
+  size: 163, 210
+  orig: 163, 210
+  offset: 0, 0
+  index: -1
+ob_9
+  rotate: false
+  xy: 951, 677
+  size: 51, 110
+  orig: 51, 110
+  offset: 0, 0
+  index: -1

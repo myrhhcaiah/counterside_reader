@@ -1,0 +1,251 @@
+
+UNIT_ILLUST_MONSTER_BOSS_TRANS_KNIGHT.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+3
+  rotate: false
+  xy: 774, 117
+  size: 95, 204
+  orig: 95, 204
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 533, 344
+  size: 248, 156
+  orig: 248, 156
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 2, 26
+  size: 269, 165
+  orig: 269, 165
+  offset: 0, 0
+  index: -1
+61
+  rotate: true
+  xy: 911, 189
+  size: 118, 92
+  orig: 118, 92
+  offset: 0, 0
+  index: -1
+62
+  rotate: true
+  xy: 908, 475
+  size: 129, 99
+  orig: 129, 99
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 2, 193
+  size: 269, 380
+  orig: 269, 380
+  offset: 0, 0
+  index: -1
+EMOITON_CLOSED EYES
+  rotate: false
+  xy: 871, 104
+  size: 113, 83
+  orig: 113, 83
+  offset: 0, 0
+  index: -1
+EMOITON_LAUGH
+  rotate: false
+  xy: 911, 686
+  size: 111, 83
+  orig: 111, 83
+  offset: 0, 0
+  index: -1
+EMOTIN_SURPRISE
+  rotate: false
+  xy: 911, 606
+  size: 111, 78
+  orig: 111, 78
+  offset: 0, 0
+  index: -1
+EMOTION_DESPAIR
+  rotate: true
+  xy: 841, 723
+  size: 121, 68
+  orig: 121, 68
+  offset: 0, 0
+  index: -1
+EMOTION_HATE
+  rotate: false
+  xy: 739, 598
+  size: 110, 94
+  orig: 110, 94
+  offset: 0, 0
+  index: -1
+EMOTION_NORMAL_PRIDE
+  rotate: false
+  xy: 911, 309
+  size: 109, 84
+  orig: 109, 84
+  offset: 0, 0
+  index: -1
+EMOTION_SERIOUS
+  rotate: false
+  xy: 911, 771
+  size: 111, 87
+  orig: 111, 87
+  offset: 0, 0
+  index: -1
+EMOTION_SERIOUS2
+  rotate: false
+  xy: 786, 326
+  size: 123, 131
+  orig: 123, 131
+  offset: 0, 0
+  index: -1
+Layer-1
+  rotate: false
+  xy: 533, 299
+  size: 25, 43
+  orig: 25, 43
+  offset: 0, 0
+  index: -1
+Layer-2
+  rotate: false
+  xy: 1009, 575
+  size: 13, 29
+  orig: 13, 29
+  offset: 0, 0
+  index: -1
+TOUCH
+  rotate: false
+  xy: 911, 395
+  size: 111, 78
+  orig: 111, 78
+  offset: 0, 0
+  index: -1
+hair_ac
+  rotate: true
+  xy: 868, 68
+  size: 34, 106
+  orig: 34, 106
+  offset: 0, 0
+  index: -1
+ob_1
+  rotate: false
+  xy: 786, 459
+  size: 59, 137
+  orig: 59, 137
+  offset: 0, 0
+  index: -1
+ob_11
+  rotate: true
+  xy: 843, 860
+  size: 154, 171
+  orig: 154, 171
+  offset: 0, 0
+  index: -1
+ob_11_shadow
+  rotate: true
+  xy: 774, 15
+  size: 100, 92
+  orig: 100, 92
+  offset: 0, 0
+  index: -1
+ob_1_shadow
+  rotate: false
+  xy: 847, 459
+  size: 59, 137
+  orig: 59, 137
+  offset: 0, 0
+  index: -1
+ob_2
+  rotate: true
+  xy: 369, 594
+  size: 98, 368
+  orig: 98, 368
+  offset: 0, 0
+  index: -1
+ob_24
+  rotate: true
+  xy: 369, 694
+  size: 150, 470
+  orig: 150, 470
+  offset: 0, 0
+  index: -1
+ob_25
+  rotate: true
+  xy: 369, 846
+  size: 168, 472
+  orig: 168, 472
+  offset: 0, 0
+  index: -1
+ob_26
+  rotate: false
+  xy: 273, 286
+  size: 258, 287
+  orig: 258, 287
+  offset: 0, 0
+  index: -1
+ob_29
+  rotate: false
+  xy: 512, 42
+  size: 102, 242
+  orig: 102, 242
+  offset: 0, 0
+  index: -1
+ob_3
+  rotate: false
+  xy: 616, 84
+  size: 156, 237
+  orig: 156, 237
+  offset: 0, 0
+  index: -1
+ob_30
+  rotate: false
+  xy: 691, 323
+  size: 93, 269
+  orig: 93, 269
+  offset: 0, 0
+  index: -1
+ob_36
+  rotate: false
+  xy: 2, 575
+  size: 365, 439
+  orig: 365, 439
+  offset: 0, 0
+  index: -1
+ob_48
+  rotate: false
+  xy: 273, 44
+  size: 237, 240
+  orig: 237, 240
+  offset: 0, 0
+  index: -1
+ob_48_1
+  rotate: true
+  xy: 868, 35
+  size: 31, 102
+  orig: 31, 102
+  offset: 0, 0
+  index: -1
+ob_48_2
+  rotate: true
+  xy: 871, 194
+  size: 130, 38
+  orig: 130, 38
+  offset: 0, 0
+  index: -1
+ob_48_3
+  rotate: false
+  xy: 616, 47
+  size: 120, 35
+  orig: 120, 35
+  offset: 0, 0
+  index: -1
+ob_48_4
+  rotate: true
+  xy: 868, 2
+  size: 31, 102
+  orig: 31, 102
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,69 @@
+
+UNIT_ILLUST_C_JAPAN_SETSUNA_RA_BG.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_1
+  rotate: false
+  xy: 1656, 497
+  size: 366, 495
+  orig: 366, 495
+  offset: 0, 0
+  index: -1
+bg_10
+  rotate: false
+  xy: 790, 676
+  size: 864, 316
+  orig: 864, 316
+  offset: 0, 0
+  index: -1
+bg_2
+  rotate: false
+  xy: 1315, 16
+  size: 431, 438
+  orig: 431, 438
+  offset: 0, 0
+  index: -1
+bg_3
+  rotate: true
+  xy: 1748, 172
+  size: 323, 288
+  orig: 323, 288
+  offset: 0, 0
+  index: -1
+bg_4
+  rotate: false
+  xy: 790, 4
+  size: 523, 450
+  orig: 523, 450
+  offset: 0, 0
+  index: -1
+bg_5
+  rotate: true
+  xy: 2, 2
+  size: 202, 252
+  orig: 202, 252
+  offset: 0, 0
+  index: -1
+bg_6
+  rotate: false
+  xy: 1748, 25
+  size: 168, 145
+  orig: 168, 145
+  offset: 0, 0
+  index: -1
+bg_7
+  rotate: false
+  xy: 2, 206
+  size: 786, 786
+  orig: 786, 786
+  offset: 0, 0
+  index: -1
+bg_9
+  rotate: false
+  xy: 790, 456
+  size: 840, 218
+  orig: 840, 218
+  offset: 0, 0
+  index: -1

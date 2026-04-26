@@ -1,0 +1,118 @@
+
+UNIT_ILLUST_NPC_CYMBALS.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 583, 677
+  size: 357, 338
+  orig: 357, 338
+  offset: 0, 0
+  index: -1
+10
+  rotate: false
+  xy: 804, 338
+  size: 134, 131
+  orig: 134, 131
+  offset: 0, 0
+  index: -1
+11
+  rotate: false
+  xy: 613, 278
+  size: 189, 191
+  orig: 189, 191
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 96
+  size: 450, 331
+  orig: 450, 331
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 583, 471
+  size: 204, 361
+  orig: 204, 362
+  offset: 0, 1
+  index: -1
+4
+  rotate: false
+  xy: 454, 64
+  size: 157, 363
+  orig: 157, 363
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 2, 429
+  size: 579, 586
+  orig: 580, 587
+  offset: 0, 1
+  index: -1
+9
+  rotate: true
+  xy: 613, 77
+  size: 199, 103
+  orig: 199, 103
+  offset: 0, 0
+  index: -1
+BASE
+  rotate: false
+  xy: 718, 55
+  size: 120, 85
+  orig: 123, 87
+  offset: 0, 2
+  index: -1
+DESPAIR
+  rotate: true
+  xy: 940, 351
+  size: 118, 82
+  orig: 124, 84
+  offset: 3, 2
+  index: -1
+HATE
+  rotate: false
+  xy: 2, 2
+  size: 132, 92
+  orig: 133, 95
+  offset: 1, 2
+  index: -1
+LAUGH
+  rotate: false
+  xy: 269, 5
+  size: 122, 89
+  orig: 125, 91
+  offset: 0, 2
+  index: -1
+PRIDE
+  rotate: true
+  xy: 718, 142
+  size: 134, 123
+  orig: 134, 123
+  offset: 0, 0
+  index: -1
+SERIOUS
+  rotate: true
+  xy: 942, 906
+  size: 109, 80
+  orig: 109, 80
+  offset: 0, 0
+  index: -1
+SERIOUS2
+  rotate: false
+  xy: 136, 8
+  size: 131, 86
+  orig: 131, 87
+  offset: 0, 0
+  index: -1
+SURPRISE
+  rotate: true
+  xy: 843, 216
+  size: 120, 86
+  orig: 123, 88
+  offset: 0, 2
+  index: -1

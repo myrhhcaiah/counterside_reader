@@ -1,0 +1,34 @@
+
+UNIT_ILLUST_CORRUPTED_M_ARMOR_BG.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+acc_1
+  rotate: false
+  xy: 566, 103
+  size: 294, 907
+  orig: 294, 907
+  offset: 0, 0
+  index: -1
+acc_2
+  rotate: false
+  xy: 2, 38
+  size: 562, 972
+  orig: 562, 972
+  offset: 0, 0
+  index: -1
+bg_wp_1
+  rotate: false
+  xy: 566, 83
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+wp_1_2
+  rotate: false
+  xy: 2, 2
+  size: 136, 34
+  orig: 136, 34
+  offset: 0, 0
+  index: -1

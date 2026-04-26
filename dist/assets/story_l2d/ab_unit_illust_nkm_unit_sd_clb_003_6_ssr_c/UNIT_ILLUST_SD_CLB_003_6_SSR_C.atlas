@@ -1,0 +1,265 @@
+
+UNIT_ILLUST_SD_CLB_003_6_SSR_C.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Left_Arm
+  rotate: true
+  xy: 362, 140
+  size: 42, 81
+  orig: 42, 81
+  offset: 0, 0
+  index: -1
+Left_Arm_b
+  rotate: true
+  xy: 355, 7
+  size: 42, 81
+  orig: 42, 81
+  offset: 0, 0
+  index: -1
+Left_Leg
+  rotate: false
+  xy: 330, 163
+  size: 30, 90
+  orig: 30, 90
+  offset: 0, 0
+  index: -1
+Left_horn
+  rotate: false
+  xy: 450, 63
+  size: 54, 54
+  orig: 54, 54
+  offset: 0, 0
+  index: -1
+Right_Arm
+  rotate: true
+  xy: 2, 9
+  size: 41, 87
+  orig: 41, 87
+  offset: 0, 0
+  index: -1
+Right_Arm_01
+  rotate: false
+  xy: 326, 321
+  size: 41, 31
+  orig: 41, 31
+  offset: 0, 0
+  index: -1
+Right_Arm_b
+  rotate: false
+  xy: 407, 51
+  size: 41, 87
+  orig: 41, 87
+  offset: 0, 0
+  index: -1
+Right_Leg
+  rotate: true
+  xy: 156, 5
+  size: 41, 90
+  orig: 41, 90
+  offset: 0, 0
+  index: -1
+Right_horn
+  rotate: false
+  xy: 280, 255
+  size: 67, 57
+  orig: 67, 57
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 280, 40
+  size: 73, 95
+  orig: 73, 95
+  offset: 0, 0
+  index: -1
+body_left_arm2
+  rotate: false
+  xy: 355, 51
+  size: 50, 87
+  orig: 50, 87
+  offset: 0, 0
+  index: -1
+body_parts_1
+  rotate: false
+  xy: 461, 275
+  size: 41, 43
+  orig: 41, 43
+  offset: 0, 0
+  index: -1
+body_parts_2
+  rotate: false
+  xy: 450, 119
+  size: 50, 55
+  orig: 50, 55
+  offset: 0, 0
+  index: -1
+body_right_arm2
+  rotate: false
+  xy: 445, 176
+  size: 50, 87
+  orig: 50, 87
+  offset: 0, 0
+  index: -1
+earring_01
+  rotate: false
+  xy: 489, 419
+  size: 14, 34
+  orig: 14, 34
+  offset: 0, 0
+  index: -1
+face_a
+  rotate: false
+  xy: 377, 320
+  size: 115, 61
+  orig: 115, 61
+  offset: 0, 0
+  index: -1
+face_b
+  rotate: false
+  xy: 163, 48
+  size: 115, 61
+  orig: 115, 61
+  offset: 0, 0
+  index: -1
+face_c
+  rotate: false
+  xy: 163, 249
+  size: 115, 63
+  orig: 115, 63
+  offset: 0, 0
+  index: -1
+face_d
+  rotate: false
+  xy: 377, 383
+  size: 110, 70
+  orig: 110, 70
+  offset: 0, 0
+  index: -1
+face_e
+  rotate: true
+  xy: 91, 199
+  size: 115, 70
+  orig: 115, 70
+  offset: 0, 0
+  index: -1
+face_f
+  rotate: true
+  xy: 91, 86
+  size: 111, 70
+  orig: 111, 70
+  offset: 0, 0
+  index: -1
+hair_ac
+  rotate: false
+  xy: 195, 314
+  size: 129, 38
+  orig: 129, 38
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: false
+  xy: 2, 316
+  size: 191, 194
+  orig: 191, 194
+  offset: 0, 0
+  index: -1
+hair_rear_01
+  rotate: false
+  xy: 2, 52
+  size: 87, 262
+  orig: 87, 262
+  offset: 0, 0
+  index: -1
+hair_ribbon_2
+  rotate: false
+  xy: 91, 2
+  size: 63, 82
+  orig: 63, 82
+  offset: 0, 0
+  index: -1
+hair_ribbon_l
+  rotate: false
+  xy: 275, 137
+  size: 53, 110
+  orig: 53, 110
+  offset: 0, 0
+  index: -1
+hair_ribbon_r
+  rotate: true
+  xy: 349, 265
+  size: 53, 110
+  orig: 53, 110
+  offset: 0, 0
+  index: -1
+halo
+  rotate: false
+  xy: 377, 455
+  size: 130, 55
+  orig: 130, 55
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 195, 354
+  size: 180, 156
+  orig: 180, 156
+  offset: 0, 0
+  index: -1
+head_ear
+  rotate: false
+  xy: 248, 2
+  size: 43, 36
+  orig: 43, 36
+  offset: 0, 0
+  index: -1
+left_wing
+  rotate: false
+  xy: 163, 180
+  size: 110, 67
+  orig: 110, 67
+  offset: 0, 0
+  index: -1
+ofc_face_mouth_1
+  rotate: true
+  xy: 497, 256
+  size: 17, 13
+  orig: 17, 13
+  offset: 0, 0
+  index: -1
+ofc_face_mouth_2
+  rotate: false
+  xy: 330, 154
+  size: 16, 7
+  orig: 16, 7
+  offset: 0, 0
+  index: -1
+ofc_face_mouth_3
+  rotate: false
+  xy: 438, 39
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+ofc_face_mouth_4
+  rotate: false
+  xy: 280, 249
+  size: 14, 4
+  orig: 14, 4
+  offset: 0, 0
+  index: -1
+right_wing
+  rotate: false
+  xy: 163, 111
+  size: 110, 67
+  orig: 110, 67
+  offset: 0, 0
+  index: -1
+skirt
+  rotate: false
+  xy: 362, 184
+  size: 81, 79
+  orig: 81, 79
+  offset: 0, 0
+  index: -1

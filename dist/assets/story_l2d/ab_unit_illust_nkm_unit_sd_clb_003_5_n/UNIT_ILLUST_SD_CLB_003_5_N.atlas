@@ -1,0 +1,13 @@
+
+UNIT_ILLUST_SD_CLB_003_5_N.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+CLB_003_5
+  rotate: false
+  xy: 2, 2
+  size: 453, 492
+  orig: 453, 492
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+
+UNIT_ILLUST_NKM_NPC_RUBBER_DUCK.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 2
+  size: 494, 182
+  orig: 494, 182
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,279 @@
+
+UNIT_ILLUST_C_STREGA_EVELYN_CAFFE.png
+size: 1024,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ACCGRP
+  rotate: true
+  xy: 660, 1065
+  size: 398, 245
+  orig: 398, 246
+  offset: 0, 1
+  index: -1
+arm_1
+  rotate: false
+  xy: 651, 327
+  size: 194, 396
+  orig: 194, 397
+  offset: 0, 1
+  index: -1
+arm_2
+  rotate: true
+  xy: 660, 1464
+  size: 583, 221
+  orig: 586, 221
+  offset: 0, 0
+  index: -1
+arm_3
+  rotate: false
+  xy: 882, 1914
+  size: 137, 133
+  orig: 137, 133
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 1, 57
+  size: 421, 666
+  orig: 659, 1918
+  offset: 237, 1252
+  index: -1
+body2
+  rotate: false
+  xy: 1, 724
+  size: 658, 1323
+  orig: 659, 1918
+  offset: 0, 1
+  index: -1
+collar1
+  rotate: false
+  xy: 882, 1849
+  size: 92, 64
+  orig: 96, 64
+  offset: 0, 0
+  index: -1
+collar2
+  rotate: false
+  xy: 846, 430
+  size: 68, 45
+  orig: 68, 45
+  offset: 0, 0
+  index: -1
+eye1
+  rotate: false
+  xy: 954, 484
+  size: 69, 42
+  orig: 69, 49
+  offset: 0, 7
+  index: -1
+eye2
+  rotate: false
+  xy: 846, 476
+  size: 107, 50
+  orig: 107, 50
+  offset: 0, 0
+  index: -1
+eye2_1
+  rotate: false
+  xy: 159, 35
+  size: 51, 21
+  orig: 51, 21
+  offset: 0, 0
+  index: -1
+eye2_2
+  rotate: false
+  xy: 1, 1
+  size: 77, 23
+  orig: 110, 24
+  offset: 32, 1
+  index: -1
+eye2_2_1
+  rotate: false
+  xy: 681, 75
+  size: 51, 15
+  orig: 51, 15
+  offset: 0, 0
+  index: -1
+eye2_etc1
+  rotate: false
+  xy: 846, 409
+  size: 54, 20
+  orig: 60, 21
+  offset: 0, 0
+  index: -1
+eye3_1
+  rotate: false
+  xy: 882, 1811
+  size: 44, 20
+  orig: 59, 25
+  offset: 0, 0
+  index: -1
+eye3_2
+  rotate: false
+  xy: 681, 91
+  size: 65, 19
+  orig: 65, 19
+  offset: 0, 0
+  index: -1
+eyeball1
+  rotate: false
+  xy: 651, 295
+  size: 29, 31
+  orig: 29, 31
+  offset: 0, 0
+  index: -1
+eyeball2
+  rotate: false
+  xy: 915, 439
+  size: 31, 36
+  orig: 31, 36
+  offset: 0, 0
+  index: -1
+eyebrow1
+  rotate: false
+  xy: 701, 726
+  size: 55, 15
+  orig: 61, 24
+  offset: 1, 9
+  index: -1
+eyebrow1_2
+  rotate: false
+  xy: 79, 1
+  size: 42, 23
+  orig: 42, 23
+  offset: 0, 0
+  index: -1
+eyebrow2
+  rotate: false
+  xy: 423, 57
+  size: 76, 14
+  orig: 91, 14
+  offset: 0, 0
+  index: -1
+eyebrow2_2
+  rotate: false
+  xy: 954, 477
+  size: 66, 6
+  orig: 66, 6
+  offset: 0, 0
+  index: -1
+eyebrow2_3
+  rotate: false
+  xy: 882, 1832
+  size: 68, 16
+  orig: 69, 16
+  offset: 0, 0
+  index: -1
+eyewhite1
+  rotate: false
+  xy: 122, 1
+  size: 40, 23
+  orig: 42, 24
+  offset: 0, 1
+  index: -1
+eyewhite2
+  rotate: true
+  xy: 975, 1861
+  size: 52, 28
+  orig: 53, 29
+  offset: 0, 1
+  index: -1
+face_point
+  rotate: false
+  xy: 1021, 481
+  size: 2, 2
+  orig: 2, 2
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: true
+  xy: 423, 72
+  size: 209, 257
+  orig: 210, 258
+  offset: 0, 1
+  index: -1
+hair_back_tail
+  rotate: true
+  xy: 1, 25
+  size: 31, 157
+  orig: 32, 158
+  offset: 0, 1
+  index: -1
+hair_front
+  rotate: false
+  xy: 660, 742
+  size: 299, 322
+  orig: 300, 322
+  offset: 0, 0
+  index: -1
+hair_side
+  rotate: false
+  xy: 423, 282
+  size: 227, 441
+  orig: 228, 441
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 681, 111
+  size: 215, 213
+  orig: 215, 213
+  offset: 0, 0
+  index: -1
+head_despair
+  rotate: true
+  xy: 500, 58
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+head_hate
+  rotate: true
+  xy: 846, 527
+  size: 214, 144
+  orig: 215, 213
+  offset: 0, 69
+  index: -1
+mouth
+  rotate: false
+  xy: 660, 724
+  size: 40, 17
+  orig: 40, 17
+  offset: 0, 0
+  index: -1
+mouth_despair
+  rotate: true
+  xy: 1004, 1884
+  size: 29, 19
+  orig: 29, 19
+  offset: 0, 0
+  index: -1
+mouth_hate
+  rotate: false
+  xy: 747, 95
+  size: 39, 15
+  orig: 39, 15
+  offset: 0, 0
+  index: -1
+mouth_serious
+  rotate: false
+  xy: 846, 386
+  size: 24, 22
+  orig: 24, 22
+  offset: 0, 0
+  index: -1
+mouth_surprise
+  rotate: true
+  xy: 757, 724
+  size: 17, 23
+  orig: 17, 23
+  offset: 0, 0
+  index: -1
+nose
+  rotate: false
+  xy: 1004, 1862
+  size: 19, 21
+  orig: 19, 21
+  offset: 0, 0
+  index: -1

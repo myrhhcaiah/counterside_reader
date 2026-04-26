@@ -1,0 +1,13 @@
+
+UNIT_ILLUST_KNIGHT_C_HOLY_MEMORIAL_BG.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_1
+  rotate: false
+  xy: 2, 2
+  size: 1633, 998
+  orig: 1633, 998
+  offset: 0, 0
+  index: -1

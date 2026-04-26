@@ -1,0 +1,76 @@
+
+UNIT_ILLUST_NPC_EXILER_COMMANDER.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: false
+  xy: 1, 275
+  size: 867, 704
+  orig: 867, 704
+  offset: 0, 0
+  index: -1
+1
+  rotate: true
+  xy: 1, 1
+  size: 273, 322
+  orig: 273, 322
+  offset: 0, 0
+  index: -1
+BASE
+  rotate: false
+  xy: 324, 200
+  size: 132, 74
+  orig: 132, 74
+  offset: 0, 0
+  index: -1
+DESPAIR
+  rotate: false
+  xy: 324, 126
+  size: 131, 73
+  orig: 131, 73
+  offset: 0, 0
+  index: -1
+HATE
+  rotate: false
+  xy: 457, 201
+  size: 131, 73
+  orig: 131, 73
+  offset: 0, 0
+  index: -1
+LAUGH
+  rotate: false
+  xy: 869, 758
+  size: 132, 72
+  orig: 132, 72
+  offset: 0, 0
+  index: -1
+PRIDE
+  rotate: false
+  xy: 589, 202
+  size: 132, 72
+  orig: 132, 72
+  offset: 0, 0
+  index: -1
+SERIOUS
+  rotate: false
+  xy: 324, 51
+  size: 129, 74
+  orig: 129, 74
+  offset: 0, 0
+  index: -1
+SERIOUS2
+  rotate: false
+  xy: 869, 905
+  size: 138, 74
+  orig: 138, 74
+  offset: 0, 0
+  index: -1
+SURPRISE
+  rotate: false
+  xy: 869, 831
+  size: 132, 73
+  orig: 132, 73
+  offset: 0, 0
+  index: -1

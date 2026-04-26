@@ -1,0 +1,48 @@
+
+UNIT_ILLUST_M_RAS_TOWER_RECITAL_BG.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back_1
+  rotate: false
+  xy: 2, 28
+  size: 914, 977
+  orig: 914, 977
+  offset: 0, 0
+  index: -1
+dust_1
+  rotate: false
+  xy: 2, 7
+  size: 11, 19
+  orig: 11, 19
+  offset: 0, 0
+  index: -1
+dust_2
+  rotate: false
+  xy: 918, 990
+  size: 12, 15
+  orig: 12, 15
+  offset: 0, 0
+  index: -1
+dust_3
+  rotate: false
+  xy: 918, 985
+  size: 2, 3
+  orig: 2, 3
+  offset: 0, 0
+  index: -1
+dust_4
+  rotate: false
+  xy: 15, 14
+  size: 12, 12
+  orig: 12, 12
+  offset: 0, 0
+  index: -1
+dust_5
+  rotate: false
+  xy: 2, 2
+  size: 3, 3
+  orig: 3, 3
+  offset: 0, 0
+  index: -1

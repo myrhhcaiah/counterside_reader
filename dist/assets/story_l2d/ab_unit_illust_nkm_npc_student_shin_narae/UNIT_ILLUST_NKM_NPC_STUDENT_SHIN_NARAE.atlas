@@ -1,0 +1,272 @@
+
+UNIT_ILLUST_NKM_NPC_STUDENT_SHIN_NARAE.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BASIC
+  rotate: true
+  xy: 934, 570
+  size: 112, 74
+  orig: 112, 74
+  offset: 0, 0
+  index: -1
+CLOSE_EYES
+  rotate: true
+  xy: 981, 918
+  size: 104, 20
+  orig: 104, 20
+  offset: 0, 0
+  index: -1
+EMOITON_LAUGH
+  rotate: true
+  xy: 704, 123
+  size: 123, 82
+  orig: 123, 82
+  offset: 0, 0
+  index: -1
+EMOTIN_SURPRISE
+  rotate: true
+  xy: 846, 241
+  size: 112, 82
+  orig: 112, 82
+  offset: 0, 0
+  index: -1
+EMOTION_DESPAIR
+  rotate: true
+  xy: 930, 241
+  size: 112, 76
+  orig: 112, 76
+  offset: 0, 0
+  index: -1
+EMOTION_HATE
+  rotate: true
+  xy: 934, 464
+  size: 104, 62
+  orig: 104, 62
+  offset: 0, 0
+  index: -1
+EMOTION_PRIDE
+  rotate: true
+  xy: 845, 126
+  size: 113, 77
+  orig: 113, 77
+  offset: 0, 0
+  index: -1
+EMOTION_SERIOUS
+  rotate: false
+  xy: 709, 2
+  size: 112, 70
+  orig: 112, 70
+  offset: 0, 0
+  index: -1
+bag_1
+  rotate: true
+  xy: 131, 15
+  size: 90, 116
+  orig: 90, 116
+  offset: 0, 0
+  index: -1
+bag_2
+  rotate: true
+  xy: 533, 248
+  size: 134, 212
+  orig: 134, 212
+  offset: 0, 0
+  index: -1
+bag_2_1
+  rotate: false
+  xy: 1010, 650
+  size: 12, 88
+  orig: 12, 88
+  offset: 0, 0
+  index: -1
+bag_2_2
+  rotate: true
+  xy: 924, 130
+  size: 42, 70
+  orig: 42, 70
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 600
+  size: 358, 422
+  orig: 358, 422
+  offset: 0, 0
+  index: -1
+body_1
+  rotate: true
+  xy: 564, 17
+  size: 51, 143
+  orig: 51, 143
+  offset: 0, 0
+  index: -1
+body_skirt
+  rotate: false
+  xy: 599, 684
+  size: 350, 177
+  orig: 350, 177
+  offset: 0, 0
+  index: -1
+haed
+  rotate: false
+  xy: 564, 70
+  size: 138, 176
+  orig: 138, 176
+  offset: 0, 0
+  index: -1
+haed_shadow
+  rotate: false
+  xy: 424, 11
+  size: 138, 176
+  orig: 138, 176
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: true
+  xy: 792, 355
+  size: 107, 144
+  orig: 107, 144
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: true
+  xy: 924, 174
+  size: 65, 98
+  orig: 65, 98
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: false
+  xy: 951, 740
+  size: 60, 121
+  orig: 60, 121
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: false
+  xy: 369, 189
+  size: 157, 109
+  orig: 157, 109
+  offset: 0, 0
+  index: -1
+left_arm_1
+  rotate: true
+  xy: 2, 107
+  size: 100, 263
+  orig: 100, 263
+  offset: 0, 0
+  index: -1
+left_arm_2
+  rotate: false
+  xy: 2, 3
+  size: 127, 102
+  orig: 127, 102
+  offset: 0, 0
+  index: -1
+left_hair
+  rotate: true
+  xy: 533, 384
+  size: 277, 257
+  orig: 277, 257
+  offset: 0, 0
+  index: -1
+left_jacket_1
+  rotate: false
+  xy: 262, 229
+  size: 105, 369
+  orig: 105, 369
+  offset: 0, 0
+  index: -1
+left_jacket_2
+  rotate: true
+  xy: 747, 248
+  size: 105, 97
+  orig: 105, 97
+  offset: 0, 0
+  index: -1
+left_leg
+  rotate: false
+  xy: 362, 663
+  size: 235, 359
+  orig: 235, 359
+  offset: 0, 0
+  index: -1
+ribbon_1
+  rotate: false
+  xy: 599, 663
+  size: 41, 19
+  orig: 41, 19
+  offset: 0, 0
+  index: -1
+ribbon_2
+  rotate: false
+  xy: 807, 80
+  size: 109, 44
+  orig: 109, 44
+  offset: 0, 0
+  index: -1
+ribbon_3
+  rotate: false
+  xy: 788, 144
+  size: 55, 102
+  orig: 55, 102
+  offset: 0, 0
+  index: -1
+ribbon_4
+  rotate: true
+  xy: 704, 74
+  size: 47, 101
+  orig: 47, 101
+  offset: 0, 0
+  index: -1
+right_arm_1
+  rotate: false
+  xy: 267, 2
+  size: 155, 185
+  orig: 155, 185
+  offset: 0, 0
+  index: -1
+right_arm_2
+  rotate: false
+  xy: 792, 464
+  size: 140, 218
+  orig: 140, 218
+  offset: 0, 0
+  index: -1
+right_finger_1
+  rotate: false
+  xy: 951, 707
+  size: 51, 31
+  orig: 51, 31
+  offset: 0, 0
+  index: -1
+right_finger_2
+  rotate: false
+  xy: 938, 403
+  size: 50, 59
+  orig: 50, 59
+  offset: 0, 0
+  index: -1
+right_hair
+  rotate: true
+  xy: 2, 209
+  size: 389, 258
+  orig: 389, 258
+  offset: 0, 0
+  index: -1
+right_jacket
+  rotate: true
+  xy: 599, 863
+  size: 159, 380
+  orig: 159, 380
+  offset: 0, 0
+  index: -1
+right_leg
+  rotate: false
+  xy: 369, 300
+  size: 162, 361
+  orig: 162, 361
+  offset: 0, 0
+  index: -1

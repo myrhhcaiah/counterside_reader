@@ -1,0 +1,48 @@
+
+UNIT_ILLUST_ESPR_CA_FROZEN_SPECIAL_BG.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_1
+  rotate: false
+  xy: 2, 708
+  size: 1764, 1317
+  orig: 1764, 1317
+  offset: 0, 0
+  index: -1
+step_1
+  rotate: true
+  xy: 1978, 1896
+  size: 129, 60
+  orig: 129, 60
+  offset: 0, 0
+  index: -1
+wave_1
+  rotate: false
+  xy: 2, 2
+  size: 1491, 233
+  orig: 1491, 233
+  offset: 0, 0
+  index: -1
+wave_2
+  rotate: true
+  xy: 1768, 816
+  size: 1209, 208
+  orig: 1209, 208
+  offset: 0, 0
+  index: -1
+wave_3
+  rotate: false
+  xy: 2, 237
+  size: 1319, 469
+  orig: 1319, 469
+  offset: 0, 0
+  index: -1
+wave_4
+  rotate: false
+  xy: 1323, 493
+  size: 608, 213
+  orig: 608, 213
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+
+UNIT_ILLUST_GEASS_MA_SEITEN_LIMITED_BG.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG_MESH
+  rotate: false
+  xy: 2, 2
+  size: 944, 963
+  orig: 944, 963
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,111 @@
+
+UNIT_ILLUST_JUNIOR_C_POLEARM_RA_BG.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_0_1
+  rotate: false
+  xy: 1629, 228
+  size: 126, 104
+  orig: 126, 104
+  offset: 0, 0
+  index: -1
+bg_0_2
+  rotate: false
+  xy: 2, 37
+  size: 189, 63
+  orig: 189, 63
+  offset: 0, 0
+  index: -1
+bg_0_3
+  rotate: true
+  xy: 1745, 865
+  size: 452, 271
+  orig: 452, 271
+  offset: 0, 0
+  index: -1
+bg_0_4_1
+  rotate: false
+  xy: 1673, 1277
+  size: 60, 40
+  orig: 60, 40
+  offset: 0, 0
+  index: -1
+bg_0_4_2
+  rotate: false
+  xy: 1745, 763
+  size: 111, 100
+  orig: 111, 100
+  offset: 0, 0
+  index: -1
+bg_0_5
+  rotate: true
+  xy: 1673, 1319
+  size: 719, 313
+  orig: 719, 313
+  offset: 0, 0
+  index: -1
+bg_1
+  rotate: false
+  xy: 2, 681
+  size: 1491, 486
+  orig: 1491, 486
+  offset: 0, 0
+  index: -1
+bg_2_1
+  rotate: false
+  xy: 2, 1169
+  size: 1669, 869
+  orig: 1669, 869
+  offset: 0, 0
+  index: -1
+bg_5_5
+  rotate: true
+  xy: 1233, 73
+  size: 606, 394
+  orig: 606, 394
+  offset: 0, 0
+  index: -1
+bg_6_1
+  rotate: true
+  xy: 1629, 334
+  size: 374, 194
+  orig: 374, 194
+  offset: 0, 0
+  index: -1
+bg_6_2
+  rotate: true
+  xy: 1495, 710
+  size: 457, 248
+  orig: 457, 248
+  offset: 0, 0
+  index: -1
+bg_7
+  rotate: true
+  xy: 2, 102
+  size: 577, 1229
+  orig: 577, 1229
+  offset: 0, 0
+  index: -1
+fx_0
+  rotate: false
+  xy: 1988, 1966
+  size: 49, 72
+  orig: 49, 72
+  offset: 0, 0
+  index: -1
+fx_1
+  rotate: false
+  xy: 193, 71
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+fx_lf
+  rotate: false
+  xy: 2, 2
+  size: 35, 33
+  orig: 35, 33
+  offset: 0, 0
+  index: -1

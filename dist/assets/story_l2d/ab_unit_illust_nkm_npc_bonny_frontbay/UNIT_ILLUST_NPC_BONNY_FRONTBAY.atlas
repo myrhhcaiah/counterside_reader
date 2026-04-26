@@ -1,0 +1,62 @@
+
+UNIT_ILLUST_NPC_BONNY_FRONTBAY.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 2, 2
+  size: 1002, 1858
+  orig: 1002, 1858
+  offset: 0, 0
+  index: -1
+despair
+  rotate: true
+  xy: 1862, 63
+  size: 132, 86
+  orig: 132, 86
+  offset: 0, 0
+  index: -1
+hate
+  rotate: true
+  xy: 1862, 753
+  size: 137, 105
+  orig: 137, 105
+  offset: 0, 0
+  index: -1
+idle
+  rotate: true
+  xy: 1862, 197
+  size: 136, 94
+  orig: 136, 94
+  offset: 0, 0
+  index: -1
+laugh
+  rotate: false
+  xy: 1862, 892
+  size: 133, 112
+  orig: 133, 112
+  offset: 0, 0
+  index: -1
+pride
+  rotate: true
+  xy: 1862, 471
+  size: 136, 99
+  orig: 136, 99
+  offset: 0, 0
+  index: -1
+serious
+  rotate: true
+  xy: 1862, 609
+  size: 142, 98
+  orig: 142, 98
+  offset: 0, 0
+  index: -1
+surprise
+  rotate: true
+  xy: 1862, 335
+  size: 134, 108
+  orig: 134, 108
+  offset: 0, 0
+  index: -1

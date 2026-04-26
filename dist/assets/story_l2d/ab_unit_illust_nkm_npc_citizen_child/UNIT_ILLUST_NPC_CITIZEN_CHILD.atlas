@@ -1,0 +1,20 @@
+
+UNIT_ILLUST_NPC_CITIZEN_CHILD.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 2
+  size: 618, 1019
+  orig: 618, 1019
+  offset: 0, 0
+  index: -1
+legs_
+  rotate: false
+  xy: 622, 349
+  size: 391, 672
+  orig: 391, 672
+  offset: 0, 0
+  index: -1

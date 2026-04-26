@@ -1,0 +1,13 @@
+
+UNIT_ILLUST_SECURITY_S_AGENT_PAJAMAS_BG.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG_1
+  rotate: false
+  xy: 2, 2
+  size: 999, 699
+  orig: 999, 699
+  offset: 0, 0
+  index: -1

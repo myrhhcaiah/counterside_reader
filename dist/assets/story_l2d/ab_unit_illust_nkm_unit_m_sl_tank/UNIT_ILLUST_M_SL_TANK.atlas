@@ -1,0 +1,118 @@
+
+UNIT_ILLUST_M_SL_TANK.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_cover_01
+  rotate: false
+  xy: 509, 195
+  size: 329, 288
+  orig: 329, 288
+  offset: 0, 0
+  index: -1
+body_no_shadow
+  rotate: false
+  xy: 2, 485
+  size: 923, 537
+  orig: 923, 537
+  offset: 0, 0
+  index: -1
+canon_01
+  rotate: true
+  xy: 840, 253
+  size: 230, 41
+  orig: 230, 41
+  offset: 0, 0
+  index: -1
+canon_02
+  rotate: true
+  xy: 927, 565
+  size: 212, 51
+  orig: 212, 51
+  offset: 0, 0
+  index: -1
+canon_04
+  rotate: true
+  xy: 357, 66
+  size: 184, 113
+  orig: 184, 113
+  offset: 0, 0
+  index: -1
+canon_back
+  rotate: true
+  xy: 840, 217
+  size: 34, 41
+  orig: 34, 41
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 252
+  size: 505, 231
+  orig: 505, 231
+  offset: 0, 0
+  index: -1
+head_cover_01
+  rotate: false
+  xy: 729, 118
+  size: 129, 75
+  orig: 129, 75
+  offset: 0, 0
+  index: -1
+head_cover_02
+  rotate: false
+  xy: 472, 101
+  size: 132, 92
+  orig: 132, 92
+  offset: 0, 0
+  index: -1
+head_cover_back
+  rotate: false
+  xy: 606, 95
+  size: 121, 98
+  orig: 121, 98
+  offset: 0, 0
+  index: -1
+head_door_01
+  rotate: false
+  xy: 357, 17
+  size: 93, 47
+  orig: 93, 47
+  offset: 0, 0
+  index: -1
+head_door_02
+  rotate: true
+  xy: 883, 353
+  size: 130, 50
+  orig: 130, 50
+  offset: 0, 0
+  index: -1
+head_door_03
+  rotate: true
+  xy: 883, 247
+  size: 104, 48
+  orig: 104, 48
+  offset: 0, 0
+  index: -1
+object_01
+  rotate: false
+  xy: 472, 2
+  size: 101, 97
+  orig: 101, 97
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 927, 779
+  size: 243, 72
+  orig: 243, 72
+  offset: 0, 0
+  index: -1
+wheel
+  rotate: true
+  xy: 2, 33
+  size: 217, 353
+  orig: 217, 353
+  offset: 0, 0
+  index: -1

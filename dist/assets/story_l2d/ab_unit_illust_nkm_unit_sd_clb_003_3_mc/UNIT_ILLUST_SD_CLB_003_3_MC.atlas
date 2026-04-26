@@ -1,0 +1,97 @@
+
+UNIT_ILLUST_SD_CLB_003_3_MC.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+acc_1
+  rotate: true
+  xy: 2, 2
+  size: 189, 192
+  orig: 189, 192
+  offset: 0, 0
+  index: -1
+head_1
+  rotate: false
+  xy: 2, 193
+  size: 370, 316
+  orig: 370, 316
+  offset: 0, 0
+  index: -1
+l_ear_1
+  rotate: false
+  xy: 374, 384
+  size: 81, 125
+  orig: 81, 125
+  offset: 0, 0
+  index: -1
+l_eye_1
+  rotate: true
+  xy: 336, 124
+  size: 67, 15
+  orig: 67, 15
+  offset: 0, 0
+  index: -1
+l_palm
+  rotate: true
+  xy: 457, 453
+  size: 56, 44
+  orig: 56, 44
+  offset: 0, 0
+  index: -1
+l_palm_2
+  rotate: false
+  xy: 374, 327
+  size: 73, 55
+  orig: 73, 55
+  offset: 0, 0
+  index: -1
+mouth_1
+  rotate: false
+  xy: 457, 431
+  size: 53, 20
+  orig: 53, 20
+  offset: 0, 0
+  index: -1
+mouth_2
+  rotate: false
+  xy: 374, 252
+  size: 25, 27
+  orig: 25, 27
+  offset: 0, 0
+  index: -1
+mouth_3
+  rotate: false
+  xy: 278, 124
+  size: 56, 67
+  orig: 56, 67
+  offset: 0, 0
+  index: -1
+r_ear_1
+  rotate: false
+  xy: 196, 66
+  size: 80, 125
+  orig: 80, 125
+  offset: 0, 0
+  index: -1
+r_eye_1
+  rotate: false
+  xy: 278, 107
+  size: 67, 15
+  orig: 67, 15
+  offset: 0, 0
+  index: -1
+r_palm
+  rotate: false
+  xy: 374, 281
+  size: 56, 44
+  orig: 56, 44
+  offset: 0, 0
+  index: -1
+r_palm_2
+  rotate: false
+  xy: 196, 10
+  size: 70, 54
+  orig: 70, 54
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,62 @@
+
+UNIT_ILLUST_S_YG_SORIM_FOOLSDAY.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00
+  rotate: true
+  xy: 2, 2
+  size: 981, 1065
+  orig: 981, 1065
+  offset: 0, 0
+  index: -1
+DESPAIR
+  rotate: true
+  xy: 1069, 329
+  size: 243, 180
+  orig: 243, 180
+  offset: 0, 0
+  index: -1
+HATE
+  rotate: false
+  xy: 1069, 761
+  size: 240, 222
+  orig: 240, 222
+  offset: 0, 0
+  index: -1
+IDLE
+  rotate: false
+  xy: 1069, 574
+  size: 239, 185
+  orig: 239, 185
+  offset: 0, 0
+  index: -1
+LAUGH
+  rotate: false
+  xy: 1552, 803
+  size: 239, 180
+  orig: 239, 180
+  offset: 0, 0
+  index: -1
+PRIDE
+  rotate: false
+  xy: 1311, 798
+  size: 239, 185
+  orig: 239, 185
+  offset: 0, 0
+  index: -1
+SERIOUS
+  rotate: false
+  xy: 1793, 822
+  size: 210, 161
+  orig: 210, 161
+  offset: 0, 0
+  index: -1
+SURPRISE
+  rotate: false
+  xy: 1069, 134
+  size: 184, 193
+  orig: 184, 193
+  offset: 0, 0
+  index: -1

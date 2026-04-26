@@ -1,0 +1,27 @@
+
+UNIT_ILLUST_DELTA_C_QUEEN_SUMMER_BG.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG_CLOTH
+  rotate: false
+  xy: 1084, 22
+  size: 618, 434
+  orig: 618, 434
+  offset: 0, 0
+  index: -1
+BG_MAIN
+  rotate: false
+  xy: 2, 2
+  size: 1080, 986
+  orig: 1080, 986
+  offset: 0, 0
+  index: -1
+EFFECT_WATER_1
+  rotate: false
+  xy: 1084, 458
+  size: 594, 530
+  orig: 594, 530
+  offset: 0, 0
+  index: -1

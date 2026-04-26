@@ -1,0 +1,48 @@
+
+UNIT_ILLUST_C_KIM_CHEOLSU_RA_BG.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_1
+  rotate: false
+  xy: 2, 433
+  size: 1008, 568
+  orig: 1008, 568
+  offset: 0, 0
+  index: -1
+bg_2
+  rotate: false
+  xy: 377, 101
+  size: 196, 197
+  orig: 196, 197
+  offset: 0, 0
+  index: -1
+bg_3
+  rotate: true
+  xy: 575, 206
+  size: 21, 269
+  orig: 21, 269
+  offset: 0, 0
+  index: -1
+bg_4
+  rotate: true
+  xy: 2, 300
+  size: 131, 884
+  orig: 131, 884
+  offset: 0, 0
+  index: -1
+front_bg_1
+  rotate: false
+  xy: 2, 2
+  size: 373, 296
+  orig: 373, 296
+  offset: 0, 0
+  index: -1
+front_light_2
+  rotate: false
+  xy: 575, 229
+  size: 284, 69
+  orig: 284, 69
+  offset: 0, 0
+  index: -1

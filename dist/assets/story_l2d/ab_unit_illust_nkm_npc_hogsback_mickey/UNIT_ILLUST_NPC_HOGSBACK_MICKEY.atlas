@@ -1,0 +1,160 @@
+
+UNIT_ILLUST_NPC_HOGSBACK_MICKEY.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 552, 210
+  size: 222, 324
+  orig: 222, 324
+  offset: 0, 0
+  index: -1
+body_back
+  rotate: true
+  xy: 686, 125
+  size: 83, 176
+  orig: 83, 176
+  offset: 0, 0
+  index: -1
+gun
+  rotate: false
+  xy: 2, 222
+  size: 548, 210
+  orig: 548, 210
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 878, 321
+  size: 138, 152
+  orig: 138, 152
+  offset: 0, 0
+  index: -1
+head_back
+  rotate: false
+  xy: 86, 36
+  size: 82, 43
+  orig: 82, 43
+  offset: 0, 0
+  index: -1
+head_effect
+  rotate: false
+  xy: 780, 446
+  size: 84, 27
+  orig: 84, 27
+  offset: 0, 0
+  index: -1
+left_arm_01
+  rotate: true
+  xy: 181, 104
+  size: 116, 176
+  orig: 116, 176
+  offset: 0, 0
+  index: -1
+left_arm_02
+  rotate: true
+  xy: 522, 109
+  size: 99, 162
+  orig: 99, 162
+  offset: 0, 0
+  index: -1
+right_arm_01
+  rotate: true
+  xy: 522, 109
+  size: 99, 162
+  orig: 99, 162
+  offset: 0, 0
+  index: -1
+left_hand
+  rotate: true
+  xy: 2, 16
+  size: 63, 82
+  orig: 63, 82
+  offset: 0, 0
+  index: -1
+leg
+  rotate: false
+  xy: 2, 434
+  size: 387, 588
+  orig: 387, 588
+  offset: 0, 0
+  index: -1
+leg__center
+  rotate: true
+  xy: 359, 106
+  size: 114, 161
+  orig: 114, 161
+  offset: 0, 0
+  index: -1
+leg_l
+  rotate: false
+  xy: 780, 475
+  size: 168, 547
+  orig: 168, 547
+  offset: 0, 0
+  index: -1
+leg_r
+  rotate: false
+  xy: 391, 434
+  size: 387, 588
+  orig: 387, 588
+  offset: 0, 0
+  index: -1
+right_arm_02
+  rotate: true
+  xy: 181, 2
+  size: 100, 102
+  orig: 100, 102
+  offset: 0, 0
+  index: -1
+right_finger
+  rotate: false
+  xy: 992, 273
+  size: 30, 46
+  orig: 30, 46
+  offset: 0, 0
+  index: -1
+right_hand
+  rotate: false
+  xy: 950, 953
+  size: 67, 69
+  orig: 67, 69
+  offset: 0, 0
+  index: -1
+right_hand_back
+  rotate: false
+  xy: 950, 890
+  size: 48, 61
+  orig: 48, 61
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 2, 81
+  size: 177, 139
+  orig: 177, 139
+  offset: 0, 0
+  index: -1
+shoulder1_effect
+  rotate: false
+  xy: 950, 844
+  size: 28, 44
+  orig: 28, 44
+  offset: 0, 0
+  index: -1
+shoulder_01
+  rotate: false
+  xy: 285, 29
+  size: 64, 73
+  orig: 64, 73
+  offset: 0, 0
+  index: -1
+shoulder_02
+  rotate: false
+  xy: 878, 230
+  size: 112, 89
+  orig: 112, 89
+  offset: 0, 0
+  index: -1

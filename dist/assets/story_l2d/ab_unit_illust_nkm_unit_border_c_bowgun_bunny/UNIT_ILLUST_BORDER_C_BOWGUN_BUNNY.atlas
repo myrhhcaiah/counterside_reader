@@ -1,0 +1,377 @@
+
+UNIT_ILLUST_BORDER_C_BOWGUN_BUNNY.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ARM_L_1
+  rotate: true
+  xy: 509, 62
+  size: 290, 313
+  orig: 290, 313
+  offset: 0, 0
+  index: -1
+ARM_R_1
+  rotate: true
+  xy: 1648, 706
+  size: 316, 362
+  orig: 316, 362
+  offset: 0, 0
+  index: -1
+ARM_R_C_FINGER_12
+  rotate: true
+  xy: 449, 303
+  size: 49, 58
+  orig: 49, 58
+  offset: 0, 0
+  index: -1
+ARM_R_C_FINGER_34
+  rotate: false
+  xy: 458, 172
+  size: 46, 72
+  orig: 46, 72
+  offset: 0, 0
+  index: -1
+ARM_R_C_FINGER_5
+  rotate: false
+  xy: 449, 246
+  size: 35, 55
+  orig: 35, 55
+  offset: 0, 0
+  index: -1
+ARM_R_C_HAND
+  rotate: false
+  xy: 249, 142
+  size: 87, 100
+  orig: 87, 100
+  offset: 0, 0
+  index: -1
+ARM_R_SUB_1
+  rotate: true
+  xy: 824, 7
+  size: 345, 313
+  orig: 345, 313
+  offset: 0, 0
+  index: -1
+BODY_COAT
+  rotate: false
+  xy: 1549, 35
+  size: 491, 367
+  orig: 491, 367
+  offset: 0, 0
+  index: -1
+BODY_LEG
+  rotate: false
+  xy: 1097, 404
+  size: 549, 618
+  orig: 549, 618
+  offset: 0, 0
+  index: -1
+BODY_MAIN_1
+  rotate: false
+  xy: 449, 354
+  size: 646, 668
+  orig: 646, 668
+  offset: 0, 0
+  index: -1
+CHAIR_1
+  rotate: false
+  xy: 2, 244
+  size: 445, 778
+  orig: 445, 778
+  offset: 0, 0
+  index: -1
+EYE_L_BALL
+  rotate: false
+  xy: 641, 22
+  size: 33, 38
+  orig: 33, 38
+  offset: 0, 0
+  index: -1
+EYE_L_BROW
+  rotate: false
+  xy: 1549, 3
+  size: 73, 30
+  orig: 73, 30
+  offset: 0, 0
+  index: -1
+EYE_L_CLOSE
+  rotate: true
+  xy: 455, 82
+  size: 76, 29
+  orig: 76, 29
+  offset: 0, 0
+  index: -1
+EYE_L_CORE
+  rotate: false
+  xy: 465, 69
+  size: 8, 11
+  orig: 8, 11
+  offset: 0, 0
+  index: -1
+EYE_L_DESPAIR
+  rotate: true
+  xy: 292, 55
+  size: 85, 44
+  orig: 85, 44
+  offset: 0, 0
+  index: -1
+EYE_L_HATE
+  rotate: true
+  xy: 401, 76
+  size: 82, 52
+  orig: 82, 52
+  offset: 0, 0
+  index: -1
+EYE_L_HIT
+  rotate: false
+  xy: 249, 52
+  size: 41, 88
+  orig: 41, 88
+  offset: 0, 0
+  index: -1
+EYE_L_INBROW
+  rotate: false
+  xy: 741, 31
+  size: 75, 29
+  orig: 75, 29
+  offset: 0, 0
+  index: -1
+EYE_L_INNER
+  rotate: false
+  xy: 21, 5
+  size: 50, 24
+  orig: 50, 24
+  offset: 0, 0
+  index: -1
+EYE_L_LAUGH
+  rotate: true
+  xy: 401, 160
+  size: 82, 55
+  orig: 82, 55
+  offset: 0, 0
+  index: -1
+EYE_L_LIGHT
+  rotate: false
+  xy: 458, 161
+  size: 28, 9
+  orig: 28, 9
+  offset: 0, 0
+  index: -1
+EYE_L_PRIDE
+  rotate: true
+  xy: 338, 159
+  size: 83, 61
+  orig: 83, 61
+  offset: 0, 0
+  index: -1
+EYE_L_SERIOUS
+  rotate: true
+  xy: 338, 75
+  size: 82, 61
+  orig: 82, 61
+  offset: 0, 0
+  index: -1
+EYE_L_SURPRISE
+  rotate: false
+  xy: 428, 3
+  size: 82, 56
+  orig: 82, 56
+  offset: 0, 0
+  index: -1
+EYE_L_UNBROW
+  rotate: false
+  xy: 394, 61
+  size: 35, 12
+  orig: 35, 12
+  offset: 0, 0
+  index: -1
+EYE_R_BALL
+  rotate: false
+  xy: 1624, 3
+  size: 29, 30
+  orig: 29, 30
+  offset: 0, 0
+  index: -1
+EYE_R_BROW
+  rotate: false
+  xy: 240, 2
+  size: 54, 7
+  orig: 54, 7
+  offset: 0, 0
+  index: -1
+EYE_R_CLOSE
+  rotate: false
+  xy: 240, 11
+  size: 58, 18
+  orig: 58, 18
+  offset: 0, 0
+  index: -1
+EYE_R_CORE
+  rotate: true
+  xy: 488, 162
+  size: 8, 9
+  orig: 8, 9
+  offset: 0, 0
+  index: -1
+EYE_R_DESPAIR
+  rotate: false
+  xy: 365, 4
+  size: 61, 49
+  orig: 61, 49
+  offset: 0, 0
+  index: -1
+EYE_R_HATE
+  rotate: false
+  xy: 576, 19
+  size: 63, 41
+  orig: 63, 41
+  offset: 0, 0
+  index: -1
+EYE_R_INNER
+  rotate: false
+  xy: 338, 55
+  size: 43, 18
+  orig: 43, 18
+  offset: 0, 0
+  index: -1
+EYE_R_LAUGH
+  rotate: false
+  xy: 300, 11
+  size: 63, 42
+  orig: 63, 42
+  offset: 0, 0
+  index: -1
+EYE_R_LIGHT
+  rotate: true
+  xy: 73, 5
+  size: 24, 9
+  orig: 24, 9
+  offset: 0, 0
+  index: -1
+EYE_R_PRIDE
+  rotate: false
+  xy: 1097, 365
+  size: 61, 37
+  orig: 61, 37
+  offset: 0, 0
+  index: -1
+EYE_R_SERIOUS
+  rotate: false
+  xy: 676, 23
+  size: 63, 37
+  orig: 63, 37
+  offset: 0, 0
+  index: -1
+EYE_R_SURPRISE
+  rotate: false
+  xy: 512, 17
+  size: 62, 43
+  orig: 62, 43
+  offset: 0, 0
+  index: -1
+EYE_R_UNDER
+  rotate: false
+  xy: 475, 70
+  size: 32, 10
+  orig: 32, 10
+  offset: 0, 0
+  index: -1
+EYE_R_UPPER
+  rotate: false
+  xy: 112, 8
+  size: 61, 21
+  orig: 61, 21
+  offset: 0, 0
+  index: -1
+HAIR_FRONT_1
+  rotate: false
+  xy: 1139, 11
+  size: 408, 352
+  orig: 408, 352
+  offset: 0, 0
+  index: -1
+HEAD
+  rotate: true
+  xy: 2, 31
+  size: 211, 245
+  orig: 211, 245
+  offset: 0, 0
+  index: -1
+MOUTH_DESPAIR
+  rotate: true
+  xy: 233, 8
+  size: 21, 5
+  orig: 21, 5
+  offset: 0, 0
+  index: -1
+MOUTH_HATE
+  rotate: true
+  xy: 14, 4
+  size: 25, 5
+  orig: 25, 5
+  offset: 0, 0
+  index: -1
+MOUTH_INNER
+  rotate: true
+  xy: 221, 8
+  size: 21, 10
+  orig: 21, 10
+  offset: 0, 0
+  index: -1
+MOUTH_LAUGH
+  rotate: true
+  xy: 2, 2
+  size: 27, 10
+  orig: 27, 10
+  offset: 0, 0
+  index: -1
+MOUTH_PRIDE
+  rotate: false
+  xy: 431, 63
+  size: 32, 11
+  orig: 32, 11
+  offset: 0, 0
+  index: -1
+MOUTH_SERIOUS
+  rotate: true
+  xy: 383, 56
+  size: 17, 9
+  orig: 17, 9
+  offset: 0, 0
+  index: -1
+MOUTH_SURPRISE
+  rotate: false
+  xy: 296, 2
+  size: 14, 7
+  orig: 14, 7
+  offset: 0, 0
+  index: -1
+MOUTH_THEETH
+  rotate: true
+  xy: 102, 6
+  size: 23, 8
+  orig: 23, 8
+  offset: 0, 0
+  index: -1
+MOUTH_UNDER
+  rotate: false
+  xy: 249, 32
+  size: 48, 18
+  orig: 48, 18
+  offset: 0, 0
+  index: -1
+MOUTH_UPPER
+  rotate: false
+  xy: 175, 8
+  size: 44, 21
+  orig: 44, 21
+  offset: 0, 0
+  index: -1
+NOSE
+  rotate: false
+  xy: 84, 6
+  size: 16, 23
+  orig: 16, 23
+  offset: 0, 0
+  index: -1

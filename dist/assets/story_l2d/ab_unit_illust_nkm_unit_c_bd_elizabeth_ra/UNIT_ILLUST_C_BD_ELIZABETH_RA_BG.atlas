@@ -1,0 +1,181 @@
+
+UNIT_ILLUST_C_BD_ELIZABETH_RA_BG.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+cross_effect_1
+  rotate: true
+  xy: 2, 149
+  size: 347, 819
+  orig: 347, 819
+  offset: 0, 0
+  index: -1
+particle_1
+  rotate: false
+  xy: 806, 533
+  size: 158, 240
+  orig: 158, 240
+  offset: 0, 0
+  index: -1
+rock_1
+  rotate: false
+  xy: 642, 72
+  size: 139, 75
+  orig: 139, 75
+  offset: 0, 0
+  index: -1
+rock_10
+  rotate: true
+  xy: 806, 775
+  size: 247, 167
+  orig: 247, 167
+  offset: 0, 0
+  index: -1
+rock_11
+  rotate: false
+  xy: 823, 156
+  size: 60, 105
+  orig: 60, 105
+  offset: 0, 0
+  index: -1
+rock_12
+  rotate: true
+  xy: 975, 945
+  size: 77, 44
+  orig: 77, 44
+  offset: 0, 0
+  index: -1
+rock_13
+  rotate: true
+  xy: 349, 47
+  size: 100, 146
+  orig: 100, 146
+  offset: 0, 0
+  index: -1
+rock_14
+  rotate: false
+  xy: 823, 263
+  size: 75, 100
+  orig: 75, 100
+  offset: 0, 0
+  index: -1
+rock_15
+  rotate: false
+  xy: 975, 789
+  size: 40, 28
+  orig: 40, 28
+  offset: 0, 0
+  index: -1
+rock_16
+  rotate: false
+  xy: 191, 6
+  size: 156, 141
+  orig: 156, 141
+  offset: 0, 0
+  index: -1
+rock_17
+  rotate: true
+  xy: 975, 881
+  size: 62, 40
+  orig: 62, 40
+  offset: 0, 0
+  index: -1
+rock_18
+  rotate: true
+  xy: 975, 819
+  size: 60, 42
+  orig: 60, 42
+  offset: 0, 0
+  index: -1
+rock_19
+  rotate: false
+  xy: 349, 9
+  size: 58, 36
+  orig: 58, 36
+  offset: 0, 0
+  index: -1
+rock_2
+  rotate: false
+  xy: 783, 67
+  size: 83, 80
+  orig: 83, 80
+  offset: 0, 0
+  index: -1
+rock_20
+  rotate: false
+  xy: 639, 2
+  size: 53, 63
+  orig: 53, 63
+  offset: 0, 0
+  index: -1
+rock_3
+  rotate: false
+  xy: 579, 5
+  size: 58, 67
+  orig: 58, 67
+  offset: 0, 0
+  index: -1
+rock_4
+  rotate: true
+  xy: 885, 175
+  size: 86, 82
+  orig: 86, 82
+  offset: 0, 0
+  index: -1
+rock_5
+  rotate: false
+  xy: 497, 17
+  size: 80, 55
+  orig: 80, 55
+  offset: 0, 0
+  index: -1
+rock_6
+  rotate: false
+  xy: 497, 74
+  size: 143, 73
+  orig: 143, 73
+  offset: 0, 0
+  index: -1
+rock_7
+  rotate: false
+  xy: 823, 451
+  size: 120, 80
+  orig: 120, 80
+  offset: 0, 0
+  index: -1
+rock_8
+  rotate: false
+  xy: 823, 365
+  size: 103, 84
+  orig: 103, 84
+  offset: 0, 0
+  index: -1
+rock_9
+  rotate: true
+  xy: 900, 268
+  size: 95, 49
+  orig: 95, 49
+  offset: 0, 0
+  index: -1
+rock_dust_1
+  rotate: false
+  xy: 694, 20
+  size: 49, 50
+  orig: 49, 50
+  offset: 0, 0
+  index: -1
+wind_effect_1
+  rotate: false
+  xy: 2, 498
+  size: 802, 524
+  orig: 802, 524
+  offset: 0, 0
+  index: -1
+wing_light_fx_1
+  rotate: true
+  xy: 2, 2
+  size: 145, 187
+  orig: 145, 187
+  offset: 0, 0
+  index: -1

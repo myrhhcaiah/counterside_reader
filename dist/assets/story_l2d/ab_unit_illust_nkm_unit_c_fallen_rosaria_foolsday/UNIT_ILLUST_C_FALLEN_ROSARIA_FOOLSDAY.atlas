@@ -1,0 +1,62 @@
+
+UNIT_ILLUST_C_FALLEN_ROSARIA_FOOLSDAY.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00
+  rotate: false
+  xy: 2, 2
+  size: 888, 1006
+  orig: 888, 1006
+  offset: 0, 0
+  index: -1
+DESPAIR
+  rotate: false
+  xy: 892, 332
+  size: 103, 82
+  orig: 103, 82
+  offset: 0, 0
+  index: -1
+HATE
+  rotate: false
+  xy: 892, 602
+  size: 103, 97
+  orig: 103, 97
+  offset: 0, 0
+  index: -1
+IDLE
+  rotate: false
+  xy: 892, 803
+  size: 107, 100
+  orig: 107, 100
+  offset: 0, 0
+  index: -1
+LAUGH
+  rotate: false
+  xy: 892, 416
+  size: 103, 85
+  orig: 103, 85
+  offset: 0, 0
+  index: -1
+PRIDE
+  rotate: false
+  xy: 892, 905
+  size: 107, 103
+  orig: 107, 103
+  offset: 0, 0
+  index: -1
+SERIOUS
+  rotate: false
+  xy: 892, 701
+  size: 107, 100
+  orig: 107, 100
+  offset: 0, 0
+  index: -1
+SURPRISE
+  rotate: false
+  xy: 892, 503
+  size: 103, 97
+  orig: 103, 97
+  offset: 0, 0
+  index: -1

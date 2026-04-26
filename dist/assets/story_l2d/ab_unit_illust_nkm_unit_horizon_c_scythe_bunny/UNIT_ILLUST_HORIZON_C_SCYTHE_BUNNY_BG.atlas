@@ -1,0 +1,181 @@
+
+UNIT_ILLUST_HORIZON_C_SCYTHE_BUNNY_BG.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_1
+  rotate: false
+  xy: 924, 396
+  size: 74, 212
+  orig: 74, 212
+  offset: 0, 0
+  index: -1
+bg_2
+  rotate: true
+  xy: 2, 37
+  size: 113, 184
+  orig: 113, 184
+  offset: 0, 0
+  index: -1
+bg_3
+  rotate: false
+  xy: 833, 373
+  size: 89, 235
+  orig: 89, 235
+  offset: 0, 0
+  index: -1
+bg_4
+  rotate: true
+  xy: 584, 125
+  size: 202, 245
+  orig: 202, 245
+  offset: 0, 0
+  index: -1
+bg_5
+  rotate: false
+  xy: 380, 610
+  size: 623, 402
+  orig: 623, 402
+  offset: 0, 0
+  index: -1
+bg_6
+  rotate: true
+  xy: 380, 329
+  size: 279, 451
+  orig: 279, 451
+  offset: 0, 0
+  index: -1
+bg_coin_1
+  rotate: false
+  xy: 319, 12
+  size: 92, 138
+  orig: 92, 138
+  offset: 0, 0
+  index: -1
+bg_coin_10
+  rotate: false
+  xy: 915, 199
+  size: 54, 51
+  orig: 54, 51
+  offset: 0, 0
+  index: -1
+bg_coin_11
+  rotate: false
+  xy: 831, 153
+  size: 75, 57
+  orig: 75, 57
+  offset: 0, 0
+  index: -1
+bg_coin_12
+  rotate: true
+  xy: 831, 99
+  size: 52, 65
+  orig: 52, 65
+  offset: 0, 0
+  index: -1
+bg_coin_13
+  rotate: true
+  xy: 924, 252
+  size: 58, 59
+  orig: 58, 59
+  offset: 0, 0
+  index: -1
+bg_coin_14
+  rotate: false
+  xy: 831, 212
+  size: 82, 84
+  orig: 82, 84
+  offset: 0, 0
+  index: -1
+bg_coin_2
+  rotate: true
+  xy: 828, 39
+  size: 58, 59
+  orig: 58, 59
+  offset: 0, 0
+  index: -1
+bg_coin_3
+  rotate: true
+  xy: 536, 26
+  size: 97, 111
+  orig: 97, 111
+  offset: 0, 0
+  index: -1
+bg_coin_4
+  rotate: true
+  xy: 833, 298
+  size: 73, 89
+  orig: 73, 89
+  offset: 0, 0
+  index: -1
+bg_coin_5
+  rotate: false
+  xy: 413, 39
+  size: 121, 111
+  orig: 121, 111
+  offset: 0, 0
+  index: -1
+bg_coin_6
+  rotate: true
+  xy: 649, 2
+  size: 53, 65
+  orig: 53, 65
+  offset: 0, 0
+  index: -1
+bg_coin_7
+  rotate: false
+  xy: 188, 25
+  size: 129, 125
+  orig: 129, 125
+  offset: 0, 0
+  index: -1
+bg_coin_8
+  rotate: false
+  xy: 768, 55
+  size: 58, 68
+  orig: 58, 68
+  offset: 0, 0
+  index: -1
+bg_coin_9
+  rotate: false
+  xy: 924, 312
+  size: 72, 82
+  orig: 72, 82
+  offset: 0, 0
+  index: -1
+chess_1
+  rotate: true
+  xy: 649, 57
+  size: 66, 117
+  orig: 66, 117
+  offset: 0, 0
+  index: -1
+chess_2
+  rotate: true
+  xy: 409, 152
+  size: 71, 128
+  orig: 71, 128
+  offset: 0, 0
+  index: -1
+chess_5
+  rotate: false
+  xy: 2, 328
+  size: 376, 684
+  orig: 376, 684
+  offset: 0, 0
+  index: -1
+chess_6
+  rotate: true
+  xy: 2, 225
+  size: 101, 580
+  orig: 101, 580
+  offset: 0, 0
+  index: -1
+chess_7
+  rotate: false
+  xy: 2, 152
+  size: 405, 71
+  orig: 405, 71
+  offset: 0, 0
+  index: -1

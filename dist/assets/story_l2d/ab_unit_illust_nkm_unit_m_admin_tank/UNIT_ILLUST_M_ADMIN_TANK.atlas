@@ -1,0 +1,174 @@
+
+UNIT_ILLUST_M_ADMIN_TANK.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 622
+  size: 848, 400
+  orig: 848, 400
+  offset: 0, 0
+  index: -1
+body_red_light
+  rotate: false
+  xy: 65, 2
+  size: 25, 16
+  orig: 25, 16
+  offset: 0, 0
+  index: -1
+canon_center
+  rotate: false
+  xy: 2, 48
+  size: 280, 173
+  orig: 280, 173
+  offset: 0, 0
+  index: -1
+canon_left_01
+  rotate: true
+  xy: 284, 38
+  size: 183, 116
+  orig: 183, 116
+  offset: 0, 0
+  index: -1
+canon_left_02
+  rotate: false
+  xy: 2, 223
+  size: 440, 195
+  orig: 440, 195
+  offset: 0, 0
+  index: -1
+canon_left_03
+  rotate: false
+  xy: 852, 581
+  size: 81, 74
+  orig: 81, 74
+  offset: 0, 0
+  index: -1
+canon_left_cover_01
+  rotate: false
+  xy: 444, 137
+  size: 292, 240
+  orig: 292, 240
+  offset: 0, 0
+  index: -1
+canon_left_cover_02
+  rotate: true
+  xy: 993, 920
+  size: 38, 20
+  orig: 38, 20
+  offset: 0, 0
+  index: -1
+canon_left_cover_03
+  rotate: true
+  xy: 738, 218
+  size: 159, 127
+  orig: 159, 127
+  offset: 0, 0
+  index: -1
+canon_left_cover_04
+  rotate: false
+  xy: 738, 150
+  size: 122, 66
+  orig: 122, 66
+  offset: 0, 0
+  index: -1
+canon_left_light_01
+  rotate: false
+  xy: 845, 487
+  size: 45, 20
+  orig: 45, 20
+  offset: 0, 0
+  index: -1
+canon_right_01
+  rotate: true
+  xy: 852, 657
+  size: 189, 123
+  orig: 189, 123
+  offset: 0, 0
+  index: -1
+canon_right_02
+  rotate: false
+  xy: 2, 420
+  size: 452, 200
+  orig: 452, 200
+  offset: 0, 0
+  index: -1
+canon_right_03
+  rotate: false
+  xy: 845, 509
+  size: 62, 70
+  orig: 62, 70
+  offset: 0, 0
+  index: -1
+canon_right_cover_01
+  rotate: true
+  xy: 993, 960
+  size: 62, 25
+  orig: 62, 25
+  offset: 0, 0
+  index: -1
+canon_right_cover_02
+  rotate: false
+  xy: 456, 379
+  size: 387, 241
+  orig: 387, 241
+  offset: 0, 0
+  index: -1
+canon_right_cover_03
+  rotate: true
+  xy: 402, 133
+  size: 37, 21
+  orig: 37, 21
+  offset: 0, 0
+  index: -1
+canon_right_cover_04
+  rotate: true
+  xy: 852, 848
+  size: 174, 139
+  orig: 174, 139
+  offset: 0, 0
+  index: -1
+canon_right_light_01
+  rotate: false
+  xy: 1015, 940
+  size: 7, 18
+  orig: 7, 18
+  offset: 0, 0
+  index: -1
+canon_right_light_02
+  rotate: true
+  xy: 909, 537
+  size: 42, 19
+  orig: 42, 19
+  offset: 0, 0
+  index: -1
+head_light_01
+  rotate: true
+  xy: 402, 172
+  size: 49, 34
+  orig: 49, 34
+  offset: 0, 0
+  index: -1
+head_light_02
+  rotate: false
+  xy: 65, 20
+  size: 38, 26
+  orig: 38, 26
+  offset: 0, 0
+  index: -1
+head_light_03
+  rotate: false
+  xy: 2, 4
+  size: 61, 42
+  orig: 61, 42
+  offset: 0, 0
+  index: -1
+head_light_04
+  rotate: true
+  xy: 935, 602
+  size: 53, 30
+  orig: 53, 30
+  offset: 0, 0
+  index: -1

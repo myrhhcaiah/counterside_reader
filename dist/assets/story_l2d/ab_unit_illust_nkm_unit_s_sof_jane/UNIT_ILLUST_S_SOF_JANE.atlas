@@ -1,0 +1,146 @@
+
+UNIT_ILLUST_S_SOF_JANE.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_1
+  rotate: false
+  xy: 2, 2
+  size: 418, 1020
+  orig: 418, 1020
+  offset: 0, 0
+  index: -1
+body_back
+  rotate: false
+  xy: 422, 170
+  size: 243, 225
+  orig: 243, 225
+  offset: 0, 0
+  index: -1
+body_item
+  rotate: false
+  xy: 422, 397
+  size: 255, 214
+  orig: 255, 214
+  offset: 0, 0
+  index: -1
+face_1
+  rotate: false
+  xy: 679, 332
+  size: 121, 104
+  orig: 121, 104
+  offset: 0, 0
+  index: -1
+face_2
+  rotate: false
+  xy: 667, 291
+  size: 105, 39
+  orig: 105, 39
+  offset: 0, 0
+  index: -1
+face_3
+  rotate: false
+  xy: 667, 229
+  size: 58, 60
+  orig: 58, 60
+  offset: 0, 0
+  index: -1
+face_4
+  rotate: true
+  xy: 874, 345
+  size: 99, 53
+  orig: 99, 53
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 806, 805
+  size: 188, 217
+  orig: 188, 217
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: false
+  xy: 802, 351
+  size: 70, 93
+  orig: 70, 93
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 806, 595
+  size: 188, 208
+  orig: 188, 208
+  offset: 0, 0
+  index: -1
+item_2
+  rotate: false
+  xy: 667, 182
+  size: 53, 45
+  orig: 53, 45
+  offset: 0, 0
+  index: -1
+item_3
+  rotate: true
+  xy: 780, 602
+  size: 9, 20
+  orig: 9, 20
+  offset: 0, 0
+  index: -1
+item_4
+  rotate: true
+  xy: 422, 10
+  size: 27, 43
+  orig: 27, 43
+  offset: 0, 0
+  index: -1
+item_5
+  rotate: false
+  xy: 652, 146
+  size: 13, 22
+  orig: 13, 22
+  offset: 0, 0
+  index: -1
+item_6
+  rotate: false
+  xy: 930, 426
+  size: 70, 167
+  orig: 70, 167
+  offset: 0, 0
+  index: -1
+left_hand_1
+  rotate: false
+  xy: 422, 39
+  size: 228, 129
+  orig: 228, 129
+  offset: 0, 0
+  index: -1
+neckess
+  rotate: false
+  xy: 996, 997
+  size: 23, 25
+  orig: 23, 25
+  offset: 0, 0
+  index: -1
+right_hand_1
+  rotate: true
+  xy: 679, 438
+  size: 173, 99
+  orig: 173, 99
+  offset: 0, 0
+  index: -1
+up_cloth
+  rotate: false
+  xy: 422, 613
+  size: 382, 409
+  orig: 382, 409
+  offset: 0, 0
+  index: -1
+up_cloth_2
+  rotate: false
+  xy: 780, 446
+  size: 148, 147
+  orig: 148, 147
+  offset: 0, 0
+  index: -1

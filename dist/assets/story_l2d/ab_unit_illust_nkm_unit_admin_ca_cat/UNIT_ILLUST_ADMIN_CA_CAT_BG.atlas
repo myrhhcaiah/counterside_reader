@@ -1,0 +1,41 @@
+
+UNIT_ILLUST_ADMIN_CA_CAT_BG.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_1
+  rotate: true
+  xy: 2, 6
+  size: 92, 507
+  orig: 92, 507
+  offset: 0, 0
+  index: -1
+bg_2
+  rotate: true
+  xy: 1681, 422
+  size: 591, 238
+  orig: 591, 238
+  offset: 0, 0
+  index: -1
+bg_3
+  rotate: false
+  xy: 1681, 189
+  size: 267, 231
+  orig: 267, 231
+  offset: 0, 0
+  index: -1
+bg_4
+  rotate: false
+  xy: 2, 100
+  size: 1677, 913
+  orig: 1677, 913
+  offset: 0, 0
+  index: -1
+particle_1
+  rotate: false
+  xy: 1681, 2
+  size: 204, 185
+  orig: 204, 185
+  offset: 0, 0
+  index: -1

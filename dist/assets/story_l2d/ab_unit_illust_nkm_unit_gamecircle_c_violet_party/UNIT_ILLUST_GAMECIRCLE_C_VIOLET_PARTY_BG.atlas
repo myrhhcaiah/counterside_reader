@@ -1,0 +1,97 @@
+
+UNIT_ILLUST_GAMECIRCLE_C_VIOLET_PARTY_BG.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bf_fx_a
+  rotate: false
+  xy: 239, 5
+  size: 51, 30
+  orig: 52, 31
+  offset: 0, 1
+  index: -1
+bf_fx_b
+  rotate: true
+  xy: 342, 4
+  size: 98, 94
+  orig: 102, 98
+  offset: 2, 2
+  index: -1
+bf_ma
+  rotate: true
+  xy: 263, 39
+  size: 63, 78
+  orig: 65, 79
+  offset: 2, 1
+  index: -1
+bf_mb
+  rotate: true
+  xy: 291, 25
+  size: 13, 11
+  orig: 15, 13
+  offset: 1, 1
+  index: -1
+bg1
+  rotate: false
+  xy: 1338, 207
+  size: 467, 810
+  orig: 467, 811
+  offset: 0, 1
+  index: -1
+bg2
+  rotate: true
+  xy: 699, 38
+  size: 979, 638
+  orig: 980, 639
+  offset: 0, 1
+  index: -1
+bg3
+  rotate: false
+  xy: 1, 103
+  size: 697, 914
+  orig: 697, 915
+  offset: 0, 1
+  index: -1
+wand_a
+  rotate: false
+  xy: 1806, 14
+  size: 131, 1003
+  orig: 131, 1003
+  offset: 0, 0
+  index: -1
+wand_b
+  rotate: false
+  xy: 437, 21
+  size: 81, 81
+  orig: 82, 81
+  offset: 0, 0
+  index: -1
+wand_c
+  rotate: true
+  xy: 1, 1
+  size: 34, 237
+  orig: 34, 239
+  offset: 0, 1
+  index: -1
+wand_d
+  rotate: true
+  xy: 1, 36
+  size: 66, 261
+  orig: 69, 261
+  offset: 1, 0
+  index: -1
+wand_e
+  rotate: false
+  xy: 1485, 85
+  size: 117, 121
+  orig: 119, 125
+  offset: 1, 3
+  index: -1
+wand_f
+  rotate: false
+  xy: 1338, 54
+  size: 146, 152
+  orig: 150, 156
+  offset: 2, 2
+  index: -1

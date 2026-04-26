@@ -1,0 +1,55 @@
+
+UNIT_ILLUST_NPC_CHILD_SEO_YOON.png
+size: 512,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 341, 782
+  size: 168, 220
+  orig: 168, 220
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 2, 113
+  size: 337, 889
+  orig: 337, 889
+  offset: 0, 0
+  index: -1
+BASE_FACE
+  rotate: false
+  xy: 2, 23
+  size: 128, 88
+  orig: 128, 88
+  offset: 0, 0
+  index: -1
+EMOTION_DESPAIR
+  rotate: false
+  xy: 132, 31
+  size: 124, 80
+  orig: 124, 80
+  offset: 0, 0
+  index: -1
+EMOTION_HATE
+  rotate: false
+  xy: 341, 698
+  size: 123, 82
+  orig: 123, 82
+  offset: 0, 0
+  index: -1
+EMOTION_PRIDE
+  rotate: false
+  xy: 341, 616
+  size: 123, 80
+  orig: 123, 80
+  offset: 0, 0
+  index: -1
+close_eye
+  rotate: false
+  xy: 2, 2
+  size: 119, 19
+  orig: 119, 19
+  offset: 0, 0
+  index: -1

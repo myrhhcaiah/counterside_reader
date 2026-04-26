@@ -1,0 +1,13 @@
+
+UNIT_ILLUST_HARMONY_C_TRUMPET_MAID_BG.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG_MAIN
+  rotate: false
+  xy: 2, 2
+  size: 807, 980
+  orig: 807, 980
+  offset: 0, 0
+  index: -1

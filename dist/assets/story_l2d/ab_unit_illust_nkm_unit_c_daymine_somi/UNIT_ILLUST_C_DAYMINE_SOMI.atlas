@@ -1,0 +1,293 @@
+
+UNIT_ILLUST_C_DAYMINE_SOMI.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Cloak
+  rotate: false
+  xy: 368, 606
+  size: 398, 212
+  orig: 398, 212
+  offset: 0, 0
+  index: -1
+EMOTION_DESPAIR
+  rotate: true
+  xy: 573, 4
+  size: 129, 90
+  orig: 129, 90
+  offset: 0, 0
+  index: -1
+EMOTION_HATE
+  rotate: false
+  xy: 834, 326
+  size: 143, 146
+  orig: 143, 146
+  offset: 0, 0
+  index: -1
+EMOTION_LAUGH
+  rotate: false
+  xy: 310, 6
+  size: 130, 105
+  orig: 130, 105
+  offset: 0, 0
+  index: -1
+EMOTION_NOMAL
+  rotate: false
+  xy: 665, 71
+  size: 129, 104
+  orig: 129, 104
+  offset: 0, 0
+  index: -1
+EMOTION_PRIDE
+  rotate: false
+  xy: 675, 177
+  size: 138, 91
+  orig: 138, 91
+  offset: 0, 0
+  index: -1
+EMOTION_SERIOUS
+  rotate: false
+  xy: 815, 155
+  size: 133, 79
+  orig: 133, 79
+  offset: 0, 0
+  index: -1
+EMOTION_SURPRISE
+  rotate: false
+  xy: 796, 51
+  size: 127, 102
+  orig: 127, 102
+  offset: 0, 0
+  index: -1
+body_Lower
+  rotate: false
+  xy: 2, 525
+  size: 364, 497
+  orig: 364, 497
+  offset: 0, 0
+  index: -1
+body_ac
+  rotate: true
+  xy: 367, 169
+  size: 82, 268
+  orig: 82, 268
+  offset: 0, 0
+  index: -1
+body_ac_shadow
+  rotate: false
+  xy: 714, 18
+  size: 39, 33
+  orig: 39, 33
+  offset: 0, 0
+  index: -1
+body_bust
+  rotate: false
+  xy: 2, 113
+  size: 363, 410
+  orig: 363, 410
+  offset: 0, 0
+  index: -1
+eye_back(1)
+  rotate: true
+  xy: 665, 2
+  size: 49, 47
+  orig: 49, 47
+  offset: 0, 0
+  index: -1
+eye_back(2)
+  rotate: true
+  xy: 976, 830
+  size: 50, 44
+  orig: 50, 44
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 675, 270
+  size: 157, 197
+  orig: 157, 197
+  offset: 0, 0
+  index: -1
+face_nomal
+  rotate: true
+  xy: 768, 474
+  size: 157, 197
+  orig: 157, 197
+  offset: 0, 0
+  index: -1
+face_nose
+  rotate: true
+  xy: 755, 598
+  size: 6, 11
+  orig: 6, 11
+  offset: 0, 0
+  index: -1
+flushing
+  rotate: false
+  xy: 665, 53
+  size: 90, 16
+  orig: 90, 16
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: false
+  xy: 768, 633
+  size: 201, 185
+  orig: 201, 185
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: false
+  xy: 367, 253
+  size: 306, 214
+  orig: 306, 214
+  offset: 0, 0
+  index: -1
+left_LAUGH_eye
+  rotate: false
+  xy: 979, 789
+  size: 43, 19
+  orig: 43, 19
+  offset: 0, 0
+  index: -1
+left_cloes_eye
+  rotate: false
+  xy: 976, 810
+  size: 46, 18
+  orig: 46, 18
+  offset: 0, 0
+  index: -1
+left_collar
+  rotate: false
+  xy: 976, 882
+  size: 41, 59
+  orig: 41, 59
+  offset: 0, 0
+  index: -1
+left_eye
+  rotate: false
+  xy: 591, 135
+  size: 27, 32
+  orig: 27, 32
+  offset: 0, 0
+  index: -1
+left_eyeblow
+  rotate: true
+  xy: 925, 106
+  size: 47, 18
+  orig: 47, 18
+  offset: 0, 0
+  index: -1
+left_hand_light
+  rotate: false
+  xy: 971, 747
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1
+mouth_namal
+  rotate: false
+  xy: 367, 113
+  size: 36, 20
+  orig: 36, 20
+  offset: 0, 0
+  index: -1
+right_LAUGH_eye
+  rotate: true
+  xy: 925, 60
+  size: 44, 17
+  orig: 44, 17
+  offset: 0, 0
+  index: -1
+right_cloes_eye
+  rotate: false
+  xy: 971, 772
+  size: 45, 15
+  orig: 45, 15
+  offset: 0, 0
+  index: -1
+right_collar
+  rotate: false
+  xy: 950, 169
+  size: 35, 65
+  orig: 35, 65
+  offset: 0, 0
+  index: -1
+right_eye
+  rotate: false
+  xy: 620, 135
+  size: 26, 32
+  orig: 26, 32
+  offset: 0, 0
+  index: -1
+right_eyeblow
+  rotate: true
+  xy: 657, 203
+  size: 48, 13
+  orig: 48, 13
+  offset: 0, 0
+  index: -1
+right_hand
+  rotate: true
+  xy: 834, 236
+  size: 88, 153
+  orig: 88, 153
+  offset: 0, 0
+  index: -1
+right_hand_finger
+  rotate: false
+  xy: 976, 943
+  size: 34, 79
+  orig: 34, 79
+  offset: 0, 0
+  index: -1
+right_hand_light
+  rotate: true
+  xy: 657, 180
+  size: 21, 16
+  orig: 21, 16
+  offset: 0, 0
+  index: -1
+right_low_arm
+  rotate: true
+  xy: 2, 8
+  size: 103, 306
+  orig: 103, 306
+  offset: 0, 0
+  index: -1
+right_upper_arm
+  rotate: true
+  xy: 368, 469
+  size: 135, 385
+  orig: 135, 385
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: true
+  xy: 368, 820
+  size: 202, 606
+  orig: 202, 606
+  offset: 0, 0
+  index: -1
+weapon_light_1
+  rotate: false
+  xy: 367, 135
+  size: 222, 32
+  orig: 222, 32
+  offset: 0, 0
+  index: -1
+weapon_light_2
+  rotate: true
+  xy: 442, 9
+  size: 124, 129
+  orig: 124, 129
+  offset: 0, 0
+  index: -1
+weapon_light_3
+  rotate: false
+  xy: 637, 176
+  size: 18, 75
+  orig: 18, 75
+  offset: 0, 0
+  index: -1

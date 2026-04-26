@@ -1,0 +1,307 @@
+
+UNIT_ILLUST_C_ADMIN_LEE_SUYEON.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+DESPAIR
+  rotate: false
+  xy: 773, 180
+  size: 112, 82
+  orig: 112, 82
+  offset: 0, 0
+  index: -1
+body_0
+  rotate: true
+  xy: 433, 76
+  size: 55, 248
+  orig: 55, 248
+  offset: 0, 0
+  index: -1
+body_1
+  rotate: false
+  xy: 500, 618
+  size: 317, 404
+  orig: 317, 404
+  offset: 0, 0
+  index: -1
+body_4
+  rotate: false
+  xy: 162, 26
+  size: 73, 70
+  orig: 73, 70
+  offset: 0, 0
+  index: -1
+facial-mou_0
+  rotate: true
+  xy: 1011, 310
+  size: 32, 11
+  orig: 32, 11
+  offset: 0, 0
+  index: -1
+facial-mou_1
+  rotate: true
+  xy: 673, 253
+  size: 17, 7
+  orig: 17, 7
+  offset: 0, 0
+  index: -1
+facial-mou_2
+  rotate: false
+  xy: 787, 467
+  size: 20, 10
+  orig: 20, 10
+  offset: 0, 0
+  index: -1
+facial-mou_3
+  rotate: false
+  xy: 996, 250
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+fx_body_garim
+  rotate: false
+  xy: 787, 350
+  size: 144, 115
+  orig: 144, 115
+  offset: 0, 0
+  index: -1
+fx_hand_1
+  rotate: true
+  xy: 918, 269
+  size: 73, 91
+  orig: 73, 91
+  offset: 0, 0
+  index: -1
+fx_hand_2
+  rotate: true
+  xy: 933, 344
+  size: 121, 89
+  orig: 121, 89
+  offset: 0, 0
+  index: -1
+hair_0
+  rotate: false
+  xy: 887, 207
+  size: 52, 55
+  orig: 52, 55
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: false
+  xy: 426, 239
+  size: 189, 238
+  orig: 189, 238
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: false
+  xy: 617, 272
+  size: 168, 205
+  orig: 168, 205
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: true
+  xy: 2, 42
+  size: 69, 158
+  orig: 69, 158
+  offset: 0, 0
+  index: -1
+hair_80_4
+  rotate: false
+  xy: 2, 429
+  size: 214, 593
+  orig: 214, 593
+  offset: 0, 0
+  index: -1
+l_arm_0
+  rotate: false
+  xy: 247, 109
+  size: 184, 105
+  orig: 184, 105
+  offset: 0, 0
+  index: -1
+l_arm_1
+  rotate: true
+  xy: 812, 467
+  size: 96, 167
+  orig: 96, 167
+  offset: 0, 0
+  index: -1
+l_eyebrow_0
+  rotate: false
+  xy: 617, 261
+  size: 54, 9
+  orig: 54, 9
+  offset: 0, 0
+  index: -1
+l_facial-close_0
+  rotate: false
+  xy: 773, 158
+  size: 50, 20
+  orig: 50, 20
+  offset: 0, 0
+  index: -1
+l_facial-close_1
+  rotate: true
+  xy: 796, 115
+  size: 41, 17
+  orig: 41, 17
+  offset: 0, 0
+  index: -1
+l_facial-nor_0
+  rotate: false
+  xy: 84, 6
+  size: 54, 34
+  orig: 54, 34
+  offset: 0, 0
+  index: -1
+l_facial-nor_1
+  rotate: false
+  xy: 941, 234
+  size: 53, 33
+  orig: 53, 33
+  offset: 0, 0
+  index: -1
+l_facial-smile_0
+  rotate: true
+  xy: 218, 447
+  size: 50, 24
+  orig: 50, 24
+  offset: 0, 0
+  index: -1
+l_facial-surp_0
+  rotate: true
+  xy: 981, 509
+  size: 54, 34
+  orig: 54, 34
+  offset: 0, 0
+  index: -1
+l_leg_0
+  rotate: false
+  xy: 2, 113
+  size: 161, 314
+  orig: 161, 314
+  offset: 0, 0
+  index: -1
+l_leg_1
+  rotate: false
+  xy: 218, 499
+  size: 280, 523
+  orig: 280, 523
+  offset: 0, 0
+  index: -1
+r_arm_0
+  rotate: true
+  xy: 165, 98
+  size: 329, 80
+  orig: 329, 80
+  offset: 0, 0
+  index: -1
+r_arm_10
+  rotate: true
+  xy: 787, 264
+  size: 84, 129
+  orig: 84, 129
+  offset: 0, 0
+  index: -1
+r_eyebrow_0
+  rotate: true
+  xy: 140, 2
+  size: 38, 14
+  orig: 38, 14
+  offset: 0, 0
+  index: -1
+r_facial-close_0
+  rotate: false
+  xy: 887, 184
+  size: 35, 21
+  orig: 35, 21
+  offset: 0, 0
+  index: -1
+r_facial-close_1
+  rotate: false
+  xy: 825, 164
+  size: 31, 14
+  orig: 31, 14
+  offset: 0, 0
+  index: -1
+r_facial-nor_0
+  rotate: true
+  xy: 2, 2
+  size: 38, 39
+  orig: 38, 39
+  offset: 0, 0
+  index: -1
+r_facial-nor_1
+  rotate: false
+  xy: 981, 470
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+r_facial-smile_0
+  rotate: false
+  xy: 426, 479
+  size: 34, 18
+  orig: 34, 18
+  offset: 0, 0
+  index: -1
+r_facial-surp_0
+  rotate: true
+  xy: 43, 2
+  size: 38, 39
+  orig: 38, 39
+  offset: 0, 0
+  index: -1
+r_leg_0
+  rotate: true
+  xy: 500, 479
+  size: 137, 310
+  orig: 137, 310
+  offset: 0, 0
+  index: -1
+r_leg_1
+  rotate: false
+  xy: 819, 565
+  size: 195, 457
+  orig: 195, 457
+  offset: 0, 0
+  index: -1
+skill
+  rotate: true
+  xy: 682, 158
+  size: 112, 89
+  orig: 112, 89
+  offset: 0, 0
+  index: -1
+tired
+  rotate: false
+  xy: 683, 75
+  size: 111, 81
+  orig: 111, 81
+  offset: 0, 0
+  index: -1
+weapon_0
+  rotate: true
+  xy: 247, 45
+  size: 62, 182
+  orig: 62, 182
+  offset: 0, 0
+  index: -1
+weapon_1
+  rotate: false
+  xy: 247, 216
+  size: 177, 281
+  orig: 177, 281
+  offset: 0, 0
+  index: -1
+weapon_2
+  rotate: true
+  xy: 433, 133
+  size: 104, 247
+  orig: 104, 247
+  offset: 0, 0
+  index: -1

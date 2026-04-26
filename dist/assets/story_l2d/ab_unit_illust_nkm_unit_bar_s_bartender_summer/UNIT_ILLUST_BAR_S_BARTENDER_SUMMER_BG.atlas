@@ -1,0 +1,132 @@
+
+UNIT_ILLUST_BAR_S_BARTENDER_SUMMER_BG.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG_MAIN
+  rotate: false
+  xy: 2, 2
+  size: 1623, 1015
+  orig: 1623, 1015
+  offset: 0, 0
+  index: -1
+DOLL_OBJECT_1
+  rotate: false
+  xy: 1627, 587
+  size: 244, 158
+  orig: 244, 158
+  offset: 0, 0
+  index: -1
+MOMO_EFFECT_1
+  rotate: false
+  xy: 1818, 531
+  size: 19, 54
+  orig: 19, 54
+  offset: 0, 0
+  index: -1
+MOMO_EYE_L_B
+  rotate: false
+  xy: 1627, 378
+  size: 24, 32
+  orig: 24, 32
+  offset: 0, 0
+  index: -1
+MOMO_EYE_L_BALL
+  rotate: false
+  xy: 2031, 974
+  size: 15, 19
+  orig: 15, 19
+  offset: 0, 0
+  index: -1
+MOMO_EYE_L_BROW
+  rotate: false
+  xy: 1684, 416
+  size: 23, 20
+  orig: 23, 20
+  offset: 0, 0
+  index: -1
+MOMO_EYE_L_INNER
+  rotate: true
+  xy: 1818, 509
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+MOMO_EYE_R_B
+  rotate: false
+  xy: 1873, 589
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 0
+  index: -1
+MOMO_EYE_R_BALL
+  rotate: false
+  xy: 2031, 953
+  size: 15, 19
+  orig: 15, 19
+  offset: 0, 0
+  index: -1
+MOMO_EYE_R_BROW
+  rotate: false
+  xy: 1987, 720
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+MOMO_EYE_R_INNER
+  rotate: false
+  xy: 1839, 565
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+MOMO_HAIR_BACK
+  rotate: false
+  xy: 1627, 438
+  size: 189, 147
+  orig: 189, 147
+  offset: 0, 0
+  index: -1
+MOMO_HEAD
+  rotate: false
+  xy: 1873, 627
+  size: 112, 118
+  orig: 112, 118
+  offset: 0, 0
+  index: -1
+MOMO_MOUTH_A
+  rotate: false
+  xy: 1987, 713
+  size: 8, 5
+  orig: 8, 5
+  offset: 0, 0
+  index: -1
+MOMO_MOUTH_B
+  rotate: true
+  xy: 2031, 995
+  size: 22, 15
+  orig: 22, 15
+  offset: 0, 0
+  index: -1
+MOMO_NOSE
+  rotate: false
+  xy: 1907, 617
+  size: 7, 8
+  orig: 7, 8
+  offset: 0, 0
+  index: -1
+MOMO_OBJECT_1
+  rotate: false
+  xy: 1627, 747
+  size: 402, 270
+  orig: 402, 270
+  offset: 0, 0
+  index: -1
+MOMO_SWEET_1
+  rotate: false
+  xy: 1627, 412
+  size: 55, 24
+  orig: 55, 24
+  offset: 0, 0
+  index: -1

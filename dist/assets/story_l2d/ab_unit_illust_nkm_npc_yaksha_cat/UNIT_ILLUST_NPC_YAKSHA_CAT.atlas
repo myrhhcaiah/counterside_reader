@@ -1,0 +1,76 @@
+
+UNIT_ILLUST_NPC_YAKSHA_CAT.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 2, 161
+  size: 349, 955
+  orig: 349, 955
+  offset: 0, 0
+  index: -1
+face_a
+  rotate: true
+  xy: 959, 286
+  size: 73, 50
+  orig: 73, 50
+  offset: 0, 0
+  index: -1
+face_a_idle
+  rotate: true
+  xy: 162, 51
+  size: 108, 146
+  orig: 108, 146
+  offset: 0, 0
+  index: -1
+face_b
+  rotate: false
+  xy: 310, 109
+  size: 74, 50
+  orig: 74, 50
+  offset: 0, 0
+  index: -1
+face_c
+  rotate: true
+  xy: 959, 361
+  size: 74, 50
+  orig: 74, 50
+  offset: 0, 0
+  index: -1
+face_d
+  rotate: true
+  xy: 959, 437
+  size: 73, 57
+  orig: 73, 57
+  offset: 0, 0
+  index: -1
+face_e
+  rotate: false
+  xy: 310, 55
+  size: 72, 52
+  orig: 72, 52
+  offset: 0, 0
+  index: -1
+face_f
+  rotate: false
+  xy: 386, 109
+  size: 74, 50
+  orig: 74, 50
+  offset: 0, 0
+  index: -1
+face_g
+  rotate: false
+  xy: 310, 2
+  size: 73, 51
+  orig: 73, 51
+  offset: 0, 0
+  index: -1
+front_hair
+  rotate: false
+  xy: 2, 25
+  size: 158, 134
+  orig: 158, 134
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,237 @@
+
+UNIT_ILLUST_S_FOX_SNIPER.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_eye
+  rotate: false
+  xy: 252, 2
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+L_eye_c
+  rotate: true
+  xy: 724, 576
+  size: 27, 10
+  orig: 27, 10
+  offset: 0, 0
+  index: -1
+L_eyeback
+  rotate: false
+  xy: 229, 2
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+L_eyebrow
+  rotate: false
+  xy: 573, 2
+  size: 31, 6
+  orig: 31, 6
+  offset: 0, 0
+  index: -1
+L_eyelashes
+  rotate: true
+  xy: 1003, 510
+  size: 29, 19
+  orig: 29, 19
+  offset: 0, 0
+  index: -1
+L_low_leg
+  rotate: true
+  xy: 270, 375
+  size: 151, 221
+  orig: 151, 221
+  offset: 0, 0
+  index: -1
+L_upper_leg
+  rotate: false
+  xy: 2, 12
+  size: 183, 252
+  orig: 183, 252
+  offset: 0, 0
+  index: -1
+R_arm
+  rotate: true
+  xy: 679, 29
+  size: 94, 186
+  orig: 94, 186
+  offset: 0, 0
+  index: -1
+R_eye
+  rotate: true
+  xy: 1003, 491
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+R_eye_c
+  rotate: false
+  xy: 187, 2
+  size: 40, 15
+  orig: 40, 15
+  offset: 0, 0
+  index: -1
+R_eyeback
+  rotate: false
+  xy: 531, 375
+  size: 28, 18
+  orig: 28, 18
+  offset: 0, 0
+  index: -1
+R_eyebrow
+  rotate: true
+  xy: 1003, 541
+  size: 42, 19
+  orig: 42, 19
+  offset: 0, 0
+  index: -1
+R_eyelashes
+  rotate: false
+  xy: 679, 579
+  size: 43, 24
+  orig: 43, 24
+  offset: 0, 0
+  index: -1
+R_low_leg
+  rotate: true
+  xy: 737, 576
+  size: 100, 246
+  orig: 100, 246
+  offset: 0, 0
+  index: -1
+R_upper_leg
+  rotate: false
+  xy: 679, 330
+  size: 182, 244
+  orig: 182, 244
+  offset: 0, 0
+  index: -1
+body1
+  rotate: false
+  xy: 737, 678
+  size: 278, 344
+  orig: 278, 344
+  offset: 0, 0
+  index: -1
+body2
+  rotate: false
+  xy: 270, 528
+  size: 212, 494
+  orig: 212, 494
+  offset: 0, 0
+  index: -1
+body3
+  rotate: false
+  xy: 439, 9
+  size: 132, 364
+  orig: 132, 364
+  offset: 0, 0
+  index: -1
+body_ac1
+  rotate: false
+  xy: 531, 395
+  size: 36, 208
+  orig: 36, 208
+  offset: 0, 0
+  index: -1
+body_ac2
+  rotate: false
+  xy: 493, 389
+  size: 36, 214
+  orig: 36, 214
+  offset: 0, 0
+  index: -1
+body_ac3
+  rotate: false
+  xy: 867, 71
+  size: 46, 45
+  orig: 46, 45
+  offset: 0, 0
+  index: -1
+cloak1
+  rotate: false
+  xy: 187, 19
+  size: 250, 354
+  orig: 250, 354
+  offset: 0, 0
+  index: -1
+cloak_L
+  rotate: false
+  xy: 573, 10
+  size: 104, 593
+  orig: 104, 593
+  offset: 0, 0
+  index: -1
+cloak_R
+  rotate: false
+  xy: 2, 266
+  size: 160, 756
+  orig: 160, 756
+  offset: 0, 0
+  index: -1
+face
+  rotate: true
+  xy: 864, 246
+  size: 146, 158
+  orig: 146, 158
+  offset: 0, 0
+  index: -1
+glasses1
+  rotate: false
+  xy: 867, 118
+  size: 105, 39
+  orig: 105, 39
+  offset: 0, 0
+  index: -1
+glasses2
+  rotate: true
+  xy: 985, 585
+  size: 91, 35
+  orig: 91, 35
+  offset: 0, 0
+  index: -1
+hair1
+  rotate: true
+  xy: 864, 159
+  size: 85, 136
+  orig: 85, 136
+  offset: 0, 0
+  index: -1
+hair2
+  rotate: false
+  xy: 164, 352
+  size: 14, 35
+  orig: 14, 35
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 679, 125
+  size: 203, 183
+  orig: 203, 183
+  offset: 0, 0
+  index: -1
+head_back
+  rotate: true
+  xy: 863, 394
+  size: 180, 138
+  orig: 180, 138
+  offset: 0, 0
+  index: -1
+weapon1
+  rotate: false
+  xy: 484, 605
+  size: 251, 417
+  orig: 251, 417
+  offset: 0, 0
+  index: -1
+weapon2
+  rotate: false
+  xy: 164, 389
+  size: 104, 633
+  orig: 104, 633
+  offset: 0, 0
+  index: -1

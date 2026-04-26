@@ -1,0 +1,27 @@
+
+UNIT_ILLUST_BAR_C_CEO_SUMMER_BG.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG_MAIN
+  rotate: false
+  xy: 862, 78
+  size: 562, 814
+  orig: 562, 814
+  offset: 0, 0
+  index: -1
+BG_OBJECT_1
+  rotate: false
+  xy: 2, 2
+  size: 858, 890
+  orig: 858, 890
+  offset: 0, 0
+  index: -1
+BG_OBJECT_2
+  rotate: false
+  xy: 1426, 154
+  size: 573, 738
+  orig: 573, 738
+  offset: 0, 0
+  index: -1

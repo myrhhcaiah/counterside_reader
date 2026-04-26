@@ -1,0 +1,76 @@
+
+UNIT_ILLUST_HARMONY_CA_ARMOR_SPECIAL_BG.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_1
+  rotate: false
+  xy: 2, 1220
+  size: 1703, 710
+  orig: 1703, 710
+  offset: 0, 0
+  index: -1
+bg_2
+  rotate: false
+  xy: 2, 651
+  size: 1131, 567
+  orig: 1131, 567
+  offset: 0, 0
+  index: -1
+bg_2_intro
+  rotate: true
+  xy: 1010, 81
+  size: 566, 567
+  orig: 566, 567
+  offset: 0, 0
+  index: -1
+bg_3
+  rotate: false
+  xy: 573, 106
+  size: 435, 543
+  orig: 435, 543
+  offset: 0, 0
+  index: -1
+bg_3_intro
+  rotate: true
+  xy: 1707, 1495
+  size: 435, 272
+  orig: 435, 272
+  offset: 0, 0
+  index: -1
+bg_4
+  rotate: false
+  xy: 2, 75
+  size: 569, 574
+  orig: 569, 574
+  offset: 0, 0
+  index: -1
+bg_4_intro
+  rotate: true
+  xy: 1135, 649
+  size: 569, 574
+  orig: 569, 574
+  offset: 0, 0
+  index: -1
+black_1
+  rotate: false
+  xy: 1707, 1456
+  size: 69, 37
+  orig: 69, 37
+  offset: 0, 0
+  index: -1
+front_sword_1
+  rotate: true
+  xy: 1579, 432
+  size: 215, 81
+  orig: 215, 81
+  offset: 0, 0
+  index: -1
+front_sword_2
+  rotate: true
+  xy: 2, 2
+  size: 71, 902
+  orig: 71, 902
+  offset: 0, 0
+  index: -1

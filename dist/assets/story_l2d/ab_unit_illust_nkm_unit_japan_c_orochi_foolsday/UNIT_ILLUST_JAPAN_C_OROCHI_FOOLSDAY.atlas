@@ -1,0 +1,76 @@
+
+UNIT_ILLUST_JAPAN_C_OROCHI_FOOLSDAY.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01
+  rotate: false
+  xy: 1, 1
+  size: 1103, 1008
+  orig: 1103, 1008
+  offset: 0, 0
+  index: -1
+BASE_FACE
+  rotate: false
+  xy: 1105, 201
+  size: 97, 74
+  orig: 97, 74
+  offset: 0, 0
+  index: -1
+DESPAIR
+  rotate: false
+  xy: 1325, 303
+  size: 89, 66
+  orig: 89, 66
+  offset: 0, 0
+  index: -1
+HATE
+  rotate: false
+  xy: 1105, 131
+  size: 96, 69
+  orig: 96, 69
+  offset: 0, 0
+  index: -1
+LAUGH
+  rotate: false
+  xy: 1227, 297
+  size: 97, 72
+  orig: 97, 72
+  offset: 0, 0
+  index: -1
+PRIDE
+  rotate: false
+  xy: 1915, 802
+  size: 89, 61
+  orig: 89, 61
+  offset: 0, 0
+  index: -1
+SERIOUS
+  rotate: false
+  xy: 1915, 864
+  size: 97, 69
+  orig: 97, 69
+  offset: 0, 0
+  index: -1
+SURPRISE
+  rotate: false
+  xy: 1915, 934
+  size: 97, 75
+  orig: 97, 75
+  offset: 0, 0
+  index: -1
+balloon
+  rotate: false
+  xy: 1105, 370
+  size: 809, 639
+  orig: 809, 639
+  offset: 0, 0
+  index: -1
+fronthair
+  rotate: false
+  xy: 1105, 276
+  size: 121, 93
+  orig: 121, 93
+  offset: 0, 0
+  index: -1

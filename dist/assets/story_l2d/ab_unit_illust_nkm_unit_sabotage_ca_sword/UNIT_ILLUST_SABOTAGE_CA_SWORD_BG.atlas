@@ -1,0 +1,160 @@
+
+UNIT_ILLUST_SABOTAGE_CA_SWORD_BG.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wing_1
+  rotate: false
+  xy: 2, 158
+  size: 317, 243
+  orig: 317, 243
+  offset: 0, 0
+  index: -1
+wing_10
+  rotate: true
+  xy: 2, 7
+  size: 36, 199
+  orig: 36, 199
+  offset: 0, 0
+  index: -1
+wing_11
+  rotate: false
+  xy: 331, 495
+  size: 216, 292
+  orig: 216, 292
+  offset: 0, 0
+  index: -1
+wing_12
+  rotate: false
+  xy: 321, 202
+  size: 259, 149
+  orig: 259, 149
+  offset: 0, 0
+  index: -1
+wing_13
+  rotate: false
+  xy: 602, 584
+  size: 120, 372
+  orig: 120, 372
+  offset: 0, 0
+  index: -1
+wing_14
+  rotate: true
+  xy: 869, 477
+  size: 236, 112
+  orig: 236, 112
+  offset: 0, 0
+  index: -1
+wing_15
+  rotate: false
+  xy: 833, 715
+  size: 109, 306
+  orig: 109, 306
+  offset: 0, 0
+  index: -1
+wing_16
+  rotate: true
+  xy: 731, 192
+  size: 169, 79
+  orig: 169, 79
+  offset: 0, 0
+  index: -1
+wing_17
+  rotate: false
+  xy: 761, 363
+  size: 106, 304
+  orig: 106, 304
+  offset: 0, 0
+  index: -1
+wing_18
+  rotate: false
+  xy: 2, 958
+  size: 707, 63
+  orig: 707, 63
+  offset: 0, 0
+  index: -1
+wing_19
+  rotate: true
+  xy: 724, 669
+  size: 352, 107
+  orig: 352, 107
+  offset: 0, 0
+  index: -1
+wing_2
+  rotate: false
+  xy: 2, 403
+  size: 327, 384
+  orig: 327, 384
+  offset: 0, 0
+  index: -1
+wing_20
+  rotate: false
+  xy: 2, 789
+  size: 545, 167
+  orig: 545, 167
+  offset: 0, 0
+  index: -1
+wing_21
+  rotate: false
+  xy: 549, 465
+  size: 51, 491
+  orig: 51, 491
+  offset: 0, 0
+  index: -1
+wing_22
+  rotate: true
+  xy: 869, 246
+  size: 229, 107
+  orig: 229, 107
+  offset: 0, 0
+  index: -1
+wing_3
+  rotate: true
+  xy: 342, 2
+  size: 198, 246
+  orig: 198, 246
+  offset: 0, 0
+  index: -1
+wing_4
+  rotate: false
+  xy: 331, 353
+  size: 206, 140
+  orig: 206, 140
+  offset: 0, 0
+  index: -1
+wing_5
+  rotate: false
+  xy: 602, 398
+  size: 157, 184
+  orig: 157, 184
+  offset: 0, 0
+  index: -1
+wing_6
+  rotate: true
+  xy: 2, 45
+  size: 111, 338
+  orig: 111, 338
+  offset: 0, 0
+  index: -1
+wing_7
+  rotate: false
+  xy: 944, 727
+  size: 71, 294
+  orig: 71, 294
+  offset: 0, 0
+  index: -1
+wing_8
+  rotate: false
+  xy: 590, 80
+  size: 121, 138
+  orig: 121, 138
+  offset: 0, 0
+  index: -1
+wing_9
+  rotate: false
+  xy: 582, 220
+  size: 147, 176
+  orig: 147, 176
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,48 @@
+
+UNIT_ILLUST_KNIGHT_C_HOLY_CLB_003_BG.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 84
+  size: 1987, 933
+  orig: 1987, 933
+  offset: 0, 0
+  index: -1
+fire_1
+  rotate: false
+  xy: 1991, 846
+  size: 49, 171
+  orig: 49, 171
+  offset: 0, 0
+  index: -1
+fire_2
+  rotate: false
+  xy: 1991, 744
+  size: 30, 100
+  orig: 30, 100
+  offset: 0, 0
+  index: -1
+fire_3
+  rotate: true
+  xy: 2, 26
+  size: 37, 113
+  orig: 37, 113
+  offset: 0, 0
+  index: -1
+light_fx_1
+  rotate: false
+  xy: 117, 2
+  size: 61, 61
+  orig: 61, 61
+  offset: 0, 0
+  index: -1
+light_fx_2
+  rotate: false
+  xy: 2, 65
+  size: 210, 17
+  orig: 210, 17
+  offset: 0, 0
+  index: -1

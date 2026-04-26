@@ -1,0 +1,62 @@
+
+UNIT_ILLUST_C_YOO_MI_NA_FOOLSDAY.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00
+  rotate: true
+  xy: 2, 2
+  size: 1004, 1537
+  orig: 1004, 1537
+  offset: 0, 0
+  index: -1
+DESPAIR
+  rotate: false
+  xy: 1541, 469
+  size: 141, 116
+  orig: 141, 116
+  offset: 0, 0
+  index: -1
+HATE
+  rotate: false
+  xy: 1860, 897
+  size: 155, 109
+  orig: 155, 109
+  offset: 0, 0
+  index: -1
+IDLE
+  rotate: false
+  xy: 1703, 886
+  size: 155, 120
+  orig: 155, 120
+  offset: 0, 0
+  index: -1
+LAUGH
+  rotate: true
+  xy: 1541, 325
+  size: 142, 113
+  orig: 142, 113
+  offset: 0, 0
+  index: -1
+PRIDE
+  rotate: false
+  xy: 1541, 587
+  size: 155, 118
+  orig: 155, 118
+  offset: 0, 0
+  index: -1
+SERIOUS
+  rotate: false
+  xy: 1541, 707
+  size: 155, 128
+  orig: 155, 128
+  offset: 0, 0
+  index: -1
+SURPRISE
+  rotate: false
+  xy: 1541, 837
+  size: 160, 169
+  orig: 160, 169
+  offset: 0, 0
+  index: -1

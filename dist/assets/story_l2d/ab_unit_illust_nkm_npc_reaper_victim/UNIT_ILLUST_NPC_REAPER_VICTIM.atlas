@@ -1,0 +1,62 @@
+
+UNIT_ILLUST_NPC_REAPER_VICTIM.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 2, 91
+  size: 360, 1005
+  orig: 360, 1005
+  offset: 0, 0
+  index: -1
+despair
+  rotate: false
+  xy: 2, 2
+  size: 109, 87
+  orig: 109, 87
+  offset: 0, 0
+  index: -1
+hate
+  rotate: false
+  xy: 508, 25
+  size: 97, 64
+  orig: 97, 64
+  offset: 0, 0
+  index: -1
+idle
+  rotate: false
+  xy: 212, 22
+  size: 96, 67
+  orig: 96, 67
+  offset: 0, 0
+  index: -1
+laugh
+  rotate: false
+  xy: 607, 24
+  size: 91, 65
+  orig: 91, 65
+  offset: 0, 0
+  index: -1
+pride
+  rotate: false
+  xy: 310, 24
+  size: 97, 65
+  orig: 97, 65
+  offset: 0, 0
+  index: -1
+serious
+  rotate: false
+  xy: 409, 24
+  size: 97, 65
+  orig: 97, 65
+  offset: 0, 0
+  index: -1
+surprise
+  rotate: false
+  xy: 113, 16
+  size: 97, 73
+  orig: 97, 73
+  offset: 0, 0
+  index: -1

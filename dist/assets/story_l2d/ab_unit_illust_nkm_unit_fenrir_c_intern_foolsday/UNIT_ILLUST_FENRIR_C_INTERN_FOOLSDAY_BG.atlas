@@ -1,0 +1,13 @@
+
+UNIT_ILLUST_FENRIR_C_INTERN_FOOLSDAY_BG.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG
+  rotate: true
+  xy: 2, 2
+  size: 1000, 1691
+  orig: 1000, 1691
+  offset: 0, 0
+  index: -1

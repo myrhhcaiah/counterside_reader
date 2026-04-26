@@ -1,0 +1,118 @@
+
+UNIT_ILLUST_OZ_C_SWORD_PR.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_1
+  rotate: true
+  xy: 0, 24
+  size: 1000, 1632
+  orig: 1000, 1632
+  offset: 0, 0
+  index: -1
+despair_1
+  rotate: true
+  xy: 1632, 120
+  size: 122, 89
+  orig: 122, 89
+  offset: 0, 0
+  index: -1
+despair_2
+  rotate: true
+  xy: 1632, 365
+  size: 124, 89
+  orig: 124, 89
+  offset: 0, 0
+  index: -1
+face
+  rotate: false
+  xy: 1632, 920
+  size: 141, 104
+  orig: 141, 104
+  offset: 0, 0
+  index: -1
+hate_1
+  rotate: true
+  xy: 1751, 806
+  size: 114, 88
+  orig: 114, 88
+  offset: 0, 0
+  index: -1
+hate_2
+  rotate: false
+  xy: 1632, 613
+  size: 117, 98
+  orig: 117, 98
+  offset: 0, 0
+  index: -1
+idle_1
+  rotate: true
+  xy: 1632, 242
+  size: 123, 90
+  orig: 123, 90
+  offset: 0, 0
+  index: -1
+idle_2
+  rotate: true
+  xy: 1723, 489
+  size: 124, 80
+  orig: 124, 80
+  offset: 0, 0
+  index: -1
+laugh_1
+  rotate: true
+  xy: 1721, 369
+  size: 120, 85
+  orig: 120, 85
+  offset: 0, 0
+  index: -1
+laugh_2
+  rotate: false
+  xy: 1773, 923
+  size: 123, 101
+  orig: 123, 101
+  offset: 0, 0
+  index: -1
+pride_1
+  rotate: true
+  xy: 1632, 0
+  size: 120, 89
+  orig: 120, 89
+  offset: 0, 0
+  index: -1
+pride_2
+  rotate: true
+  xy: 1722, 249
+  size: 120, 82
+  orig: 120, 82
+  offset: 0, 0
+  index: -1
+serious_1
+  rotate: false
+  xy: 1632, 711
+  size: 118, 100
+  orig: 118, 100
+  offset: 0, 0
+  index: -1
+serious_2
+  rotate: true
+  xy: 1632, 489
+  size: 124, 91
+  orig: 124, 91
+  offset: 0, 0
+  index: -1
+surprise_1
+  rotate: false
+  xy: 1632, 811
+  size: 119, 109
+  orig: 119, 109
+  offset: 0, 0
+  index: -1
+surprise_2
+  rotate: false
+  xy: 1896, 932
+  size: 124, 92
+  orig: 124, 92
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,146 @@
+
+UNIT_ILLUST_M_FOX_HOWITZER.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 693
+  size: 1006, 323
+  orig: 1006, 323
+  offset: 0, 0
+  index: -1
+body_lighitng_01
+  rotate: false
+  xy: 706, 372
+  size: 29, 34
+  orig: 29, 34
+  offset: 0, 0
+  index: -1
+body_lighting_02
+  rotate: true
+  xy: 368, 55
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1
+body_lighting_03
+  rotate: false
+  xy: 1010, 1003
+  size: 12, 13
+  orig: 12, 13
+  offset: 0, 0
+  index: -1
+body_lighting_04
+  rotate: false
+  xy: 806, 494
+  size: 7, 7
+  orig: 7, 7
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 706, 408
+  size: 98, 93
+  orig: 98, 93
+  offset: 0, 0
+  index: -1
+canon_01
+  rotate: true
+  xy: 720, 503
+  size: 51, 238
+  orig: 51, 238
+  offset: 0, 0
+  index: -1
+canon_02
+  rotate: false
+  xy: 2, 18
+  size: 420, 34
+  orig: 420, 34
+  offset: 0, 0
+  index: -1
+canon_back
+  rotate: false
+  xy: 540, 326
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+canon_core
+  rotate: false
+  xy: 368, 84
+  size: 122, 150
+  orig: 122, 150
+  offset: 0, 0
+  index: -1
+cover
+  rotate: false
+  xy: 2, 236
+  size: 536, 126
+  orig: 536, 126
+  offset: 0, 0
+  index: -1
+cover_back
+  rotate: false
+  xy: 492, 169
+  size: 39, 65
+  orig: 39, 65
+  offset: 0, 0
+  index: -1
+cover_lighting_01
+  rotate: false
+  xy: 960, 544
+  size: 9, 10
+  orig: 9, 10
+  offset: 0, 0
+  index: -1
+cover_lighting_02
+  rotate: false
+  xy: 2, 2
+  size: 11, 14
+  orig: 11, 14
+  offset: 0, 0
+  index: -1
+head_l
+  rotate: false
+  xy: 720, 556
+  size: 253, 135
+  orig: 253, 135
+  offset: 0, 0
+  index: -1
+head_r
+  rotate: false
+  xy: 2, 54
+  size: 364, 180
+  orig: 364, 180
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: true
+  xy: 634, 353
+  size: 156, 70
+  orig: 156, 70
+  offset: 0, 0
+  index: -1
+thing_01
+  rotate: false
+  xy: 975, 639
+  size: 33, 52
+  orig: 33, 52
+  offset: 0, 0
+  index: -1
+wheel_l
+  rotate: false
+  xy: 2, 364
+  size: 630, 145
+  orig: 630, 145
+  offset: 0, 0
+  index: -1
+wheel_r
+  rotate: false
+  xy: 2, 511
+  size: 716, 180
+  orig: 716, 180
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,69 @@
+
+UNIT_ILLUST_S_SL_SNIPER.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ob_1
+  rotate: false
+  xy: 734, 732
+  size: 254, 249
+  orig: 254, 249
+  offset: 0, 0
+  index: -1
+ob_2
+  rotate: false
+  xy: 561, 466
+  size: 127, 157
+  orig: 127, 157
+  offset: 0, 0
+  index: -1
+ob_3
+  rotate: true
+  xy: 734, 622
+  size: 110, 125
+  orig: 110, 125
+  offset: 0, 0
+  index: -1
+ob_4
+  rotate: false
+  xy: 740, 239
+  size: 105, 383
+  orig: 105, 383
+  offset: 0, 0
+  index: -1
+ob_5
+  rotate: true
+  xy: 0, 190
+  size: 276, 740
+  orig: 276, 740
+  offset: 0, 0
+  index: -1
+ob_6
+  rotate: false
+  xy: 859, 663
+  size: 79, 69
+  orig: 79, 69
+  offset: 0, 0
+  index: -1
+ob_7
+  rotate: true
+  xy: 0, 0
+  size: 190, 790
+  orig: 190, 790
+  offset: 0, 0
+  index: -1
+ob_8
+  rotate: false
+  xy: 561, 623
+  size: 173, 358
+  orig: 173, 358
+  offset: 0, 0
+  index: -1
+ob_9
+  rotate: false
+  xy: 0, 466
+  size: 561, 515
+  orig: 561, 515
+  offset: 0, 0
+  index: -1

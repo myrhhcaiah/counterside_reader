@@ -1,0 +1,76 @@
+
+UNIT_ILLUST_ESPR_CA_SHADOW_SUMMER_BG.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Y_grass_1
+  rotate: false
+  xy: 610, 85
+  size: 649, 340
+  orig: 649, 340
+  offset: 0, 0
+  index: -1
+Y_grass_4
+  rotate: true
+  xy: 1725, 439
+  size: 344, 285
+  orig: 344, 285
+  offset: 0, 0
+  index: -1
+Y_main
+  rotate: false
+  xy: 2, 427
+  size: 1721, 1616
+  orig: 1721, 1616
+  offset: 0, 0
+  index: -1
+Y_object_1
+  rotate: false
+  xy: 2, 27
+  size: 606, 398
+  orig: 606, 398
+  offset: 0, 0
+  index: -1
+Y_object_2
+  rotate: true
+  xy: 1261, 71
+  size: 354, 404
+  orig: 354, 404
+  offset: 0, 0
+  index: -1
+Y_shadow
+  rotate: true
+  xy: 1725, 1307
+  size: 736, 128
+  orig: 736, 128
+  offset: 0, 0
+  index: -1
+Y_sunlight
+  rotate: true
+  xy: 1725, 785
+  size: 520, 210
+  orig: 520, 210
+  offset: 0, 0
+  index: -1
+fx_a_1
+  rotate: false
+  xy: 1855, 1968
+  size: 72, 75
+  orig: 72, 75
+  offset: 0, 0
+  index: -1
+fx_circle
+  rotate: false
+  xy: 1855, 1904
+  size: 62, 62
+  orig: 62, 62
+  offset: 0, 0
+  index: -1
+fx_line_1
+  rotate: true
+  xy: 2, 2
+  size: 23, 511
+  orig: 23, 511
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+
+UNIT_ILLUST_MOB_BOSS_EVENT_PRYDWEN_KNIGHT_SILHOUETTE.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body_1
+  rotate: true
+  xy: 2, 2
+  size: 475, 1005
+  orig: 475, 1005
+  offset: 0, 0
+  index: -1

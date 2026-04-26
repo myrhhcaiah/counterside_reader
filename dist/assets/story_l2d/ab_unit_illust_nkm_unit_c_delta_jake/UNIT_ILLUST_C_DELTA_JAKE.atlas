@@ -1,0 +1,265 @@
+
+UNIT_ILLUST_C_DELTA_JAKE.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry_0
+  rotate: false
+  xy: 926, 209
+  size: 77, 45
+  orig: 77, 45
+  offset: 0, 0
+  index: -1
+angry_1
+  rotate: true
+  xy: 999, 990
+  size: 32, 23
+  orig: 32, 23
+  offset: 0, 0
+  index: -1
+body_0
+  rotate: false
+  xy: 579, 207
+  size: 306, 351
+  orig: 306, 351
+  offset: 0, 0
+  index: -1
+body_80_1
+  rotate: false
+  xy: 549, 560
+  size: 285, 462
+  orig: 285, 462
+  offset: 0, 0
+  index: -1
+close_0
+  rotate: true
+  xy: 936, 51
+  size: 77, 44
+  orig: 77, 44
+  offset: 0, 0
+  index: -1
+dis_0
+  rotate: true
+  xy: 936, 51
+  size: 77, 44
+  orig: 77, 44
+  offset: 0, 0
+  index: -1
+dis_1
+  rotate: false
+  xy: 472, 53
+  size: 41, 36
+  orig: 41, 36
+  offset: 0, 0
+  index: -1
+dislike_0
+  rotate: false
+  xy: 836, 601
+  size: 140, 69
+  orig: 140, 69
+  offset: 0, 0
+  index: -1
+dislike_1
+  rotate: true
+  xy: 549, 511
+  size: 47, 28
+  orig: 47, 28
+  offset: 0, 0
+  index: -1
+glasses_0
+  rotate: false
+  xy: 887, 256
+  size: 111, 55
+  orig: 111, 55
+  offset: 0, 0
+  index: -1
+hair_0
+  rotate: true
+  xy: 778, 37
+  size: 168, 156
+  orig: 168, 156
+  offset: 0, 0
+  index: -1
+happy_0
+  rotate: true
+  xy: 948, 522
+  size: 77, 43
+  orig: 77, 43
+  offset: 0, 0
+  index: -1
+happy_1
+  rotate: false
+  xy: 836, 561
+  size: 49, 38
+  orig: 49, 38
+  offset: 0, 0
+  index: -1
+wink_1
+  rotate: false
+  xy: 836, 561
+  size: 49, 38
+  orig: 49, 38
+  offset: 0, 0
+  index: -1
+head_0
+  rotate: false
+  xy: 575, 23
+  size: 201, 182
+  orig: 201, 182
+  offset: 0, 0
+  index: -1
+l_arm_0
+  rotate: false
+  xy: 343, 18
+  size: 63, 26
+  orig: 63, 26
+  offset: 0, 0
+  index: -1
+l_arm_2
+  rotate: false
+  xy: 930, 742
+  size: 67, 280
+  orig: 67, 280
+  offset: 0, 0
+  index: -1
+l_arm_3
+  rotate: true
+  xy: 362, 91
+  size: 137, 211
+  orig: 137, 211
+  offset: 0, 0
+  index: -1
+l_arm_4
+  rotate: true
+  xy: 778, 2
+  size: 33, 66
+  orig: 33, 66
+  offset: 0, 0
+  index: -1
+l_arm_50_7
+  rotate: true
+  xy: 846, 16
+  size: 19, 75
+  orig: 19, 75
+  offset: 0, 0
+  index: -1
+l_arm_6
+  rotate: true
+  xy: 2, 230
+  size: 278, 575
+  orig: 278, 575
+  offset: 0, 0
+  index: -1
+l_arm_6_0
+  rotate: false
+  xy: 2, 11
+  size: 27, 9
+  orig: 27, 9
+  offset: 0, 0
+  index: -1
+l_arm_r15_0050_5
+  rotate: true
+  xy: 2, 22
+  size: 77, 289
+  orig: 77, 289
+  offset: 0, 0
+  index: -1
+l_arm_r50_1
+  rotate: false
+  xy: 887, 430
+  size: 59, 169
+  orig: 59, 169
+  offset: 0, 0
+  index: -1
+leg_0050_0
+  rotate: false
+  xy: 2, 510
+  size: 545, 512
+  orig: 545, 512
+  offset: 0, 0
+  index: -1
+neck_0
+  rotate: true
+  xy: 887, 313
+  size: 115, 114
+  orig: 115, 114
+  offset: 0, 0
+  index: -1
+normal_0
+  rotate: true
+  xy: 948, 443
+  size: 77, 43
+  orig: 77, 43
+  offset: 0, 0
+  index: -1
+normal_1
+  rotate: true
+  xy: 936, 2
+  size: 47, 36
+  orig: 47, 36
+  offset: 0, 0
+  index: -1
+pride_0
+  rotate: false
+  xy: 930, 696
+  size: 77, 44
+  orig: 77, 44
+  offset: 0, 0
+  index: -1
+pride_1
+  rotate: false
+  xy: 421, 51
+  size: 49, 38
+  orig: 49, 38
+  offset: 0, 0
+  index: -1
+r_arm_60_0
+  rotate: false
+  xy: 2, 101
+  size: 358, 127
+  orig: 358, 127
+  offset: 0, 0
+  index: -1
+ser_0
+  rotate: true
+  xy: 936, 130
+  size: 77, 45
+  orig: 77, 45
+  offset: 0, 0
+  index: -1
+ser_1
+  rotate: true
+  xy: 887, 207
+  size: 47, 37
+  orig: 47, 37
+  offset: 0, 0
+  index: -1
+surp_0
+  rotate: true
+  xy: 293, 17
+  size: 82, 48
+  orig: 82, 48
+  offset: 0, 0
+  index: -1
+surp_1
+  rotate: true
+  xy: 982, 63
+  size: 65, 40
+  orig: 65, 40
+  offset: 0, 0
+  index: -1
+tie_r60_0
+  rotate: true
+  xy: 836, 672
+  size: 350, 92
+  orig: 350, 92
+  offset: 0, 0
+  index: -1
+wink_0
+  rotate: false
+  xy: 343, 46
+  size: 76, 43
+  orig: 76, 43
+  offset: 0, 0
+  index: -1

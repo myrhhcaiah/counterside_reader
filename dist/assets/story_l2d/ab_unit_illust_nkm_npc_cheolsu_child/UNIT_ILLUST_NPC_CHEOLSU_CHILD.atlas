@@ -1,0 +1,83 @@
+
+UNIT_ILLUST_NPC_CHEOLSU_CHILD.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 451, 234
+  size: 369, 405
+  orig: 369, 405
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 1, 141
+  size: 449, 874
+  orig: 449, 874
+  offset: 0, 0
+  index: -1
+DEFAULR
+  rotate: true
+  xy: 685, 82
+  size: 151, 111
+  orig: 151, 111
+  offset: 0, 0
+  index: -1
+DESPAIR
+  rotate: false
+  xy: 305, 36
+  size: 144, 104
+  orig: 144, 104
+  offset: 0, 0
+  index: -1
+HAIR
+  rotate: false
+  xy: 451, 1
+  size: 233, 232
+  orig: 233, 232
+  offset: 0, 0
+  index: -1
+HATE
+  rotate: true
+  xy: 895, 715
+  size: 149, 112
+  orig: 149, 112
+  offset: 0, 0
+  index: -1
+LAUGH
+  rotate: false
+  xy: 153, 30
+  size: 151, 110
+  orig: 151, 110
+  offset: 0, 0
+  index: -1
+PRIDE
+  rotate: true
+  xy: 821, 498
+  size: 141, 106
+  orig: 141, 106
+  offset: 0, 0
+  index: -1
+SERIOUS
+  rotate: false
+  xy: 1, 21
+  size: 151, 119
+  orig: 151, 119
+  offset: 0, 0
+  index: -1
+SERIOUS2
+  rotate: false
+  xy: 451, 640
+  size: 443, 375
+  orig: 443, 375
+  offset: 0, 0
+  index: -1
+SURPRISE
+  rotate: true
+  xy: 895, 865
+  size: 150, 121
+  orig: 150, 121
+  offset: 0, 0
+  index: -1

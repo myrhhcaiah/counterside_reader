@@ -1,0 +1,146 @@
+
+UNIT_ILLUST_NPC_MACHINE_GAP_GOLD.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_1
+  rotate: false
+  xy: 545, 107
+  size: 87, 87
+  orig: 87, 87
+  offset: 0, 0
+  index: -1
+arm_2
+  rotate: false
+  xy: 959, 651
+  size: 38, 355
+  orig: 38, 355
+  offset: 0, 0
+  index: -1
+blur
+  rotate: true
+  xy: 865, 2
+  size: 80, 82
+  orig: 80, 82
+  offset: 0, 0
+  index: -1
+body_1
+  rotate: false
+  xy: 2, 196
+  size: 630, 139
+  orig: 630, 139
+  offset: 0, 0
+  index: -1
+body_ac
+  rotate: false
+  xy: 404, 14
+  size: 139, 180
+  orig: 139, 180
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 545, 7
+  size: 98, 98
+  orig: 98, 98
+  offset: 0, 0
+  index: -1
+eye
+  rotate: false
+  xy: 999, 983
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+face_glitch
+  rotate: true
+  xy: 945, 344
+  size: 156, 51
+  orig: 156, 51
+  offset: 0, 0
+  index: -1
+face_mark_a
+  rotate: false
+  xy: 837, 502
+  size: 145, 124
+  orig: 145, 124
+  offset: 0, 0
+  index: -1
+hand_1
+  rotate: false
+  xy: 645, 27
+  size: 82, 88
+  orig: 82, 88
+  offset: 0, 0
+  index: -1
+hand_2
+  rotate: true
+  xy: 756, 93
+  size: 96, 142
+  orig: 96, 142
+  offset: 0, 0
+  index: -1
+hand_3
+  rotate: true
+  xy: 729, 12
+  size: 79, 134
+  orig: 79, 134
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 337
+  size: 630, 669
+  orig: 630, 669
+  offset: 0, 0
+  index: -1
+head_ac_1
+  rotate: true
+  xy: 868, 219
+  size: 281, 75
+  orig: 281, 75
+  offset: 0, 0
+  index: -1
+mouth_a
+  rotate: true
+  xy: 837, 628
+  size: 378, 120
+  orig: 378, 120
+  offset: 0, 0
+  index: -1
+mouth_b
+  rotate: true
+  xy: 634, 117
+  size: 378, 120
+  orig: 378, 120
+  offset: 0, 0
+  index: -1
+weapon_a
+  rotate: false
+  xy: 756, 191
+  size: 110, 304
+  orig: 110, 304
+  offset: 0, 0
+  index: -1
+weapon_b
+  rotate: true
+  xy: 2, 2
+  size: 192, 400
+  orig: 192, 400
+  offset: 0, 0
+  index: -1
+weapon_c
+  rotate: false
+  xy: 634, 497
+  size: 201, 509
+  orig: 201, 509
+  offset: 0, 0
+  index: -1
+wheel
+  rotate: true
+  xy: 900, 84
+  size: 133, 86
+  orig: 133, 86
+  offset: 0, 0
+  index: -1

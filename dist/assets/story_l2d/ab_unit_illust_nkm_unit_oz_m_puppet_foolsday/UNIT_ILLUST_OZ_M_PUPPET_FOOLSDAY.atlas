@@ -1,0 +1,69 @@
+
+UNIT_ILLUST_OZ_M_PUPPET_FOOLSDAY.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Background
+  rotate: false
+  xy: 2, 2
+  size: 800, 1015
+  orig: 800, 1015
+  offset: 0, 0
+  index: -1
+Character
+  rotate: true
+  xy: 804, 515
+  size: 502, 1222
+  orig: 502, 1222
+  offset: 0, 0
+  index: -1
+FaceEmotion00
+  rotate: false
+  xy: 1033, 344
+  size: 122, 169
+  orig: 122, 169
+  offset: 0, 0
+  index: -1
+FaceEmotion01
+  rotate: false
+  xy: 804, 124
+  size: 113, 185
+  orig: 113, 185
+  offset: 0, 0
+  index: -1
+FaceEmotion02
+  rotate: false
+  xy: 1157, 344
+  size: 112, 169
+  orig: 112, 169
+  offset: 0, 0
+  index: -1
+FaceEmotion03
+  rotate: false
+  xy: 1033, 173
+  size: 121, 169
+  orig: 121, 169
+  offset: 0, 0
+  index: -1
+FaceEmotion04
+  rotate: false
+  xy: 919, 327
+  size: 112, 186
+  orig: 112, 186
+  offset: 0, 0
+  index: -1
+FaceEmotion05
+  rotate: false
+  xy: 804, 311
+  size: 113, 202
+  orig: 113, 202
+  offset: 0, 0
+  index: -1
+FaceEmotion06
+  rotate: false
+  xy: 919, 140
+  size: 112, 185
+  orig: 112, 185
+  offset: 0, 0
+  index: -1

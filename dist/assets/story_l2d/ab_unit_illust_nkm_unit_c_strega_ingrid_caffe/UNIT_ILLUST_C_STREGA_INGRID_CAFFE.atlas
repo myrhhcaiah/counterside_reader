@@ -1,0 +1,13 @@
+
+UNIT_ILLUST_C_STREGA_INGRID_CAFFE.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+UNIT_ILLUST_C_STREGA_INGRID_CAFFE
+  rotate: false
+  xy: 0, 0
+  size: 1023, 996
+  orig: 1024, 1024
+  offset: 0, 28
+  index: -1

@@ -1,0 +1,125 @@
+
+UNIT_ILLUST_MOB_NORMAL_EP9_ESPR_DOCTOR.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 624, 730
+  size: 283, 288
+  orig: 283, 288
+  offset: 0, 0
+  index: -1
+cape
+  rotate: false
+  xy: 2, 274
+  size: 238, 744
+  orig: 238, 744
+  offset: 0, 0
+  index: -1
+capeback
+  rotate: false
+  xy: 242, 639
+  size: 380, 379
+  orig: 380, 379
+  offset: 0, 0
+  index: -1
+fx_glow
+  rotate: false
+  xy: 2, 2
+  size: 9, 8
+  orig: 9, 8
+  offset: 0, 0
+  index: -1
+hood
+  rotate: false
+  xy: 660, 34
+  size: 199, 226
+  orig: 199, 226
+  offset: 0, 0
+  index: -1
+hoodback
+  rotate: false
+  xy: 861, 137
+  size: 94, 147
+  orig: 94, 147
+  offset: 0, 0
+  index: -1
+hoodcape
+  rotate: true
+  xy: 2, 12
+  size: 260, 208
+  orig: 260, 208
+  offset: 0, 0
+  index: -1
+hoodcapeback
+  rotate: false
+  xy: 725, 485
+  size: 210, 243
+  orig: 210, 243
+  offset: 0, 0
+  index: -1
+l_leg
+  rotate: true
+  xy: 242, 403
+  size: 234, 481
+  orig: 234, 481
+  offset: 0, 0
+  index: -1
+mask
+  rotate: false
+  xy: 847, 286
+  size: 158, 197
+  orig: 158, 197
+  offset: 0, 0
+  index: -1
+maskback
+  rotate: false
+  xy: 624, 677
+  size: 70, 51
+  orig: 70, 51
+  offset: 0, 0
+  index: -1
+maskside
+  rotate: true
+  xy: 572, 27
+  size: 33, 51
+  orig: 33, 51
+  offset: 0, 0
+  index: -1
+r_leg
+  rotate: true
+  xy: 212, 62
+  size: 198, 446
+  orig: 198, 446
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: true
+  xy: 242, 262
+  size: 139, 603
+  orig: 139, 603
+  offset: 0, 0
+  index: -1
+weapon2
+  rotate: true
+  xy: 212, 22
+  size: 38, 358
+  orig: 38, 358
+  offset: 0, 0
+  index: -1
+weapon_arm_fx_09
+  rotate: true
+  xy: 909, 861
+  size: 157, 85
+  orig: 157, 85
+  offset: 0, 0
+  index: -1
+weapon_arm_fx_091
+  rotate: true
+  xy: 957, 127
+  size: 157, 42
+  orig: 157, 42
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,13 @@
+
+UNIT_ILLUST_SIXWING_CA_ACTOR_SPECIAL.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+UNIT_ILLUST_SIXWING_CA_ACTOR_SPECIAL
+  rotate: false
+  xy: 0, 0
+  size: 2048, 2048
+  orig: 2048, 2048
+  offset: 0, 0
+  index: -1

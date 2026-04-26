@@ -1,0 +1,377 @@
+
+UNIT_ILLUST_ALT_CA_SEO_YOON_RECITAL.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ARM_L_HAND_C_FINGER_1_1
+  rotate: false
+  xy: 1780, 254
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+ARM_L_HAND_C_FINGER_1_2
+  rotate: false
+  xy: 1851, 540
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+ARM_L_HAND_C_FINGER_1_3
+  rotate: false
+  xy: 1780, 119
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+ARM_L_HAND_C_FINGER_2_1
+  rotate: false
+  xy: 1816, 464
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+ARM_L_HAND_C_FINGER_2_2
+  rotate: false
+  xy: 2002, 843
+  size: 26, 25
+  orig: 26, 25
+  offset: 0, 0
+  index: -1
+ARM_L_HAND_C_FINGER_2_3
+  rotate: false
+  xy: 1780, 230
+  size: 20, 22
+  orig: 20, 22
+  offset: 0, 0
+  index: -1
+ARM_L_HAND_C_FINGER_3_1
+  rotate: true
+  xy: 1780, 303
+  size: 24, 22
+  orig: 24, 22
+  offset: 0, 0
+  index: -1
+ARM_L_HAND_C_FINGER_3_2
+  rotate: false
+  xy: 2002, 870
+  size: 27, 25
+  orig: 27, 25
+  offset: 0, 0
+  index: -1
+ARM_L_HAND_C_FINGER_3_3
+  rotate: true
+  xy: 1780, 277
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+ARM_L_HAND_C_FINGER_4_1
+  rotate: true
+  xy: 1780, 206
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+ARM_L_HAND_C_FINGER_4_2
+  rotate: false
+  xy: 1780, 183
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+ARM_L_HAND_C_FINGER_4_3
+  rotate: false
+  xy: 1780, 159
+  size: 19, 22
+  orig: 19, 22
+  offset: 0, 0
+  index: -1
+ARM_L_HAND_C_FINGER_5_2
+  rotate: false
+  xy: 2021, 817
+  size: 25, 24
+  orig: 25, 24
+  offset: 0, 0
+  index: -1
+ARM_L_HAND_C_FINGER_5_3
+  rotate: false
+  xy: 1780, 329
+  size: 22, 27
+  orig: 22, 27
+  offset: 0, 0
+  index: -1
+ARM_L_HAND_C_ROOT
+  rotate: false
+  xy: 1780, 525
+  size: 69, 70
+  orig: 69, 70
+  offset: 0, 0
+  index: -1
+ARM_R_C_FINGER_4_1
+  rotate: false
+  xy: 2002, 808
+  size: 17, 33
+  orig: 17, 33
+  offset: 0, 0
+  index: -1
+ARM_R_C_FINGER_5_1
+  rotate: false
+  xy: 1861, 630
+  size: 46, 54
+  orig: 46, 54
+  offset: 0, 0
+  index: -1
+ARM_R_HAND_C
+  rotate: false
+  xy: 1780, 597
+  size: 79, 87
+  orig: 79, 87
+  offset: 0, 0
+  index: -1
+EYE_L_BALL
+  rotate: false
+  xy: 1780, 101
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+EYE_L_BROW
+  rotate: true
+  xy: 2002, 776
+  size: 30, 7
+  orig: 30, 7
+  offset: 0, 0
+  index: -1
+EYE_L_DESPAIR
+  rotate: false
+  xy: 1780, 458
+  size: 34, 31
+  orig: 34, 31
+  offset: 0, 0
+  index: -1
+EYE_L_HATE
+  rotate: true
+  xy: 1822, 491
+  size: 32, 25
+  orig: 32, 25
+  offset: 0, 0
+  index: -1
+EYE_L_INBROW
+  rotate: true
+  xy: 1780, 358
+  size: 32, 18
+  orig: 32, 18
+  offset: 0, 0
+  index: -1
+EYE_L_INNER
+  rotate: true
+  xy: 2030, 846
+  size: 22, 16
+  orig: 22, 16
+  offset: 0, 0
+  index: -1
+EYE_L_LAUGH
+  rotate: false
+  xy: 2002, 897
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+EYE_L_LIGHT
+  rotate: false
+  xy: 1885, 569
+  size: 14, 9
+  orig: 14, 9
+  offset: 0, 0
+  index: -1
+EYE_L_PRIDE
+  rotate: false
+  xy: 1780, 427
+  size: 32, 29
+  orig: 32, 29
+  offset: 0, 0
+  index: -1
+EYE_L_SERIOUS
+  rotate: true
+  xy: 1780, 392
+  size: 33, 22
+  orig: 33, 22
+  offset: 0, 0
+  index: -1
+EYE_L_SURPRISE
+  rotate: false
+  xy: 1950, 653
+  size: 34, 31
+  orig: 34, 31
+  offset: 0, 0
+  index: -1
+EYE_R_BALL
+  rotate: false
+  xy: 1780, 139
+  size: 19, 18
+  orig: 19, 18
+  offset: 0, 0
+  index: -1
+EYE_R_BROW
+  rotate: true
+  xy: 1851, 560
+  size: 35, 8
+  orig: 35, 8
+  offset: 0, 0
+  index: -1
+EYE_R_DESPAIR
+  rotate: false
+  xy: 1861, 599
+  size: 39, 29
+  orig: 39, 29
+  offset: 0, 0
+  index: -1
+EYE_R_HATE
+  rotate: false
+  xy: 2002, 987
+  size: 39, 35
+  orig: 39, 35
+  offset: 0, 0
+  index: -1
+EYE_R_INBROW
+  rotate: false
+  xy: 1909, 631
+  size: 35, 19
+  orig: 35, 19
+  offset: 0, 0
+  index: -1
+EYE_R_INNER
+  rotate: false
+  xy: 1861, 560
+  size: 22, 18
+  orig: 22, 18
+  offset: 0, 0
+  index: -1
+EYE_R_LAUGH
+  rotate: false
+  xy: 2002, 957
+  size: 39, 28
+  orig: 39, 28
+  offset: 0, 0
+  index: -1
+EYE_R_LIGHT
+  rotate: true
+  xy: 2036, 911
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+EYE_R_PRIDE
+  rotate: false
+  xy: 2002, 927
+  size: 37, 28
+  orig: 37, 28
+  offset: 0, 0
+  index: -1
+EYE_R_SERIOUS
+  rotate: false
+  xy: 1780, 491
+  size: 40, 32
+  orig: 40, 32
+  offset: 0, 0
+  index: -1
+EYE_R_SURPRISE
+  rotate: false
+  xy: 1909, 652
+  size: 39, 32
+  orig: 39, 32
+  offset: 0, 0
+  index: -1
+FG_LIGHT_1
+  rotate: true
+  xy: 1780, 686
+  size: 336, 220
+  orig: 336, 220
+  offset: 0, 0
+  index: -1
+MESH_1
+  rotate: false
+  xy: 2, 10
+  size: 1776, 1012
+  orig: 1776, 1012
+  offset: 0, 0
+  index: -1
+MOUTH_DESPAIR
+  rotate: true
+  xy: 2041, 938
+  size: 17, 5
+  orig: 17, 5
+  offset: 0, 0
+  index: -1
+MOUTH_HATE
+  rotate: false
+  xy: 2036, 900
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+MOUTH_INNER
+  rotate: false
+  xy: 2031, 883
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+MOUTH_LAUGH
+  rotate: false
+  xy: 2021, 808
+  size: 18, 7
+  orig: 18, 7
+  offset: 0, 0
+  index: -1
+MOUTH_PRIDE
+  rotate: true
+  xy: 1889, 580
+  size: 17, 11
+  orig: 17, 11
+  offset: 0, 0
+  index: -1
+MOUTH_SERIOUS
+  rotate: true
+  xy: 2041, 798
+  size: 17, 5
+  orig: 17, 5
+  offset: 0, 0
+  index: -1
+MOUTH_SURPRISE
+  rotate: true
+  xy: 1804, 416
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+MOUTH_THEETH
+  rotate: false
+  xy: 2, 2
+  size: 15, 6
+  orig: 15, 6
+  offset: 0, 0
+  index: -1
+MOUTH_UNDER
+  rotate: true
+  xy: 1986, 656
+  size: 28, 14
+  orig: 28, 14
+  offset: 0, 0
+  index: -1
+MOUTH_UPPER
+  rotate: false
+  xy: 1861, 580
+  size: 26, 17
+  orig: 26, 17
+  offset: 0, 0
+  index: -1
+NOSE
+  rotate: false
+  xy: 1902, 620
+  size: 4, 8
+  orig: 4, 8
+  offset: 0, 0
+  index: -1

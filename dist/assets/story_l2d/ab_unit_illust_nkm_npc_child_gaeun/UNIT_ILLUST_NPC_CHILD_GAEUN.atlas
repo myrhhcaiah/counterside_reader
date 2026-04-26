@@ -1,0 +1,272 @@
+
+UNIT_ILLUST_NPC_CHILD_GAEUN.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 473, 37
+  size: 226, 223
+  orig: 226, 223
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 951, 709
+  size: 61, 122
+  orig: 61, 122
+  offset: 0, 0
+  index: -1
+3
+  rotate: false
+  xy: 698, 154
+  size: 122, 147
+  orig: 122, 147
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 592, 303
+  size: 81, 402
+  orig: 81, 402
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 2, 2
+  size: 261, 469
+  orig: 261, 469
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 786, 397
+  size: 163, 625
+  orig: 163, 625
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 592, 386
+  size: 192, 636
+  orig: 192, 636
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 951, 958
+  size: 71, 64
+  orig: 71, 64
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 2, 265
+  size: 588, 757
+  orig: 588, 757
+  offset: 0, 0
+  index: -1
+BASE_FACE
+  rotate: false
+  xy: 822, 175
+  size: 140, 126
+  orig: 140, 126
+  offset: 0, 0
+  index: -1
+BASE_FACE_EYE_L
+  rotate: false
+  xy: 1002, 644
+  size: 20, 25
+  orig: 20, 25
+  offset: 0, 0
+  index: -1
+BASE_FACE_EYE_L_BACK
+  rotate: false
+  xy: 964, 175
+  size: 29, 18
+  orig: 29, 18
+  offset: 0, 0
+  index: -1
+BASE_FACE_EYE_L_BOW
+  rotate: true
+  xy: 1015, 914
+  size: 42, 7
+  orig: 42, 7
+  offset: 0, 0
+  index: -1
+BASE_FACE_EYE_L_COVER
+  rotate: false
+  xy: 592, 276
+  size: 43, 25
+  orig: 43, 25
+  offset: 0, 0
+  index: -1
+BASE_FACE_EYE_L_LIGHT
+  rotate: false
+  xy: 822, 156
+  size: 5, 4
+  orig: 5, 4
+  offset: 0, 0
+  index: -1
+BASE_FACE_EYE_R
+  rotate: false
+  xy: 951, 439
+  size: 23, 28
+  orig: 23, 28
+  offset: 0, 0
+  index: -1
+BASE_FACE_EYE_R_BACK
+  rotate: false
+  xy: 698, 41
+  size: 37, 21
+  orig: 37, 21
+  offset: 0, 0
+  index: -1
+BASE_FACE_EYE_R_BOW
+  rotate: false
+  xy: 822, 162
+  size: 50, 11
+  orig: 50, 11
+  offset: 0, 0
+  index: -1
+BASE_FACE_EYE_R_COVER
+  rotate: false
+  xy: 473, 6
+  size: 55, 29
+  orig: 55, 29
+  offset: 0, 0
+  index: -1
+BASE_FACE_EYE_R_LIGHT
+  rotate: false
+  xy: 874, 169
+  size: 4, 4
+  orig: 4, 4
+  offset: 0, 0
+  index: -1
+BASE_FACE_MOUTH
+  rotate: false
+  xy: 1008, 638
+  size: 14, 4
+  orig: 14, 4
+  offset: 0, 0
+  index: -1
+BASE_FACE_NOSE
+  rotate: true
+  xy: 592, 265
+  size: 9, 12
+  orig: 9, 12
+  offset: 0, 0
+  index: -1
+BASE_FACE_SHADOW_1
+  rotate: false
+  xy: 698, 64
+  size: 118, 88
+  orig: 118, 88
+  offset: 0, 0
+  index: -1
+BASE_FACE_SHADOW_2
+  rotate: true
+  xy: 1015, 843
+  size: 16, 7
+  orig: 16, 7
+  offset: 0, 0
+  index: -1
+emotion_despair
+  rotate: true
+  xy: 964, 195
+  size: 106, 44
+  orig: 106, 44
+  offset: 0, 0
+  index: -1
+emotion_despair_effect1
+  rotate: true
+  xy: 786, 386
+  size: 9, 48
+  orig: 9, 48
+  offset: 0, 0
+  index: -1
+emotion_despair_effect2
+  rotate: false
+  xy: 530, 18
+  size: 6, 17
+  orig: 6, 17
+  offset: 0, 0
+  index: -1
+emotion_despair_effect3
+  rotate: false
+  xy: 1014, 818
+  size: 8, 13
+  orig: 8, 13
+  offset: 0, 0
+  index: -1
+emotion_despair_effect4
+  rotate: false
+  xy: 1002, 671
+  size: 20, 36
+  orig: 20, 36
+  offset: 0, 0
+  index: -1
+emotion_despair_effect5
+  rotate: false
+  xy: 862, 390
+  size: 3, 5
+  orig: 3, 5
+  offset: 0, 0
+  index: -1
+emotion_despair_mouth
+  rotate: false
+  xy: 836, 386
+  size: 24, 9
+  orig: 24, 9
+  offset: 0, 0
+  index: -1
+emotion_hate
+  rotate: true
+  xy: 951, 469
+  size: 116, 49
+  orig: 116, 49
+  offset: 0, 0
+  index: -1
+emotion_hate_mouth
+  rotate: true
+  xy: 1015, 886
+  size: 26, 7
+  orig: 26, 7
+  offset: 0, 0
+  index: -1
+emotion_hate_sweat
+  rotate: false
+  xy: 1002, 625
+  size: 4, 17
+  orig: 4, 17
+  offset: 0, 0
+  index: -1
+emotion_smile
+  rotate: true
+  xy: 951, 833
+  size: 123, 62
+  orig: 123, 62
+  offset: 0, 0
+  index: -1
+emotion_smile_mouth
+  rotate: true
+  xy: 1015, 861
+  size: 23, 7
+  orig: 23, 7
+  offset: 0, 0
+  index: -1
+emotion_surprise
+  rotate: true
+  xy: 951, 587
+  size: 120, 49
+  orig: 120, 49
+  offset: 0, 0
+  index: -1
+emotion_surprise_mouth
+  rotate: false
+  xy: 637, 296
+  size: 11, 5
+  orig: 11, 5
+  offset: 0, 0
+  index: -1

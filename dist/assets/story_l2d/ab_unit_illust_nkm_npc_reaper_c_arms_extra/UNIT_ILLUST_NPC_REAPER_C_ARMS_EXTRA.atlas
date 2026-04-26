@@ -1,0 +1,118 @@
+
+UNIT_ILLUST_NPC_REAPER_C_ARMS_EXTRA.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ALL
+  rotate: false
+  xy: 2, 34
+  size: 840, 986
+  orig: 840, 986
+  offset: 0, 0
+  index: -1
+ALL_1
+  rotate: true
+  xy: 844, 61
+  size: 123, 71
+  orig: 123, 71
+  offset: 0, 0
+  index: -1
+ALL_2
+  rotate: false
+  xy: 124, 4
+  size: 120, 28
+  orig: 120, 28
+  offset: 0, 0
+  index: -1
+ALL_DESPAIR
+  rotate: false
+  xy: 844, 519
+  size: 128, 84
+  orig: 128, 84
+  offset: 0, 0
+  index: -1
+ALL_DESPAIR2
+  rotate: false
+  xy: 485, 16
+  size: 121, 16
+  orig: 121, 16
+  offset: 0, 0
+  index: -1
+ALL_HATE
+  rotate: true
+  xy: 922, 312
+  size: 123, 71
+  orig: 123, 71
+  offset: 0, 0
+  index: -1
+ALL_HATE2
+  rotate: true
+  xy: 974, 490
+  size: 113, 35
+  orig: 113, 35
+  offset: 0, 0
+  index: -1
+ALL_LAUGH
+  rotate: false
+  xy: 844, 437
+  size: 123, 80
+  orig: 123, 80
+  offset: 0, 0
+  index: -1
+ALL_LAUGH2
+  rotate: false
+  xy: 246, 2
+  size: 117, 30
+  orig: 117, 30
+  offset: 0, 0
+  index: -1
+ALL_PRIDE
+  rotate: false
+  xy: 844, 605
+  size: 168, 152
+  orig: 168, 152
+  offset: 0, 0
+  index: -1
+ALL_PRIDE2
+  rotate: false
+  xy: 608, 16
+  size: 121, 16
+  orig: 121, 16
+  offset: 0, 0
+  index: -1
+ALL_SERIOUS
+  rotate: true
+  xy: 844, 186
+  size: 123, 73
+  orig: 123, 73
+  offset: 0, 0
+  index: -1
+ALL_SERIOUS2
+  rotate: false
+  xy: 2, 3
+  size: 120, 29
+  orig: 120, 29
+  offset: 0, 0
+  index: -1
+ALL_SURPRISE
+  rotate: true
+  xy: 844, 311
+  size: 124, 76
+  orig: 124, 76
+  offset: 0, 0
+  index: -1
+ALL_SURPRISE2
+  rotate: false
+  xy: 365, 11
+  size: 118, 21
+  orig: 118, 21
+  offset: 0, 0
+  index: -1
+ALL_UP
+  rotate: true
+  xy: 844, 759
+  size: 261, 171
+  orig: 261, 171
+  offset: 0, 0
+  index: -1

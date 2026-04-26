@@ -1,0 +1,62 @@
+
+UNIT_ILLUST_FENRIR_C_INTERN_FOOLSDAY.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: true
+  xy: 2, 2
+  size: 1004, 1872
+  orig: 1004, 1872
+  offset: 0, 0
+  index: -1
+BASE
+  rotate: true
+  xy: 1876, 232
+  size: 152, 100
+  orig: 152, 100
+  offset: 0, 0
+  index: -1
+DESPAIR
+  rotate: true
+  xy: 1876, 82
+  size: 148, 99
+  orig: 148, 99
+  offset: 0, 0
+  index: -1
+HATE
+  rotate: false
+  xy: 1876, 538
+  size: 148, 106
+  orig: 148, 106
+  offset: 0, 0
+  index: -1
+LAUGH
+  rotate: false
+  xy: 1876, 646
+  size: 152, 108
+  orig: 152, 108
+  offset: 0, 0
+  index: -1
+PRIDE
+  rotate: true
+  xy: 1876, 386
+  size: 150, 104
+  orig: 150, 104
+  offset: 0, 0
+  index: -1
+SERIOUS
+  rotate: false
+  xy: 1876, 875
+  size: 152, 131
+  orig: 152, 131
+  offset: 0, 0
+  index: -1
+SURPRISE
+  rotate: false
+  xy: 1876, 756
+  size: 152, 117
+  orig: 152, 117
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,391 @@
+
+UNIT_ILLUST_ACADEMY_C_TWINTAIL_SPORTS.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ARM_PARTS_1
+  rotate: false
+  xy: 1505, 1731
+  size: 101, 93
+  orig: 101, 93
+  offset: 0, 0
+  index: -1
+ARM_PARTS_10
+  rotate: false
+  xy: 1468, 1826
+  size: 166, 220
+  orig: 166, 220
+  offset: 0, 0
+  index: -1
+ARM_PARTS_5
+  rotate: false
+  xy: 1636, 1916
+  size: 72, 130
+  orig: 72, 130
+  offset: 0, 0
+  index: -1
+ARM_PARTS_7
+  rotate: false
+  xy: 252, 98
+  size: 63, 110
+  orig: 63, 110
+  offset: 0, 0
+  index: -1
+ARM_PARTS_7_1
+  rotate: false
+  xy: 168, 94
+  size: 82, 114
+  orig: 82, 114
+  offset: 0, 0
+  index: -1
+ARM_PARTS_8
+  rotate: false
+  xy: 1710, 1923
+  size: 64, 123
+  orig: 64, 123
+  offset: 0, 0
+  index: -1
+BG
+  rotate: true
+  xy: 1007, 136
+  size: 732, 890
+  orig: 732, 890
+  offset: 0, 0
+  index: -1
+BODY_1
+  rotate: true
+  xy: 2, 210
+  size: 658, 1003
+  orig: 658, 1003
+  offset: 0, 0
+  index: -1
+HAIR_SIDE_1
+  rotate: false
+  xy: 2, 870
+  size: 1464, 1176
+  orig: 1464, 1176
+  offset: 0, 0
+  index: -1
+HEAD
+  rotate: false
+  xy: 2, 23
+  size: 164, 185
+  orig: 164, 185
+  offset: 0, 0
+  index: -1
+HEAD_DESPAIR_EYE_L
+  rotate: false
+  xy: 1505, 1688
+  size: 77, 41
+  orig: 77, 41
+  offset: 0, 0
+  index: -1
+HEAD_DESPAIR_EYE_R
+  rotate: false
+  xy: 317, 100
+  size: 49, 53
+  orig: 49, 53
+  offset: 0, 0
+  index: -1
+HEAD_DESPAIR_MOUTH
+  rotate: true
+  xy: 1468, 1348
+  size: 49, 14
+  orig: 49, 14
+  offset: 0, 0
+  index: -1
+HEAD_EYE_CLOSE_EYE_L
+  rotate: false
+  xy: 47, 3
+  size: 58, 18
+  orig: 58, 18
+  offset: 0, 0
+  index: -1
+HEAD_EYE_CLOSE_EYE_R
+  rotate: false
+  xy: 2, 2
+  size: 43, 19
+  orig: 43, 19
+  offset: 0, 0
+  index: -1
+HEAD_EYE_L_BALL
+  rotate: true
+  xy: 1608, 1729
+  size: 28, 25
+  orig: 28, 25
+  offset: 0, 0
+  index: -1
+HEAD_EYE_L_BROW
+  rotate: false
+  xy: 1776, 1928
+  size: 58, 22
+  orig: 58, 22
+  offset: 0, 0
+  index: -1
+HEAD_EYE_L_INNER
+  rotate: true
+  xy: 1505, 1491
+  size: 44, 21
+  orig: 44, 21
+  offset: 0, 0
+  index: -1
+HEAD_EYE_L_LIGHT
+  rotate: true
+  xy: 1505, 1462
+  size: 27, 18
+  orig: 27, 18
+  offset: 0, 0
+  index: -1
+HEAD_EYE_L_TEAR
+  rotate: false
+  xy: 1540, 1573
+  size: 11, 12
+  orig: 11, 12
+  offset: 0, 0
+  index: -1
+HEAD_EYE_L_UNDER
+  rotate: true
+  xy: 243, 58
+  size: 34, 6
+  orig: 34, 6
+  offset: 0, 0
+  index: -1
+HEAD_EYE_L_UPPER
+  rotate: true
+  xy: 1608, 1759
+  size: 65, 21
+  orig: 65, 21
+  offset: 0, 0
+  index: -1
+HEAD_EYE_L_UPPER_2
+  rotate: false
+  xy: 600, 194
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+HEAD_EYE_R_BALL
+  rotate: false
+  xy: 1608, 1703
+  size: 21, 24
+  orig: 21, 24
+  offset: 0, 0
+  index: -1
+HEAD_EYE_R_BROW
+  rotate: false
+  xy: 168, 30
+  size: 41, 6
+  orig: 41, 6
+  offset: 0, 0
+  index: -1
+HEAD_EYE_R_INNER
+  rotate: true
+  xy: 1584, 1696
+  size: 33, 22
+  orig: 33, 22
+  offset: 0, 0
+  index: -1
+HEAD_EYE_R_LIGHT
+  rotate: true
+  xy: 2031, 2026
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+HEAD_EYE_R_TEAR
+  rotate: true
+  xy: 1528, 1524
+  size: 11, 7
+  orig: 11, 7
+  offset: 0, 0
+  index: -1
+HEAD_EYE_R_UNDER
+  rotate: true
+  xy: 1841, 1974
+  size: 28, 9
+  orig: 28, 9
+  offset: 0, 0
+  index: -1
+HEAD_EYE_R_UPPER_1
+  rotate: false
+  xy: 551, 190
+  size: 47, 18
+  orig: 47, 18
+  offset: 0, 0
+  index: -1
+HEAD_EYE_R_UPPER_2
+  rotate: true
+  xy: 368, 140
+  size: 13, 11
+  orig: 13, 11
+  offset: 0, 0
+  index: -1
+HEAD_HATE_EYE_L
+  rotate: false
+  xy: 1776, 2004
+  size: 74, 42
+  orig: 74, 42
+  offset: 0, 0
+  index: -1
+HEAD_HATE_EYE_R
+  rotate: true
+  xy: 1505, 1537
+  size: 48, 33
+  orig: 48, 33
+  offset: 0, 0
+  index: -1
+HEAD_HATE_MOUTH
+  rotate: false
+  xy: 107, 5
+  size: 48, 16
+  orig: 48, 16
+  offset: 0, 0
+  index: -1
+HEAD_HATE_MOUTH_2
+  rotate: false
+  xy: 381, 146
+  size: 7, 17
+  orig: 7, 17
+  offset: 0, 0
+  index: -1
+HEAD_LAUGH_EYE_L
+  rotate: false
+  xy: 317, 155
+  size: 62, 53
+  orig: 62, 53
+  offset: 0, 0
+  index: -1
+HEAD_LAUGH_EYE_R
+  rotate: false
+  xy: 503, 176
+  size: 46, 32
+  orig: 46, 32
+  offset: 0, 0
+  index: -1
+HEAD_LAUGH_MOUTH
+  rotate: false
+  xy: 1852, 2005
+  size: 45, 41
+  orig: 45, 41
+  offset: 0, 0
+  index: -1
+HEAD_MOUTH_INNER
+  rotate: false
+  xy: 1949, 2010
+  size: 43, 36
+  orig: 43, 36
+  offset: 0, 0
+  index: -1
+HEAD_MOUTH_THEETH
+  rotate: false
+  xy: 1493, 1439
+  size: 10, 9
+  orig: 10, 9
+  offset: 0, 0
+  index: -1
+HEAD_MOUTH_UNDER
+  rotate: false
+  xy: 1776, 1952
+  size: 63, 50
+  orig: 63, 50
+  offset: 0, 0
+  index: -1
+HEAD_MOUTH_UPPER
+  rotate: true
+  xy: 1554, 1592
+  size: 47, 20
+  orig: 47, 20
+  offset: 0, 0
+  index: -1
+HEAD_NOSE
+  rotate: false
+  xy: 1852, 1983
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+HEAD_PRIDE_EYE_L
+  rotate: false
+  xy: 381, 165
+  size: 70, 43
+  orig: 70, 43
+  offset: 0, 0
+  index: -1
+HEAD_PRIDE_EYE_R
+  rotate: false
+  xy: 453, 173
+  size: 48, 35
+  orig: 48, 35
+  offset: 0, 0
+  index: -1
+HEAD_PRIDE_MOUTH
+  rotate: true
+  xy: 1468, 1399
+  size: 49, 23
+  orig: 49, 23
+  offset: 0, 0
+  index: -1
+HEAD_SERIOUS_EYE_L
+  rotate: false
+  xy: 1505, 1641
+  size: 69, 45
+  orig: 69, 45
+  offset: 0, 0
+  index: -1
+HEAD_SERIOUS_EYE_R
+  rotate: true
+  xy: 1468, 1450
+  size: 47, 35
+  orig: 47, 35
+  offset: 0, 0
+  index: -1
+HEAD_SERIOUS_MOUTH
+  rotate: false
+  xy: 1994, 2011
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+HEAD_SHADOW
+  rotate: false
+  xy: 1636, 1828
+  size: 71, 86
+  orig: 71, 86
+  offset: 0, 0
+  index: -1
+HEAD_SURPRISE_EYE_L
+  rotate: false
+  xy: 168, 38
+  size: 73, 54
+  orig: 73, 54
+  offset: 0, 0
+  index: -1
+HEAD_SURPRISE_EYE_R
+  rotate: false
+  xy: 1505, 1587
+  size: 47, 52
+  orig: 47, 52
+  offset: 0, 0
+  index: -1
+HEAD_SURPRISE_MOUTH
+  rotate: false
+  xy: 1899, 2010
+  size: 48, 36
+  orig: 48, 36
+  offset: 0, 0
+  index: -1
+HEAD_SURPRISE_MOUTH_2
+  rotate: true
+  xy: 1468, 1499
+  size: 77, 35
+  orig: 77, 35
+  offset: 0, 0
+  index: -1
+ITEM_BATTON
+  rotate: false
+  xy: 1468, 1578
+  size: 35, 246
+  orig: 35, 246
+  offset: 0, 0
+  index: -1

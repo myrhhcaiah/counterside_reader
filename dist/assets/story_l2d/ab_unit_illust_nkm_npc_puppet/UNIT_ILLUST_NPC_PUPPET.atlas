@@ -1,0 +1,279 @@
+
+UNIT_ILLUST_NPC_PUPPET.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+0
+  rotate: true
+  xy: 800, 27
+  size: 46, 45
+  orig: 46, 45
+  offset: 0, 0
+  index: -1
+1
+  rotate: true
+  xy: 563, 326
+  size: 224, 104
+  orig: 224, 104
+  offset: 0, 0
+  index: -1
+10
+  rotate: true
+  xy: 341, 94
+  size: 189, 113
+  orig: 189, 113
+  offset: 0, 0
+  index: -1
+11
+  rotate: true
+  xy: 581, 159
+  size: 165, 129
+  orig: 165, 129
+  offset: 0, 0
+  index: -1
+12
+  rotate: true
+  xy: 579, 2
+  size: 108, 81
+  orig: 108, 81
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 341, 285
+  size: 108, 265
+  orig: 108, 265
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 451, 304
+  size: 110, 246
+  orig: 110, 246
+  offset: 0, 0
+  index: -1
+15
+  rotate: false
+  xy: 669, 332
+  size: 127, 104
+  orig: 127, 104
+  offset: 0, 0
+  index: -1
+16
+  rotate: true
+  xy: 581, 112
+  size: 45, 121
+  orig: 45, 121
+  offset: 0, 0
+  index: -1
+17
+  rotate: true
+  xy: 456, 94
+  size: 18, 121
+  orig: 18, 121
+  offset: 0, 0
+  index: -1
+18
+  rotate: true
+  xy: 456, 114
+  size: 188, 123
+  orig: 188, 123
+  offset: 0, 0
+  index: -1
+19
+  rotate: false
+  xy: 682, 598
+  size: 157, 247
+  orig: 157, 247
+  offset: 0, 0
+  index: -1
+2
+  rotate: true
+  xy: 841, 656
+  size: 216, 174
+  orig: 216, 174
+  offset: 0, 0
+  index: -1
+20
+  rotate: false
+  xy: 233, 467
+  size: 97, 83
+  orig: 97, 83
+  offset: 0, 0
+  index: -1
+21
+  rotate: false
+  xy: 233, 552
+  size: 447, 293
+  orig: 447, 293
+  offset: 0, 0
+  index: -1
+22
+  rotate: false
+  xy: 2, 21
+  size: 128, 81
+  orig: 128, 81
+  offset: 0, 0
+  index: -1
+23
+  rotate: false
+  xy: 252, 25
+  size: 83, 77
+  orig: 83, 77
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 233, 847
+  size: 175, 591
+  orig: 175, 591
+  offset: 0, 0
+  index: -1
+4
+  rotate: false
+  xy: 2, 455
+  size: 229, 567
+  orig: 229, 567
+  offset: 0, 0
+  index: -1
+5
+  rotate: true
+  xy: 826, 874
+  size: 148, 177
+  orig: 148, 177
+  offset: 0, 0
+  index: -1
+6
+  rotate: false
+  xy: 841, 547
+  size: 158, 107
+  orig: 158, 107
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 2, 104
+  size: 337, 349
+  orig: 337, 349
+  offset: 0, 0
+  index: -1
+8
+  rotate: false
+  xy: 798, 335
+  size: 34, 38
+  orig: 34, 38
+  offset: 0, 0
+  index: -1
+9
+  rotate: true
+  xy: 682, 438
+  size: 158, 143
+  orig: 158, 143
+  offset: 0, 0
+  index: -1
+BASE
+  rotate: true
+  xy: 712, 214
+  size: 116, 85
+  orig: 116, 85
+  offset: 0, 0
+  index: -1
+CLOSE
+  rotate: false
+  xy: 712, 127
+  size: 113, 85
+  orig: 113, 85
+  offset: 0, 0
+  index: -1
+CONFUSION
+  rotate: false
+  xy: 455, 7
+  size: 115, 85
+  orig: 115, 85
+  offset: 0, 0
+  index: -1
+DESPAIR
+  rotate: true
+  xy: 718, 11
+  size: 114, 80
+  orig: 114, 80
+  offset: 0, 0
+  index: -1
+HATE
+  rotate: false
+  xy: 337, 10
+  size: 116, 82
+  orig: 116, 82
+  offset: 0, 0
+  index: -1
+HEAD_DESPAIR
+  rotate: false
+  xy: 945, 350
+  size: 46, 31
+  orig: 46, 31
+  offset: 0, 0
+  index: -1
+HEAD_HATE
+  rotate: false
+  xy: 945, 383
+  size: 48, 51
+  orig: 48, 51
+  offset: 0, 0
+  index: -1
+HEAD_LAUGH
+  rotate: false
+  xy: 993, 335
+  size: 29, 46
+  orig: 29, 46
+  offset: 0, 0
+  index: -1
+HEAD_QUE
+  rotate: false
+  xy: 800, 75
+  size: 35, 50
+  orig: 35, 50
+  offset: 0, 0
+  index: -1
+HEAD_SURPRISE
+  rotate: false
+  xy: 1001, 609
+  size: 21, 45
+  orig: 21, 45
+  offset: 0, 0
+  index: -1
+LAUGH
+  rotate: false
+  xy: 827, 375
+  size: 116, 83
+  orig: 116, 83
+  offset: 0, 0
+  index: -1
+PRIDE
+  rotate: false
+  xy: 827, 460
+  size: 116, 85
+  orig: 116, 85
+  offset: 0, 0
+  index: -1
+SURPRISE
+  rotate: false
+  xy: 132, 16
+  size: 118, 86
+  orig: 118, 86
+  offset: 0, 0
+  index: -1
+head_gear_confuse
+  rotate: true
+  xy: 945, 436
+  size: 109, 77
+  orig: 109, 77
+  offset: 0, 0
+  index: -1
+head_gear_normal
+  rotate: true
+  xy: 662, 16
+  size: 94, 54
+  orig: 94, 54
+  offset: 0, 0
+  index: -1

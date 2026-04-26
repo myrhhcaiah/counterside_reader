@@ -1,0 +1,62 @@
+
+UNIT_ILLUST_C_ESPR_SHADOW_FOOLSDAY.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+00_FIX
+  rotate: false
+  xy: 2, 68
+  size: 1743, 909
+  orig: 1743, 909
+  offset: 0, 0
+  index: -1
+DESPAIR
+  rotate: true
+  xy: 1747, 495
+  size: 174, 148
+  orig: 174, 148
+  offset: 0, 0
+  index: -1
+HATE
+  rotate: false
+  xy: 1747, 826
+  size: 174, 151
+  orig: 174, 151
+  offset: 0, 0
+  index: -1
+IDLE
+  rotate: true
+  xy: 1747, 144
+  size: 173, 147
+  orig: 173, 147
+  offset: 0, 0
+  index: -1
+LAUGH
+  rotate: true
+  xy: 1923, 823
+  size: 154, 121
+  orig: 154, 121
+  offset: 0, 0
+  index: -1
+PRIDE
+  rotate: false
+  xy: 1747, 2
+  size: 173, 140
+  orig: 173, 140
+  offset: 0, 0
+  index: -1
+SERIOUS
+  rotate: true
+  xy: 1747, 319
+  size: 174, 148
+  orig: 174, 148
+  offset: 0, 0
+  index: -1
+SURPRISE
+  rotate: false
+  xy: 1747, 671
+  size: 171, 153
+  orig: 171, 153
+  offset: 0, 0
+  index: -1

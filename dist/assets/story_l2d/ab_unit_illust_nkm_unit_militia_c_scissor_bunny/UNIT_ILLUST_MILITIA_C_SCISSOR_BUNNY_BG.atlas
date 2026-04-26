@@ -1,0 +1,27 @@
+
+UNIT_ILLUST_MILITIA_C_SCISSOR_BUNNY_BG.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+BG_CHAIR_1
+  rotate: false
+  xy: 1536, 365
+  size: 494, 519
+  orig: 494, 519
+  offset: 0, 0
+  index: -1
+BG_MAIN
+  rotate: true
+  xy: 2, 2
+  size: 882, 822
+  orig: 882, 822
+  offset: 0, 0
+  index: -1
+BG_TABLE_1
+  rotate: false
+  xy: 826, 88
+  size: 708, 796
+  orig: 708, 796
+  offset: 0, 0
+  index: -1

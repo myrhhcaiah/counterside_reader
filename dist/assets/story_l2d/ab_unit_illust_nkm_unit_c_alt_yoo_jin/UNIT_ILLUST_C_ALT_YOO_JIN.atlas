@@ -1,0 +1,293 @@
+
+UNIT_ILLUST_C_ALT_YOO_JIN.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+angry1_0
+  rotate: false
+  xy: 957, 567
+  size: 65, 68
+  orig: 65, 68
+  offset: 0, 0
+  index: -1
+angry1_1
+  rotate: false
+  xy: 995, 537
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+angry2_0
+  rotate: false
+  xy: 739, 171
+  size: 66, 70
+  orig: 66, 70
+  offset: 0, 0
+  index: -1
+angry2_1
+  rotate: false
+  xy: 654, 457
+  size: 32, 34
+  orig: 32, 34
+  offset: 0, 0
+  index: -1
+angry3_0
+  rotate: false
+  xy: 705, 78
+  size: 62, 72
+  orig: 62, 72
+  offset: 0, 0
+  index: -1
+angry3_1
+  rotate: false
+  xy: 957, 537
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+body_0
+  rotate: true
+  xy: 424, 152
+  size: 89, 313
+  orig: 89, 313
+  offset: 0, 0
+  index: -1
+body_1
+  rotate: false
+  xy: 957, 637
+  size: 65, 73
+  orig: 65, 73
+  offset: 0, 0
+  index: -1
+body_2
+  rotate: false
+  xy: 920, 265
+  size: 73, 94
+  orig: 73, 94
+  offset: 0, 0
+  index: -1
+body_3
+  rotate: false
+  xy: 2, 243
+  size: 99, 165
+  orig: 99, 165
+  offset: 0, 0
+  index: -1
+body_4
+  rotate: false
+  xy: 883, 361
+  size: 101, 127
+  orig: 101, 127
+  offset: 0, 0
+  index: -1
+body_5
+  rotate: true
+  xy: 598, 712
+  size: 310, 424
+  orig: 310, 424
+  offset: 0, 0
+  index: -1
+body_6
+  rotate: false
+  xy: 103, 294
+  size: 71, 114
+  orig: 71, 114
+  offset: 0, 0
+  index: -1
+body_7
+  rotate: false
+  xy: 424, 51
+  size: 279, 99
+  orig: 279, 99
+  offset: 0, 0
+  index: -1
+close_0
+  rotate: true
+  xy: 604, 435
+  size: 56, 48
+  orig: 56, 48
+  offset: 0, 0
+  index: -1
+despair_0
+  rotate: false
+  xy: 294, 4
+  size: 65, 58
+  orig: 65, 58
+  offset: 0, 0
+  index: -1
+despair_1
+  rotate: true
+  xy: 762, 243
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+eyebrow_0
+  rotate: false
+  xy: 361, 5
+  size: 59, 57
+  orig: 59, 57
+  offset: 0, 0
+  index: -1
+hate_0
+  rotate: false
+  xy: 877, 194
+  size: 66, 69
+  orig: 66, 69
+  offset: 0, 0
+  index: -1
+hate_1
+  rotate: false
+  xy: 103, 247
+  size: 32, 45
+  orig: 32, 45
+  offset: 0, 0
+  index: -1
+head_0
+  rotate: false
+  xy: 760, 535
+  size: 195, 175
+  orig: 195, 175
+  offset: 0, 0
+  index: -1
+head_1
+  rotate: false
+  xy: 762, 351
+  size: 119, 137
+  orig: 119, 137
+  offset: 0, 0
+  index: -1
+head_2
+  rotate: false
+  xy: 181, 435
+  size: 421, 224
+  orig: 421, 224
+  offset: 0, 0
+  index: -1
+head_80_3
+  rotate: false
+  xy: 181, 661
+  size: 415, 361
+  orig: 415, 361
+  offset: 0, 0
+  index: -1
+l_arm_0
+  rotate: true
+  xy: 760, 490
+  size: 43, 217
+  orig: 43, 217
+  offset: 0, 0
+  index: -1
+l_arm_1
+  rotate: true
+  xy: 2, 7
+  size: 55, 219
+  orig: 55, 219
+  offset: 0, 0
+  index: -1
+l_arm_2
+  rotate: false
+  xy: 604, 493
+  size: 154, 217
+  orig: 154, 217
+  offset: 0, 0
+  index: -1
+l_arm_3
+  rotate: true
+  xy: 762, 266
+  size: 83, 156
+  orig: 83, 156
+  offset: 0, 0
+  index: -1
+l_leg_0080_0
+  rotate: false
+  xy: 2, 410
+  size: 177, 612
+  orig: 177, 612
+  offset: 0, 0
+  index: -1
+laugh_0
+  rotate: false
+  xy: 945, 195
+  size: 65, 68
+  orig: 65, 68
+  offset: 0, 0
+  index: -1
+laugh_1
+  rotate: false
+  xy: 679, 435
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+pride_0
+  rotate: false
+  xy: 223, 2
+  size: 69, 60
+  orig: 69, 60
+  offset: 0, 0
+  index: -1
+pride_1
+  rotate: true
+  xy: 654, 435
+  size: 20, 23
+  orig: 20, 23
+  offset: 0, 0
+  index: -1
+r_arm_1
+  rotate: true
+  xy: 2, 64
+  size: 177, 420
+  orig: 177, 420
+  offset: 0, 0
+  index: -1
+r_leg_0080_0
+  rotate: true
+  xy: 181, 243
+  size: 190, 579
+  orig: 190, 579
+  offset: 0, 0
+  index: -1
+serious_0
+  rotate: true
+  xy: 807, 127
+  size: 65, 68
+  orig: 65, 68
+  offset: 0, 0
+  index: -1
+serious_1
+  rotate: false
+  xy: 137, 270
+  size: 18, 22
+  orig: 18, 22
+  offset: 0, 0
+  index: -1
+surprise_0
+  rotate: false
+  xy: 807, 194
+  size: 68, 70
+  orig: 68, 70
+  offset: 0, 0
+  index: -1
+surprise_1
+  rotate: true
+  xy: 739, 152
+  size: 17, 22
+  orig: 17, 22
+  offset: 0, 0
+  index: -1
+touch_0
+  rotate: true
+  xy: 877, 127
+  size: 65, 68
+  orig: 65, 68
+  offset: 0, 0
+  index: -1
+touch_1
+  rotate: true
+  xy: 705, 54
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1

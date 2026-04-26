@@ -1,0 +1,76 @@
+
+UNIT_ILLUST_HARMONY_C_BASS_SUMMER_BG.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_2
+  rotate: false
+  xy: 2, 952
+  size: 1420, 1075
+  orig: 1420, 1075
+  offset: 0, 0
+  index: -1
+bg_3
+  rotate: false
+  xy: 1822, 1634
+  size: 73, 393
+  orig: 73, 393
+  offset: 0, 0
+  index: -1
+bg_4
+  rotate: false
+  xy: 1424, 1340
+  size: 396, 687
+  orig: 396, 687
+  offset: 0, 0
+  index: -1
+bg_5
+  rotate: true
+  xy: 1424, 671
+  size: 667, 327
+  orig: 667, 327
+  offset: 0, 0
+  index: -1
+bg_6
+  rotate: true
+  xy: 2, 2
+  size: 948, 1394
+  orig: 948, 1394
+  offset: 0, 0
+  index: -1
+bg_7
+  rotate: true
+  xy: 1398, 294
+  size: 375, 316
+  orig: 375, 316
+  offset: 0, 0
+  index: -1
+bubble_1
+  rotate: false
+  xy: 1897, 1923
+  size: 101, 104
+  orig: 101, 104
+  offset: 0, 0
+  index: -1
+bubble_2
+  rotate: false
+  xy: 1398, 87
+  size: 77, 82
+  orig: 77, 82
+  offset: 0, 0
+  index: -1
+fx_1
+  rotate: false
+  xy: 1753, 1298
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+pin_light_1
+  rotate: false
+  xy: 1398, 171
+  size: 123, 121
+  orig: 123, 121
+  offset: 0, 0
+  index: -1

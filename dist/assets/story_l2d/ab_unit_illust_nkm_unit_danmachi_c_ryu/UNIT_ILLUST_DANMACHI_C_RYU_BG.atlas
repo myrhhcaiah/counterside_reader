@@ -1,0 +1,27 @@
+
+UNIT_ILLUST_DANMACHI_C_RYU_BG.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_0
+  rotate: false
+  xy: 2, 449
+  size: 900, 492
+  orig: 900, 492
+  offset: 0, 0
+  index: -1
+bg_fx1
+  rotate: true
+  xy: 2, 2
+  size: 154, 1000
+  orig: 154, 1000
+  offset: 0, 0
+  index: -1
+bg_fx2
+  rotate: true
+  xy: 2, 158
+  size: 289, 981
+  orig: 289, 981
+  offset: 0, 0
+  index: -1

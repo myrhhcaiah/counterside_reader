@@ -1,0 +1,34 @@
+
+UNIT_ILLUST_DANMACHI_CA_AIS_BG.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg_a1
+  rotate: true
+  xy: 1293, 305
+  size: 683, 739
+  orig: 683, 739
+  offset: 0, 0
+  index: -1
+bg_a2
+  rotate: false
+  xy: 684, 2
+  size: 607, 986
+  orig: 607, 986
+  offset: 0, 0
+  index: -1
+bg_e
+  rotate: true
+  xy: 2, 6
+  size: 982, 680
+  orig: 982, 680
+  offset: 0, 0
+  index: -1
+bg_fx
+  rotate: false
+  xy: 1293, 104
+  size: 381, 199
+  orig: 381, 199
+  offset: 0, 0
+  index: -1
