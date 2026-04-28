@@ -4831,6 +4831,15 @@ var spine;
 			var scale = this.scale;
 			var timelines = new Array();
 			var duration = 0;
+			function safe_max(old_d, new_d) {
+				if (isNaN(new_d)) {
+					// throw new Error("safe_max found NaN duration");
+					return old_d;
+				} else {
+					return Math.max(old_d, new_d)
+				}
+			}
+
 			if (map.slots) {
 				for (var slotName in map.slots) {
 					var slotMap = map.slots[slotName];
@@ -4848,7 +4857,7 @@ var spine;
 								timeline.setFrame(frameIndex++, valueMap.time, valueMap.name);
 							}
 							timelines.push(timeline);
-							duration = Math.max(duration, timeline.frames[timeline.getFrameCount() - 1]);
+							duration = safe_max(duration, timeline.frames[timeline.getFrameCount() - 1]);
 						}
 						else if (timelineName == "color") {
 							var timeline = new spine.ColorTimeline(timelineMap.length);
@@ -4863,7 +4872,7 @@ var spine;
 								frameIndex++;
 							}
 							timelines.push(timeline);
-							duration = Math.max(duration, timeline.frames[(timeline.getFrameCount() - 1) * spine.ColorTimeline.ENTRIES]);
+							duration = safe_max(duration, timeline.frames[(timeline.getFrameCount() - 1) * spine.ColorTimeline.ENTRIES]);
 						}
 						else if (timelineName == "twoColor") {
 							var timeline = new spine.TwoColorTimeline(timelineMap.length);
@@ -4880,7 +4889,7 @@ var spine;
 								frameIndex++;
 							}
 							timelines.push(timeline);
-							duration = Math.max(duration, timeline.frames[(timeline.getFrameCount() - 1) * spine.TwoColorTimeline.ENTRIES]);
+							duration = safe_max(duration, timeline.frames[(timeline.getFrameCount() - 1) * spine.TwoColorTimeline.ENTRIES]);
 						}
 						else
 							throw new Error("Invalid timeline type for a slot: " + timelineName + " (" + slotName + ")");
@@ -4906,7 +4915,7 @@ var spine;
 								frameIndex++;
 							}
 							timelines.push(timeline);
-							duration = Math.max(duration, timeline.frames[(timeline.getFrameCount() - 1) * spine.RotateTimeline.ENTRIES]);
+							duration = safe_max(duration, timeline.frames[(timeline.getFrameCount() - 1) * spine.RotateTimeline.ENTRIES]);
 						}
 						else if (timelineName === "translate" || timelineName === "scale" || timelineName === "shear") {
 							var timeline = null;
@@ -4929,7 +4938,7 @@ var spine;
 								frameIndex++;
 							}
 							timelines.push(timeline);
-							duration = Math.max(duration, timeline.frames[(timeline.getFrameCount() - 1) * spine.TranslateTimeline.ENTRIES]);
+							duration = safe_max(duration, timeline.frames[(timeline.getFrameCount() - 1) * spine.TranslateTimeline.ENTRIES]);
 						}
 						else
 							throw new Error("Invalid timeline type for a bone: " + timelineName + " (" + boneName + ")");
@@ -4950,7 +4959,7 @@ var spine;
 						frameIndex++;
 					}
 					timelines.push(timeline);
-					duration = Math.max(duration, timeline.frames[(timeline.getFrameCount() - 1) * spine.IkConstraintTimeline.ENTRIES]);
+					duration = safe_max(duration, timeline.frames[(timeline.getFrameCount() - 1) * spine.IkConstraintTimeline.ENTRIES]);
 				}
 			}
 			if (map.transform) {
@@ -4967,7 +4976,7 @@ var spine;
 						frameIndex++;
 					}
 					timelines.push(timeline);
-					duration = Math.max(duration, timeline.frames[(timeline.getFrameCount() - 1) * spine.TransformConstraintTimeline.ENTRIES]);
+					duration = safe_max(duration, timeline.frames[(timeline.getFrameCount() - 1) * spine.TransformConstraintTimeline.ENTRIES]);
 				}
 			}
 			if (map.paths) {
@@ -5001,7 +5010,7 @@ var spine;
 								frameIndex++;
 							}
 							timelines.push(timeline);
-							duration = Math.max(duration, timeline.frames[(timeline.getFrameCount() - 1) * spine.PathConstraintPositionTimeline.ENTRIES]);
+							duration = safe_max(duration, timeline.frames[(timeline.getFrameCount() - 1) * spine.PathConstraintPositionTimeline.ENTRIES]);
 						}
 						else if (timelineName === "mix") {
 							var timeline = new spine.PathConstraintMixTimeline(timelineMap.length);
@@ -5014,7 +5023,7 @@ var spine;
 								frameIndex++;
 							}
 							timelines.push(timeline);
-							duration = Math.max(duration, timeline.frames[(timeline.getFrameCount() - 1) * spine.PathConstraintMixTimeline.ENTRIES]);
+							duration = safe_max(duration, timeline.frames[(timeline.getFrameCount() - 1) * spine.PathConstraintMixTimeline.ENTRIES]);
 						}
 					}
 				}
@@ -5066,7 +5075,7 @@ var spine;
 								frameIndex++;
 							}
 							timelines.push(timeline);
-							duration = Math.max(duration, timeline.frames[timeline.getFrameCount() - 1]);
+							duration = safe_max(duration, timeline.frames[timeline.getFrameCount() - 1]);
 						}
 					}
 				}
@@ -5078,6 +5087,7 @@ var spine;
 				var timeline = new spine.DrawOrderTimeline(drawOrderNode.length);
 				var slotCount = skeletonData.slots.length;
 				var frameIndex = 0;
+				var finalTime = 0;
 				for (var j = 0; j < drawOrderNode.length; j++) {
 					var drawOrderMap = drawOrderNode[j];
 					var drawOrder = null;
@@ -5101,10 +5111,17 @@ var spine;
 							if (drawOrder[i] == -1)
 								drawOrder[i] = unchanged[--unchangedIndex];
 					}
+					if (!isNaN(drawOrderMap.time)) {
+						finalTime = Math.max(finalTime, drawOrderMap.time);
+					} else {
+						drawOrderMap.time = 0;
+						// console.log("drawOrderMap", drawOrderMap)
+						// console.log("drawOrderMap's drawOrderNode", drawOrderNode)
+					}
 					timeline.setFrame(frameIndex++, drawOrderMap.time, drawOrder);
 				}
 				timelines.push(timeline);
-				duration = Math.max(duration, timeline.frames[timeline.getFrameCount() - 1]);
+				duration = safe_max(duration, finalTime);
 			}
 			if (map.events) {
 				var timeline = new spine.EventTimeline(map.events.length);
@@ -5125,7 +5142,12 @@ var spine;
 					timeline.setFrame(frameIndex++, event_5);
 				}
 				timelines.push(timeline);
-				duration = Math.max(duration, timeline.frames[timeline.getFrameCount() - 1]);
+				duration = safe_max(duration, timeline.frames[timeline.getFrameCount() - 1]);
+			}
+			if (isNaN(duration)) {
+				// after adding safe_max, this no longer gets hit
+				duration = 0;
+				console.log("Hit a NaN duration")
 			}
 			skeletonData.animations.push(new spine.Animation(name, timelines, duration));
 		};
