@@ -1,9 +1,10 @@
 # Counter:Side Story Reader
 This is a reader for the game Counter:Side. It runs in the web-browser, but because there's so many huge files, you need a webserver.  
 
-**공지:** 일부 UI 요소는 아직 현지화되지 않았을 수 있으나, 전체 스토리 텍스트는 이용 가능합니다.  
-**聲明:** 部分使用者介面元素可能尚未本地化，但完整的故事文本已發布。  
-**免責事項:** 一部のUI要素はまだローカライズされていない可能性がありますが、ストーリーの全文はお読みいただけます。  
+[04/29] UPDATE: There was a bug causing interrupted scenes. Please update to the latest version if you're having issues.  
+[04/29] 업데이트: 장면이 중간에 끊기는 버그가 있었습니다. 동일한 문제가 발생하시면 최신 버전으로 업데이트해 주세요.  
+[04/29] 修正：シーンが途中で途切れるバグを修正しました。同様の症状が出る場合は最新バージョンへアップデートしてください。  
+[04/29] 更新：曾有一個導致場景中斷的 Bug。若您遇到相同問題，請更新至最新版本。
 
 [Roadmap](./notes/ROADMAP.md) | [ロードマップ](./notes/ROADMAP.JP.md) | [로드맵](./notes/ROADMAP.KR.md) | [項目路線圖](./notes/ROADMAP.TW.md)
 
