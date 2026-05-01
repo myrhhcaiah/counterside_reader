@@ -1,0 +1,132 @@
+
+UI_CUTSCEN_SD_PARTY_01.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 517, 14
+  size: 38, 40
+  orig: 38, 40
+  offset: 0, 0
+  index: -1
+10
+  rotate: true
+  xy: 568, 79
+  size: 191, 216
+  orig: 191, 216
+  offset: 0, 0
+  index: -1
+11
+  rotate: true
+  xy: 575, 272
+  size: 238, 272
+  orig: 238, 272
+  offset: 0, 0
+  index: -1
+13
+  rotate: false
+  xy: 786, 38
+  size: 157, 90
+  orig: 157, 90
+  offset: 0, 0
+  index: -1
+14
+  rotate: false
+  xy: 2, 318
+  size: 571, 192
+  orig: 571, 192
+  offset: 0, 0
+  index: -1
+2
+  rotate: false
+  xy: 599, 58
+  size: 24, 19
+  orig: 24, 19
+  offset: 0, 0
+  index: -1
+3
+  rotate: true
+  xy: 568, 57
+  size: 20, 29
+  orig: 20, 29
+  offset: 0, 0
+  index: -1
+4
+  rotate: true
+  xy: 423, 13
+  size: 41, 51
+  orig: 41, 51
+  offset: 0, 0
+  index: -1
+5
+  rotate: false
+  xy: 476, 14
+  size: 39, 40
+  orig: 39, 40
+  offset: 0, 0
+  index: -1
+6
+  rotate: true
+  xy: 142, 8
+  size: 79, 102
+  orig: 79, 102
+  offset: 0, 0
+  index: -1
+7
+  rotate: false
+  xy: 347, 56
+  size: 219, 260
+  orig: 219, 260
+  offset: 0, 0
+  index: -1
+8
+  rotate: true
+  xy: 2, 89
+  size: 227, 343
+  orig: 227, 343
+  offset: 0, 0
+  index: -1
+9
+  rotate: false
+  xy: 2, 2
+  size: 138, 85
+  orig: 138, 85
+  offset: 0, 0
+  index: -1
+w_1
+  rotate: false
+  xy: 246, 11
+  size: 97, 76
+  orig: 97, 76
+  offset: 0, 0
+  index: -1
+w_2
+  rotate: false
+  xy: 345, 17
+  size: 76, 37
+  orig: 76, 37
+  offset: 0, 0
+  index: -1
+w_3
+  rotate: false
+  xy: 945, 33
+  size: 54, 95
+  orig: 54, 95
+  offset: 0, 0
+  index: -1
+w_4
+  rotate: false
+  xy: 786, 130
+  size: 200, 139
+  orig: 200, 139
+  offset: 0, 0
+  index: -1
+w_5
+  rotate: true
+  xy: 849, 271
+  size: 239, 155
+  orig: 239, 155
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,69 @@
+
+UNIT_ILLUST_NKM_NPC_ANAPILIS_M_KEEPER.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 2, 2
+  size: 933, 1740
+  orig: 933, 1740
+  offset: 0, 0
+  index: -1
+despair
+  rotate: false
+  xy: 1744, 141
+  size: 144, 89
+  orig: 144, 89
+  offset: 0, 0
+  index: -1
+front
+  rotate: false
+  xy: 1744, 698
+  size: 277, 237
+  orig: 277, 237
+  offset: 0, 0
+  index: -1
+hate
+  rotate: false
+  xy: 1744, 603
+  size: 146, 93
+  orig: 146, 93
+  offset: 0, 0
+  index: -1
+idle
+  rotate: false
+  xy: 1744, 323
+  size: 145, 90
+  orig: 145, 90
+  offset: 0, 0
+  index: -1
+laugh
+  rotate: false
+  xy: 1744, 232
+  size: 145, 89
+  orig: 145, 89
+  offset: 0, 0
+  index: -1
+pride
+  rotate: false
+  xy: 1744, 50
+  size: 143, 89
+  orig: 143, 89
+  offset: 0, 0
+  index: -1
+serious
+  rotate: false
+  xy: 1744, 509
+  size: 145, 92
+  orig: 145, 92
+  offset: 0, 0
+  index: -1
+surprise
+  rotate: false
+  xy: 1744, 415
+  size: 145, 92
+  orig: 145, 92
+  offset: 0, 0
+  index: -1

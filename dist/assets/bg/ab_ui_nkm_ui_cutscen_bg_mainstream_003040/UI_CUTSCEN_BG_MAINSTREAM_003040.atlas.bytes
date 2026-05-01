@@ -1,0 +1,118 @@
+
+UI_CUTSCEN_BG_MAINSTREAM_003040.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back
+  rotate: false
+  xy: 2, 666
+  size: 632, 356
+  orig: 632, 356
+  offset: 0, 0
+  index: -1
+fire2
+  rotate: false
+  xy: 636, 666
+  size: 271, 356
+  orig: 271, 356
+  offset: 0, 0
+  index: -1
+front
+  rotate: true
+  xy: 625, 348
+  size: 316, 178
+  orig: 316, 178
+  offset: 0, 0
+  index: -1
+h1
+  rotate: false
+  xy: 2, 2
+  size: 302, 173
+  orig: 302, 173
+  offset: 0, 0
+  index: -1
+h10
+  rotate: true
+  xy: 2, 177
+  size: 130, 601
+  orig: 130, 601
+  offset: 0, 0
+  index: -1
+h2
+  rotate: false
+  xy: 515, 52
+  size: 82, 123
+  orig: 82, 123
+  offset: 0, 0
+  index: -1
+h3
+  rotate: false
+  xy: 867, 198
+  size: 122, 69
+  orig: 122, 69
+  offset: 0, 0
+  index: -1
+h4
+  rotate: false
+  xy: 867, 269
+  size: 122, 131
+  orig: 122, 131
+  offset: 0, 0
+  index: -1
+h5
+  rotate: true
+  xy: 867, 402
+  size: 154, 108
+  orig: 154, 108
+  offset: 0, 0
+  index: -1
+h6
+  rotate: true
+  xy: 605, 107
+  size: 200, 192
+  orig: 200, 192
+  offset: 0, 0
+  index: -1
+h7
+  rotate: false
+  xy: 306, 54
+  size: 207, 121
+  orig: 207, 121
+  offset: 0, 0
+  index: -1
+h8
+  rotate: false
+  xy: 909, 558
+  size: 85, 464
+  orig: 85, 464
+  offset: 0, 0
+  index: -1
+h9
+  rotate: true
+  xy: 805, 198
+  size: 466, 60
+  orig: 466, 60
+  offset: 0, 0
+  index: -1
+light
+  rotate: false
+  xy: 2, 309
+  size: 621, 355
+  orig: 621, 355
+  offset: 0, 0
+  index: -1
+line
+  rotate: true
+  xy: 996, 634
+  size: 388, 4
+  orig: 388, 4
+  offset: 0, 0
+  index: -1
+weapon_light
+  rotate: false
+  xy: 867, 576
+  size: 29, 88
+  orig: 29, 88
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,251 @@
+
+UI_CUTSCEN_BG_MAINSTREAM_114011.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1_arm
+  rotate: true
+  xy: 173, 12
+  size: 54, 168
+  orig: 54, 168
+  offset: 0, 0
+  index: -1
+1_body
+  rotate: false
+  xy: 692, 657
+  size: 148, 367
+  orig: 148, 367
+  offset: 0, 0
+  index: -1
+1_cloth
+  rotate: false
+  xy: 886, 419
+  size: 44, 135
+  orig: 44, 135
+  offset: 0, 0
+  index: -1
+1_emotion
+  rotate: false
+  xy: 613, 257
+  size: 28, 24
+  orig: 28, 24
+  offset: 0, 0
+  index: -1
+1_hair
+  rotate: false
+  xy: 663, 0
+  size: 103, 89
+  orig: 103, 89
+  offset: 0, 0
+  index: -1
+1_tie
+  rotate: true
+  xy: 751, 248
+  size: 26, 146
+  orig: 26, 146
+  offset: 0, 0
+  index: -1
+2_body
+  rotate: false
+  xy: 458, 542
+  size: 234, 482
+  orig: 234, 482
+  offset: 0, 0
+  index: -1
+2_cloth
+  rotate: true
+  xy: 692, 553
+  size: 104, 133
+  orig: 104, 133
+  offset: 0, 0
+  index: -1
+2_hair1
+  rotate: true
+  xy: 897, 248
+  size: 26, 35
+  orig: 26, 35
+  offset: 0, 0
+  index: -1
+2_hair2
+  rotate: false
+  xy: 936, 834
+  size: 82, 190
+  orig: 82, 190
+  offset: 0, 0
+  index: -1
+2_hair3
+  rotate: true
+  xy: 825, 554
+  size: 61, 118
+  orig: 61, 118
+  offset: 0, 0
+  index: -1
+2_hair4
+  rotate: false
+  xy: 339, 84
+  size: 119, 317
+  orig: 119, 317
+  offset: 0, 0
+  index: -1
+2_hair5
+  rotate: false
+  xy: 173, 66
+  size: 166, 335
+  orig: 166, 335
+  offset: 0, 0
+  index: -1
+2_hair6
+  rotate: false
+  xy: 647, 231
+  size: 104, 311
+  orig: 104, 311
+  offset: 0, 0
+  index: -1
+2_light
+  rotate: true
+  xy: 751, 274
+  size: 90, 155
+  orig: 90, 155
+  offset: 0, 0
+  index: -1
+2_sweat1
+  rotate: false
+  xy: 825, 629
+  size: 12, 28
+  orig: 12, 28
+  offset: 0, 0
+  index: -1
+2_sweat2
+  rotate: true
+  xy: 807, 114
+  size: 8, 16
+  orig: 8, 16
+  offset: 0, 0
+  index: -1
+3_body
+  rotate: false
+  xy: 0, 401
+  size: 458, 623
+  orig: 458, 623
+  offset: 0, 0
+  index: -1
+3_cloth1
+  rotate: false
+  xy: 936, 640
+  size: 57, 194
+  orig: 57, 194
+  offset: 0, 0
+  index: -1
+3_cloth2
+  rotate: false
+  xy: 840, 615
+  size: 96, 409
+  orig: 96, 409
+  offset: 0, 0
+  index: -1
+3_cloth3
+  rotate: false
+  xy: 0, 17
+  size: 173, 384
+  orig: 173, 384
+  offset: 0, 0
+  index: -1
+3_cloth4
+  rotate: false
+  xy: 943, 569
+  size: 68, 71
+  orig: 68, 71
+  offset: 0, 0
+  index: -1
+3_cloth5
+  rotate: false
+  xy: 766, 11
+  size: 57, 78
+  orig: 57, 78
+  offset: 0, 0
+  index: -1
+3_earring1
+  rotate: true
+  xy: 751, 233
+  size: 15, 55
+  orig: 15, 55
+  offset: 0, 0
+  index: -1
+3_earring2
+  rotate: true
+  xy: 0, 1
+  size: 16, 79
+  orig: 16, 79
+  offset: 0, 0
+  index: -1
+3_emotion
+  rotate: true
+  xy: 823, 58
+  size: 64, 59
+  orig: 64, 59
+  offset: 0, 0
+  index: -1
+3_eye
+  rotate: false
+  xy: 886, 371
+  size: 46, 48
+  orig: 46, 48
+  offset: 0, 0
+  index: -1
+3_eyelight
+  rotate: false
+  xy: 613, 89
+  size: 194, 142
+  orig: 194, 142
+  offset: 0, 0
+  index: -1
+3_hair1
+  rotate: false
+  xy: 807, 122
+  size: 74, 126
+  orig: 74, 126
+  offset: 0, 0
+  index: -1
+3_hair2
+  rotate: false
+  xy: 881, 123
+  size: 47, 125
+  orig: 47, 125
+  offset: 0, 0
+  index: -1
+3_hair3
+  rotate: true
+  xy: 458, 0
+  size: 89, 205
+  orig: 89, 205
+  offset: 0, 0
+  index: -1
+3_light
+  rotate: false
+  xy: 751, 364
+  size: 135, 189
+  orig: 135, 189
+  offset: 0, 0
+  index: -1
+backup
+  rotate: false
+  xy: 341, 10
+  size: 74, 74
+  orig: 74, 74
+  offset: 0, 0
+  index: -1
+screenlight1
+  rotate: false
+  xy: 458, 92
+  size: 155, 189
+  orig: 155, 189
+  offset: 0, 0
+  index: -1
+screenlight2
+  rotate: true
+  xy: 458, 281
+  size: 261, 189
+  orig: 261, 189
+  offset: 0, 0
+  index: -1

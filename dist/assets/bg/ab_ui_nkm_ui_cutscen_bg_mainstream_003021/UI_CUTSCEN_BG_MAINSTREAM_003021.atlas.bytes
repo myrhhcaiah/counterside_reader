@@ -1,0 +1,125 @@
+
+UI_CUTSCEN_BG_MAINSTREAM_003021.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back
+  rotate: false
+  xy: 2, 508
+  size: 456, 514
+  orig: 456, 514
+  offset: 0, 0
+  index: -1
+cable_1
+  rotate: false
+  xy: 387, 172
+  size: 69, 334
+  orig: 69, 334
+  offset: 0, 0
+  index: -1
+cable_2
+  rotate: false
+  xy: 991, 348
+  size: 31, 190
+  orig: 31, 190
+  offset: 0, 0
+  index: -1
+cable_3
+  rotate: false
+  xy: 667, 102
+  size: 48, 418
+  orig: 48, 418
+  offset: 0, 0
+  index: -1
+cable_4
+  rotate: false
+  xy: 717, 289
+  size: 42, 241
+  orig: 42, 241
+  offset: 0, 0
+  index: -1
+cable_5
+  rotate: false
+  xy: 717, 61
+  size: 54, 226
+  orig: 54, 226
+  offset: 0, 0
+  index: -1
+cable_6
+  rotate: true
+  xy: 2, 2
+  size: 104, 483
+  orig: 104, 483
+  offset: 0, 0
+  index: -1
+cable_7
+  rotate: false
+  xy: 460, 514
+  size: 117, 508
+  orig: 117, 508
+  offset: 0, 0
+  index: -1
+cable_8
+  rotate: false
+  xy: 689, 532
+  size: 69, 490
+  orig: 69, 490
+  offset: 0, 0
+  index: -1
+cable_9
+  rotate: false
+  xy: 579, 522
+  size: 108, 500
+  orig: 108, 500
+  offset: 0, 0
+  index: -1
+dark
+  rotate: false
+  xy: 761, 410
+  size: 228, 128
+  orig: 228, 128
+  offset: 0, 0
+  index: -1
+monolith1
+  rotate: true
+  xy: 760, 748
+  size: 274, 243
+  orig: 274, 243
+  offset: 0, 0
+  index: -1
+monolith2
+  rotate: false
+  xy: 2, 108
+  size: 383, 398
+  orig: 383, 398
+  offset: 0, 0
+  index: -1
+monolith3
+  rotate: true
+  xy: 458, 225
+  size: 281, 207
+  orig: 281, 207
+  offset: 0, 0
+  index: -1
+pin_light
+  rotate: false
+  xy: 760, 540
+  size: 246, 206
+  orig: 246, 206
+  offset: 0, 0
+  index: -1
+smoke_1
+  rotate: false
+  xy: 761, 296
+  size: 228, 112
+  orig: 228, 112
+  offset: 0, 0
+  index: -1
+top_light
+  rotate: false
+  xy: 487, 2
+  size: 228, 98
+  orig: 228, 98
+  offset: 0, 0
+  index: -1

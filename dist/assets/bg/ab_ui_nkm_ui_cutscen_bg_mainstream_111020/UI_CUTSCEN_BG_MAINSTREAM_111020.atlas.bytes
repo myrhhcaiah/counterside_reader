@@ -1,0 +1,167 @@
+
+UI_CUTSCEN_BG_MAINSTREAM_111020.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg1
+  rotate: false
+  xy: 810, 804
+  size: 207, 218
+  orig: 207, 218
+  offset: 0, 0
+  index: -1
+bg2
+  rotate: false
+  xy: 2, 735
+  size: 509, 287
+  orig: 509, 287
+  offset: 0, 0
+  index: -1
+c1
+  rotate: false
+  xy: 2, 31
+  size: 400, 330
+  orig: 400, 330
+  offset: 0, 0
+  index: -1
+c10
+  rotate: false
+  xy: 980, 674
+  size: 32, 128
+  orig: 32, 128
+  offset: 0, 0
+  index: -1
+c11
+  rotate: true
+  xy: 556, 5
+  size: 54, 183
+  orig: 54, 183
+  offset: 0, 0
+  index: -1
+c12
+  rotate: true
+  xy: 883, 573
+  size: 229, 95
+  orig: 229, 95
+  offset: 0, 0
+  index: -1
+c2
+  rotate: false
+  xy: 2, 363
+  size: 412, 370
+  orig: 412, 370
+  offset: 0, 0
+  index: -1
+c3
+  rotate: false
+  xy: 701, 83
+  size: 135, 184
+  orig: 135, 184
+  offset: 0, 0
+  index: -1
+c4
+  rotate: false
+  xy: 404, 2
+  size: 150, 359
+  orig: 150, 359
+  offset: 0, 0
+  index: -1
+c5
+  rotate: false
+  xy: 561, 546
+  size: 175, 233
+  orig: 175, 233
+  offset: 0, 0
+  index: -1
+c6
+  rotate: true
+  xy: 416, 403
+  size: 73, 133
+  orig: 73, 133
+  offset: 0, 0
+  index: -1
+c7
+  rotate: false
+  xy: 561, 318
+  size: 167, 226
+  orig: 167, 226
+  offset: 0, 0
+  index: -1
+c8
+  rotate: false
+  xy: 838, 76
+  size: 52, 191
+  orig: 52, 191
+  offset: 0, 0
+  index: -1
+c9
+  rotate: false
+  xy: 513, 781
+  size: 295, 241
+  orig: 295, 241
+  offset: 0, 0
+  index: -1
+green
+  rotate: false
+  xy: 513, 764
+  size: 18, 15
+  orig: 18, 15
+  offset: 0, 0
+  index: -1
+l1
+  rotate: true
+  xy: 738, 525
+  size: 254, 143
+  orig: 254, 143
+  offset: 0, 0
+  index: -1
+l2
+  rotate: true
+  xy: 730, 269
+  size: 254, 143
+  orig: 254, 143
+  offset: 0, 0
+  index: -1
+l4
+  rotate: true
+  xy: 416, 478
+  size: 255, 143
+  orig: 255, 143
+  offset: 0, 0
+  index: -1
+l5
+  rotate: true
+  xy: 556, 61
+  size: 255, 143
+  orig: 255, 143
+  offset: 0, 0
+  index: -1
+r2
+  rotate: false
+  xy: 2, 27
+  size: 297, 2
+  orig: 297, 2
+  offset: 0, 0
+  index: -1
+r_dot
+  rotate: false
+  xy: 810, 793
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+r_dot2
+  rotate: false
+  xy: 701, 307
+  size: 9, 9
+  orig: 9, 9
+  offset: 0, 0
+  index: -1
+r_line
+  rotate: false
+  xy: 2, 21
+  size: 132, 4
+  orig: 132, 4
+  offset: 0, 0
+  index: -1

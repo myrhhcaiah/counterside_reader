@@ -1,0 +1,160 @@
+
+UI_CUTSCEN_BG_MAINSTREAM_246010.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a1
+  rotate: false
+  xy: 2, 520
+  size: 403, 493
+  orig: 403, 493
+  offset: 0, 0
+  index: -1
+a1_1
+  rotate: true
+  xy: 651, 288
+  size: 207, 249
+  orig: 207, 249
+  offset: 0, 0
+  index: -1
+add1
+  rotate: false
+  xy: 261, 319
+  size: 388, 176
+  orig: 388, 176
+  offset: 0, 0
+  index: -1
+add2
+  rotate: false
+  xy: 623, 96
+  size: 196, 190
+  orig: 196, 190
+  offset: 0, 0
+  index: -1
+add3
+  rotate: true
+  xy: 821, 90
+  size: 196, 189
+  orig: 196, 189
+  offset: 0, 0
+  index: -1
+bg
+  rotate: true
+  xy: 2, 62
+  size: 456, 257
+  orig: 456, 257
+  offset: 0, 0
+  index: -1
+bg2
+  rotate: false
+  xy: 407, 756
+  size: 456, 257
+  orig: 456, 257
+  offset: 0, 0
+  index: -1
+h1
+  rotate: true
+  xy: 261, 70
+  size: 41, 176
+  orig: 41, 176
+  offset: 0, 0
+  index: -1
+h2
+  rotate: false
+  xy: 973, 727
+  size: 30, 68
+  orig: 30, 68
+  offset: 0, 0
+  index: -1
+h3
+  rotate: true
+  xy: 439, 69
+  size: 42, 163
+  orig: 42, 163
+  offset: 0, 0
+  index: -1
+hand
+  rotate: false
+  xy: 865, 620
+  size: 106, 175
+  orig: 106, 175
+  offset: 0, 0
+  index: -1
+hat
+  rotate: true
+  xy: 865, 797
+  size: 216, 144
+  orig: 216, 144
+  offset: 0, 0
+  index: -1
+rain1
+  rotate: false
+  xy: 407, 497
+  size: 456, 257
+  orig: 456, 257
+  offset: 0, 0
+  index: -1
+t1
+  rotate: true
+  xy: 261, 113
+  size: 204, 360
+  orig: 204, 360
+  offset: 0, 0
+  index: -1
+t2
+  rotate: false
+  xy: 865, 533
+  size: 86, 85
+  orig: 86, 85
+  offset: 0, 0
+  index: -1
+water1
+  rotate: false
+  xy: 261, 62
+  size: 3, 6
+  orig: 3, 6
+  offset: 0, 0
+  index: -1
+water2
+  rotate: false
+  xy: 1011, 1008
+  size: 3, 5
+  orig: 3, 5
+  offset: 0, 0
+  index: -1
+water3
+  rotate: false
+  xy: 623, 310
+  size: 5, 7
+  orig: 5, 7
+  offset: 0, 0
+  index: -1
+water4
+  rotate: false
+  xy: 604, 106
+  size: 3, 5
+  orig: 3, 5
+  offset: 0, 0
+  index: -1
+y1
+  rotate: true
+  xy: 261, 503
+  size: 15, 108
+  orig: 15, 108
+  offset: 0, 0
+  index: -1
+y2
+  rotate: false
+  xy: 236, 2
+  size: 52, 58
+  orig: 52, 58
+  offset: 0, 0
+  index: -1
+y3
+  rotate: true
+  xy: 2, 7
+  size: 53, 232
+  orig: 53, 232
+  offset: 0, 0
+  index: -1

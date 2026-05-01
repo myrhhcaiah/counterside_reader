@@ -1,0 +1,34 @@
+
+UI_CUTSCEN_BG_MAINSTREAM_444010.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back
+  rotate: true
+  xy: 2, 2
+  size: 519, 584
+  orig: 519, 584
+  offset: 0, 0
+  index: -1
+base_1
+  rotate: false
+  xy: 2, 523
+  size: 821, 443
+  orig: 821, 443
+  offset: 0, 0
+  index: -1
+base_2
+  rotate: true
+  xy: 588, 67
+  size: 454, 302
+  orig: 454, 302
+  offset: 0, 0
+  index: -1
+base_3
+  rotate: true
+  xy: 825, 738
+  size: 228, 162
+  orig: 228, 162
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,83 @@
+
+UI_CUTSCEN_BG_MAINSTREAM_1110312.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back
+  rotate: false
+  xy: 2, 581
+  size: 769, 433
+  orig: 769, 433
+  offset: 0, 0
+  index: -1
+j1
+  rotate: false
+  xy: 588, 266
+  size: 128, 313
+  orig: 128, 313
+  offset: 0, 0
+  index: -1
+j2
+  rotate: false
+  xy: 187, 145
+  size: 232, 434
+  orig: 232, 434
+  offset: 0, 0
+  index: -1
+j3
+  rotate: false
+  xy: 588, 92
+  size: 178, 172
+  orig: 178, 172
+  offset: 0, 0
+  index: -1
+j4
+  rotate: false
+  xy: 926, 752
+  size: 64, 262
+  orig: 64, 262
+  offset: 0, 0
+  index: -1
+j5
+  rotate: false
+  xy: 2, 43
+  size: 183, 536
+  orig: 183, 536
+  offset: 0, 0
+  index: -1
+j7
+  rotate: false
+  xy: 926, 647
+  size: 90, 103
+  orig: 90, 103
+  offset: 0, 0
+  index: -1
+j8
+  rotate: false
+  xy: 773, 626
+  size: 151, 388
+  orig: 151, 388
+  offset: 0, 0
+  index: -1
+j9
+  rotate: true
+  xy: 187, 50
+  size: 93, 161
+  orig: 93, 161
+  offset: 0, 0
+  index: -1
+light
+  rotate: true
+  xy: 421, 98
+  size: 481, 150
+  orig: 481, 150
+  offset: 0, 0
+  index: -1
+r1
+  rotate: true
+  xy: 573, 125
+  size: 454, 13
+  orig: 454, 13
+  offset: 0, 0
+  index: -1

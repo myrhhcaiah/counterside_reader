@@ -1,0 +1,195 @@
+
+UI_CUTSCEN_BG_MAINSTREAM_242010.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back
+  rotate: true
+  xy: 797, 322
+  size: 252, 118
+  orig: 252, 118
+  offset: 0, 0
+  index: -1
+blue_light
+  rotate: false
+  xy: 384, 291
+  size: 241, 172
+  orig: 241, 172
+  offset: 0, 0
+  index: -1
+fog1
+  rotate: true
+  xy: 303, 320
+  size: 254, 79
+  orig: 254, 79
+  offset: 0, 0
+  index: -1
+fog2
+  rotate: true
+  xy: 917, 424
+  size: 121, 52
+  orig: 121, 52
+  offset: 0, 0
+  index: -1
+fog3
+  rotate: false
+  xy: 764, 111
+  size: 131, 172
+  orig: 131, 172
+  offset: 0, 0
+  index: -1
+fog4
+  rotate: true
+  xy: 303, 252
+  size: 66, 68
+  orig: 66, 68
+  offset: 0, 0
+  index: -1
+front_rock1
+  rotate: false
+  xy: 794, 576
+  size: 125, 444
+  orig: 125, 444
+  offset: 0, 0
+  index: -1
+front_rock2
+  rotate: true
+  xy: 583, 46
+  size: 62, 194
+  orig: 62, 194
+  offset: 0, 0
+  index: -1
+front_rock3
+  rotate: true
+  xy: 897, 98
+  size: 222, 125
+  orig: 222, 125
+  offset: 0, 0
+  index: -1
+front_rock_light
+  rotate: false
+  xy: 398, 578
+  size: 394, 218
+  orig: 394, 218
+  offset: 0, 0
+  index: -1
+main_light
+  rotate: false
+  xy: 398, 798
+  size: 394, 222
+  orig: 394, 222
+  offset: 0, 0
+  index: -1
+middle_rock
+  rotate: false
+  xy: 2, 576
+  size: 394, 444
+  orig: 394, 444
+  offset: 0, 0
+  index: -1
+r1
+  rotate: false
+  xy: 921, 547
+  size: 82, 137
+  orig: 82, 137
+  offset: 0, 0
+  index: -1
+r10
+  rotate: false
+  xy: 779, 55
+  size: 56, 54
+  orig: 56, 54
+  offset: 0, 0
+  index: -1
+r11
+  rotate: true
+  xy: 921, 686
+  size: 334, 85
+  orig: 334, 85
+  offset: 0, 0
+  index: -1
+r2
+  rotate: false
+  xy: 627, 285
+  size: 168, 178
+  orig: 168, 178
+  offset: 0, 0
+  index: -1
+r3
+  rotate: true
+  xy: 373, 38
+  size: 65, 208
+  orig: 65, 208
+  offset: 0, 0
+  index: -1
+r4
+  rotate: true
+  xy: 2, 2
+  size: 46, 142
+  orig: 46, 142
+  offset: 0, 0
+  index: -1
+r5
+  rotate: false
+  xy: 582, 110
+  size: 180, 173
+  orig: 180, 173
+  offset: 0, 0
+  index: -1
+r6
+  rotate: false
+  xy: 2, 216
+  size: 299, 358
+  orig: 299, 358
+  offset: 0, 0
+  index: -1
+r7
+  rotate: true
+  xy: 797, 287
+  size: 33, 37
+  orig: 33, 37
+  offset: 0, 0
+  index: -1
+r8
+  rotate: false
+  xy: 2, 50
+  size: 369, 164
+  orig: 369, 164
+  offset: 0, 0
+  index: -1
+r9
+  rotate: false
+  xy: 146, 17
+  size: 36, 31
+  orig: 36, 31
+  offset: 0, 0
+  index: -1
+red1
+  rotate: false
+  xy: 303, 232
+  size: 20, 18
+  orig: 20, 18
+  offset: 0, 0
+  index: -1
+red2
+  rotate: true
+  xy: 1008, 867
+  size: 153, 7
+  orig: 153, 7
+  offset: 0, 0
+  index: -1
+shadow
+  rotate: false
+  xy: 373, 105
+  size: 207, 184
+  orig: 207, 184
+  offset: 0, 0
+  index: -1
+top
+  rotate: false
+  xy: 398, 465
+  size: 394, 111
+  orig: 394, 111
+  offset: 0, 0
+  index: -1

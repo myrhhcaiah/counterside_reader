@@ -1,0 +1,153 @@
+
+UI_CUTSCEN_BG_MAINSTREAM_145022.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back
+  rotate: false
+  xy: 2, 655
+  size: 649, 366
+  orig: 649, 366
+  offset: 0, 0
+  index: -1
+c1
+  rotate: true
+  xy: 483, 70
+  size: 157, 118
+  orig: 157, 118
+  offset: 0, 0
+  index: -1
+c2
+  rotate: true
+  xy: 2, 278
+  size: 375, 483
+  orig: 375, 483
+  offset: 0, 0
+  index: -1
+c3
+  rotate: false
+  xy: 650, 262
+  size: 100, 277
+  orig: 100, 277
+  offset: 0, 0
+  index: -1
+c4
+  rotate: true
+  xy: 487, 432
+  size: 221, 161
+  orig: 221, 161
+  offset: 0, 0
+  index: -1
+c5
+  rotate: false
+  xy: 827, 130
+  size: 127, 114
+  orig: 127, 114
+  offset: 0, 0
+  index: -1
+g1
+  rotate: true
+  xy: 752, 341
+  size: 198, 65
+  orig: 198, 65
+  offset: 0, 0
+  index: -1
+h1
+  rotate: true
+  xy: 295, 31
+  size: 245, 186
+  orig: 245, 186
+  offset: 0, 0
+  index: -1
+l1
+  rotate: false
+  xy: 653, 541
+  size: 182, 480
+  orig: 182, 480
+  offset: 0, 0
+  index: -1
+l2
+  rotate: false
+  xy: 993, 993
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+l3
+  rotate: false
+  xy: 2, 2
+  size: 291, 242
+  orig: 291, 242
+  offset: 0, 0
+  index: -1
+l4
+  rotate: true
+  xy: 837, 246
+  size: 329, 177
+  orig: 329, 177
+  offset: 0, 0
+  index: -1
+l5
+  rotate: false
+  xy: 993, 964
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+l6
+  rotate: true
+  xy: 837, 577
+  size: 444, 154
+  orig: 444, 154
+  offset: 0, 0
+  index: -1
+l7
+  rotate: false
+  xy: 487, 229
+  size: 132, 201
+  orig: 132, 201
+  offset: 0, 0
+  index: -1
+p1
+  rotate: true
+  xy: 621, 29
+  size: 231, 204
+  orig: 231, 204
+  offset: 0, 0
+  index: -1
+r1
+  rotate: true
+  xy: 993, 884
+  size: 24, 26
+  orig: 24, 26
+  offset: 0, 0
+  index: -1
+r2
+  rotate: true
+  xy: 993, 839
+  size: 19, 20
+  orig: 19, 20
+  offset: 0, 0
+  index: -1
+r3
+  rotate: false
+  xy: 993, 910
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+r4
+  rotate: false
+  xy: 993, 937
+  size: 29, 25
+  orig: 29, 25
+  offset: 0, 0
+  index: -1
+r5
+  rotate: true
+  xy: 993, 860
+  size: 22, 23
+  orig: 22, 23
+  offset: 0, 0
+  index: -1

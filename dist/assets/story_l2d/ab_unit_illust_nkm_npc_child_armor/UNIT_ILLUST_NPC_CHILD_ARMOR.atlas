@@ -1,0 +1,76 @@
+
+UNIT_ILLUST_NPC_CHILD_ARMOR.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 2, 553
+  size: 1880, 1483
+  orig: 1880, 1483
+  offset: 0, 0
+  index: -1
+despair
+  rotate: false
+  xy: 427, 65
+  size: 113, 72
+  orig: 113, 72
+  offset: 0, 0
+  index: -1
+front
+  rotate: true
+  xy: 2, 2
+  size: 227, 266
+  orig: 227, 266
+  offset: 0, 0
+  index: -1
+hate
+  rotate: false
+  xy: 1884, 1742
+  size: 120, 74
+  orig: 120, 74
+  offset: 0, 0
+  index: -1
+idle
+  rotate: false
+  xy: 1884, 1926
+  size: 155, 110
+  orig: 155, 110
+  offset: 0, 0
+  index: -1
+laugh
+  rotate: false
+  xy: 270, 15
+  size: 155, 105
+  orig: 155, 105
+  offset: 0, 0
+  index: -1
+pride
+  rotate: false
+  xy: 1884, 1818
+  size: 155, 106
+  orig: 155, 106
+  offset: 0, 0
+  index: -1
+serious
+  rotate: false
+  xy: 270, 122
+  size: 155, 107
+  orig: 155, 107
+  offset: 0, 0
+  index: -1
+surprise
+  rotate: false
+  xy: 427, 139
+  size: 125, 90
+  orig: 125, 90
+  offset: 0, 0
+  index: -1
+weapon
+  rotate: true
+  xy: 2, 231
+  size: 320, 1842
+  orig: 320, 1842
+  offset: 0, 0
+  index: -1

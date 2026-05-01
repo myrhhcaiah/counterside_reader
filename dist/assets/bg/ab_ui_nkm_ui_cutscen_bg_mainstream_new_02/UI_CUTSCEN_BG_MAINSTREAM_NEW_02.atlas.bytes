@@ -1,0 +1,104 @@
+
+UI_CUTSCEN_BG_MAINSTREAM_NEW_02.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bg
+  rotate: false
+  xy: 2, 1082
+  size: 1681, 946
+  orig: 1681, 946
+  offset: 0, 0
+  index: -1
+bg_blur
+  rotate: true
+  xy: 1685, 1523
+  size: 505, 285
+  orig: 505, 285
+  offset: 0, 0
+  index: -1
+character_
+  rotate: false
+  xy: 2, 134
+  size: 908, 946
+  orig: 908, 946
+  offset: 0, 0
+  index: -1
+character_blur
+  rotate: false
+  xy: 1632, 32
+  size: 293, 285
+  orig: 293, 285
+  offset: 0, 0
+  index: -1
+character_hair
+  rotate: false
+  xy: 912, 625
+  size: 491, 455
+  orig: 491, 455
+  offset: 0, 0
+  index: -1
+face_despair
+  rotate: true
+  xy: 1405, 684
+  size: 396, 336
+  orig: 396, 336
+  offset: 0, 0
+  index: -1
+face_idle
+  rotate: true
+  xy: 1743, 719
+  size: 365, 295
+  orig: 365, 295
+  offset: 0, 0
+  index: -1
+face_laugh
+  rotate: false
+  xy: 1277, 40
+  size: 353, 277
+  orig: 353, 277
+  offset: 0, 0
+  index: -1
+face_smile
+  rotate: false
+  xy: 912, 54
+  size: 363, 282
+  orig: 363, 282
+  offset: 0, 0
+  index: -1
+face_surprise
+  rotate: true
+  xy: 1419, 319
+  size: 363, 295
+  orig: 363, 295
+  offset: 0, 0
+  index: -1
+fx_light_1
+  rotate: true
+  xy: 1743, 475
+  size: 242, 285
+  orig: 242, 285
+  offset: 0, 0
+  index: -1
+fx_light_2
+  rotate: false
+  xy: 912, 338
+  size: 505, 285
+  orig: 505, 285
+  offset: 0, 0
+  index: -1
+fx_light_3
+  rotate: true
+  xy: 1685, 1086
+  size: 435, 285
+  orig: 435, 285
+  offset: 0, 0
+  index: -1
+fx_shadow
+  rotate: false
+  xy: 2, 2
+  size: 505, 130
+  orig: 505, 130
+  offset: 0, 0
+  index: -1

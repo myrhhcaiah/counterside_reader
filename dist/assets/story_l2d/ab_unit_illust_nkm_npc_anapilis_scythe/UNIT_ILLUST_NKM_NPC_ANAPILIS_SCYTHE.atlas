@@ -1,0 +1,76 @@
+
+UNIT_ILLUST_NKM_NPC_ANAPILIS_SCYTHE.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 2, 148
+  size: 863, 1662
+  orig: 863, 1662
+  offset: 0, 0
+  index: -1
+despair
+  rotate: false
+  xy: 816, 53
+  size: 127, 93
+  orig: 127, 93
+  offset: 0, 0
+  index: -1
+front
+  rotate: false
+  xy: 1666, 2
+  size: 328, 334
+  orig: 328, 334
+  offset: 0, 0
+  index: -1
+hate
+  rotate: false
+  xy: 683, 51
+  size: 131, 95
+  orig: 131, 95
+  offset: 0, 0
+  index: -1
+idle
+  rotate: false
+  xy: 277, 43
+  size: 133, 103
+  orig: 133, 103
+  offset: 0, 0
+  index: -1
+laugh
+  rotate: false
+  xy: 545, 55
+  size: 136, 91
+  orig: 136, 91
+  offset: 0, 0
+  index: -1
+pride
+  rotate: false
+  xy: 140, 41
+  size: 135, 105
+  orig: 135, 105
+  offset: 0, 0
+  index: -1
+serious
+  rotate: false
+  xy: 412, 44
+  size: 131, 102
+  orig: 131, 102
+  offset: 0, 0
+  index: -1
+staff
+  rotate: false
+  xy: 1666, 338
+  size: 293, 673
+  orig: 293, 673
+  offset: 0, 0
+  index: -1
+surprise
+  rotate: false
+  xy: 2, 28
+  size: 136, 118
+  orig: 136, 118
+  offset: 0, 0
+  index: -1

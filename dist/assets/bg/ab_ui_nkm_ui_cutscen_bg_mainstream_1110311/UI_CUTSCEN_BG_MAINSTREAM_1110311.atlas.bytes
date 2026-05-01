@@ -1,0 +1,188 @@
+
+UI_CUTSCEN_BG_MAINSTREAM_1110311.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back
+  rotate: false
+  xy: 374, 709
+  size: 557, 313
+  orig: 557, 313
+  offset: 0, 0
+  index: -1
+effect
+  rotate: false
+  xy: 343, 139
+  size: 279, 157
+  orig: 279, 157
+  offset: 0, 0
+  index: -1
+h1
+  rotate: false
+  xy: 933, 721
+  size: 55, 19
+  orig: 55, 19
+  offset: 0, 0
+  index: -1
+h10
+  rotate: true
+  xy: 782, 122
+  size: 62, 130
+  orig: 62, 130
+  offset: 0, 0
+  index: -1
+h11
+  rotate: true
+  xy: 624, 123
+  size: 173, 156
+  orig: 173, 156
+  offset: 0, 0
+  index: -1
+h12
+  rotate: true
+  xy: 721, 311
+  size: 153, 251
+  orig: 153, 251
+  offset: 0, 0
+  index: -1
+h13
+  rotate: false
+  xy: 339, 40
+  size: 112, 97
+  orig: 112, 97
+  offset: 0, 0
+  index: -1
+h14
+  rotate: false
+  xy: 233, 147
+  size: 108, 344
+  orig: 108, 344
+  offset: 0, 0
+  index: -1
+h15
+  rotate: true
+  xy: 374, 466
+  size: 241, 577
+  orig: 241, 577
+  offset: 0, 0
+  index: -1
+h16
+  rotate: true
+  xy: 343, 298
+  size: 166, 376
+  orig: 166, 376
+  offset: 0, 0
+  index: -1
+h17
+  rotate: false
+  xy: 2, 493
+  size: 370, 529
+  orig: 370, 529
+  offset: 0, 0
+  index: -1
+h18
+  rotate: false
+  xy: 914, 126
+  size: 38, 57
+  orig: 38, 57
+  offset: 0, 0
+  index: -1
+h19
+  rotate: false
+  xy: 2, 122
+  size: 229, 369
+  orig: 229, 369
+  offset: 0, 0
+  index: -1
+h2
+  rotate: false
+  xy: 782, 186
+  size: 149, 123
+  orig: 149, 123
+  offset: 0, 0
+  index: -1
+h20
+  rotate: true
+  xy: 613, 44
+  size: 77, 84
+  orig: 77, 84
+  offset: 0, 0
+  index: -1
+h21
+  rotate: false
+  xy: 546, 43
+  size: 65, 94
+  orig: 65, 94
+  offset: 0, 0
+  index: -1
+h22
+  rotate: false
+  xy: 699, 50
+  size: 53, 71
+  orig: 53, 71
+  offset: 0, 0
+  index: -1
+h23
+  rotate: false
+  xy: 933, 742
+  size: 85, 129
+  orig: 85, 129
+  offset: 0, 0
+  index: -1
+h3
+  rotate: false
+  xy: 933, 873
+  size: 66, 149
+  orig: 66, 149
+  offset: 0, 0
+  index: -1
+h4
+  rotate: false
+  xy: 453, 55
+  size: 91, 82
+  orig: 91, 82
+  offset: 0, 0
+  index: -1
+h5
+  rotate: false
+  xy: 233, 26
+  size: 104, 119
+  orig: 104, 119
+  offset: 0, 0
+  index: -1
+h6
+  rotate: true
+  xy: 339, 8
+  size: 30, 110
+  orig: 30, 110
+  offset: 0, 0
+  index: -1
+h7
+  rotate: false
+  xy: 933, 185
+  size: 42, 124
+  orig: 42, 124
+  offset: 0, 0
+  index: -1
+h8
+  rotate: false
+  xy: 98, 11
+  size: 129, 109
+  orig: 129, 109
+  offset: 0, 0
+  index: -1
+h9
+  rotate: false
+  xy: 2, 2
+  size: 94, 118
+  orig: 94, 118
+  offset: 0, 0
+  index: -1
+r1
+  rotate: true
+  xy: 1001, 890
+  size: 132, 4
+  orig: 132, 4
+  offset: 0, 0
+  index: -1

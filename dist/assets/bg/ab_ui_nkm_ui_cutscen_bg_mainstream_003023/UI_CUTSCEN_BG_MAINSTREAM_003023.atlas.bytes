@@ -1,0 +1,174 @@
+
+UI_CUTSCEN_BG_MAINSTREAM_003023.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back
+  rotate: true
+  xy: 647, 84
+  size: 158, 89
+  orig: 158, 89
+  offset: 0, 0
+  index: -1
+back_smoke
+  rotate: false
+  xy: 829, 159
+  size: 158, 83
+  orig: 158, 83
+  offset: 0, 0
+  index: -1
+cable_1
+  rotate: false
+  xy: 339, 73
+  size: 96, 231
+  orig: 96, 231
+  offset: 0, 0
+  index: -1
+cable_2
+  rotate: true
+  xy: 647, 294
+  size: 44, 132
+  orig: 44, 132
+  offset: 0, 0
+  index: -1
+cable_3
+  rotate: true
+  xy: 162, 3
+  size: 67, 289
+  orig: 67, 289
+  offset: 0, 0
+  index: -1
+cable_4
+  rotate: true
+  xy: 612, 22
+  size: 58, 167
+  orig: 58, 167
+  offset: 0, 0
+  index: -1
+cable_5
+  rotate: true
+  xy: 453, 5
+  size: 75, 157
+  orig: 75, 157
+  offset: 0, 0
+  index: -1
+cable_6
+  rotate: true
+  xy: 2, 592
+  size: 72, 167
+  orig: 72, 167
+  offset: 0, 0
+  index: -1
+cable_7
+  rotate: true
+  xy: 453, 583
+  size: 81, 176
+  orig: 81, 176
+  offset: 0, 0
+  index: -1
+cable_8
+  rotate: true
+  xy: 625, 340
+  size: 48, 170
+  orig: 48, 170
+  offset: 0, 0
+  index: -1
+cable_9
+  rotate: true
+  xy: 453, 506
+  size: 75, 173
+  orig: 75, 173
+  offset: 0, 0
+  index: -1
+dark
+  rotate: true
+  xy: 738, 84
+  size: 158, 89
+  orig: 158, 89
+  offset: 0, 0
+  index: -1
+error1
+  rotate: false
+  xy: 2, 666
+  size: 632, 356
+  orig: 632, 356
+  offset: 0, 0
+  index: -1
+error2
+  rotate: true
+  xy: 2, 72
+  size: 316, 178
+  orig: 316, 178
+  offset: 0, 0
+  index: -1
+error3
+  rotate: true
+  xy: 636, 390
+  size: 632, 356
+  orig: 632, 356
+  offset: 0, 0
+  index: -1
+man
+  rotate: true
+  xy: 437, 82
+  size: 222, 208
+  orig: 222, 208
+  offset: 0, 0
+  index: -1
+man_light
+  rotate: false
+  xy: 829, 23
+  size: 113, 134
+  orig: 113, 134
+  offset: 0, 0
+  index: -1
+monolith1
+  rotate: true
+  xy: 2, 391
+  size: 190, 168
+  orig: 190, 168
+  offset: 0, 0
+  index: -1
+monolith2
+  rotate: true
+  xy: 172, 399
+  size: 265, 275
+  orig: 265, 275
+  offset: 0, 0
+  index: -1
+monolith3
+  rotate: false
+  xy: 797, 244
+  size: 194, 144
+  orig: 194, 144
+  offset: 0, 0
+  index: -1
+pin_light
+  rotate: false
+  xy: 453, 306
+  size: 170, 198
+  orig: 170, 198
+  offset: 0, 0
+  index: -1
+plus
+  rotate: true
+  xy: 994, 1003
+  size: 19, 22
+  orig: 19, 22
+  offset: 0, 0
+  index: -1
+smoke_1
+  rotate: true
+  xy: 182, 72
+  size: 316, 155
+  orig: 316, 155
+  offset: 0, 0
+  index: -1
+top_light
+  rotate: false
+  xy: 2, 2
+  size: 158, 68
+  orig: 158, 68
+  offset: 0, 0
+  index: -1

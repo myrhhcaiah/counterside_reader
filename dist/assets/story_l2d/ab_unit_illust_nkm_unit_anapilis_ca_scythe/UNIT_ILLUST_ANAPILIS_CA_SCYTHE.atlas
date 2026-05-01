@@ -1,0 +1,13 @@
+
+UNIT_ILLUST_ANAPILIS_CA_SCYTHE.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+UNIT_ILLUST_ANAPILIS_CA_SCYTHE
+  rotate: false
+  xy: 0, 0
+  size: 2046, 1012
+  orig: 2048, 1024
+  offset: 1, 11
+  index: -1
