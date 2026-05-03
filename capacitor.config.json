@@ -1,5 +1,8 @@
 {
   "appId": "com.myrhh.csreader",
   "appName": "CSReader",
-  "webDir": "dist"
+  "webDir": "dist",
+  "android": {
+    "screenOrientation": "landscape"
+  }
 }
