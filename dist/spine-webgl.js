@@ -2329,7 +2329,8 @@ var spine;
 		AtlasAttachmentLoader.prototype.newRegionAttachment = function (skin, name, path) {
 			var region = this.atlas.findRegion(path);
 			if (region == null)
-				throw new Error("Region not found in atlas: " + path + " (region attachment: " + name + ")");
+				// throw new Error("Region not found in atlas: " + path + " (region attachment: " + name + ")");
+				return null;
 			region.renderObject = region;
 			var attachment = new spine.RegionAttachment(name);
 			attachment.setRegion(region);
