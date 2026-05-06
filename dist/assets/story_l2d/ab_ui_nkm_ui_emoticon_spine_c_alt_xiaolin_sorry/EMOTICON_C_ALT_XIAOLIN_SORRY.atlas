@@ -1,0 +1,104 @@
+
+EMOTICON_C_ALT_XIAOLIN_SORRY.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 104, 22
+  size: 46, 51
+  orig: 46, 51
+  offset: 0, 0
+  index: -1
+body_left_arm
+  rotate: false
+  xy: 104, 70
+  size: 57, 81
+  orig: 57, 81
+  offset: 0, 0
+  index: -1
+body_right_arm
+  rotate: false
+  xy: 163, 75
+  size: 58, 81
+  orig: 58, 81
+  offset: 0, 0
+  index: -1
+box
+  rotate: true
+  xy: 2, 10
+  size: 45, 73
+  orig: 45, 73
+  offset: 0, 0
+  index: -1
+face_eye
+  rotate: true
+  xy: 77, 2
+  size: 53, 13
+  orig: 53, 13
+  offset: 0, 0
+  index: -1
+face_mouth_1
+  rotate: true
+  xy: 2, 2
+  size: 6, 4
+  orig: 6, 4
+  offset: 0, 0
+  index: -1
+face_mouth_2
+  rotate: false
+  xy: 92, 32
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+face_tear
+  rotate: false
+  xy: 92, 42
+  size: 9, 13
+  orig: 9, 13
+  offset: 0, 0
+  index: -1
+fx_1
+  rotate: true
+  xy: 240, 228
+  size: 26, 7
+  orig: 26, 7
+  offset: 0, 0
+  index: -1
+fx_light
+  rotate: false
+  xy: 223, 70
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: false
+  xy: 2, 153
+  size: 146, 101
+  orig: 146, 101
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: false
+  xy: 150, 158
+  size: 88, 96
+  orig: 88, 96
+  offset: 0, 0
+  index: -1
+hair_left_side
+  rotate: false
+  xy: 223, 93
+  size: 18, 63
+  orig: 18, 63
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 57
+  size: 100, 94
+  orig: 100, 94
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,83 @@
+
+EMOTICON_S_SL_RIFLE_BOOM.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 157, 101
+  size: 65, 94
+  orig: 65, 94
+  offset: 0, 0
+  index: -1
+body_left_arm
+  rotate: true
+  xy: 156, 58
+  size: 41, 79
+  orig: 41, 79
+  offset: 0, 0
+  index: -1
+body_right_arm
+  rotate: false
+  xy: 112, 28
+  size: 42, 74
+  orig: 42, 74
+  offset: 0, 0
+  index: -1
+box
+  rotate: true
+  xy: 2, 35
+  size: 67, 108
+  orig: 67, 108
+  offset: 0, 0
+  index: -1
+extra
+  rotate: false
+  xy: 157, 168
+  size: 78, 86
+  orig: 78, 86
+  offset: 0, 0
+  index: -1
+fx_anger_1
+  rotate: false
+  xy: 35, 15
+  size: 45, 18
+  orig: 45, 18
+  offset: 0, 0
+  index: -1
+fx_anger_2
+  rotate: true
+  xy: 205, 12
+  size: 44, 15
+  orig: 44, 15
+  offset: 0, 0
+  index: -1
+fx_anger_3
+  rotate: true
+  xy: 237, 208
+  size: 46, 14
+  orig: 46, 14
+  offset: 0, 0
+  index: -1
+fx_anger_6
+  rotate: true
+  xy: 156, 12
+  size: 44, 47
+  orig: 44, 47
+  offset: 0, 0
+  index: -1
+fx_light
+  rotate: false
+  xy: 2, 2
+  size: 31, 31
+  orig: 31, 31
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 104
+  size: 153, 150
+  orig: 153, 150
+  offset: 0, 0
+  index: -1

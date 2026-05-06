@@ -1,0 +1,76 @@
+
+EMOTICON_M_FUTURE_TITAN_HAPPY.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 86, 55
+  size: 91, 61
+  orig: 91, 61
+  offset: 0, 0
+  index: -1
+box
+  rotate: true
+  xy: 136, 9
+  size: 44, 71
+  orig: 44, 71
+  offset: 0, 0
+  index: -1
+fx_clap
+  rotate: false
+  xy: 86, 38
+  size: 21, 15
+  orig: 21, 15
+  offset: 0, 0
+  index: -1
+fx_light
+  rotate: false
+  xy: 110, 20
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 86, 148
+  size: 165, 102
+  orig: 165, 102
+  offset: 0, 0
+  index: -1
+head_ac_1
+  rotate: true
+  xy: 109, 43
+  size: 10, 25
+  orig: 10, 25
+  offset: 0, 0
+  index: -1
+head_ac_2
+  rotate: false
+  xy: 110, 4
+  size: 5, 14
+  orig: 5, 14
+  offset: 0, 0
+  index: -1
+head_ac_3
+  rotate: false
+  xy: 149, 66
+  size: 64, 80
+  orig: 64, 80
+  offset: 0, 0
+  index: -1
+left_arm
+  rotate: false
+  xy: 2, 38
+  size: 82, 212
+  orig: 82, 212
+  offset: 0, 0
+  index: -1
+right_arm
+  rotate: true
+  xy: 2, 2
+  size: 34, 106
+  orig: 34, 106
+  offset: 0, 0
+  index: -1

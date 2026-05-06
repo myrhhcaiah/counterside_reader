@@ -1,0 +1,181 @@
+
+EMOTICON_CONTEST_1_5.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_arm
+  rotate: false
+  xy: 2, 6
+  size: 22, 37
+  orig: 22, 37
+  offset: 0, 0
+  index: -1
+L_arm_2
+  rotate: true
+  xy: 215, 18
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: -1
+L_ear
+  rotate: true
+  xy: 91, 82
+  size: 51, 45
+  orig: 51, 45
+  offset: 0, 0
+  index: -1
+L_eyebrow
+  rotate: true
+  xy: 243, 160
+  size: 31, 8
+  orig: 31, 8
+  offset: 0, 0
+  index: -1
+L_hand_1
+  rotate: true
+  xy: 223, 229
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+L_hand_2
+  rotate: true
+  xy: 49, 15
+  size: 18, 31
+  orig: 18, 31
+  offset: 0, 0
+  index: -1
+R_arm_1
+  rotate: false
+  xy: 43, 35
+  size: 22, 42
+  orig: 22, 42
+  offset: 0, 0
+  index: -1
+R_arm_2
+  rotate: false
+  xy: 2, 45
+  size: 39, 32
+  orig: 39, 32
+  offset: 0, 0
+  index: -1
+R_ear
+  rotate: true
+  xy: 137, 20
+  size: 50, 52
+  orig: 50, 52
+  offset: 0, 0
+  index: -1
+R_eyebrow
+  rotate: true
+  xy: 243, 193
+  size: 34, 8
+  orig: 34, 8
+  offset: 0, 0
+  index: -1
+R_hand_1
+  rotate: true
+  xy: 137, 2
+  size: 16, 27
+  orig: 16, 27
+  offset: 0, 0
+  index: -1
+R_hand_2
+  rotate: false
+  xy: 193, 6
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 79
+  size: 87, 54
+  orig: 87, 54
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 91, 9
+  size: 44, 71
+  orig: 44, 71
+  offset: 0, 0
+  index: -1
+fx_heart
+  rotate: false
+  xy: 213, 4
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+fx_light
+  rotate: false
+  xy: 26, 12
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: false
+  xy: 2, 135
+  size: 134, 119
+  orig: 134, 119
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: false
+  xy: 191, 27
+  size: 22, 43
+  orig: 22, 43
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: false
+  xy: 138, 72
+  size: 79, 81
+  orig: 79, 81
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 138, 155
+  size: 99, 83
+  orig: 99, 83
+  offset: 0, 0
+  index: -1
+head_blush
+  rotate: true
+  xy: 219, 63
+  size: 90, 31
+  orig: 90, 31
+  offset: 0, 0
+  index: -1
+mouth_1
+  rotate: true
+  xy: 248, 242
+  size: 12, 4
+  orig: 12, 4
+  offset: 0, 0
+  index: -1
+mouth_1_2
+  rotate: false
+  xy: 229, 8
+  size: 8, 8
+  orig: 8, 8
+  offset: 0, 0
+  index: -1
+mouth_2
+  rotate: false
+  xy: 166, 2
+  size: 25, 16
+  orig: 25, 16
+  offset: 0, 0
+  index: -1
+tail_2
+  rotate: false
+  xy: 223, 157
+  size: 18, 70
+  orig: 18, 70
+  offset: 0, 0
+  index: -1

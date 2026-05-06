@@ -1,0 +1,160 @@
+
+EMOTICON_C_DELTA_JAKE_SKILL.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 95, 7
+  size: 50, 53
+  orig: 50, 53
+  offset: 0, 0
+  index: -1
+body_front
+  rotate: true
+  xy: 196, 102
+  size: 26, 46
+  orig: 26, 46
+  offset: 0, 0
+  index: -1
+body_left_arm
+  rotate: false
+  xy: 212, 130
+  size: 23, 52
+  orig: 23, 52
+  offset: 0, 0
+  index: -1
+body_left_hand
+  rotate: true
+  xy: 221, 25
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+body_right_arm
+  rotate: false
+  xy: 195, 43
+  size: 24, 51
+  orig: 24, 51
+  offset: 0, 0
+  index: -1
+body_right_hand
+  rotate: false
+  xy: 221, 74
+  size: 20, 26
+  orig: 20, 26
+  offset: 0, 0
+  index: -1
+box
+  rotate: true
+  xy: 131, 133
+  size: 49, 79
+  orig: 49, 79
+  offset: 0, 0
+  index: -1
+end_pose
+  rotate: false
+  xy: 2, 2
+  size: 63, 76
+  orig: 63, 76
+  offset: 0, 0
+  index: -1
+face_a
+  rotate: false
+  xy: 129, 96
+  size: 65, 35
+  orig: 65, 35
+  offset: 0, 0
+  index: -1
+face_b
+  rotate: false
+  xy: 129, 62
+  size: 64, 32
+  orig: 64, 32
+  offset: 0, 0
+  index: -1
+front_hair
+  rotate: false
+  xy: 2, 80
+  size: 96, 65
+  orig: 96, 65
+  offset: 0, 0
+  index: -1
+fx_body_left_arm_light
+  rotate: false
+  xy: 221, 48
+  size: 18, 24
+  orig: 18, 24
+  offset: 0, 0
+  index: -1
+fx_body_left_hand_light
+  rotate: false
+  xy: 221, 3
+  size: 21, 20
+  orig: 21, 20
+  offset: 0, 0
+  index: -1
+fx_body_light
+  rotate: false
+  xy: 195, 10
+  size: 24, 31
+  orig: 24, 31
+  offset: 0, 0
+  index: -1
+fx_circle
+  rotate: false
+  xy: 241, 59
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+fx_front_hair_light
+  rotate: false
+  xy: 131, 184
+  size: 96, 65
+  orig: 96, 65
+  offset: 0, 0
+  index: -1
+fx_glasses_light
+  rotate: true
+  xy: 229, 187
+  size: 62, 23
+  orig: 62, 23
+  offset: 0, 0
+  index: -1
+fx_head_light
+  rotate: true
+  xy: 147, 8
+  size: 52, 46
+  orig: 52, 46
+  offset: 0, 0
+  index: -1
+fx_light
+  rotate: false
+  xy: 100, 62
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+fx_lightning
+  rotate: false
+  xy: 100, 87
+  size: 27, 58
+  orig: 27, 58
+  offset: 0, 0
+  index: -1
+glasses
+  rotate: true
+  xy: 67, 2
+  size: 76, 26
+  orig: 76, 26
+  offset: 0, 0
+  index: -1
+haed
+  rotate: false
+  xy: 2, 147
+  size: 127, 102
+  orig: 127, 102
+  offset: 0, 0
+  index: -1

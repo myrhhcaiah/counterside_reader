@@ -1,0 +1,97 @@
+
+EMOTICON_C_YG_HOJIN_START.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 201, 4
+  size: 53, 61
+  orig: 53, 61
+  offset: 0, 0
+  index: -1
+body_left_arm
+  rotate: false
+  xy: 216, 127
+  size: 24, 59
+  orig: 24, 59
+  offset: 0, 0
+  index: -1
+body_right_arm
+  rotate: false
+  xy: 216, 188
+  size: 23, 63
+  orig: 23, 63
+  offset: 0, 0
+  index: -1
+box
+  rotate: true
+  xy: 120, 67
+  size: 56, 90
+  orig: 56, 90
+  offset: 0, 0
+  index: -1
+face_a
+  rotate: false
+  xy: 120, 13
+  size: 79, 52
+  orig: 79, 52
+  offset: 0, 0
+  index: -1
+face_b
+  rotate: false
+  xy: 2, 2
+  size: 83, 31
+  orig: 83, 31
+  offset: 0, 0
+  index: -1
+face_c
+  rotate: true
+  xy: 115, 20
+  size: 13, 3
+  orig: 13, 3
+  offset: 0, 0
+  index: -1
+fx_light
+  rotate: false
+  xy: 212, 97
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+fx_sweat
+  rotate: false
+  xy: 240, 108
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+fx_v
+  rotate: false
+  xy: 87, 6
+  size: 26, 27
+  orig: 26, 27
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: false
+  xy: 120, 125
+  size: 94, 126
+  orig: 94, 126
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: false
+  xy: 2, 35
+  size: 116, 106
+  orig: 116, 106
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 143
+  size: 116, 108
+  orig: 116, 108
+  offset: 0, 0
+  index: -1

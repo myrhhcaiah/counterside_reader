@@ -1,0 +1,125 @@
+
+EMOTICON_CLB_003_2.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Head
+  rotate: false
+  xy: 145, 192
+  size: 80, 62
+  orig: 80, 62
+  offset: 0, 0
+  index: -1
+Right_Arm
+  rotate: false
+  xy: 163, 2
+  size: 24, 47
+  orig: 24, 47
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 106, 66
+  size: 55, 64
+  orig: 55, 64
+  offset: 0, 0
+  index: -1
+body_ac
+  rotate: true
+  xy: 219, 92
+  size: 47, 23
+  orig: 47, 23
+  offset: 0, 0
+  index: -1
+box
+  rotate: true
+  xy: 145, 141
+  size: 49, 79
+  orig: 49, 79
+  offset: 0, 0
+  index: -1
+face_a
+  rotate: true
+  xy: 227, 206
+  size: 48, 24
+  orig: 48, 24
+  offset: 0, 0
+  index: -1
+face_b
+  rotate: false
+  xy: 64, 2
+  size: 59, 20
+  orig: 59, 20
+  offset: 0, 0
+  index: -1
+fx_laugh
+  rotate: false
+  xy: 125, 6
+  size: 28, 16
+  orig: 28, 16
+  offset: 0, 0
+  index: -1
+fx_light
+  rotate: false
+  xy: 231, 67
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+fx_v
+  rotate: false
+  xy: 205, 66
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+hair_ac
+  rotate: false
+  xy: 106, 24
+  size: 55, 40
+  orig: 55, 40
+  offset: 0, 0
+  index: -1
+hair_ac2
+  rotate: false
+  xy: 163, 51
+  size: 40, 39
+  orig: 40, 39
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: false
+  xy: 2, 132
+  size: 141, 122
+  orig: 141, 122
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: false
+  xy: 2, 34
+  size: 102, 96
+  orig: 102, 96
+  offset: 0, 0
+  index: -1
+left_arm
+  rotate: false
+  xy: 189, 2
+  size: 24, 47
+  orig: 24, 47
+  offset: 0, 0
+  index: -1
+weapon_1
+  rotate: true
+  xy: 2, 2
+  size: 30, 60
+  orig: 30, 60
+  offset: 0, 0
+  index: -1
+weapon_r
+  rotate: false
+  xy: 163, 92
+  size: 54, 47
+  orig: 54, 47
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,104 @@
+
+EMOTICON_NPC_OPERATOR_LENA_CLAP.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_left
+  rotate: false
+  xy: 221, 110
+  size: 20, 50
+  orig: 20, 50
+  offset: 0, 0
+  index: -1
+arm_left_clap_1
+  rotate: true
+  xy: 230, 174
+  size: 25, 21
+  orig: 25, 21
+  offset: 0, 0
+  index: -1
+arm_left_clap_2
+  rotate: false
+  xy: 218, 55
+  size: 17, 26
+  orig: 17, 26
+  offset: 0, 0
+  index: -1
+arm_right
+  rotate: false
+  xy: 230, 201
+  size: 20, 53
+  orig: 20, 53
+  offset: 0, 0
+  index: -1
+arm_right_clap_1
+  rotate: true
+  xy: 221, 83
+  size: 25, 23
+  orig: 25, 23
+  offset: 0, 0
+  index: -1
+arm_right_clap_2
+  rotate: true
+  xy: 2, 2
+  size: 13, 28
+  orig: 13, 28
+  offset: 0, 0
+  index: -1
+body
+  rotate: true
+  xy: 106, 15
+  size: 46, 65
+  orig: 46, 65
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 172, 84
+  size: 47, 76
+  orig: 47, 76
+  offset: 0, 0
+  index: -1
+face_clap
+  rotate: true
+  xy: 173, 14
+  size: 68, 43
+  orig: 68, 43
+  offset: 0, 0
+  index: -1
+fx_clap
+  rotate: true
+  xy: 218, 30
+  size: 23, 16
+  orig: 23, 16
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: false
+  xy: 2, 146
+  size: 126, 108
+  orig: 126, 108
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: true
+  xy: 2, 17
+  size: 127, 102
+  orig: 127, 102
+  offset: 0, 0
+  index: -1
+hair_right_side
+  rotate: true
+  xy: 106, 63
+  size: 81, 64
+  orig: 81, 64
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 130, 162
+  size: 98, 92
+  orig: 98, 92
+  offset: 0, 0
+  index: -1

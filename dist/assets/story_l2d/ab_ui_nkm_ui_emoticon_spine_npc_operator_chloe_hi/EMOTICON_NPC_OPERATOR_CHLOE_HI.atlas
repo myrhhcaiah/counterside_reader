@@ -1,0 +1,104 @@
+
+EMOTICON_NPC_OPERATOR_CHLOE_HI.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 154, 49
+  size: 52, 67
+  orig: 52, 67
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 104, 39
+  size: 48, 78
+  orig: 48, 78
+  offset: 0, 0
+  index: -1
+face_hi
+  rotate: true
+  xy: 208, 43
+  size: 73, 39
+  orig: 73, 39
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: false
+  xy: 2, 131
+  size: 122, 123
+  orig: 122, 123
+  offset: 0, 0
+  index: -1
+hair_left_side_1
+  rotate: true
+  xy: 2, 15
+  size: 18, 64
+  orig: 18, 64
+  offset: 0, 0
+  index: -1
+hair_left_side_2
+  rotate: false
+  xy: 182, 118
+  size: 50, 136
+  orig: 50, 136
+  offset: 0, 0
+  index: -1
+hair_right_side
+  rotate: false
+  xy: 126, 119
+  size: 54, 135
+  orig: 54, 135
+  offset: 0, 0
+  index: -1
+hand_a
+  rotate: true
+  xy: 88, 2
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+hand_e
+  rotate: true
+  xy: 234, 206
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 35
+  size: 100, 94
+  orig: 100, 94
+  offset: 0, 0
+  index: -1
+left_arm_1
+  rotate: true
+  xy: 154, 26
+  size: 21, 51
+  orig: 21, 51
+  offset: 0, 0
+  index: -1
+left_arm_2_a
+  rotate: false
+  xy: 234, 222
+  size: 19, 32
+  orig: 19, 32
+  offset: 0, 0
+  index: -1
+right_arm_1
+  rotate: true
+  xy: 115, 3
+  size: 21, 54
+  orig: 21, 54
+  offset: 0, 0
+  index: -1
+right_arm_2_a
+  rotate: false
+  xy: 68, 2
+  size: 18, 31
+  orig: 18, 31
+  offset: 0, 0
+  index: -1

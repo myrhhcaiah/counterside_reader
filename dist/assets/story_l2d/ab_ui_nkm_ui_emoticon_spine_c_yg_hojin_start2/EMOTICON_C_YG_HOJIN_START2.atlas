@@ -1,0 +1,195 @@
+
+EMOTICON_C_YG_HOJIN_START2.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 77, 28
+  size: 46, 48
+  orig: 46, 48
+  offset: 0, 0
+  index: -1
+body_left_arm
+  rotate: false
+  xy: 235, 200
+  size: 19, 54
+  orig: 19, 54
+  offset: 0, 0
+  index: -1
+body_right_arm_hand_1
+  rotate: true
+  xy: 59, 12
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+body_right_arm_hand_2
+  rotate: false
+  xy: 77, 4
+  size: 22, 22
+  orig: 22, 22
+  offset: 0, 0
+  index: -1
+body_right_arm_hand_3
+  rotate: false
+  xy: 127, 17
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+body_right_arm_under_1
+  rotate: true
+  xy: 210, 118
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+body_right_arm_under_2
+  rotate: true
+  xy: 232, 116
+  size: 27, 22
+  orig: 27, 22
+  offset: 0, 0
+  index: -1
+body_right_arm_upper_1
+  rotate: false
+  xy: 191, 102
+  size: 17, 34
+  orig: 17, 34
+  offset: 0, 0
+  index: -1
+box
+  rotate: true
+  xy: 2, 29
+  size: 45, 73
+  orig: 45, 73
+  offset: 0, 0
+  index: -1
+face_a
+  rotate: false
+  xy: 105, 136
+  size: 61, 52
+  orig: 61, 52
+  offset: 0, 0
+  index: -1
+face_b
+  rotate: false
+  xy: 102, 88
+  size: 61, 46
+  orig: 61, 46
+  offset: 0, 0
+  index: -1
+face_brow_a
+  rotate: true
+  xy: 165, 77
+  size: 57, 6
+  orig: 57, 6
+  offset: 0, 0
+  index: -1
+face_cheek
+  rotate: true
+  xy: 220, 142
+  size: 51, 10
+  orig: 51, 10
+  offset: 0, 0
+  index: -1
+face_eyeball
+  rotate: true
+  xy: 173, 90
+  size: 46, 16
+  orig: 46, 16
+  offset: 0, 0
+  index: -1
+face_inbrow
+  rotate: false
+  xy: 102, 76
+  size: 61, 10
+  orig: 61, 10
+  offset: 0, 0
+  index: -1
+face_inner
+  rotate: true
+  xy: 213, 195
+  size: 59, 20
+  orig: 59, 20
+  offset: 0, 0
+  index: -1
+face_mouth_a
+  rotate: false
+  xy: 173, 81
+  size: 9, 7
+  orig: 9, 7
+  offset: 0, 0
+  index: -1
+face_mouth_b
+  rotate: false
+  xy: 210, 104
+  size: 17, 12
+  orig: 17, 12
+  offset: 0, 0
+  index: -1
+face_mouth_c
+  rotate: true
+  xy: 124, 2
+  size: 13, 9
+  orig: 13, 9
+  offset: 0, 0
+  index: -1
+fx_effect
+  rotate: false
+  xy: 168, 138
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+fx_light
+  rotate: false
+  xy: 101, 5
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+fx_star
+  rotate: false
+  xy: 127, 42
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+fx_sweetpotato
+  rotate: false
+  xy: 2, 2
+  size: 55, 25
+  orig: 55, 25
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: true
+  xy: 105, 190
+  size: 64, 106
+  orig: 64, 106
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: false
+  xy: 2, 76
+  size: 98, 78
+  orig: 98, 78
+  offset: 0, 0
+  index: -1
+hair_left_side
+  rotate: false
+  xy: 235, 145
+  size: 19, 53
+  orig: 19, 53
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 156
+  size: 101, 98
+  orig: 101, 98
+  offset: 0, 0
+  index: -1

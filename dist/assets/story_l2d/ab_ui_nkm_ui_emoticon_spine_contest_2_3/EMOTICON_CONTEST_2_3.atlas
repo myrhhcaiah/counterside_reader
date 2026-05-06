@@ -1,0 +1,153 @@
+
+EMOTICON_CONTEST_2_3.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+back
+  rotate: true
+  xy: 2, 2
+  size: 39, 69
+  orig: 39, 69
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 166, 47
+  size: 59, 50
+  orig: 59, 50
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 79, 46
+  size: 48, 78
+  orig: 48, 78
+  offset: 0, 0
+  index: -1
+eye
+  rotate: true
+  xy: 224, 100
+  size: 25, 17
+  orig: 25, 17
+  offset: 0, 0
+  index: -1
+eye_close
+  rotate: true
+  xy: 227, 75
+  size: 23, 7
+  orig: 23, 7
+  offset: 0, 0
+  index: -1
+eyebrow
+  rotate: true
+  xy: 227, 54
+  size: 19, 7
+  orig: 19, 7
+  offset: 0, 0
+  index: -1
+fx_light
+  rotate: false
+  xy: 224, 127
+  size: 23, 23
+  orig: 23, 23
+  offset: 0, 0
+  index: -1
+fx_rain_1
+  rotate: true
+  xy: 236, 86
+  size: 12, 6
+  orig: 12, 6
+  offset: 0, 0
+  index: -1
+fx_rain_2
+  rotate: true
+  xy: 250, 240
+  size: 14, 4
+  orig: 14, 4
+  offset: 0, 0
+  index: -1
+fx_rain_3
+  rotate: true
+  xy: 250, 224
+  size: 14, 3
+  orig: 14, 3
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: false
+  xy: 2, 43
+  size: 75, 81
+  orig: 75, 81
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: false
+  xy: 104, 6
+  size: 49, 38
+  orig: 49, 38
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: false
+  xy: 227, 202
+  size: 21, 52
+  orig: 21, 52
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: false
+  xy: 227, 152
+  size: 22, 48
+  orig: 22, 48
+  offset: 0, 0
+  index: -1
+hair_5
+  rotate: false
+  xy: 166, 164
+  size: 59, 90
+  orig: 59, 90
+  offset: 0, 0
+  index: -1
+hair_6
+  rotate: true
+  xy: 155, 4
+  size: 40, 32
+  orig: 40, 32
+  offset: 0, 0
+  index: -1
+hair_ac_1
+  rotate: true
+  xy: 189, 5
+  size: 40, 35
+  orig: 40, 35
+  offset: 0, 0
+  index: -1
+hair_ac_2
+  rotate: true
+  xy: 73, 2
+  size: 39, 29
+  orig: 39, 29
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 166, 99
+  size: 63, 56
+  orig: 63, 56
+  offset: 0, 0
+  index: -1
+ribbon
+  rotate: true
+  xy: 129, 46
+  size: 78, 35
+  orig: 78, 35
+  offset: 0, 0
+  index: -1
+umbrella
+  rotate: false
+  xy: 2, 126
+  size: 162, 128
+  orig: 162, 128
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,174 @@
+
+EMOTICON_NPC_OPERATOR_CHLOE_ANGER.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 148, 87
+  size: 50, 64
+  orig: 50, 64
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 100, 60
+  size: 46, 74
+  orig: 46, 74
+  offset: 0, 0
+  index: -1
+face_anger_1
+  rotate: false
+  xy: 2, 2
+  size: 66, 40
+  orig: 66, 40
+  offset: 0, 0
+  index: -1
+face_anger_2
+  rotate: true
+  xy: 200, 88
+  size: 63, 39
+  orig: 63, 39
+  offset: 0, 0
+  index: -1
+fx_anger_1
+  rotate: true
+  xy: 198, 2
+  size: 31, 12
+  orig: 31, 12
+  offset: 0, 0
+  index: -1
+fx_anger_2
+  rotate: true
+  xy: 241, 121
+  size: 30, 10
+  orig: 30, 10
+  offset: 0, 0
+  index: -1
+fx_anger_3
+  rotate: true
+  xy: 186, 2
+  size: 32, 10
+  orig: 32, 10
+  offset: 0, 0
+  index: -1
+fx_anger_4
+  rotate: true
+  xy: 146, 13
+  size: 21, 38
+  orig: 21, 38
+  offset: 0, 0
+  index: -1
+fx_anger_5
+  rotate: true
+  xy: 148, 55
+  size: 30, 47
+  orig: 30, 47
+  offset: 0, 0
+  index: -1
+fx_anger_6
+  rotate: false
+  xy: 70, 10
+  size: 30, 32
+  orig: 30, 32
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: false
+  xy: 2, 136
+  size: 117, 118
+  orig: 117, 118
+  offset: 0, 0
+  index: -1
+hair_left_side_1
+  rotate: true
+  xy: 146, 36
+  size: 17, 62
+  orig: 17, 62
+  offset: 0, 0
+  index: -1
+hair_left_side_2
+  rotate: true
+  xy: 121, 153
+  size: 48, 130
+  orig: 48, 130
+  offset: 0, 0
+  index: -1
+hair_right_side
+  rotate: true
+  xy: 121, 203
+  size: 51, 129
+  orig: 51, 129
+  offset: 0, 0
+  index: -1
+hand_f
+  rotate: false
+  xy: 240, 45
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+hand_h
+  rotate: false
+  xy: 240, 25
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+hand_i
+  rotate: false
+  xy: 237, 65
+  size: 17, 21
+  orig: 17, 21
+  offset: 0, 0
+  index: -1
+hand_j
+  rotate: false
+  xy: 212, 11
+  size: 16, 22
+  orig: 16, 22
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 44
+  size: 96, 90
+  orig: 96, 90
+  offset: 0, 0
+  index: -1
+left_arm_1
+  rotate: false
+  xy: 102, 9
+  size: 20, 49
+  orig: 20, 49
+  offset: 0, 0
+  index: -1
+left_arm_2_a
+  rotate: false
+  xy: 217, 55
+  size: 18, 31
+  orig: 18, 31
+  offset: 0, 0
+  index: -1
+right_arm_1
+  rotate: false
+  xy: 124, 6
+  size: 20, 52
+  orig: 20, 52
+  offset: 0, 0
+  index: -1
+right_arm_2_a
+  rotate: false
+  xy: 197, 55
+  size: 18, 30
+  orig: 18, 30
+  offset: 0, 0
+  index: -1
+right_arm_2_b
+  rotate: true
+  xy: 210, 35
+  size: 18, 28
+  orig: 18, 28
+  offset: 0, 0
+  index: -1

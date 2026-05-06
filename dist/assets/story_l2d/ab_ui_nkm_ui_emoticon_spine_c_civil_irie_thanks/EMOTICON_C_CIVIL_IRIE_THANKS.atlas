@@ -1,0 +1,139 @@
+
+EMOTICON_C_CIVIL_IRIE_THANKS.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 126, 33
+  size: 57, 57
+  orig: 57, 57
+  offset: 0, 0
+  index: -1
+body_front
+  rotate: true
+  xy: 166, 4
+  size: 27, 21
+  orig: 27, 21
+  offset: 0, 0
+  index: -1
+body_left_arm
+  rotate: true
+  xy: 94, 2
+  size: 22, 36
+  orig: 22, 36
+  offset: 0, 0
+  index: -1
+body_left_arm_UNDER_B
+  rotate: false
+  xy: 185, 54
+  size: 19, 24
+  orig: 19, 24
+  offset: 0, 0
+  index: -1
+body_right_arm
+  rotate: false
+  xy: 185, 80
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+body_right_arm_UNDER_B
+  rotate: false
+  xy: 132, 4
+  size: 32, 27
+  orig: 32, 27
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 202, 181
+  size: 43, 69
+  orig: 43, 69
+  offset: 0, 0
+  index: -1
+effect_1
+  rotate: false
+  xy: 185, 33
+  size: 23, 19
+  orig: 23, 19
+  offset: 0, 0
+  index: -1
+face_a_01_1
+  rotate: true
+  xy: 94, 26
+  size: 61, 30
+  orig: 61, 30
+  offset: 0, 0
+  index: -1
+face_a_01_4
+  rotate: false
+  xy: 182, 107
+  size: 43, 9
+  orig: 43, 9
+  offset: 0, 0
+  index: -1
+face_b_01_3
+  rotate: true
+  xy: 247, 236
+  size: 14, 7
+  orig: 14, 7
+  offset: 0, 0
+  index: -1
+face_b_02_1
+  rotate: false
+  xy: 116, 92
+  size: 64, 34
+  orig: 64, 34
+  offset: 0, 0
+  index: -1
+fx_light
+  rotate: false
+  xy: 189, 11
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+hair_back_1
+  rotate: false
+  xy: 2, 89
+  size: 55, 161
+  orig: 55, 161
+  offset: 0, 0
+  index: -1
+hair_back_2
+  rotate: false
+  xy: 59, 89
+  size: 55, 161
+  orig: 55, 161
+  offset: 0, 0
+  index: -1
+hair_back_3
+  rotate: true
+  xy: 116, 128
+  size: 37, 78
+  orig: 37, 78
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: false
+  xy: 116, 167
+  size: 84, 83
+  orig: 84, 83
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 3
+  size: 90, 84
+  orig: 90, 84
+  offset: 0, 0
+  index: -1
+item_thank_1
+  rotate: true
+  xy: 202, 118
+  size: 61, 50
+  orig: 61, 50
+  offset: 0, 0
+  index: -1

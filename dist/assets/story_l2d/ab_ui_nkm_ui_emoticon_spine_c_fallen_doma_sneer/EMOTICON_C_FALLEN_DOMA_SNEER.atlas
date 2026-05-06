@@ -1,0 +1,83 @@
+
+EMOTICON_C_FALLEN_DOMA_SNEER.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 189, 100
+  size: 52, 64
+  orig: 52, 64
+  offset: 0, 0
+  index: -1
+body_left_arm
+  rotate: true
+  xy: 189, 3
+  size: 22, 60
+  orig: 22, 60
+  offset: 0, 0
+  index: -1
+body_right_arm
+  rotate: true
+  xy: 124, 2
+  size: 22, 63
+  orig: 22, 63
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 71, 17
+  size: 51, 83
+  orig: 51, 83
+  offset: 0, 0
+  index: -1
+face_a
+  rotate: true
+  xy: 178, 27
+  size: 71, 39
+  orig: 71, 39
+  offset: 0, 0
+  index: -1
+face_a_mouth
+  rotate: false
+  xy: 71, 2
+  size: 25, 13
+  orig: 25, 13
+  offset: 0, 0
+  index: -1
+face_b
+  rotate: true
+  xy: 124, 26
+  size: 74, 52
+  orig: 74, 52
+  offset: 0, 0
+  index: -1
+fx_fire
+  rotate: true
+  xy: 2, 10
+  size: 90, 67
+  orig: 90, 67
+  offset: 0, 0
+  index: -1
+fx_light
+  rotate: false
+  xy: 219, 74
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: false
+  xy: 2, 102
+  size: 143, 152
+  orig: 143, 152
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 147, 154
+  size: 107, 100
+  orig: 107, 100
+  offset: 0, 0
+  index: -1

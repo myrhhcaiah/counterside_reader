@@ -1,0 +1,167 @@
+
+EMOTICON_C_CIVIL_IRIE_CONFUSE.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 198, 199
+  size: 55, 56
+  orig: 55, 56
+  offset: 0, 0
+  index: -1
+body_front
+  rotate: false
+  xy: 225, 177
+  size: 27, 20
+  orig: 27, 20
+  offset: 0, 0
+  index: -1
+body_left_arm
+  rotate: false
+  xy: 178, 55
+  size: 21, 36
+  orig: 21, 36
+  offset: 0, 0
+  index: -1
+body_left_arm_under
+  rotate: false
+  xy: 201, 59
+  size: 21, 32
+  orig: 21, 32
+  offset: 0, 0
+  index: -1
+body_right_arm
+  rotate: true
+  xy: 198, 173
+  size: 24, 25
+  orig: 24, 25
+  offset: 0, 0
+  index: -1
+body_right_arm_UNDER_A
+  rotate: false
+  xy: 224, 67
+  size: 18, 26
+  orig: 18, 26
+  offset: 0, 0
+  index: -1
+box
+  rotate: true
+  xy: 186, 129
+  size: 42, 68
+  orig: 42, 68
+  offset: 0, 0
+  index: -1
+effect_2
+  rotate: false
+  xy: 232, 95
+  size: 22, 32
+  orig: 22, 32
+  offset: 0, 0
+  index: -1
+face_a_01_4
+  rotate: false
+  xy: 2, 2
+  size: 42, 9
+  orig: 42, 9
+  offset: 0, 0
+  index: -1
+face_c_1
+  rotate: false
+  xy: 186, 111
+  size: 44, 16
+  orig: 44, 16
+  offset: 0, 0
+  index: -1
+face_c_1_WHEEL
+  rotate: false
+  xy: 178, 93
+  size: 43, 16
+  orig: 43, 16
+  offset: 0, 0
+  index: -1
+face_c_2
+  rotate: true
+  xy: 244, 82
+  size: 11, 10
+  orig: 11, 10
+  offset: 0, 0
+  index: -1
+face_c_3
+  rotate: false
+  xy: 130, 15
+  size: 62, 35
+  orig: 62, 35
+  offset: 0, 0
+  index: -1
+fx_light
+  rotate: false
+  xy: 224, 45
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+hair_back_1
+  rotate: false
+  xy: 2, 97
+  size: 54, 157
+  orig: 54, 157
+  offset: 0, 0
+  index: -1
+hair_back_2
+  rotate: false
+  xy: 58, 97
+  size: 54, 157
+  orig: 54, 157
+  offset: 0, 0
+  index: -1
+hair_back_3
+  rotate: false
+  xy: 92, 19
+  size: 36, 76
+  orig: 36, 76
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: false
+  xy: 114, 173
+  size: 82, 81
+  orig: 82, 81
+  offset: 0, 0
+  index: -1
+hair_serious_01
+  rotate: true
+  xy: 130, 52
+  size: 63, 46
+  orig: 63, 46
+  offset: 0, 0
+  index: -1
+hair_serious_02
+  rotate: false
+  xy: 114, 117
+  size: 70, 54
+  orig: 70, 54
+  offset: 0, 0
+  index: -1
+hand_l
+  rotate: false
+  xy: 114, 97
+  size: 14, 18
+  orig: 14, 18
+  offset: 0, 0
+  index: -1
+hand_r
+  rotate: true
+  xy: 92, 3
+  size: 14, 19
+  orig: 14, 19
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 13
+  size: 88, 82
+  orig: 88, 82
+  offset: 0, 0
+  index: -1

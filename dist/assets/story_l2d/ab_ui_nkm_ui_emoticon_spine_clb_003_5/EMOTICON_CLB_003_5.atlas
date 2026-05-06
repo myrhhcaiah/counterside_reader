@@ -1,0 +1,139 @@
+
+EMOTICON_CLB_003_5.png
+size: 512,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Head
+  rotate: true
+  xy: 430, 159
+  size: 95, 73
+  orig: 95, 73
+  offset: 0, 0
+  index: -1
+Head_sha
+  rotate: false
+  xy: 168, 74
+  size: 95, 73
+  orig: 95, 73
+  offset: 0, 0
+  index: -1
+Right_Arm
+  rotate: false
+  xy: 458, 45
+  size: 32, 58
+  orig: 32, 58
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 328, 67
+  size: 67, 44
+  orig: 67, 44
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 268, 18
+  size: 58, 93
+  orig: 58, 93
+  offset: 0, 0
+  index: -1
+face_b
+  rotate: false
+  xy: 268, 2
+  size: 81, 14
+  orig: 81, 14
+  offset: 0, 0
+  index: -1
+face_eye
+  rotate: true
+  xy: 265, 139
+  size: 8, 22
+  orig: 8, 22
+  offset: 0, 0
+  index: -1
+face_mouth_a
+  rotate: false
+  xy: 492, 93
+  size: 13, 10
+  orig: 13, 10
+  offset: 0, 0
+  index: -1
+face_mouth_b
+  rotate: false
+  xy: 143, 111
+  size: 19, 8
+  orig: 19, 8
+  offset: 0, 0
+  index: -1
+fx_light
+  rotate: false
+  xy: 383, 38
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+fx_sword
+  rotate: true
+  xy: 328, 24
+  size: 41, 53
+  orig: 41, 53
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: false
+  xy: 2, 8
+  size: 139, 111
+  orig: 139, 111
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: false
+  xy: 168, 149
+  size: 119, 105
+  orig: 119, 105
+  offset: 0, 0
+  index: -1
+head_ac
+  rotate: false
+  xy: 289, 113
+  size: 134, 70
+  orig: 134, 70
+  offset: 0, 0
+  index: -1
+left_Arm
+  rotate: true
+  xy: 397, 68
+  size: 35, 59
+  orig: 35, 59
+  offset: 0, 0
+  index: -1
+m_arm_lower
+  rotate: true
+  xy: 143, 4
+  size: 68, 123
+  orig: 68, 123
+  offset: 0, 0
+  index: -1
+m_arm_upper
+  rotate: true
+  xy: 289, 185
+  size: 69, 139
+  orig: 69, 139
+  offset: 0, 0
+  index: -1
+m_body
+  rotate: false
+  xy: 2, 121
+  size: 164, 133
+  orig: 164, 133
+  offset: 0, 0
+  index: -1
+m_neck_ac
+  rotate: false
+  xy: 425, 105
+  size: 84, 52
+  orig: 84, 52
+  offset: 0, 0
+  index: -1

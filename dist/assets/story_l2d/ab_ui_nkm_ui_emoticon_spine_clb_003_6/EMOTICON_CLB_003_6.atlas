@@ -1,0 +1,174 @@
+
+EMOTICON_CLB_003_6.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: true
+  xy: 197, 15
+  size: 63, 51
+  orig: 63, 51
+  offset: 0, 0
+  index: -1
+box
+  rotate: true
+  xy: 2, 81
+  size: 53, 85
+  orig: 53, 85
+  offset: 0, 0
+  index: -1
+ear
+  rotate: true
+  xy: 50, 19
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+face_a
+  rotate: true
+  xy: 2, 12
+  size: 67, 46
+  orig: 67, 46
+  offset: 0, 0
+  index: -1
+face_b
+  rotate: true
+  xy: 119, 7
+  size: 58, 45
+  orig: 58, 45
+  offset: 0, 0
+  index: -1
+fx_dance
+  rotate: false
+  xy: 166, 50
+  size: 19, 15
+  orig: 19, 15
+  offset: 0, 0
+  index: -1
+fx_light
+  rotate: false
+  xy: 216, 80
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: false
+  xy: 123, 180
+  size: 96, 74
+  orig: 96, 74
+  offset: 0, 0
+  index: -1
+hair_2a
+  rotate: false
+  xy: 221, 170
+  size: 24, 43
+  orig: 24, 43
+  offset: 0, 0
+  index: -1
+hair_2b
+  rotate: false
+  xy: 50, 2
+  size: 26, 15
+  orig: 26, 15
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: false
+  xy: 50, 42
+  size: 37, 37
+  orig: 37, 37
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: false
+  xy: 2, 136
+  size: 119, 118
+  orig: 119, 118
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 123, 115
+  size: 94, 63
+  orig: 94, 63
+  offset: 0, 0
+  index: -1
+horn_1
+  rotate: false
+  xy: 221, 215
+  size: 33, 39
+  orig: 33, 39
+  offset: 0, 0
+  index: -1
+horn_2
+  rotate: true
+  xy: 219, 107
+  size: 29, 35
+  orig: 29, 35
+  offset: 0, 0
+  index: -1
+horn_3
+  rotate: true
+  xy: 166, 33
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+horn_4
+  rotate: false
+  xy: 166, 17
+  size: 15, 14
+  orig: 15, 14
+  offset: 0, 0
+  index: -1
+l_arm
+  rotate: false
+  xy: 89, 105
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
+l_leg
+  rotate: false
+  xy: 197, 80
+  size: 17, 33
+  orig: 17, 33
+  offset: 0, 0
+  index: -1
+r_arm
+  rotate: false
+  xy: 219, 138
+  size: 34, 30
+  orig: 34, 30
+  offset: 0, 0
+  index: -1
+r_leg
+  rotate: false
+  xy: 89, 10
+  size: 17, 33
+  orig: 17, 33
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 121, 67
+  size: 74, 46
+  orig: 74, 46
+  offset: 0, 0
+  index: -1
+wing
+  rotate: false
+  xy: 89, 75
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1
+wing2
+  rotate: false
+  xy: 89, 45
+  size: 28, 28
+  orig: 28, 28
+  offset: 0, 0
+  index: -1

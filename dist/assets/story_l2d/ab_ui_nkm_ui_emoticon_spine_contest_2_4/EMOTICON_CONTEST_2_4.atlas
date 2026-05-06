@@ -1,0 +1,209 @@
+
+EMOTICON_CONTEST_2_4.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arm_1
+  rotate: true
+  xy: 179, 75
+  size: 49, 46
+  orig: 49, 46
+  offset: 0, 0
+  index: -1
+arm_2
+  rotate: true
+  xy: 163, 179
+  size: 25, 51
+  orig: 25, 51
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 89
+  size: 64, 78
+  orig: 64, 78
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 110, 170
+  size: 51, 83
+  orig: 51, 83
+  offset: 0, 0
+  index: -1
+eyebrow
+  rotate: false
+  xy: 184, 45
+  size: 38, 6
+  orig: 38, 6
+  offset: 0, 0
+  index: -1
+eyelash_1
+  rotate: false
+  xy: 2, 2
+  size: 62, 14
+  orig: 62, 14
+  offset: 0, 0
+  index: -1
+eyelash_2
+  rotate: true
+  xy: 59, 29
+  size: 58, 11
+  orig: 58, 11
+  offset: 0, 0
+  index: -1
+eyelash_3
+  rotate: true
+  xy: 241, 196
+  size: 57, 13
+  orig: 57, 13
+  offset: 0, 0
+  index: -1
+fx_light
+  rotate: false
+  xy: 224, 47
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: false
+  xy: 2, 169
+  size: 106, 84
+  orig: 106, 84
+  offset: 0, 0
+  index: -1
+hair_2
+  rotate: true
+  xy: 137, 46
+  size: 22, 45
+  orig: 22, 45
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: false
+  xy: 114, 56
+  size: 21, 42
+  orig: 21, 42
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: false
+  xy: 2, 18
+  size: 55, 69
+  orig: 55, 69
+  offset: 0, 0
+  index: -1
+hair_5
+  rotate: false
+  xy: 184, 53
+  size: 37, 20
+  orig: 37, 20
+  offset: 0, 0
+  index: -1
+hair_6
+  rotate: false
+  xy: 68, 100
+  size: 53, 67
+  orig: 53, 67
+  offset: 0, 0
+  index: -1
+hair_ac_1
+  rotate: false
+  xy: 72, 56
+  size: 40, 42
+  orig: 40, 42
+  offset: 0, 0
+  index: -1
+hair_ac_2
+  rotate: false
+  xy: 137, 70
+  size: 36, 33
+  orig: 36, 33
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 163, 206
+  size: 76, 47
+  orig: 76, 47
+  offset: 0, 0
+  index: -1
+heart_1
+  rotate: false
+  xy: 224, 22
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+heart_2
+  rotate: true
+  xy: 179, 126
+  size: 51, 48
+  orig: 51, 48
+  offset: 0, 0
+  index: -1
+leg_1
+  rotate: false
+  xy: 72, 31
+  size: 46, 23
+  orig: 46, 23
+  offset: 0, 0
+  index: -1
+leg_2
+  rotate: true
+  xy: 229, 148
+  size: 46, 25
+  orig: 46, 25
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: true
+  xy: 59, 18
+  size: 9, 11
+  orig: 9, 11
+  offset: 0, 0
+  index: -1
+mouth_1
+  rotate: false
+  xy: 120, 44
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+oil
+  rotate: false
+  xy: 123, 105
+  size: 54, 63
+  orig: 54, 63
+  offset: 0, 0
+  index: -1
+oil_sub
+  rotate: false
+  xy: 216, 180
+  size: 10, 24
+  orig: 10, 24
+  offset: 0, 0
+  index: -1
+pupil
+  rotate: false
+  xy: 72, 11
+  size: 49, 18
+  orig: 49, 18
+  offset: 0, 0
+  index: -1
+ribbon_1
+  rotate: true
+  xy: 229, 105
+  size: 41, 25
+  orig: 41, 25
+  offset: 0, 0
+  index: -1
+ribbon_2
+  rotate: true
+  xy: 227, 73
+  size: 30, 25
+  orig: 30, 25
+  offset: 0, 0
+  index: -1

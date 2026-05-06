@@ -1,0 +1,132 @@
+
+EMOTICON_C_DELTA_KYLE_AP_COFFEE.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 187, 67
+  size: 47, 62
+  orig: 47, 62
+  offset: 0, 0
+  index: -1
+body_left_arm
+  rotate: false
+  xy: 236, 145
+  size: 18, 47
+  orig: 18, 47
+  offset: 0, 0
+  index: -1
+body_right_arm
+  rotate: true
+  xy: 2, 5
+  size: 17, 51
+  orig: 17, 51
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 142, 60
+  size: 43, 69
+  orig: 43, 69
+  offset: 0, 0
+  index: -1
+face_a
+  rotate: false
+  xy: 142, 27
+  size: 61, 31
+  orig: 61, 31
+  offset: 0, 0
+  index: -1
+face_b
+  rotate: true
+  xy: 219, 194
+  size: 60, 35
+  orig: 60, 35
+  offset: 0, 0
+  index: -1
+fx_coffee_line
+  rotate: false
+  xy: 199, 153
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+fx_hotsteam
+  rotate: false
+  xy: 119, 8
+  size: 21, 21
+  orig: 21, 21
+  offset: 0, 0
+  index: -1
+fx_light
+  rotate: false
+  xy: 199, 131
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+fx_sigh
+  rotate: false
+  xy: 55, 2
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+hair
+  rotate: false
+  xy: 116, 179
+  size: 101, 75
+  orig: 101, 75
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: false
+  xy: 2, 111
+  size: 112, 143
+  orig: 112, 143
+  offset: 0, 0
+  index: -1
+hair_back_2
+  rotate: true
+  xy: 116, 131
+  size: 46, 81
+  orig: 46, 81
+  offset: 0, 0
+  index: -1
+hair_left_side
+  rotate: false
+  xy: 96, 11
+  size: 21, 98
+  orig: 21, 98
+  offset: 0, 0
+  index: -1
+hair_right_side
+  rotate: false
+  xy: 119, 31
+  size: 21, 98
+  orig: 21, 98
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 2, 24
+  size: 92, 85
+  orig: 92, 85
+  offset: 0, 0
+  index: -1
+ob_cup
+  rotate: true
+  xy: 219, 167
+  size: 25, 15
+  orig: 25, 15
+  offset: 0, 0
+  index: -1
+ob_port
+  rotate: false
+  xy: 205, 23
+  size: 39, 42
+  orig: 39, 42
+  offset: 0, 0
+  index: -1

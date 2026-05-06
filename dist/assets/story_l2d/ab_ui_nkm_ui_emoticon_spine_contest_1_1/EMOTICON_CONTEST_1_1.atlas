@@ -1,0 +1,146 @@
+
+EMOTICON_CONTEST_1_1.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_hair_1
+  rotate: false
+  xy: 100, 113
+  size: 24, 70
+  orig: 24, 70
+  offset: 0, 0
+  index: -1
+L_hair_1_1
+  rotate: false
+  xy: 239, 138
+  size: 8, 26
+  orig: 8, 26
+  offset: 0, 0
+  index: -1
+R_hair
+  rotate: false
+  xy: 135, 13
+  size: 47, 148
+  orig: 47, 148
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 2, 185
+  size: 133, 69
+  orig: 133, 69
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 2, 2
+  size: 58, 93
+  orig: 58, 93
+  offset: 0, 0
+  index: -1
+cap
+  rotate: true
+  xy: 2, 97
+  size: 86, 96
+  orig: 86, 96
+  offset: 0, 0
+  index: -1
+cap_shadow
+  rotate: false
+  xy: 231, 90
+  size: 18, 18
+  orig: 18, 18
+  offset: 0, 0
+  index: -1
+fx_1
+  rotate: false
+  xy: 233, 187
+  size: 7, 67
+  orig: 7, 67
+  offset: 0, 0
+  index: -1
+fx_2
+  rotate: false
+  xy: 242, 202
+  size: 8, 52
+  orig: 8, 52
+  offset: 0, 0
+  index: -1
+fx_3
+  rotate: false
+  xy: 126, 162
+  size: 7, 21
+  orig: 7, 21
+  offset: 0, 0
+  index: -1
+fx_4
+  rotate: false
+  xy: 233, 138
+  size: 4, 47
+  orig: 4, 47
+  offset: 0, 0
+  index: -1
+fx_5
+  rotate: false
+  xy: 249, 136
+  size: 4, 28
+  orig: 4, 28
+  offset: 0, 0
+  index: -1
+fx_6
+  rotate: false
+  xy: 126, 144
+  size: 4, 16
+  orig: 4, 16
+  offset: 0, 0
+  index: -1
+fx_light
+  rotate: false
+  xy: 222, 16
+  size: 27, 27
+  orig: 27, 27
+  offset: 0, 0
+  index: -1
+fx_star
+  rotate: true
+  xy: 231, 110
+  size: 24, 23
+  orig: 24, 23
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: true
+  xy: 62, 17
+  size: 78, 58
+  orig: 78, 58
+  offset: 0, 0
+  index: -1
+hair_1_1
+  rotate: false
+  xy: 242, 166
+  size: 11, 34
+  orig: 11, 34
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: false
+  xy: 184, 45
+  size: 45, 116
+  orig: 45, 116
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 137, 163
+  size: 91, 94
+  orig: 91, 94
+  offset: 0, 0
+  index: -1
+head_parts
+  rotate: true
+  xy: 184, 5
+  size: 38, 36
+  orig: 38, 36
+  offset: 0, 0
+  index: -1

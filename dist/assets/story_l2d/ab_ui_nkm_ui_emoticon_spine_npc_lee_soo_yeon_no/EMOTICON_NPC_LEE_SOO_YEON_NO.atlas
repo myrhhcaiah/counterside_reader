@@ -1,0 +1,132 @@
+
+EMOTICON_NPC_LEE_SOO_YEON_NO.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 170, 176
+  size: 52, 78
+  orig: 52, 78
+  offset: 0, 0
+  index: -1
+body_left_arm
+  rotate: false
+  xy: 216, 62
+  size: 23, 57
+  orig: 23, 57
+  offset: 0, 0
+  index: -1
+body_left_front
+  rotate: false
+  xy: 224, 187
+  size: 30, 67
+  orig: 30, 67
+  offset: 0, 0
+  index: -1
+body_right_arm
+  rotate: true
+  xy: 81, 5
+  size: 22, 60
+  orig: 22, 60
+  offset: 0, 0
+  index: -1
+body_right_front
+  rotate: true
+  xy: 114, 121
+  size: 45, 72
+  orig: 45, 72
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 114, 168
+  size: 54, 86
+  orig: 54, 86
+  offset: 0, 0
+  index: -1
+face_a
+  rotate: false
+  xy: 188, 121
+  size: 46, 53
+  orig: 46, 53
+  offset: 0, 0
+  index: -1
+face_b
+  rotate: false
+  xy: 166, 78
+  size: 48, 41
+  orig: 48, 41
+  offset: 0, 0
+  index: -1
+face_c
+  rotate: true
+  xy: 108, 133
+  size: 7, 4
+  orig: 7, 4
+  offset: 0, 0
+  index: -1
+fx_face_blur
+  rotate: false
+  xy: 2, 4
+  size: 77, 23
+  orig: 77, 23
+  offset: 0, 0
+  index: -1
+fx_light
+  rotate: false
+  xy: 143, 2
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+fx_surprise
+  rotate: true
+  xy: 108, 29
+  size: 38, 55
+  orig: 38, 55
+  offset: 0, 0
+  index: -1
+fx_x
+  rotate: false
+  xy: 166, 33
+  size: 43, 43
+  orig: 43, 43
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: false
+  xy: 108, 69
+  size: 56, 50
+  orig: 56, 50
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: false
+  xy: 2, 142
+  size: 110, 112
+  orig: 110, 112
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 2, 29
+  size: 111, 104
+  orig: 111, 104
+  offset: 0, 0
+  index: -1
+head_ac_left
+  rotate: true
+  xy: 224, 176
+  size: 9, 29
+  orig: 9, 29
+  offset: 0, 0
+  index: -1
+head_ac_right
+  rotate: false
+  xy: 236, 148
+  size: 10, 26
+  orig: 10, 26
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,132 @@
+
+EMOTICON_CONTEST_3_3.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+body
+  rotate: false
+  xy: 113, 68
+  size: 55, 72
+  orig: 55, 72
+  offset: 0, 0
+  index: -1
+body_left_arm
+  rotate: true
+  xy: 223, 154
+  size: 35, 31
+  orig: 35, 31
+  offset: 0, 0
+  index: -1
+body_right_arm
+  rotate: true
+  xy: 95, 4
+  size: 58, 33
+  orig: 58, 33
+  offset: 0, 0
+  index: -1
+box
+  rotate: true
+  xy: 2, 5
+  size: 57, 91
+  orig: 57, 91
+  offset: 0, 0
+  index: -1
+effect_a
+  rotate: false
+  xy: 223, 95
+  size: 15, 29
+  orig: 15, 29
+  offset: 0, 0
+  index: -1
+effect_b
+  rotate: false
+  xy: 223, 74
+  size: 21, 19
+  orig: 21, 19
+  offset: 0, 0
+  index: -1
+effect_c
+  rotate: false
+  xy: 183, 10
+  size: 23, 36
+  orig: 23, 36
+  offset: 0, 0
+  index: -1
+face_a
+  rotate: true
+  xy: 170, 77
+  size: 63, 51
+  orig: 63, 51
+  offset: 0, 0
+  index: -1
+face_b
+  rotate: true
+  xy: 130, 8
+  size: 58, 51
+  orig: 58, 51
+  offset: 0, 0
+  index: -1
+face_cheek
+  rotate: true
+  xy: 208, 9
+  size: 37, 9
+  orig: 37, 9
+  offset: 0, 0
+  index: -1
+fx_light
+  rotate: false
+  xy: 223, 126
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+fx_surprise
+  rotate: false
+  xy: 210, 191
+  size: 44, 63
+  orig: 44, 63
+  offset: 0, 0
+  index: -1
+hair_back
+  rotate: false
+  xy: 2, 143
+  size: 125, 111
+  orig: 125, 111
+  offset: 0, 0
+  index: -1
+hair_front
+  rotate: false
+  xy: 2, 64
+  size: 109, 77
+  orig: 109, 77
+  offset: 0, 0
+  index: -1
+hair_point
+  rotate: false
+  xy: 183, 48
+  size: 36, 27
+  orig: 36, 27
+  offset: 0, 0
+  index: -1
+hair_right_side
+  rotate: true
+  xy: 129, 142
+  size: 29, 78
+  orig: 29, 78
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 129, 173
+  size: 79, 81
+  orig: 79, 81
+  offset: 0, 0
+  index: -1
+mouth
+  rotate: false
+  xy: 130, 2
+  size: 14, 4
+  orig: 14, 4
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,223 @@
+
+EMOTICON_CONTEST_3_5.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+a_1
+  rotate: false
+  xy: 179, 44
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+a_10
+  rotate: true
+  xy: 84, 3
+  size: 22, 50
+  orig: 22, 50
+  offset: 0, 0
+  index: -1
+a_11
+  rotate: false
+  xy: 212, 136
+  size: 42, 62
+  orig: 42, 62
+  offset: 0, 0
+  index: -1
+a_12
+  rotate: false
+  xy: 2, 195
+  size: 120, 58
+  orig: 120, 58
+  offset: 0, 0
+  index: -1
+a_2
+  rotate: false
+  xy: 2, 27
+  size: 75, 58
+  orig: 75, 58
+  offset: 0, 0
+  index: -1
+a_3
+  rotate: true
+  xy: 135, 29
+  size: 13, 46
+  orig: 13, 46
+  offset: 0, 0
+  index: -1
+a_4
+  rotate: true
+  xy: 206, 97
+  size: 15, 38
+  orig: 15, 38
+  offset: 0, 0
+  index: -1
+a_5
+  rotate: true
+  xy: 104, 173
+  size: 20, 14
+  orig: 20, 14
+  offset: 0, 0
+  index: -1
+a_6
+  rotate: true
+  xy: 79, 27
+  size: 58, 54
+  orig: 58, 54
+  offset: 0, 0
+  index: -1
+a_7
+  rotate: true
+  xy: 136, 7
+  size: 20, 40
+  orig: 20, 40
+  offset: 0, 0
+  index: -1
+a_8
+  rotate: true
+  xy: 206, 114
+  size: 20, 47
+  orig: 20, 47
+  offset: 0, 0
+  index: -1
+a_9
+  rotate: false
+  xy: 2, 10
+  size: 80, 15
+  orig: 80, 15
+  offset: 0, 0
+  index: -1
+b_1
+  rotate: false
+  xy: 104, 166
+  size: 101, 4
+  orig: 101, 4
+  offset: 0, 0
+  index: -1
+b_10
+  rotate: true
+  xy: 183, 20
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+b_11
+  rotate: false
+  xy: 135, 44
+  size: 42, 31
+  orig: 42, 31
+  offset: 0, 0
+  index: -1
+b_12
+  rotate: false
+  xy: 104, 106
+  size: 60, 58
+  orig: 60, 58
+  offset: 0, 0
+  index: -1
+b_2
+  rotate: false
+  xy: 195, 81
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+b_3
+  rotate: false
+  xy: 211, 42
+  size: 30, 16
+  orig: 30, 16
+  offset: 0, 0
+  index: -1
+b_4
+  rotate: false
+  xy: 210, 24
+  size: 30, 16
+  orig: 30, 16
+  offset: 0, 0
+  index: -1
+b_5
+  rotate: false
+  xy: 166, 106
+  size: 38, 58
+  orig: 38, 58
+  offset: 0, 0
+  index: -1
+b_6
+  rotate: true
+  xy: 178, 5
+  size: 13, 23
+  orig: 13, 23
+  offset: 0, 0
+  index: -1
+b_7
+  rotate: true
+  xy: 94, 89
+  size: 15, 19
+  orig: 15, 19
+  offset: 0, 0
+  index: -1
+b_8
+  rotate: false
+  xy: 135, 77
+  size: 58, 27
+  orig: 58, 27
+  offset: 0, 0
+  index: -1
+b_9
+  rotate: true
+  xy: 210, 2
+  size: 20, 24
+  orig: 20, 24
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 221, 200
+  size: 33, 53
+  orig: 33, 53
+  offset: 0, 0
+  index: -1
+fx_1
+  rotate: true
+  xy: 211, 60
+  size: 35, 29
+  orig: 35, 29
+  offset: 0, 0
+  index: -1
+fx_2
+  rotate: false
+  xy: 124, 172
+  size: 86, 27
+  orig: 86, 27
+  offset: 0, 0
+  index: -1
+fx_3
+  rotate: false
+  xy: 2, 87
+  size: 90, 54
+  orig: 90, 54
+  offset: 0, 0
+  index: -1
+fx_4
+  rotate: false
+  xy: 124, 201
+  size: 95, 52
+  orig: 95, 52
+  offset: 0, 0
+  index: -1
+fx_5
+  rotate: false
+  xy: 2, 143
+  size: 100, 50
+  orig: 100, 50
+  offset: 0, 0
+  index: -1
+fx_light
+  rotate: false
+  xy: 115, 94
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1

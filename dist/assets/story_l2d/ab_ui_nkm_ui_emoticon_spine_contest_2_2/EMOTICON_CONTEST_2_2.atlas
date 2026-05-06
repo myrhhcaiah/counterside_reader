@@ -1,0 +1,188 @@
+
+EMOTICON_CONTEST_2_2.png
+size: 256,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+L_eyebrow_1
+  rotate: true
+  xy: 250, 240
+  size: 14, 4
+  orig: 14, 4
+  offset: 0, 0
+  index: -1
+L_eyebrow_2
+  rotate: false
+  xy: 204, 2
+  size: 13, 6
+  orig: 13, 6
+  offset: 0, 0
+  index: -1
+R_eyebrow_1
+  rotate: true
+  xy: 250, 225
+  size: 13, 4
+  orig: 13, 4
+  offset: 0, 0
+  index: -1
+R_eyebrow_2
+  rotate: false
+  xy: 214, 53
+  size: 14, 5
+  orig: 14, 5
+  offset: 0, 0
+  index: -1
+arm_1
+  rotate: false
+  xy: 2, 34
+  size: 68, 64
+  orig: 68, 64
+  offset: 0, 0
+  index: -1
+arm_2
+  rotate: true
+  xy: 83, 2
+  size: 38, 72
+  orig: 38, 72
+  offset: 0, 0
+  index: -1
+arm_3
+  rotate: false
+  xy: 157, 3
+  size: 45, 37
+  orig: 45, 37
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 72, 42
+  size: 73, 56
+  orig: 73, 56
+  offset: 0, 0
+  index: -1
+box
+  rotate: false
+  xy: 208, 102
+  size: 42, 68
+  orig: 42, 68
+  offset: 0, 0
+  index: -1
+fx_down
+  rotate: false
+  xy: 192, 60
+  size: 36, 40
+  orig: 36, 40
+  offset: 0, 0
+  index: -1
+fx_light
+  rotate: false
+  xy: 153, 106
+  size: 20, 20
+  orig: 20, 20
+  offset: 0, 0
+  index: -1
+hair_1
+  rotate: false
+  xy: 2, 146
+  size: 151, 108
+  orig: 151, 108
+  offset: 0, 0
+  index: -1
+hair_3
+  rotate: false
+  xy: 2, 100
+  size: 123, 44
+  orig: 123, 44
+  offset: 0, 0
+  index: -1
+hair_4
+  rotate: false
+  xy: 208, 172
+  size: 40, 82
+  orig: 40, 82
+  offset: 0, 0
+  index: -1
+hair_ac
+  rotate: false
+  xy: 2, 2
+  size: 79, 30
+  orig: 79, 30
+  offset: 0, 0
+  index: -1
+hand_1
+  rotate: false
+  xy: 147, 42
+  size: 43, 56
+  orig: 43, 56
+  offset: 0, 0
+  index: -1
+hand_2
+  rotate: false
+  xy: 230, 52
+  size: 23, 48
+  orig: 23, 48
+  offset: 0, 0
+  index: -1
+hand_3
+  rotate: false
+  xy: 127, 100
+  size: 24, 44
+  orig: 24, 44
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 155, 152
+  size: 102, 51
+  orig: 102, 51
+  offset: 0, 0
+  index: -1
+lll_1
+  rotate: true
+  xy: 183, 135
+  size: 15, 23
+  orig: 15, 23
+  offset: 0, 0
+  index: -1
+lll_2
+  rotate: true
+  xy: 192, 42
+  size: 16, 20
+  orig: 16, 20
+  offset: 0, 0
+  index: -1
+lll_3
+  rotate: true
+  xy: 155, 128
+  size: 22, 26
+  orig: 22, 26
+  offset: 0, 0
+  index: -1
+mouth_1
+  rotate: true
+  xy: 250, 213
+  size: 10, 4
+  orig: 10, 4
+  offset: 0, 0
+  index: -1
+mouth_2
+  rotate: false
+  xy: 72, 37
+  size: 9, 3
+  orig: 9, 3
+  offset: 0, 0
+  index: -1
+mouth_3
+  rotate: false
+  xy: 153, 100
+  size: 6, 4
+  orig: 6, 4
+  offset: 0, 0
+  index: -1
+ribbon
+  rotate: true
+  xy: 204, 10
+  size: 30, 29
+  orig: 30, 29
+  offset: 0, 0
+  index: -1
