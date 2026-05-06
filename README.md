@@ -1,26 +1,36 @@
 # Counter:Side Story Reader
 This is a reader for the game Counter:Side. It runs in the web-browser, but because there's so many huge files, you need a webserver.  
 
-[04/29] UPDATE: There was a bug causing interrupted scenes. Please update to the latest version if you're having issues.  
-[04/29] 업데이트: 장면이 중간에 끊기는 버그가 있었습니다. 동일한 문제가 발생하시면 최신 버전으로 업데이트해 주세요.  
-[04/29] 修正：シーンが途中で途切れるバグを修正しました。同様の症状が出る場合は最新バージョンへアップデートしてください。  
-[04/29] 更新：曾有一個導致場景中斷的 Bug。若您遇到相同問題，請更新至最新版本。
-
 [Roadmap](./notes/ROADMAP.md) | [ロードマップ](./notes/ROADMAP.JP.md) | [로드맵](./notes/ROADMAP.KR.md) | [項目路線圖](./notes/ROADMAP.TW.md)
 
-<a href="browser.jpg">
-  <img src="browser.jpg" width="400" alt="Story Browser">
-</a><a href="reader.jpg">
-  <img src="reader.jpg" width="400" alt="Reader">
-</a><a href="viewer.jpg">
-  <img src="viewer.jpg" width="400" alt="Model Viewer">
+<a href="images/browser.webp">
+  <img src="images/browser.webp" width="400" alt="Story Browser">
+</a><a href="images/reader.webp">
+  <img src="images/reader.webp" width="400" alt="Reader">
+</a><a href="images/viewer.webp">
+  <img src="images/viewer.webp" width="400" alt="Model Viewer">
+</a>
+
+<a href="images/mobile_browser.webp">
+  <img src="images/mobile_browser.webp" height="400" alt="Story Browser">
+</a><a href="images/mobile_reader.webp">
+  <img src="images/mobile_reader.webp" height="400" alt="Reader">
+</a><a href="images/viewer.webp">
+  <img src="images/mobile_viewer.webp" height="400" alt="Model Viewer">
 </a>
 
 ## Installation
-First, download the folder by clicking **"Code"** -> **"Download ZIP"**.  
-먼저 **"Code"** -> **"Download ZIP"** 을 클릭하여 폴더를 다운로드하세요.  
-首先，點擊 **"Code"** -> **"Download ZIP"** 下載資料夾。  
-まず、**"Code"** -> **"Download ZIP"** をクリックしてフォルダをダウンロードしてください。 
+
+**Android** users can download an **APK(2.5gb)** from the link below.  
+**Android** 사용자는 아래 링크에서 **APK(2.5gb)를** 다운로드할 수 있습니다.  
+**Android** 用戶可以從下方連結下載 **APK(2.5gb)**.  
+**Android** ユーザーは、以下のリンクから **APK(2.5gb)** をダウンロードできます.  
+[![Android Download](https://img.shields.io/badge/Download-Android%20APK-brightgreen?logo=android&logoColor=white)](https://dl.myrhhcaiah.uk/app-debug.apk)
+
+For Windows, Linux, and Mac, download the folder by clicking **"Code"** -> **"Download ZIP"** and follow the instructions below.  
+Windows, Linux, Mac 사용자는 **"Code"** -> **"Download ZIP"** 을 클릭하여 폴더를 다운로드한 후 아래의 지침을 따르세요.  
+Windows、Linux 和 Mac 用戶，請點擊 **"Code"** -> **"Download ZIP"** 下載資料夾，並按照下方的說明進行操作。  
+Windows、Linux、Mac のユーザーは、**"Code"** -> **"Download ZIP"** をクリックしてフォルダをダウンロードし、以下の指示に従ってください。 
 
 ![Download the zip](download.png)
 
