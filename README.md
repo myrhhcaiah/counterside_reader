@@ -46,10 +46,10 @@ This is a reader for the game Counter:Side. It runs in the web-browser, served o
 
 ## Installation
 
-**Android** users can download an **APK(2.5gb)** from the link below.  
-**Android** 사용자는 아래 링크에서 **APK(2.5gb)를** 다운로드할 수 있습니다.  
-**Android** 用戶可以從下方連結下載 **APK(2.5gb)**.  
-**Android** ユーザーは、以下のリンクから **APK(2.5gb)** をダウンロードできます.  
+**Android** users can download an **APK(~4gb)** from the link below.  
+**Android** 사용자는 아래 링크에서 **APK(~4gb)를** 다운로드할 수 있습니다.  
+**Android** 用戶可以從下方連結下載 **APK(~4gb)**.  
+**Android** ユーザーは、以下のリンクから **APK(~4gb)** をダウンロードできます.  
 [![Android Download](https://img.shields.io/badge/Download-Android%20APK-brightgreen?logo=android&logoColor=white)](https://dl.myrhhcaiah.uk/app-debug.apk)
 
 For Windows, Linux, and Mac, download the folder by clicking **"Code"** -> **"Download ZIP"** and follow the instructions below.  
