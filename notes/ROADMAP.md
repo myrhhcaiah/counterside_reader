@@ -89,6 +89,18 @@ May 15, 2026
 - Fix: bug where show/hide storyLog loses story position
 - Fix: issue where moving to the next chapter scrolls through the next chapter before reaching the top.
 
+May 16, 2026
+- Fix: mobile/vertical UI.
+- Fix: revive EN MTL translations for untranslated stories.
+
+May 17, 2026
+- StoryLog: make the footer navigable via up/down arrow; "next" button can be activated via Enter key.
+- Add 'Visual Novel' mode for mobile; bottom of screen: click to advance one line at a time; top of screen: storyLog.
+
+May 18, 2026
+- StoryLog: separate "narration" vs "internal monologue" by making the latter grey.
+- StoryLog/VNMode: support scene changes that don't have text.
+- Fix obvious misattributed nametags in the original scripts
 
 ### Future
 You should think of the project being mostly done, with only bugfixes on the horizon.  
