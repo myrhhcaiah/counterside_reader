@@ -15,6 +15,12 @@ Initially, I thought of open-sourcing the project, but there are a lot of pretty
 For anyone who wants to mess with Counter:Side's innards, I have released the [.lua decryption script](https://gist.github.com/myrhhcaiah/ce200e7f88e60ef957e41335262b36fb).  
 
 ### Changelog
+July 11, 2026
+- Viewer: If there's only one skin, hide the "Skin:" label and the dropdown.
+- Viewer: In the "vertical" version, add << and >> buttons beside the "Characters" menu.
+- Viewer: In the "horizontal" fullscreen version, add << and >> buttons to the bottom bar.
+- WebM Export (Desktop Only): Reset the animation s.t. it records a clean loop.
+
 Jun 24, 2026
 - WebM Export (Desktop Only): Add quality options, scaling.
 - Fix: Bug where on older browsers character scaling will grow unbounded (!!!).
