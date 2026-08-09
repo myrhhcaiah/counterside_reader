@@ -15,6 +15,11 @@ Initially, I thought of open-sourcing the project, but there are a lot of pretty
 For anyone who wants to mess with Counter:Side's innards, I have released the [.lua decryption script](https://gist.github.com/myrhhcaiah/ce200e7f88e60ef957e41335262b36fb).  
 
 ### Changelog
+August 9, 2026
+- Reader: Fix an error that would drop expressions/holographic state early.
+- Reader: Fix an error causing characters to linger on screen.
+- Reader: Fix corrupted SFX/voice files.
+
 July 11, 2026
 - Viewer: If there's only one skin, hide the "Skin:" label and the dropdown.
 - Viewer: In the "vertical" version, add << and >> buttons beside the "Characters" menu.
